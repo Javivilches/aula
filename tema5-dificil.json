@@ -1,0 +1,347 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "5. Gestión de los procedimientos administrativos relativos a la formación y promoción de personal",
+  "test": "Test 2 — Nivel difícil",
+  "preguntas": [
+    {
+      "id": "RRHH-T5-D-01",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.1",
+      "pagina_manual": 73,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa prevé implantar una nueva tecnología dentro de un año y forma desde ahora a quienes deberán utilizarla. Meses después, detecta errores en un procedimiento actual y organiza otra formación. ¿Cómo se clasifican ambas actuaciones según el momento de detección de la necesidad?",
+      "opciones": {
+        "A": "La primera es una respuesta a un fallo detectado y la segunda una previsión integrada en la estrategia futura.",
+        "B": "La primera anticipa una necesidad formativa futura y la segunda responde a una necesidad ya identificada.",
+        "C": "Ambas son acciones reactivas porque toda formación empresarial responde a una carencia que ya se ha manifestado.",
+        "D": "Ambas son acciones anticipadas porque los dos cursos se imparten antes de evaluar sus resultados."
+      },
+      "correcta": "B",
+      "explicacion": "El manual distingue entre planificar antes de que exista la necesidad y actuar cuando ya aparece, por ejemplo tras un cambio de sistema o un problema de rendimiento. La previsión de una tecnología futura corresponde al primer supuesto y la corrección de errores detectados al segundo (p. 73)."
+    },
+    {
+      "id": "RRHH-T5-D-02",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.1",
+      "pagina_manual": 74,
+      "dificultad": "difícil",
+      "pregunta": "En una empresa grande se quiere identificar carencias formativas sin entrevistar individualmente a toda la plantilla. Además, interesa comparar respuestas por departamentos y permitir que cada persona valore sus conocimientos de forma anónima. ¿Qué técnica encaja mejor?",
+      "opciones": {
+        "A": "La observación diaria realizada por mandos intermedios, que recoge de forma anónima las valoraciones declaradas por cada empleado.",
+        "B": "El análisis de fallos, que permite disponer de las opiniones individuales antes de que se detecten problemas operativos.",
+        "C": "Las reuniones grupales, que garantizan respuestas independientes y anónimas al recoger las aportaciones colectivamente.",
+        "D": "Las encuestas distribuidas por departamentos, que recogen por escrito opiniones y autoevaluaciones anónimas."
+      },
+      "correcta": "D",
+      "explicacion": "Las encuestas permiten reunir respuestas escritas y autoevaluaciones de conocimientos de forma anónima, incluso organizadas por departamentos. Las entrevistas son menos prácticas para plantillas muy amplias; observación y análisis de fallos no equivalen a una autoevaluación anónima (p. 74)."
+    },
+    {
+      "id": "RRHH-T5-D-03",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.2",
+      "pagina_manual": 75,
+      "dificultad": "difícil",
+      "pregunta": "Una compañía prepara dos iniciativas: una transformación amplia de capacidades durante tres años y un curso de seis horas para corregir errores concretos de un programa. ¿Cuál es la clasificación que mejor responde a los criterios del manual?",
+      "opciones": {
+        "A": "La primera es formación a largo plazo, con objetivos amplios y mayor dotación; la segunda, a corto plazo, con objetivos específicos.",
+        "B": "La primera es formación a corto plazo porque comienza inmediatamente; la segunda, a largo plazo porque resuelve problemas acumulados.",
+        "C": "Las dos pertenecen necesariamente al largo plazo, ya que cualquier plan documentado debe prever acciones plurianuales.",
+        "D": "Las dos pertenecen necesariamente al corto plazo, dado que la clasificación depende de la duración de cada sesión y no del alcance del plan."
+      },
+      "correcta": "A",
+      "explicacion": "El manual caracteriza los planes de largo plazo por formación extensa, objetivos amplios y dotación elevada, y los de corto plazo por cursos breves y metas precisas. La fecha de comienzo no determina por sí sola la categoría (p. 75)."
+    },
+    {
+      "id": "RRHH-T5-D-04",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.2",
+      "pagina_manual": 76,
+      "dificultad": "muy difícil",
+      "pregunta": "Un coordinador ya ha detectado las necesidades y fijado objetivos. Ahora selecciona formadores, acuerda contenidos con representantes de los trabajadores, asigna participantes y prepara calendarios. Más tarde presenta el curso, entrega materiales y supervisa las sesiones. Finalmente contrasta los logros con los objetivos iniciales. ¿Qué secuencia de fases describe?",
+      "opciones": {
+        "A": "Ejecución durante la asignación de participantes; evaluación en la entrega de materiales; diseño al contrastar resultados.",
+        "B": "Diseño al detectar necesidades; evaluación al asignar participantes; ejecución únicamente cuando se emite el informe final.",
+        "C": "Diseño al preparar y organizar la formación; ejecución al impartirla y seguirla; evaluación al valorar resultados y objetivos.",
+        "D": "Diseño al fijar objetivos; ejecución al revisar el logro de estos; evaluación mientras se seleccionan los formadores."
+      },
+      "correcta": "C",
+      "explicacion": "La selección de formadores, participantes, contenidos y calendario pertenece al diseño; presentar el curso, entregar materiales y hacer seguimiento corresponde a la ejecución; comprobar los resultados y el cumplimiento de los objetivos es evaluación. El manual describe las tres fases en pp. 75-77."
+    },
+    {
+      "id": "RRHH-T5-D-05",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.2",
+      "pagina_manual": 77,
+      "dificultad": "muy difícil",
+      "pregunta": "El presupuesto de un curso incluye: honorarios de la docente, alquiler del aula, horas laborales de quienes asisten, tareas administrativas habituales de coordinación y tiempo dedicado a detectar necesidades formativas. ¿Qué reparto entre costes directos e indirectos es el establecido en el manual?",
+      "opciones": {
+        "A": "Directos: docente y aula. Indirectos: horas de asistentes, coordinación y detección de necesidades.",
+        "B": "Directos: docente, aula y horas de asistentes. Indirectos: coordinación administrativa habitual y detección de necesidades.",
+        "C": "Directos: docente, coordinación habitual y detección de necesidades. Indirectos: aula y horas de asistentes.",
+        "D": "Directos: todas las partidas del curso. Indirectos: únicamente gastos ajenos a la formación, que no forman parte del presupuesto."
+      },
+      "correcta": "B",
+      "explicacion": "El manual incluye entre los costes directos el profesorado, las horas del personal asistente, las aulas alquiladas y los medios técnicos. Considera indirectos las tareas administrativas recurrentes de organización y los recursos destinados a identificar necesidades (p. 77)."
+    },
+    {
+      "id": "RRHH-T5-D-06",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.3",
+      "pagina_manual": 78,
+      "dificultad": "difícil",
+      "pregunta": "Un departamento quiere que varios empleados analicen conjuntamente una situación simulada, discutan posibles decisiones y aprendan a afrontar problemas semejantes en su actividad diaria. No se busca entrenarlos individualmente ni trasladarlos temporalmente a otro puesto. ¿Qué método se ajusta mejor?",
+      "opciones": {
+        "A": "Outdoor training, porque permite aprender de experiencias compartidas y suele incluir reflexiones posteriores sobre lo realizado.",
+        "B": "Coaching, porque analiza decisiones sobre un caso concreto para desarrollar habilidades del personal mediante asesoramiento.",
+        "C": "Estudio de caso, porque combina el análisis de una situación presentada con participación activa y trabajo en equipo.",
+        "D": "Routing, porque permite conocer soluciones de otros puestos y departamentos mediante experiencias de aprendizaje aplicadas."
+      },
+      "correcta": "C",
+      "explicacion": "El estudio de caso consiste en analizar colectivamente un caso o simulación para aprender a resolver situaciones similares a las del trabajo real. Coaching es individual y routing exige desempeñar temporalmente funciones de otro puesto (p. 78)."
+    },
+    {
+      "id": "RRHH-T5-D-07",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.3",
+      "pagina_manual": 78,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa aplica tres acciones: (1) un directivo mantiene entrevistas individuales con una persona especializada para mejorar su liderazgo; (2) a un recién incorporado se le asigna un tutor experto que lo acompaña; (3) otra empleada trabaja durante varias semanas en un puesto de otro departamento para entender el conjunto de la organización. ¿Qué correspondencia es correcta?",
+      "opciones": {
+        "A": "(1) Mentoring; (2) coaching; (3) outdoor training.",
+        "B": "(1) Coaching; (2) routing; (3) mentoring.",
+        "C": "(1) Estudio de caso; (2) mentoring; (3) coaching.",
+        "D": "(1) Coaching; (2) mentoring; (3) routing o rotación."
+      },
+      "correcta": "D",
+      "explicacion": "El coaching se desarrolla mediante entrevistas individuales para mejorar aspectos específicos, con frecuencia directivos; el mentoring asigna un tutor para acompañar el aprendizaje; y el routing supone ocupar temporalmente otro puesto para obtener una visión más global de la empresa (p. 78)."
+    },
+    {
+      "id": "RRHH-T5-D-08",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.3",
+      "pagina_manual": 79,
+      "dificultad": "difícil",
+      "pregunta": "Finalizado un programa de desarrollo profesional, los participantes valoran un curso concreto y los formadores recogen observaciones sobre ese curso. Paralelamente, la dirección examina si el programa completo ha solucionado el problema que motivó su puesta en marcha. ¿Cómo deben entenderse ambas evaluaciones?",
+      "opciones": {
+        "A": "La primera valora acciones formativas individuales; la segunda comprueba globalmente el cumplimiento de los objetivos del programa.",
+        "B": "La primera determina si se han cumplido todos los objetivos estratégicos del programa; la segunda solo mide la satisfacción con una acción concreta.",
+        "C": "Ambas son evaluaciones globales, pues la valoración de cualquier curso equivale a demostrar que el plan completo ha resultado eficaz.",
+        "D": "Ambas son evaluaciones de resultados del trabajador y excluyen necesariamente la opinión de quienes imparten la formación."
+      },
+      "correcta": "A",
+      "explicacion": "El manual diferencia la evaluación de acciones concretas —habitualmente mediante cuestionarios a participantes y formadores— de la evaluación global, que determina si se cumplieron los objetivos del programa y si se superó la situación que se quería resolver (pp. 78-79)."
+    },
+    {
+      "id": "RRHH-T5-D-09",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.4",
+      "pagina_manual": 79,
+      "dificultad": "media-alta",
+      "pregunta": "La empresa ya ha impartido un curso y necesita completar su gestión administrativa. ¿Qué actuación recoge conjuntamente funciones que el manual atribuye al departamento de RR. HH. y a la gestión de la formación?",
+      "opciones": {
+        "A": "Registrar la formación en el expediente del trabajador, gestionar los trámites de bonificación que procedan y facilitar un certificado con las horas realizadas.",
+        "B": "Sustituir el expediente individual por el certificado del curso, porque la gestión administrativa termina cuando finalizan las sesiones.",
+        "C": "Registrar únicamente la asistencia del formador y trasladar a cada trabajador la solicitud de bonificaciones de Seguridad Social.",
+        "D": "Archivar solo los cursos de formación externa y excluir del expediente los organizados dentro de la propia empresa."
+      },
+      "correcta": "A",
+      "explicacion": "RR. HH. debe registrar las acciones en expedientes actualizados, ocuparse de trámites como las solicitudes ante Fundae y la aplicación de bonificaciones cuando procedan, y normalmente expedir certificados de formación y horas recibidas (p. 79)."
+    },
+    {
+      "id": "RRHH-T5-D-10",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.5",
+      "pagina_manual": 80,
+      "dificultad": "difícil",
+      "pregunta": "Un organismo público diseña un programa que se mantiene durante la carrera profesional, responde a las necesidades reales de cada servicio e incorpora herramientas tecnológicas nuevas. ¿Qué relación con los criterios de formación del empleado público es correcta?",
+      "opciones": {
+        "A": "Permanecer durante la carrera indica sistematicidad; atender los servicios, innovación; adaptarse a las tecnologías, continuidad.",
+        "B": "Permanecer durante la carrera indica innovación; atender los servicios, continuidad; adaptarse a las tecnologías, sistematicidad.",
+        "C": "Permanecer durante la carrera indica continuidad; atender los servicios, sistematicidad; adaptarse a las tecnologías, innovación.",
+        "D": "Los tres rasgos pertenecen exclusivamente a la formación continua y no permiten distinguir sistematicidad e innovación."
+      },
+      "correcta": "C",
+      "explicacion": "Según el manual, la formación pública debe ser continua a lo largo de la carrera, sistemática en relación con las necesidades de los servicios e innovadora por su adaptación a cambios tecnológicos (p. 80)."
+    },
+    {
+      "id": "RRHH-T5-D-11",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.6",
+      "pagina_manual": 82,
+      "dificultad": "difícil",
+      "pregunta": "Según la tabla y las reglas recogidas en el manual, una empresa creada en el año en curso contrata a ocho trabajadores y otra empresa de treinta empleados consulta el porcentaje de bonificación correspondiente a su tramo de plantilla. ¿Qué pareja de resultados es correcta, respectivamente?",
+      "opciones": {
+        "A": "Crédito de 420 € para la nueva empresa y porcentaje del 75 % para la empresa de treinta personas.",
+        "B": "Crédito de 520 € para la nueva empresa y porcentaje del 100 % para la empresa de treinta personas.",
+        "C": "Crédito de 420 € para la nueva empresa y porcentaje del 100 % para la empresa de treinta personas.",
+        "D": "Crédito de 520 € para la nueva empresa y porcentaje del 75 % para la empresa de treinta personas."
+      },
+      "correcta": "D",
+      "explicacion": "Para una empresa creada en el año, el manual indica un crédito de 65 € por persona: 8 × 65 € = 520 €. En la tabla, el tramo de 10 a 49 trabajadores tiene un porcentaje de bonificación del 75 %. Son dos reglas distintas recogidas en la p. 82; se evalúa lo que indica el manual de esta edición."
+    },
+    {
+      "id": "RRHH-T5-D-12",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.6",
+      "pagina_manual": 81,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa privada utiliza formación programada bonificada y conserva los justificantes de asistencia. ¿Qué combinación de condiciones expresa correctamente las exigencias enumeradas en el manual?",
+      "opciones": {
+        "A": "La empresa debe garantizar la gratuidad y acreditar la asistencia, pero basta con conservar los justificantes de formación durante dos años.",
+        "B": "La formación para los trabajadores debe ser gratuita, han de custodiarse justificantes de asistencia y conservarse durante cuatro años los documentos justificativos.",
+        "C": "La empresa debe guardar los justificantes durante cuatro años y permitir controles, pero puede cobrar una aportación al trabajador para compensar parte del curso.",
+        "D": "La empresa debe mantener sus obligaciones fiscales al día y custodiar cuatro años los documentos, pero no está obligada a someterse a comprobaciones públicas una vez bonificado el curso."
+      },
+      "correcta": "B",
+      "explicacion": "El manual exige garantizar la gratuidad de las iniciativas, custodiar la documentación que acredite la asistencia diaria y conservar durante cuatro años los justificantes de la formación, además de cumplir otras obligaciones fiscales y de Seguridad Social (p. 81)."
+    },
+    {
+      "id": "RRHH-T5-D-13",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.7",
+      "pagina_manual": 83,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa fija como objetivo aumentar la cifra de ventas y, a la vez, mejorar la coordinación entre áreas. Después define indicadores y conecta objetivos individuales con los estratégicos. ¿Cuál es el análisis correcto?",
+      "opciones": {
+        "A": "Los dos objetivos son cualitativos, pues forman parte del desempeño profesional y no deben medirse mediante indicadores.",
+        "B": "Aumentar ventas es un objetivo cualitativo y mejorar coordinación cuantitativo, porque las relaciones laborales pueden medirse con encuestas.",
+        "C": "Los indicadores deben establecerse solo para los objetivos individuales, sin relación con los objetivos departamentales o estratégicos.",
+        "D": "La cifra de ventas es un objetivo cuantitativo y la coordinación uno cualitativo; ambos deben integrarse en objetivos medibles y alineados jerárquicamente."
+      },
+      "correcta": "D",
+      "explicacion": "El manual distingue objetivos cuantitativos vinculados a resultados económicos y cualitativos vinculados a la gestión, e indica que deben existir indicadores para medir su cumplimiento y conexión entre objetivos individuales, de sección, de departamento y estratégicos (p. 83)."
+    },
+    {
+      "id": "RRHH-T5-D-14",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.7",
+      "pagina_manual": 84,
+      "dificultad": "media-alta",
+      "pregunta": "En una evaluación, el responsable directo solicita también valoraciones de compañeros, clientes y proveedores que se relacionan habitualmente con la persona evaluada. ¿Cuál es la interpretación más precisa?",
+      "opciones": {
+        "A": "Es una evaluación individual ordinaria, porque solo cuentan las valoraciones de quienes mantienen relación laboral con la empresa.",
+        "B": "Es una evaluación de competencias genéricas, pues la participación de clientes sustituye la evaluación de objetivos y de resultados.",
+        "C": "Es una evaluación de 360 grados, ya que participan distintas personas del entorno profesional, no únicamente el superior.",
+        "D": "Es una evaluación del plan de formación, porque toda opinión externa constituye un cuestionario de satisfacción del curso."
+      },
+      "correcta": "C",
+      "explicacion": "La evaluación de 360 grados incorpora las valoraciones de superiores y de otras personas en contacto con el trabajador, como compañeros, clientes e incluso proveedores. No se limita a la valoración del jefe directo (p. 84)."
+    },
+    {
+      "id": "RRHH-T5-D-15",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.8",
+      "pagina_manual": 85,
+      "dificultad": "difícil",
+      "pregunta": "Tras una formación, un departamento comprueba mediante indicadores cuánto ha mejorado el cumplimiento de las metas previstas. Además, observa si las personas aplican nuevas habilidades y actitudes. ¿Qué distinción establece el manual?",
+      "opciones": {
+        "A": "Los indicadores y las nuevas habilidades son exclusivamente evaluación del desempeño económico y no permiten valorar una formación.",
+        "B": "La primera comprobación evalúa objetivos; la segunda evalúa competencias, y ambas contribuyen a valorar la efectividad de la formación.",
+        "C": "La primera comprobación evalúa competencias porque utiliza cifras; la segunda evalúa objetivos porque describe comportamientos.",
+        "D": "La evaluación de resultados de formación solo puede basarse en la opinión del formador, no en indicadores ni habilidades mostradas."
+      },
+      "correcta": "B",
+      "explicacion": "El manual distingue entre evaluación de objetivos, mediante indicadores y variables medibles, y evaluación de competencias, centrada en habilidades y actitudes. Ambas ayudan a valorar la efectividad del plan formativo (p. 85)."
+    },
+    {
+      "id": "RRHH-T5-D-16",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.9",
+      "pagina_manual": 86,
+      "dificultad": "muy difícil",
+      "pregunta": "Un comité valora distintos puestos mediante factores como responsabilidad, esfuerzo y dificultad técnica. Para cada factor establece intensidades posibles y asigna valores numéricos según su relevancia. ¿Qué relación entre los conceptos propios de este método es correcta?",
+      "opciones": {
+        "A": "Los factores son las características evaluadas, los grados sus intensidades y la ponderación el valor asignado; el conjunto forma el manual de valoración.",
+        "B": "Los factores son las características evaluadas y los grados sus intensidades, pero la ponderación es únicamente la suma final del valor de todos los puestos.",
+        "C": "Los factores son las características de cada puesto y los grados sus intensidades, mientras que la ponderación mide exclusivamente la frecuencia con que aparece cada grado.",
+        "D": "Los factores son las características de cada puesto y los grados sus intensidades, pero el manual de valoración se compone de factores y grados sin incluir ponderaciones."
+      },
+      "correcta": "A",
+      "explicacion": "En el método de puntuación por factores, los factores son características de los puestos, los grados describen las distintas intensidades y la ponderación expresa su valor en cifras. El conjunto de factores, grados y ponderaciones integra el manual de valoración (p. 86)."
+    },
+    {
+      "id": "RRHH-T5-D-17",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.9",
+      "pagina_manual": 87,
+      "dificultad": "difícil",
+      "pregunta": "Una trabajadora pasa a otro puesto de igual categoría, con tareas diferentes, mediante una decisión basada automáticamente en méritos y formación previamente establecidos. ¿Cómo se combinan las dos clasificaciones de promoción del manual?",
+      "opciones": {
+        "A": "Promoción vertical y sistema subjetivo, porque cambiar de funciones equivale a ascender y los méritos siempre los valora un superior.",
+        "B": "Promoción vertical y sistema objetivo, porque cualquier cambio de puesto implica una categoría profesional superior.",
+        "C": "Promoción horizontal y sistema subjetivo, porque la igualdad de categoría exige una elección por confianza del responsable.",
+        "D": "Promoción horizontal y sistema objetivo, porque mantiene la categoría y la elección responde a criterios preestablecidos sin designación directa del superior."
+      },
+      "correcta": "D",
+      "explicacion": "La promoción horizontal comporta tareas distintas con la misma categoría; el sistema objetivo se basa en criterios como formación, méritos y antigüedad, sin designación directa del superior. Son dos ejes distintos de clasificación (p. 87)."
+    },
+    {
+      "id": "RRHH-T5-D-18",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.9",
+      "pagina_manual": 87,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa quiere combinar incentivos retributivos con otros no monetarios. ¿Qué pareja representa, respectivamente, uno monetario y otro no monetario según los ejemplos del manual?",
+      "opciones": {
+        "A": "Una jornada flexible y una comisión por ventas.",
+        "B": "Un periodo de teletrabajo y una prima anual.",
+        "C": "Una comisión por ventas y la financiación de un posgrado.",
+        "D": "La financiación de un posgrado y un aumento salarial."
+      },
+      "correcta": "C",
+      "explicacion": "El manual considera monetarios los aumentos salariales, primas, reembolsos y comisiones; entre los no monetarios cita horarios flexibles, teletrabajo y formación como costear un posgrado. El orden pedido es primero monetario y después no monetario (p. 87)."
+    },
+    {
+      "id": "RRHH-T5-D-19",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.10",
+      "pagina_manual": 88,
+      "dificultad": "difícil",
+      "pregunta": "Al actualizar el expediente de una empleada, RR. HH. incorpora su título presentado al entrar, un curso que hizo durante su relación laboral y un curso específico impartido conforme al plan formativo de la empresa. ¿Qué tratamiento corresponde según el manual?",
+      "opciones": {
+        "A": "Los tres documentos se registran únicamente como formación continuada, porque todos se consultan tras la incorporación.",
+        "B": "Se registran como formación inicial, formación continuada y formación organizada por la empresa, respectivamente, dentro de un archivo protegido y actualizado.",
+        "C": "Se separa del expediente el título inicial; solo se conservan los cursos organizados directamente por la empresa.",
+        "D": "Se registra el título inicial como formación organizada, el curso externo como formación inicial y el plan empresarial como promoción objetiva."
+      },
+      "correcta": "B",
+      "explicacion": "El tema distingue formación inicial acreditada al incorporarse, formación continuada durante la relación laboral y formación organizada por la empresa según el plan. La documentación debe estar registrada, actualizada y protegida por contener datos personales (p. 88)."
+    },
+    {
+      "id": "RRHH-T5-D-20",
+      "tema": 5,
+      "nivel": "difícil",
+      "apartado": "5.11",
+      "pagina_manual": 89,
+      "dificultad": "difícil",
+      "pregunta": "Una organización con sedes en varios países quiere facilitar la comunicación y los trámites entre plantilla y dirección. Además, necesita controlar el acceso a cursos no presenciales, sus evaluaciones y los informes de seguimiento. ¿Qué combinación de herramientas es la más coherente con el manual?",
+      "opciones": {
+        "A": "Portal B2E para interacción y gestión empresa-empleados; plataforma LMS para administrar y supervisar la formación a distancia.",
+        "B": "Plataforma LMS para centralizar toda la gestión administrativa entre sedes; portal B2E exclusivamente para evaluar cursos presenciales.",
+        "C": "Portal B2E para sustituir todo control didáctico de los cursos; LMS solo para publicar información institucional de la organización.",
+        "D": "Ambos sistemas sirven exclusivamente para enviar comunicaciones y no contemplan funciones de formación ni evaluación."
+      },
+      "correcta": "A",
+      "explicacion": "Los portales B2E facilitan la interacción entre empresa y empleados y agilizan procesos, especialmente con sedes dispersas; los LMS gestionan y siguen la formación no presencial, incluidos accesos, evaluaciones e informes (p. 89)."
+    }
+  ]
+}

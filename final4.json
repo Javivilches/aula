@@ -1,0 +1,517 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "Repaso integral: temas 1 a 5",
+  "test": "Simulacro 4 — Nivel muy difícil",
+  "preguntas": [
+    {
+      "id": "RRHH-F4-01",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.7",
+      "pagina_manual": 84,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa solicita a todo su personal actuar con lealtad, mientras exige al diseñador gráfico competencias específicas de creatividad visual. ¿Qué categorías se aplican?",
+      "opciones": {
+        "A": "Ambas genéricas porque las competencias no dependen nunca del puesto.",
+        "B": "Genérica para la lealtad y específica para la creatividad propia del puesto.",
+        "C": "Específica para la lealtad y genérica para una creatividad exigida solo al diseño gráfico.",
+        "D": "Ambas específicas porque el manual no contempla competencias comunes de la organización."
+      },
+      "correcta": "B",
+      "explicacion": "Las competencias genéricas están vinculadas a los valores comunes; las específicas dependen de tareas y funciones concretas."
+    },
+    {
+      "id": "RRHH-F4-02",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.1",
+      "pagina_manual": 11,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa adapta sus protocolos internos de gestión a los valores declarados, pero negocia con clientes y proveedores sin respetar los criterios éticos que comunica. ¿Qué diagnóstico diferencia correctamente los ámbitos afectados?",
+      "opciones": {
+        "A": "Existe coherencia ética interna, pero contradicción en la dimensión externa relacionada con los agentes del mercado.",
+        "B": "El incumplimiento frente a clientes carece de dimensión moral porque la empresa posee personalidad jurídica.",
+        "C": "La coherencia en los procesos internos anula la necesidad de una ética empresarial en las relaciones externas.",
+        "D": "La ética externa se cumple con los protocolos internos, mientras que el trato a proveedores define únicamente ética interna."
+      },
+      "correcta": "A",
+      "explicacion": "Los procesos internos coherentes responden a ética interna; clientes y proveedores pertenecen al ámbito externo, donde también deben regir principios sociales y éticos."
+    },
+    {
+      "id": "RRHH-F4-03",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.6",
+      "pagina_manual": 82,
+      "dificultad": "difícil",
+      "pregunta": "Según la tabla del manual, dos empresas de 12 y 260 trabajadores consultan el porcentaje de bonificación asociado al tamaño. ¿Qué par corresponde, respectivamente?",
+      "opciones": {
+        "A": "75 % y 50 %.",
+        "B": "75 % y 60 %.",
+        "C": "100 % y 60 %.",
+        "D": "60 % y 50 %."
+      },
+      "correcta": "A",
+      "explicacion": "En la tabla de la edición del manual, de 10 a 49 trabajadores corresponde el 75 % y 250 o más el 50 %. Es un dato del material docente, no una verificación normativa actual."
+    },
+    {
+      "id": "RRHH-F4-04",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.4",
+      "pagina_manual": 16,
+      "dificultad": "difícil",
+      "pregunta": "Un director exige que sus proveedores y entidades financieras dispongan de sistemas éticos, rechaza prácticas competitivas desleales y facilita información económica a los accionistas. ¿Qué afirmación recoge el matiz específico de los requisitos a socios externos?",
+      "opciones": {
+        "A": "El manual exige a todos los acreedores la misma estructura interna de gobierno de la empresa contratante.",
+        "B": "La ausencia de certificación ética de cualquier banco autoriza a la empresa a ocultar información a sus accionistas.",
+        "C": "La competencia leal solo es necesaria cuando la actividad internacional esté expresamente regulada.",
+        "D": "Para proveedores y entidades financieras basta, como mínimo, que no vulneren los principios éticos básicos, aunque no tengan un sistema formal implantado."
+      },
+      "correcta": "D",
+      "explicacion": "El manual admite sistemas éticos implantados o, al menos, ausencia de vulneración de sus principios fundamentales en las relaciones con esos agentes."
+    },
+    {
+      "id": "RRHH-F4-05",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.1",
+      "pagina_manual": 73,
+      "dificultad": "media-alta",
+      "pregunta": "Una dirección compara el nivel de competencia exigido por un puesto con lo que realmente domina su ocupante; además prevé un cambio tecnológico a dos años. ¿Qué enfoque resulta más completo?",
+      "opciones": {
+        "A": "Aplazar las acciones futuras y actuales hasta que se complete un programa de incentivos salariales.",
+        "B": "Formar únicamente tras aparecer errores porque anticipar necesidades queda fuera de la formación de empresa.",
+        "C": "Diagnosticar la brecha actual y anticipar futuras necesidades dentro de la planificación formativa.",
+        "D": "Decidir cursos exclusivamente por preferencias personales, sin analizar las tareas del puesto."
+      },
+      "correcta": "C",
+      "explicacion": "Detectar necesidades exige comparar capacidades con tareas y puede anticiparse al futuro o responder a carencias ya existentes."
+    },
+    {
+      "id": "RRHH-F4-06",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.3",
+      "pagina_manual": 32,
+      "dificultad": "media-alta",
+      "pregunta": "Un directivo obtiene obediencia fundamentalmente mediante premios y castigos, mientras otro inspira a sus colaboradores para introducir cambios, acepta propuestas y fomenta iniciativas. ¿Qué emparejamiento es correcto?",
+      "opciones": {
+        "A": "Transformacional para el primero y transaccional para el segundo.",
+        "B": "Transaccional para el primero y transformacional para el segundo.",
+        "C": "Carismático para el primero y burocrático para el segundo.",
+        "D": "Laissez-faire para el primero y autocrático para el segundo."
+      },
+      "correcta": "B",
+      "explicacion": "El liderazgo transaccional utiliza refuerzos y exigencia de cumplimiento; el transformacional motiva, inspira, acepta ideas y prepara para cambios."
+    },
+    {
+      "id": "RRHH-F4-07",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.8",
+      "pagina_manual": 48,
+      "dificultad": "muy difícil",
+      "pregunta": "Un departamento abre un fichero digital de personal, crea copias restringidas y quiere organizar roles de uso. ¿Qué distinción entre los elementos informáticos de una base de datos es correcta?",
+      "opciones": {
+        "A": "Las personas constituyen hardware, los ordenadores software y el sistema operativo el elemento humano.",
+        "B": "Hardware y software designan exclusivamente los permisos personales y no los elementos tecnológicos.",
+        "C": "Los dispositivos físicos son software, mientras las copias de seguridad sustituyen la intervención humana.",
+        "D": "El equipo físico es hardware, el sistema lógico de gestión es software y las personas usuarias representan el elemento humano."
+      },
+      "correcta": "D",
+      "explicacion": "El manual describe tres elementos: parte física (hardware), lógica (software) y humana (usuario que utiliza ambos)."
+    },
+    {
+      "id": "RRHH-F4-08",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.8",
+      "pagina_manual": 65,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa quiere elegir a una persona a partir de entrevista, prueba profesional y test de aptitudes. Un evaluador propone seleccionar automáticamente al aspirante con mejor test de aptitud. ¿Qué criterio del manual corrige esta propuesta?",
+      "opciones": {
+        "A": "Solo pueden decidir la selección las pruebas de personalidad, por encima de competencias técnicas.",
+        "B": "El manual descarta la utilidad de todas las pruebas para reducir grupos de candidatos.",
+        "C": "Los test psicotécnicos son siempre obligatorios y prevalecen sobre entrevistas y pruebas profesionales.",
+        "D": "Las pruebas complementan el conjunto del proceso de selección y no deberían determinar por sí solas la elección."
+      },
+      "correcta": "D",
+      "explicacion": "Las pruebas son útiles, pero complementarias: se valoran junto con entrevista, perfil, documentación y otros elementos del proceso."
+    },
+    {
+      "id": "RRHH-F4-09",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.6",
+      "pagina_manual": 46,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa evita imprimir expedientes innecesarios y destina el papel usado a un proceso que permite fabricar papel nuevo. ¿Qué secuencia de las 3R representa?",
+      "opciones": {
+        "A": "Reducir y reutilizar, sin intervención de reciclaje.",
+        "B": "Reducir y reciclar.",
+        "C": "Reciclar y reutilizar.",
+        "D": "Reutilizar y reducir."
+      },
+      "correcta": "B",
+      "explicacion": "Evitar residuos innecesarios es reducir; incorporar residuos al proceso de producción como recurso es reciclar."
+    },
+    {
+      "id": "RRHH-F4-10",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 23,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa estudia dos instrumentos universales: uno nació de una conferencia para equilibrar protección ambiental y desarrollo; otro promueve conducta responsable de multinacionales y resolución de conflictos con comunidades. ¿A cuáles corresponde?",
+      "opciones": {
+        "A": "Convención de la ONU contra la corrupción y Pacto de Derechos Económicos, Sociales y Culturales, respectivamente.",
+        "B": "Directrices de la OCDE y declaración de la OIT, respectivamente.",
+        "C": "Declaración de Río y directrices de la OCDE, respectivamente.",
+        "D": "Libro Verde de la Comisión Europea y Constitución Española, respectivamente."
+      },
+      "correcta": "C",
+      "explicacion": "La Declaración de Río se centra en equilibrio ambiental, económico y social; las directrices OCDE promueven buenas conductas de multinacionales y mecanismos ante conflictos."
+    },
+    {
+      "id": "RRHH-F4-11",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa exige a vendedores y compradores actuar con criterios éticos, pero considera que la inversión de los socios queda moralmente desligada de quienes invierten. ¿Qué aspecto contradice?",
+      "opciones": {
+        "A": "La equivalencia entre clientes y proveedores en el acto de comprar.",
+        "B": "La vinculación de la inversión con la persona inversora, que no desaparece según la personificación del inversionista.",
+        "C": "La identificación de los gestores con todos los consumidores de la empresa.",
+        "D": "La posibilidad de que el personal operativo asuma tareas materiales en la producción."
+      },
+      "correcta": "B",
+      "explicacion": "La personificación del inversionista subraya que la vinculación entre la inversión y quien la realiza permanece; no deja de existir por aplicar ética en compraventas."
+    },
+    {
+      "id": "RRHH-F4-12",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.1",
+      "pagina_manual": 51,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa necesita sustituir temporalmente a un empleado y simultáneamente quiere delegar a especialistas la búsqueda de un perfil directivo sin que estos lo contraten. ¿Qué combinación de servicios se ajusta al manual?",
+      "opciones": {
+        "A": "Consultora para contratar al sustituto como trabajador propio y ETT para limitarse a asesorar sobre el directivo.",
+        "B": "Servicio de recolocación para ambos casos, pues outplacement equivale a reclutamiento de nuevas vacantes.",
+        "C": "ETT para poner a disposición temporal al sustituto y consultora de selección para asesorar en la búsqueda del directivo.",
+        "D": "Agencia pública de colocación para formalizar por sí misma todos los contratos de la empresa."
+      },
+      "correcta": "C",
+      "explicacion": "La ETT emplea y cede temporalmente trabajadores; la consultora identifica y evalúa candidatos por encargo de la empresa cliente."
+    },
+    {
+      "id": "RRHH-F4-13",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.3",
+      "pagina_manual": 40,
+      "dificultad": "difícil",
+      "pregunta": "Un superior envía una circular por un canal oficial a sus subordinados; al mismo tiempo, dos personas del mismo rango comentan espontáneamente su contenido. ¿Qué clasificación multidimensional resulta correcta?",
+      "opciones": {
+        "A": "Ambas son formales y horizontales porque comparten el mismo contenido.",
+        "B": "La circular es formal, interna y vertical descendente; la conversación es informal, interna y horizontal.",
+        "C": "La circular es interna y ascendente; la conversación es corporativa al intercambiar información entre iguales.",
+        "D": "La circular es externa y ambiental; la conversación es formal y vertical descendente."
+      },
+      "correcta": "B",
+      "explicacion": "La clasificación formal/informal atiende al cauce; vertical/horizontal al rango; y la interna al ámbito de comunicación. Son dimensiones distintas."
+    },
+    {
+      "id": "RRHH-F4-14",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.2",
+      "pagina_manual": 76,
+      "dificultad": "difícil",
+      "pregunta": "Un coordinador contrata aulas, distribuye participantes y acuerda contenidos; tras comenzar las sesiones registra incidencias, controla su desarrollo y entrega programaciones. ¿Qué orden de fases refleja?",
+      "opciones": {
+        "A": "Primero evaluación de resultados, después definición del presupuesto inicial.",
+        "B": "Todas las tareas se atribuyen exclusivamente a la evaluación posterior de formadores.",
+        "C": "Primero ejecución, después identificación de necesidades y objetivos estratégicos.",
+        "D": "Primero diseño y organización, después desarrollo y ejecución."
+      },
+      "correcta": "D",
+      "explicacion": "La organización previa corresponde al diseño; presentar y seguir la acción ya impartida corresponde a ejecución."
+    },
+    {
+      "id": "RRHH-F4-15",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.2",
+      "pagina_manual": 38,
+      "dificultad": "difícil",
+      "pregunta": "En la contratación de una nueva persona, RR. HH. reúne información para el modelo 145, comunica el contrato al servicio de empleo y después confecciona un recibo con devengos salariales, no salariales y deducciones. ¿Qué ámbito describe el conjunto?",
+      "opciones": {
+        "A": "Solo planificación de empleo, sin obligaciones con administraciones ni elaboración de salarios.",
+        "B": "Relaciones laborales limitadas a negociar convenios colectivos con representantes sindicales.",
+        "C": "Exclusivamente servicios sociales, porque afectan al bienestar de quien se incorpora.",
+        "D": "Funciones de administración de personal, desde documentación inicial hasta elaboración de nóminas."
+      },
+      "correcta": "D",
+      "explicacion": "El apartado de administración de personal incluye documentación de inicio, modelos de retención, comunicación de contratos y recibos salariales."
+    },
+    {
+      "id": "RRHH-F4-16",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.11",
+      "pagina_manual": 89,
+      "dificultad": "difícil",
+      "pregunta": "Una compañía quiere medir accesos, generar informes sobre cursos online y conectarlos con la gestión de su plantilla situada en distintas sedes. ¿Qué combinación de herramientas resulta más ajustada?",
+      "opciones": {
+        "A": "LMS para seguimiento de formación no presencial y B2E para comunicación y gestión de recursos entre empresa y empleados.",
+        "B": "Código ético para registrar accesos a un campus y balance social para gestionar sedes remotas.",
+        "C": "LCMS para control de fichajes y ETT para emitir certificados de aprendizaje.",
+        "D": "B2E para evaluar solo contenidos offline y LMS para publicar únicamente nóminas salariales."
+      },
+      "correcta": "A",
+      "explicacion": "Un LMS registra actividad formativa a distancia y resultados; los portales B2E conectan empresas y plantilla y resultan útiles en organizaciones con distintas ubicaciones."
+    },
+    {
+      "id": "RRHH-F4-17",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.4",
+      "pagina_manual": 33,
+      "dificultad": "difícil",
+      "pregunta": "La dirección decide publicar un código ético y crear un órgano que pueda modificarlo y resolver conflictos. Un informe interno añade un saldo de beneficios y costes sociales. ¿Qué tríada de instrumentos identifica cada actuación?",
+      "opciones": {
+        "A": "Código ético, convenio de ETT y evaluación de personal 360 grados.",
+        "B": "Código de conducta, norma ISO 26000 certificada y organigrama salarial.",
+        "C": "Código ético, comité de ética y balance social.",
+        "D": "Manual de identidad visual, sistema de selección y presupuesto formativo."
+      },
+      "correcta": "C",
+      "explicacion": "El código plasma valores, el comité garantiza su aplicación y gestiona conflictos, y el balance social confronta aportaciones y perjuicios."
+    },
+    {
+      "id": "RRHH-F4-18",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.1",
+      "pagina_manual": 36,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa detecta que una conversación espontánea entre empleados ha difundido antes que los canales oficiales una decisión que aún no se había comunicado. ¿Qué respuesta organizativa conserva la utilidad social de la red informal y limita su riesgo?",
+      "opciones": {
+        "A": "Reforzar canales formales claros y transparentes sin negar que la red informal satisface necesidades de relación e información.",
+        "B": "Delegar toda información contractual y estratégica en rumores, porque siempre circulan más rápidamente.",
+        "C": "Eliminar todas las relaciones informales porque el manual niega cualquier papel positivo en la satisfacción laboral.",
+        "D": "Aceptar que el organigrama carece de utilidad cuando una noticia llega antes por una conversación entre empleados."
+      },
+      "correcta": "A",
+      "explicacion": "El manual reconoce el valor de las relaciones informales, pero recomienda una organización formal sólida para evitar rumores y distorsiones."
+    },
+    {
+      "id": "RRHH-F4-19",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.5",
+      "pagina_manual": 61,
+      "dificultad": "difícil",
+      "pregunta": "Una promoción interna ocupa una vacante de mayor nivel. La persona conoce la organización pero puede tener dificultades para dirigir antiguos compañeros. ¿Qué lectura conjunta de ventajas e inconvenientes del reclutamiento interno permite el manual?",
+      "opciones": {
+        "A": "Ofrece mejor adaptación y menor incertidumbre, pero las relaciones informales anteriores pueden obstaculizar las nuevas responsabilidades.",
+        "B": "Evita cualquier desmotivación del equipo y no plantea dudas sobre el desempeño en el puesto superior.",
+        "C": "Tiene mayor incertidumbre y coste que el reclutamiento externo, aunque elimina las relaciones previas.",
+        "D": "Reduce costes, pero siempre exige mayor adaptación que una contratación externa."
+      },
+      "correcta": "A",
+      "explicacion": "Las ventajas del reclutamiento interno son familiaridad, rapidez y menor coste; los problemas potenciales incluyen capacidad en el puesto superior y relaciones informales previas."
+    },
+    {
+      "id": "RRHH-F4-20",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.5",
+      "pagina_manual": 18,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa renueva su identidad gráfica mediante un plan de marketing, pero los usuarios continúan recordando experiencias negativas con la organización. ¿Qué interpretación diferencia correctamente los dos planos?",
+      "opciones": {
+        "A": "La imagen corporativa se compone solo de logotipo, página web y eslogan, sin relación con las experiencias.",
+        "B": "La identidad y la imagen son idénticas, por lo que actualizar el logotipo obliga al público a modificar inmediatamente su percepción.",
+        "C": "La empresa puede diseñar elementos de identidad, pero la imagen percibida también depende de experiencias y juicios del público y de agentes externos.",
+        "D": "Los consumidores forman la identidad gráfica, mientras que la dirección únicamente determina la imagen percibida."
+      },
+      "correcta": "C",
+      "explicacion": "El plan de identidad intenta proyectar atributos, mientras que la imagen resulta también de prejuicios, experiencias y evaluaciones externas que la empresa no controla del todo."
+    },
+    {
+      "id": "RRHH-F4-21",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.11",
+      "pagina_manual": 69,
+      "dificultad": "media-alta",
+      "pregunta": "Tras un despido colectivo, una entidad ofrece orientación, revisión de currículos y acceso a oportunidades a las personas despedidas. Una parte del equipo que permanece también se siente afectada por la reestructuración. ¿Qué efecto adicional menciona el manual?",
+      "opciones": {
+        "A": "La empresa solo obtiene beneficios económicos por transferir el pago del servicio a quienes han perdido el puesto.",
+        "B": "El outplacement puede aliviar el impacto emocional de los despidos también entre quienes continúan en la organización.",
+        "C": "La recolocación obliga a que todos los despedidos regresen al mismo empleador al terminar el programa.",
+        "D": "El outplacement se limita a tramitar contratos de las nuevas contrataciones, sin relación con el clima posterior al despido."
+      },
+      "correcta": "B",
+      "explicacion": "Entre las ventajas para quien despide figura atenuar las consecuencias emocionales de la reestructuración en la plantilla que permanece."
+    },
+    {
+      "id": "RRHH-F4-22",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.3",
+      "pagina_manual": 31,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa industrial necesita cumplimiento estricto de procedimientos en un área de riesgo; en otra, un responsable consulta activamente al equipo, pero conserva la decisión final. ¿Qué estilos diferencian mejor ambos comportamientos?",
+      "opciones": {
+        "A": "Burocrático y participativo o democrático, respectivamente.",
+        "B": "Participativo y burocrático, respectivamente, porque consultar equivale a aplicar reglas rígidas.",
+        "C": "Autocrático y laissez-faire, respectivamente, porque ambos exigen delegar la decisión final.",
+        "D": "Transaccional y carismático, respectivamente, porque ambos descansan en premios y sanciones."
+      },
+      "correcta": "A",
+      "explicacion": "El estilo burocrático asegura precisión siguiendo normas; el democrático promueve participación mientras el líder conserva responsabilidad final."
+    },
+    {
+      "id": "RRHH-F4-23",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.1",
+      "pagina_manual": 11,
+      "dificultad": "difícil",
+      "pregunta": "Una compañía protege el interés de sus accionistas, publica información veraz y mejora la utilización de recursos. Su responsable afirma que el objetivo de esos cambios es solo reforzar la imagen gráfica de la marca. ¿Qué corrección es más precisa?",
+      "opciones": {
+        "A": "La información transparente constituye una técnica de personificación del trabajo operativo, sin relación con los órganos de gobierno.",
+        "B": "La protección de accionistas es incompatible con la creación de valor y debe sustituirse por campañas publicitarias.",
+        "C": "Se trata exclusivamente de comunicación externa, ya que el buen gobierno no contempla la gestión de recursos.",
+        "D": "Son principios de buen gobierno corporativo vinculados a protección de intereses, transparencia, creación de valor y eficiencia, no solo a la identidad gráfica."
+      },
+      "correcta": "D",
+      "explicacion": "Los elementos descritos forman parte del buen gobierno corporativo y conciernen al funcionamiento de la organización, no únicamente a la apariencia de marca."
+    },
+    {
+      "id": "RRHH-F4-24",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.2",
+      "pagina_manual": 56,
+      "dificultad": "difícil",
+      "pregunta": "Una compañía diseña un puesto nuevo y decide preguntar a profesionales experimentados; para una tarea existente, solicita diarios a varios empleados para observar variabilidad, pero teme omisiones. ¿Qué diagnóstico de métodos corresponde?",
+      "opciones": {
+        "A": "Opinión experta para el puesto nuevo y diarios de trabajo para el existente, con riesgo de registros incompletos o exagerados.",
+        "B": "Cuestionarios anónimos para el nuevo y una evaluación 360 grados para el existente, sin necesidad de registrar tareas.",
+        "C": "Observación directa en ambos, porque todos los expertos deben observar y los diarios eliminan la subjetividad.",
+        "D": "Entrevistas de selección para el nuevo y profesiograma para el existente, sin fase de análisis de tareas."
+      },
+      "correcta": "A",
+      "explicacion": "El manual sugiere opinión experta en nuevos puestos y explica que los diarios pueden contener omisiones o sobredimensionar tareas."
+    },
+    {
+      "id": "RRHH-F4-25",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.2",
+      "pagina_manual": 27,
+      "dificultad": "difícil",
+      "pregunta": "Un grupo empresarial confunde dos principios ISO 26000. En un supuesto, divulga información clara y veraz a los interesados; en otro, reconoce públicamente impactos negativos de sus actuaciones y asume responsabilidad por ellos. ¿Cuál es la clasificación correcta?",
+      "opciones": {
+        "A": "Respeto a las partes interesadas en ambos, porque la información y la aceptación de responsabilidad son equivalentes.",
+        "B": "Transparencia en el primero y rendición de cuentas en el segundo.",
+        "C": "Rendición de cuentas en el primero y transparencia exclusivamente en el segundo.",
+        "D": "Comportamiento ético en el primero y respeto a la normativa internacional en el segundo."
+      },
+      "correcta": "B",
+      "explicacion": "Transparencia facilita información fiable; rendición de cuentas obliga a reconocer, medir y asumir responsabilidad por los impactos organizativos."
+    },
+    {
+      "id": "RRHH-F4-26",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.5",
+      "pagina_manual": 60,
+      "dificultad": "muy difícil",
+      "pregunta": "En la fase de ejecución de una entrevista, la persona seleccionadora pasa de preguntas generales que estimulan respuestas amplias a informar del puesto y resolver dudas de quien participa. ¿Qué subfases está recorriendo?",
+      "opciones": {
+        "A": "De la intermedia a la final.",
+        "B": "De la inicial a la verificación contractual, que sustituye al cierre de entrevista.",
+        "C": "De la preparación previa a la valoración de conclusiones, sin entrar en la ejecución.",
+        "D": "De la final a la inicial."
+      },
+      "correcta": "A",
+      "explicacion": "Durante la ejecución, la fase intermedia busca datos mediante preguntas; la final presenta el puesto y permite aclarar dudas."
+    },
+    {
+      "id": "RRHH-F4-27",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.5",
+      "pagina_manual": 43,
+      "dificultad": "difícil",
+      "pregunta": "Durante un mes hay 12.000 horas previstas, 360 de ausencia justificada y 240 injustificadas. Un informe confunde el índice total con el de ausencias justificadas. ¿Cuál es la comparación correcta?",
+      "opciones": {
+        "A": "Absentismo total del 2 % y justificado del 3 %.",
+        "B": "Absentismo total del 3 % y justificado del 5 %.",
+        "C": "Absentismo total del 5 % y justificado del 2 %.",
+        "D": "Absentismo total del 5 % y justificado del 3 %."
+      },
+      "correcta": "D",
+      "explicacion": "Total = (360+240)/12.000×100 = 5 %; justificado = 360/12.000×100 = 3 %."
+    },
+    {
+      "id": "RRHH-F4-28",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.4",
+      "pagina_manual": 14,
+      "dificultad": "media-alta",
+      "pregunta": "Un grupo de interés propone una demanda común que beneficia económicamente a varios colectivos, pero vulnera derechos de otros. ¿Qué secuencia de gestión ética impide tratar la mera coincidencia como una justificación suficiente?",
+      "opciones": {
+        "A": "La descripción inicial de intereses garantiza por sí misma que todos son compatibles con los principios éticos.",
+        "B": "La coincidencia de intereses obliga a aceptarlos directamente porque la unión de grupos sustituye la legitimación.",
+        "C": "Tras analizar y agrupar los intereses debe valorarse su legitimidad moral antes de elegir una respuesta ética adecuada.",
+        "D": "Primero se adopta la respuesta moral y después, si resulta necesario, se identifican los grupos afectados."
+      },
+      "correcta": "C",
+      "explicacion": "El procedimiento distingue compartir un interés de comprobar su legitimidad: la respuesta debe respetar intereses moralmente aceptables."
+    },
+    {
+      "id": "RRHH-F4-29",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 21,
+      "dificultad": "media-alta",
+      "pregunta": "Una organización cumple las leyes aplicables y genera ingresos, pero tolera un perjuicio evitable a un colectivo porque no existe prohibición expresa. ¿Qué responsabilidad de Carroll está desatendiendo principalmente?",
+      "opciones": {
+        "A": "La económica, pues producir bienes y obtener beneficios queda prohibido cuando existe cualquier riesgo.",
+        "B": "La legal, porque toda conducta moralmente cuestionable constituye automáticamente un delito sancionado.",
+        "C": "La filantrópica, entendida como la obligación de realizar donaciones antes de cualquier decisión comercial.",
+        "D": "La ética, que reclama comportamientos justos y razonables más allá del mínimo exigible legalmente."
+      },
+      "correcta": "D",
+      "explicacion": "El nivel ético de Carroll va más allá de cumplir normas: requiere actuar correctamente y minimizar daños a los grupos vinculados a la empresa."
+    },
+    {
+      "id": "RRHH-F4-30",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.9",
+      "pagina_manual": 87,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa distingue una promoción por la autoridad que decide el ascenso de otra clasificación por el cambio de categoría. ¿Qué afirmación combina adecuadamente ambos criterios?",
+      "opciones": {
+        "A": "Las cuatro etiquetas son sinónimas del mismo criterio de antigüedad en el puesto.",
+        "B": "Objetiva equivale siempre a horizontal y subjetiva equivale siempre a vertical.",
+        "C": "Objetiva/subjetiva describe cómo se decide la promoción; horizontal/vertical describe la naturaleza del cambio de puesto.",
+        "D": "Horizontal/subjetiva son incentivos monetarios y vertical/objetiva medidas de conciliación."
+      },
+      "correcta": "C",
+      "explicacion": "El manual distingue dos ejes diferentes: procedimiento de designación y tipo de movilidad profesional."
+    }
+  ]
+}

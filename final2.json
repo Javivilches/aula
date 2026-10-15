@@ -1,0 +1,517 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "Repaso integral: temas 1 a 5",
+  "test": "Simulacro 2 — Nivel normal-alto",
+  "preguntas": [
+    {
+      "id": "RRHH-F2-01",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.3",
+      "pagina_manual": 29,
+      "dificultad": "fácil",
+      "pregunta": "Una iniciativa mejora de manera verificable la calidad de vida local, puede reproducirse en otra organización y se sostiene con recursos viables. ¿Qué clasificación es más apropiada?",
+      "opciones": {
+        "A": "Una buena práctica empresarial conforme a varias condiciones del manual.",
+        "B": "Un sistema de dirección autocrática.",
+        "C": "Una norma legal universal de aplicación obligatoria.",
+        "D": "Un código ético reducido a declaraciones de intención."
+      },
+      "correcta": "A",
+      "explicacion": "La buena práctica debe aportar mejora tangible, ser sostenible y permitir su intercambio o replicación, entre otros requisitos."
+    },
+    {
+      "id": "RRHH-F2-02",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.5",
+      "pagina_manual": 16,
+      "dificultad": "media-alta",
+      "pregunta": "Un trabajador cumple sus obligaciones, persevera ante un problema y reconoce un error. ¿Qué conjunto de valores representa mejor esas tres conductas?",
+      "opciones": {
+        "A": "Disciplina, innovación y rentabilidad.",
+        "B": "Responsabilidad, perseverancia y autocrítica.",
+        "C": "Creatividad, misión y visión.",
+        "D": "Proactividad, sociabilidad y capacidad financiera."
+      },
+      "correcta": "B",
+      "explicacion": "Responsabilidad es cumplir deberes, perseverancia superar dificultades y autocrítica reconocer y aprender de errores."
+    },
+    {
+      "id": "RRHH-F2-03",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.13",
+      "pagina_manual": 71,
+      "dificultad": "media",
+      "pregunta": "Una consultora identifica profesionales que encajan en una vacante y toma la iniciativa de contactar con ellos, aunque no hayan presentado candidatura. ¿Qué técnica está aplicando?",
+      "opciones": {
+        "A": "Una recepción pasiva de candidaturas internas.",
+        "B": "Outplacement de trabajadores ya despedidos.",
+        "C": "Headhunting o búsqueda directa de talento.",
+        "D": "Un plan de mentoring posterior a la incorporación."
+      },
+      "correcta": "C",
+      "explicacion": "El headhunter localiza perfiles ajustados a la vacante y los contacta por iniciativa propia."
+    },
+    {
+      "id": "RRHH-F2-04",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.4",
+      "pagina_manual": 33,
+      "dificultad": "fácil",
+      "pregunta": "Un órgano interno revisa periódicamente el código ético de la empresa y resuelve discrepancias sobre su aplicación. ¿Cuál es el instrumento organizativo descrito?",
+      "opciones": {
+        "A": "El balance social.",
+        "B": "Un portal de reclutamiento 2.0.",
+        "C": "El servicio público de empleo.",
+        "D": "El comité de ética."
+      },
+      "correcta": "D",
+      "explicacion": "Los comités de ética controlan la implantación del código, estudian cambios y pueden resolver conflictos éticos."
+    },
+    {
+      "id": "RRHH-F2-05",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.8",
+      "pagina_manual": 66,
+      "dificultad": "media-alta",
+      "pregunta": "Una entidad necesita observar cómo cooperan varios aspirantes y cómo gestionan desacuerdos durante una actividad conjunta. ¿Qué prueba resulta más indicada?",
+      "opciones": {
+        "A": "Una dinámica de grupo.",
+        "B": "Una evaluación médica de aptitud física.",
+        "C": "Una prueba individual de razonamiento numérico.",
+        "D": "Una revisión automática del nivel de estudios declarado."
+      },
+      "correcta": "A",
+      "explicacion": "Las dinámicas permiten observar cooperación, participación, comportamiento y control emocional en equipo."
+    },
+    {
+      "id": "RRHH-F2-06",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.3",
+      "pagina_manual": 40,
+      "dificultad": "media-alta",
+      "pregunta": "Una compañía recibe una consulta de una asociación de clientes y después publica un comunicado para proyectar sus compromisos empresariales. ¿Qué formas de comunicación externa se identifican respectivamente?",
+      "opciones": {
+        "A": "Ambiental en la recepción de información y corporativa en la emisión de información al exterior.",
+        "B": "Corporativa en la recepción y ambiental en la emisión.",
+        "C": "Informal en ambos casos, porque intervienen personas ajenas a la organización.",
+        "D": "Horizontal en la recepción y ascendente en la emisión."
+      },
+      "correcta": "A",
+      "explicacion": "La comunicación ambiental es información que llega del exterior a la empresa; la corporativa es la que la empresa transmite fuera para proyectar su imagen."
+    },
+    {
+      "id": "RRHH-F2-07",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.5",
+      "pagina_manual": 61,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa cubre un puesto vacante con una persona ya contratada que asciende a una categoría de mayor responsabilidad. ¿Qué modalidad de reclutamiento y movilidad combina?",
+      "opciones": {
+        "A": "Reclutamiento externo sin modificación de la plantilla.",
+        "B": "Reclutamiento interno con movilidad horizontal.",
+        "C": "Reclutamiento interno con movilidad vertical.",
+        "D": "Reclutamiento externo con movilidad horizontal."
+      },
+      "correcta": "C",
+      "explicacion": "Se recurre al personal de la propia empresa y el ascenso implica movilidad vertical."
+    },
+    {
+      "id": "RRHH-F2-08",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.3",
+      "pagina_manual": 78,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa quiere que pequeños equipos resuelvan una situación simulada semejante a las que afrontarían en su trabajo diario. ¿Qué método se ajusta mejor?",
+      "opciones": {
+        "A": "Estudio de caso.",
+        "B": "Exposición magistral sin participación de los asistentes.",
+        "C": "Entrenamiento individual mediante coaching.",
+        "D": "Desempeño temporal de otro puesto por routing."
+      },
+      "correcta": "A",
+      "explicacion": "El estudio de caso propone analizar una situación o simulación y resolverla con participación activa y trabajo en equipo."
+    },
+    {
+      "id": "RRHH-F2-09",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.5",
+      "pagina_manual": 43,
+      "dificultad": "media",
+      "pregunta": "En un periodo de 8.000 horas laborales se producen 240 horas de ausencia: 80 justificadas y el resto injustificadas. ¿Qué porcentaje de absentismo justificado resulta?",
+      "opciones": {
+        "A": "3 %.",
+        "B": "2 %.",
+        "C": "0,5 %.",
+        "D": "1 %."
+      },
+      "correcta": "D",
+      "explicacion": "Para el absentismo justificado se dividen 80 horas entre las 8.000 previstas y se multiplica por 100: 1 %."
+    },
+    {
+      "id": "RRHH-F2-10",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.7",
+      "pagina_manual": 83,
+      "dificultad": "media",
+      "pregunta": "Una evaluación establece el objetivo de entregar 95 expedientes al mes y otro de mejorar la calidad de la coordinación interdepartamental. ¿Cómo se clasifican, respectivamente?",
+      "opciones": {
+        "A": "Cualitativo y cuantitativo.",
+        "B": "Cuantitativo y cualitativo.",
+        "C": "Dos objetivos que no admiten evaluación del desempeño.",
+        "D": "Dos indicadores exclusivamente cualitativos."
+      },
+      "correcta": "B",
+      "explicacion": "Un resultado numérico de producción es cuantitativo; la calidad de coordinación es un objetivo cualitativo de gestión."
+    },
+    {
+      "id": "RRHH-F2-11",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 22,
+      "dificultad": "media-alta",
+      "pregunta": "Una compañía financia formación medioambiental, reduce consumos y promueve tecnologías menos contaminantes. ¿Qué principios del Pacto Mundial abarcan esa orientación?",
+      "opciones": {
+        "A": "El principio 10 sobre anticorrupción.",
+        "B": "Los principios 1 y 2 sobre derechos humanos.",
+        "C": "Los principios 7, 8 y 9 sobre medio ambiente.",
+        "D": "Los principios 3 a 6 relativos a normas laborales."
+      },
+      "correcta": "C",
+      "explicacion": "En el Pacto Mundial, los principios 7, 8 y 9 abordan la protección, responsabilidad y tecnología ambiental."
+    },
+    {
+      "id": "RRHH-F2-12",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.9",
+      "pagina_manual": 87,
+      "dificultad": "media-alta",
+      "pregunta": "En una política de promoción, el ascenso se asigna según méritos y antigüedad previamente baremados, sin propuesta directa del superior. ¿Qué sistema se emplea?",
+      "opciones": {
+        "A": "Promoción subjetiva.",
+        "B": "Reconocimiento público sin promoción.",
+        "C": "Rotación horizontal sin cambio de categoría.",
+        "D": "Promoción objetiva."
+      },
+      "correcta": "D",
+      "explicacion": "La promoción objetiva se determina según criterios como formación, méritos y antigüedad sin designación directa del superior."
+    },
+    {
+      "id": "RRHH-F2-13",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "media",
+      "pregunta": "Dos áreas de una empresa elaboran objetivos futuros coherentes con sus valores, pero aún no han precisado hacia dónde quiere avanzar el conjunto de la organización. ¿Qué finalidad de la dirección por valores deben desarrollar?",
+      "opciones": {
+        "A": "Personificar el acto de vender mediante la relación con acreedores.",
+        "B": "Sustituir la planificación por la valoración de beneficios pasados.",
+        "C": "Orientar la visión estratégica de la empresa.",
+        "D": "Transferir al personal operativo el papel jurídico de los propietarios."
+      },
+      "correcta": "C",
+      "explicacion": "La dirección por valores busca orientar la visión estratégica, definiendo la dirección futura compartida."
+    },
+    {
+      "id": "RRHH-F2-14",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.3",
+      "pagina_manual": 58,
+      "dificultad": "media",
+      "pregunta": "Al redactar un perfil para un puesto vacante, ¿qué colaboración recomienda el manual para concretar capacidades y competencias?",
+      "opciones": {
+        "A": "Solo los proveedores externos de material de oficina.",
+        "B": "Exclusivamente el órgano encargado de registrar las contrataciones.",
+        "C": "Únicamente los candidatos interesados, sin intervención de la empresa.",
+        "D": "La persona de selección y el responsable del departamento que conoce las tareas del puesto."
+      },
+      "correcta": "D",
+      "explicacion": "El responsable del área vacante conoce directamente las funciones; la coordinación con selección ayuda a diseñar un perfil adecuado."
+    },
+    {
+      "id": "RRHH-F2-15",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.6",
+      "pagina_manual": 45,
+      "dificultad": "media",
+      "pregunta": "Se registra una carta acompañada de varios documentos. ¿En qué campo del libro de registro debe constar esa circunstancia?",
+      "opciones": {
+        "A": "En el apartado de habilidades profesionales del trabajador.",
+        "B": "En la numeración de la categoría profesional.",
+        "C": "En anexos u observaciones.",
+        "D": "En el índice de absentismo del remitente."
+      },
+      "correcta": "C",
+      "explicacion": "El libro debe incluir anexos u observaciones para indicar si la carta lleva documentación adicional."
+    },
+    {
+      "id": "RRHH-F2-16",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.1",
+      "pagina_manual": 11,
+      "dificultad": "media",
+      "pregunta": "Una campaña sectorial explica al público que mejorar el gobierno corporativo puede fomentar la inversión en las empresas. ¿Qué finalidad del concurso de buen gobierno representa?",
+      "opciones": {
+        "A": "Atribuir la función de dirección cotidiana a cada accionista individualmente.",
+        "B": "Limitar la transparencia a informes remitidos exclusivamente a proveedores.",
+        "C": "Concienciar sobre la adopción de buenas prácticas para incentivar inversiones.",
+        "D": "Sustituir las decisiones de gestión por una votación de todos los consumidores."
+      },
+      "correcta": "C",
+      "explicacion": "Entre los objetivos enumerados por el manual figura promover que los empresarios adopten buenas prácticas para estimular la inversión."
+    },
+    {
+      "id": "RRHH-F2-17",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.2",
+      "pagina_manual": 28,
+      "dificultad": "media",
+      "pregunta": "Una empresa actúa para evitar discriminación en la contratación y reduce residuos en sus instalaciones productivas. ¿Cómo se clasifica el alcance de ambas actuaciones dentro de la RSC?",
+      "opciones": {
+        "A": "Ambas pertenecen solo a dimensión externa por afectar también a la sociedad.",
+        "B": "Son ejemplos de dimensión interna, que incluye personal y aspectos ambientales de la producción.",
+        "C": "No se consideran RSC porque se refieren a procesos de la propia organización.",
+        "D": "La contratación corresponde siempre a la dimensión externa y la producción a la internacional."
+      },
+      "correcta": "B",
+      "explicacion": "La dimensión interna incluye relaciones con trabajadores y aspectos medioambientales ligados a producir bienes."
+    },
+    {
+      "id": "RRHH-F2-18",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.7",
+      "pagina_manual": 46,
+      "dificultad": "fácil",
+      "pregunta": "RR. HH. recibe nuevos datos bancarios de un empleado. ¿Qué actuación reúne los criterios que establece el manual para el tratamiento de esa información?",
+      "opciones": {
+        "A": "Utilizarlos también para campañas comerciales no relacionadas con el trabajo.",
+        "B": "Conservar simultáneamente versiones contradictorias sin comprobación posterior.",
+        "C": "Divulgarlos a toda la plantilla para garantizar transparencia interna.",
+        "D": "Actualizar los datos solo para los fines necesarios y mantener su confidencialidad."
+      },
+      "correcta": "D",
+      "explicacion": "La recogida se limita a las necesidades del área y deben garantizarse actualización, privacidad y confidencialidad."
+    },
+    {
+      "id": "RRHH-F2-19",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "fácil",
+      "pregunta": "La dirección negocia medidas con asociaciones vecinales para favorecer empleo en la zona. ¿Qué interés específico se está atendiendo?",
+      "opciones": {
+        "A": "El de las entidades financieras, referido a liquidez y solvencia.",
+        "B": "El de los clientes, ligado exclusivamente al servicio posventa.",
+        "C": "El de los accionistas, limitado al ejercicio de derechos políticos.",
+        "D": "El del entorno social próximo, vinculado al desarrollo local y al empleo."
+      },
+      "correcta": "D",
+      "explicacion": "El manual vincula el entorno social próximo con el desarrollo local y la creación de empleo."
+    },
+    {
+      "id": "RRHH-F2-20",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.6",
+      "pagina_manual": 64,
+      "dificultad": "media",
+      "pregunta": "En una oferta de empleo se detallan cuatro funciones que realizará quien ocupe la vacante y el objetivo empresarial al que contribuyen. ¿A qué elemento de la oferta pertenece?",
+      "opciones": {
+        "A": "Título abreviado de la oferta.",
+        "B": "Descripción del puesto.",
+        "C": "Dirección para enviar currículos.",
+        "D": "Presentación de servicios de outplacement."
+      },
+      "correcta": "B",
+      "explicacion": "La descripción del puesto especifica las tareas previstas; el manual aconseja indicar entre tres y siete vinculadas con objetivos de la empresa."
+    },
+    {
+      "id": "RRHH-F2-21",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.5",
+      "pagina_manual": 80,
+      "dificultad": "media",
+      "pregunta": "Un organismo público actualiza cada año su programa de formación para responder a las necesidades de sus servicios y a novedades tecnológicas. ¿Qué dos rasgos del manual muestra con claridad?",
+      "opciones": {
+        "A": "Carácter exclusivamente voluntario y no planificado.",
+        "B": "Carácter sistemático e innovador.",
+        "C": "Carácter retributivo y externo de selección de personal.",
+        "D": "Carácter ocasional y desvinculado de las funciones públicas."
+      },
+      "correcta": "B",
+      "explicacion": "La formación pública debe responder a necesidades de los servicios (sistemática) y ajustarse a cambios tecnológicos (innovadora)."
+    },
+    {
+      "id": "RRHH-F2-22",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.1",
+      "pagina_manual": 10,
+      "dificultad": "media",
+      "pregunta": "Una entidad define que existe para ofrecer servicios de atención a personas mayores; posteriormente fija que desea ser referencia nacional dentro de cinco años. ¿Cómo clasifica correctamente ambas afirmaciones?",
+      "opciones": {
+        "A": "La primera formula los valores y la segunda la misión.",
+        "B": "La primera formula la visión y la segunda los valores.",
+        "C": "Ambas son valores porque se refieren a cuestiones propias de la empresa.",
+        "D": "La primera formula la misión y la segunda la visión."
+      },
+      "correcta": "D",
+      "explicacion": "La misión expresa la razón de ser y actividad; la visión define los logros futuros que se persiguen."
+    },
+    {
+      "id": "RRHH-F2-23",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 26,
+      "dificultad": "media-alta",
+      "pregunta": "Una organización valora qué organismo promueve el diálogo social a escala internacional y reúne representantes de gobiernos, empleadores y sindicatos. ¿Cuál es?",
+      "opciones": {
+        "A": "La Fundación Europea para la Gestión de la Calidad, dedicada exclusivamente a certificar acuerdos laborales.",
+        "B": "Un comité interno de ética de una empresa privada.",
+        "C": "La Organización Internacional del Trabajo (OIT).",
+        "D": "El organismo emisor de la norma UNE 16001."
+      },
+      "correcta": "C",
+      "explicacion": "La OIT tiene carácter tripartito y promueve los derechos, el empleo, la protección y el diálogo sociales mediante su programa de trabajo decente."
+    },
+    {
+      "id": "RRHH-F2-24",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.8",
+      "pagina_manual": 49,
+      "dificultad": "media",
+      "pregunta": "Un departamento utiliza una plataforma para gestionar las actividades de aprendizaje a distancia y otra para crear y administrar el contenido didáctico de los cursos. ¿Cómo las denomina el manual?",
+      "opciones": {
+        "A": "LMS para gestionar la formación y LCMS para gestionar sus contenidos.",
+        "B": "LCMS para gestionar la formación y B2E para crear contenidos e-learning.",
+        "C": "B2E para diseñar cursos y LCMS para administrar cotizaciones a la Seguridad Social.",
+        "D": "SIRH para crear contenidos y LMS para registrar exclusivamente nóminas."
+      },
+      "correcta": "A",
+      "explicacion": "Los LMS sirven para gestionar formación no presencial; las plataformas LCMS se centran en crear y administrar contenidos e-learning."
+    },
+    {
+      "id": "RRHH-F2-25",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.2",
+      "pagina_manual": 56,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa pide a los propios ocupantes que respondan de forma anónima a preguntas estructuradas sobre tareas y responsabilidades. ¿Qué técnica de análisis de puestos está utilizando?",
+      "opciones": {
+        "A": "La entrevista presencial de selección.",
+        "B": "El cuestionario.",
+        "C": "La observación directa.",
+        "D": "El diario de trabajo llevado exclusivamente por la jefatura."
+      },
+      "correcta": "B",
+      "explicacion": "El cuestionario solicita respuestas estructuradas y puede ser anónimo, evitando parte de la presión de la entrevista presencial."
+    },
+    {
+      "id": "RRHH-F2-26",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 21,
+      "dificultad": "media",
+      "pregunta": "Un ayuntamiento y una asociación sin ánimo de lucro aplican políticas de responsabilidad social. ¿Qué denominaciones específicas recoge el manual para ambos?",
+      "opciones": {
+        "A": "Responsabilidad social de la administración pública (RSA) y organizacional (RSO), respectivamente.",
+        "B": "Ambas se denominan exclusivamente responsabilidad filantrópica.",
+        "C": "Responsabilidad social empresarial (RSE) y responsabilidad exclusivamente legal, respectivamente.",
+        "D": "Responsabilidad social organizacional (RSO) y empresarial (RSE), respectivamente."
+      },
+      "correcta": "A",
+      "explicacion": "El manual distingue RSA para administraciones públicas y RSO para entidades sin ánimo de lucro, aunque las siglas se usan a veces de modo amplio."
+    },
+    {
+      "id": "RRHH-F2-27",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.1",
+      "pagina_manual": 74,
+      "dificultad": "media",
+      "pregunta": "Para recoger necesidades formativas de muchos empleados, una empresa prepara formularios que permiten puntuar anónimamente sus conocimientos. ¿Qué técnica está empleando?",
+      "opciones": {
+        "A": "Encuestas.",
+        "B": "Reuniones grupales sin registro escrito.",
+        "C": "Análisis retrospectivo de fallos en un puesto concreto.",
+        "D": "Observación cotidiana por parte de mandos intermedios."
+      },
+      "correcta": "A",
+      "explicacion": "Las encuestas permiten recabar opiniones y autovaloraciones por escrito y de manera anónima."
+    },
+    {
+      "id": "RRHH-F2-28",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.2",
+      "pagina_manual": 37,
+      "dificultad": "media",
+      "pregunta": "Una responsable gestiona vacaciones y permisos, tramita nóminas y organiza el control de absentismo. ¿A qué conjunto de funciones asigna esas tareas el manual?",
+      "opciones": {
+        "A": "Servicios sociales, limitados a actividades recreativas.",
+        "B": "Desarrollo de personal, que incluye tareas administrativas relacionadas con la plantilla.",
+        "C": "Retribución, entendida exclusivamente como diseño de categorías salariales.",
+        "D": "Empleo, circunscrito a la planificación de nuevas contrataciones."
+      },
+      "correcta": "B",
+      "explicacion": "En el apartado 3.2.1 estas tareas se agrupan bajo desarrollo de personal, una clasificación específica del manual."
+    },
+    {
+      "id": "RRHH-F2-29",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.4",
+      "pagina_manual": 15,
+      "dificultad": "media-alta",
+      "pregunta": "Una compañía elimina el trabajo infantil en su cadena de producción y facilita el ejercicio de la negociación colectiva. ¿En qué dimensión de los principios éticos del tema se enmarcan ambas decisiones?",
+      "opciones": {
+        "A": "Cumplimiento de una política de incentivos por productividad.",
+        "B": "Cuidado exclusivo de la imagen gráfica corporativa.",
+        "C": "Respeto de derechos laborales fundamentales.",
+        "D": "Protección ambiental mediante reducción de residuos."
+      },
+      "correcta": "C",
+      "explicacion": "Abolición del trabajo infantil y negociación colectiva están recogidas entre los principios laborales de la OIT del manual."
+    },
+    {
+      "id": "RRHH-F2-30",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.2",
+      "pagina_manual": 77,
+      "dificultad": "media",
+      "pregunta": "Al presupuestar un curso, ¿cómo se clasifica el tiempo administrativo que se dedica habitualmente a organizar los planes formativos?",
+      "opciones": {
+        "A": "Retribución asociada a una promoción automática.",
+        "B": "Coste indirecto.",
+        "C": "Bonificación ya deducida de las cotizaciones.",
+        "D": "Coste directo del profesor en el aula."
+      },
+      "correcta": "B",
+      "explicacion": "Las tareas administrativas ordinarias de organización forman parte de los costes indirectos de la formación."
+    }
+  ]
+}

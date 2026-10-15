@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#111b33">
+  <meta name="description" content="Mi Aula. Resúmenes y test para preparar tus exámenes de ILERNA.">
+  <title>Mi Aula · Tu espacio de estudio</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23111b33'/%3E%3Cpath d='M17 44L32 16l15 28M23 33h18' stroke='%23e9c98d' stroke-width='6' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <svg class="svg-defs" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="i-arrow-left" viewBox="0 0 24 24"><path d="m12 19-7-7 7-7M5 12h14"/></symbol>
+    <symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M5 12h14m-7-7 7 7-7 7"/></symbol>
+    <symbol id="i-chevron-down" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M12 7c-3-2-7-2-10-1v14c3-1 7-1 10 1 3-2 7-2 10-1V6c-3-1-7-1-10 1Zm0 0v14"/></symbol>
+    <symbol id="i-file" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8Zm0 0v6h6M8 13h8M8 17h8"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 5 5L20 7"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></symbol>
+    <symbol id="i-circle-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></symbol>
+    <symbol id="i-award" viewBox="0 0 24 24"><circle cx="12" cy="8" r="5"/><path d="M8.2 12.5 7 22l5-3 5 3-1.2-9.5"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24"><path d="M8 5v14l12-7z"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12m-5-5 5 5 5-5M4 17v3h16v-3"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9M20 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h5"/></symbol>
+    <symbol id="i-lock" viewBox="0 0 24 24"><rect x="5" y="10" width="14" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/></symbol>
+    <symbol id="i-rotate" viewBox="0 0 24 24"><path d="M3 11a9 9 0 1 1 2 6M3 4v7h7"/></symbol>
+    <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1"/></symbol>
+    <symbol id="i-sparkle" viewBox="0 0 24 24"><path d="m12 2 2.5 7.5L22 12l-7.5 2.5L12 22l-2.5-7.5L2 12l7.5-2.5L12 2Z"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 22c6-3 8-6 8-12V5l-8-3-8 3v5c0 6 2 9 8 12Z"/><path d="m9 12 2 2 4-4"/></symbol>
+  </svg>
+  <a class="skip-link" href="#app">Saltar al contenido</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <button class="brand" type="button" data-action="home" aria-label="Ir al inicio">
+        <span class="brand-mark">A<span class="brand-dot">.</span></span>
+        <span class="brand-text"><strong>Mi Aula</strong><small>Tu espacio de estudio</small></span>
+      </button>
+      <div class="header-right"><span class="header-mini-dot"></span><span>PREPARACIÓN ILERNA</span></div>
+    </div>
+  </header>
+  <main class="container app-container" id="app" tabindex="-1"></main>
+  <footer class="site-footer"><div class="container footer-inner"><span>MI AULA <span class="footer-gold">/</span> Un lugar para aprender a tu ritmo.</span><span>Estudia · Practica · Avanza</span></div></footer>
+  <dialog id="confirm-dialog" class="modal" aria-labelledby="confirm-title">
+    <div class="modal-icon"><svg class="icon"><use href="#i-target"></use></svg></div>
+    <h2 id="confirm-title">¿Corregimos el test?</h2>
+    <p id="confirm-text"></p>
+    <div class="modal-actions">
+      <button class="button button-ghost" type="button" id="cancel-submit">Seguir respondiendo</button>
+      <button class="button button-primary" type="button" id="confirm-submit">Corregir ahora</button>
+    </div>
+  </dialog>
+  <script src="js/app.js" defer></script>
+</body>
+</html>

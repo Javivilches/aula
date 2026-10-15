@@ -1,0 +1,347 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "1. Análisis de la empresa como comunidad de personas",
+  "test": "Test 1 — Nivel normal",
+  "preguntas": [
+    {
+      "id": "RRHH-T1-N-01",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1",
+      "pagina_manual": 9,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué justifica que la empresa se considere un sujeto moral?",
+      "opciones": {
+        "A": "Que sus decisiones pueden afectar a personas y a la sociedad, por lo que tienen una dimensión ética.",
+        "B": "Que tiene personalidad jurídica, con independencia de los efectos de sus decisiones.",
+        "C": "Que la responsabilidad ética corresponde exclusivamente a cada empleado, no a la organización.",
+        "D": "Que sus decisiones solo deben evaluarse por su rentabilidad económica."
+      },
+      "correcta": "A",
+      "explicacion": "La empresa es una comunidad de personas cuyas decisiones repercuten en otras personas y en la sociedad; por ello se considera sujeto moral. La personalidad jurídica, por sí sola, no explica esa dimensión ética."
+    },
+    {
+      "id": "RRHH-T1-N-02",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1",
+      "pagina_manual": 10,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué concepto expresa las metas que una empresa quiere alcanzar en el futuro?",
+      "opciones": {
+        "A": "La misión.",
+        "B": "Los valores.",
+        "C": "La visión.",
+        "D": "La ética interna."
+      },
+      "correcta": "C",
+      "explicacion": "La visión define las metas y objetivos futuros. La misión describe la razón de ser y los valores son los principios que guían la conducta."
+    },
+    {
+      "id": "RRHH-T1-N-03",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1",
+      "pagina_manual": 11,
+      "dificultad": "media",
+      "pregunta": "Una empresa revisa sus normas de gestión y la forma en que trata a sus trabajadores para comprobar que se ajustan a sus valores. ¿Qué dimensión está examinando principalmente?",
+      "opciones": {
+        "A": "La ética externa, centrada en los vínculos con agentes ajenos a la empresa.",
+        "B": "La ética interna, vinculada a la gestión y al funcionamiento de la organización.",
+        "C": "La imagen corporativa, entendida como la percepción que tiene el mercado.",
+        "D": "La ética externa, porque cualquier actuación empresarial repercute en la sociedad."
+      },
+      "correcta": "B",
+      "explicacion": "El foco está en la gestión y las relaciones dentro de la empresa, propias de la ética interna. La ética externa se refiere a relaciones con clientes, proveedores y otros agentes ajenos."
+    },
+    {
+      "id": "RRHH-T1-N-04",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1",
+      "pagina_manual": 11,
+      "dificultad": "media",
+      "pregunta": "Una empresa debe decidir cómo informar a sus accionistas y cómo administrar sus recursos. ¿Qué decisión refleja mejor el buen gobierno corporativo?",
+      "opciones": {
+        "A": "Comunicar solo los resultados favorables para proteger la confianza de los inversores.",
+        "B": "Priorizar el aumento del valor empresarial aunque se reduzca la transparencia.",
+        "C": "Reservar las decisiones sobre recursos únicamente al área comercial.",
+        "D": "Facilitar información transparente y buscar un uso eficiente de los recursos."
+      },
+      "correcta": "D",
+      "explicacion": "El buen gobierno corporativo se apoya, entre otros principios, en la transparencia, la creación de valor y el uso eficiente de los recursos."
+    },
+    {
+      "id": "RRHH-T1-N-05",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "fácil",
+      "pregunta": "La personificación del acto de comprar se refiere principalmente a la relación de la empresa con...",
+      "opciones": {
+        "A": "sus empleados.",
+        "B": "sus clientes.",
+        "C": "sus competidores.",
+        "D": "sus proveedores."
+      },
+      "correcta": "D",
+      "explicacion": "El acto de comprar se desarrolla en la relación con proveedores, de quienes se adquieren materiales y recursos."
+    },
+    {
+      "id": "RRHH-T1-N-06",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "media",
+      "pregunta": "¿Cuál de estas situaciones corresponde a la personificación del trabajo operativo?",
+      "opciones": {
+        "A": "Un empleado desarrolla las tareas de producción conforme a sus responsabilidades.",
+        "B": "Un accionista decide mantener su inversión en la sociedad.",
+        "C": "Un responsable negocia la adquisición de materias primas.",
+        "D": "Un directivo fija los objetivos generales del próximo ejercicio."
+      },
+      "correcta": "A",
+      "explicacion": "El trabajo operativo comprende las actividades y comportamientos de los operarios en el desempeño de sus tareas."
+    },
+    {
+      "id": "RRHH-T1-N-07",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "media-alta",
+      "pregunta": "La dirección de una empresa conecta sus objetivos estratégicos con la política de personal para aumentar la implicación profesional y emocional de la plantilla. ¿Qué finalidad de la dirección por valores aplica?",
+      "opciones": {
+        "A": "Orientar la visión estratégica, sin modificar la política de personal.",
+        "B": "Simplificar la complejidad organizativa mediante la reducción de niveles jerárquicos.",
+        "C": "Integrar la dirección estratégica y la gestión de recursos humanos.",
+        "D": "Potenciar la creatividad individual y colectiva como objetivo principal."
+      },
+      "correcta": "C",
+      "explicacion": "La integración entre estrategia y recursos humanos busca una mayor implicación profesional y emocional de los trabajadores. Las otras opciones son finalidades distintas de la DpV."
+    },
+    {
+      "id": "RRHH-T1-N-08",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "media",
+      "pregunta": "Un equipo pierde motivación porque sus objetivos son inalcanzables. Según la dirección por valores, ¿qué corrección es más adecuada?",
+      "opciones": {
+        "A": "Sustituir las metas por instrucciones de trabajo sin objetivos.",
+        "B": "Establecer metas realistas que resulten alcanzables y estimulantes.",
+        "C": "Mantener las metas para evitar cambios en la visión de la empresa.",
+        "D": "Definir metas exclusivamente económicas sin considerar al personal."
+      },
+      "correcta": "B",
+      "explicacion": "La DpV plantea metas realistas: deben ser alcanzables, pero suficientemente estimulantes para mantener la motivación."
+    },
+    {
+      "id": "RRHH-T1-N-09",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "fácil",
+      "pregunta": "¿Cuál de los siguientes conjuntos está formado exclusivamente por stakeholders internos?",
+      "opciones": {
+        "A": "Clientes, accionistas y empleados.",
+        "B": "Accionistas, directivos y empleados.",
+        "C": "Directivos, proveedores y empleados.",
+        "D": "Accionistas, distribuidores y directivos."
+      },
+      "correcta": "B",
+      "explicacion": "El manual clasifica como internos a accionistas, directivos y empleados. Clientes, proveedores y distribuidores son grupos externos."
+    },
+    {
+      "id": "RRHH-T1-N-10",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "media",
+      "pregunta": "¿Qué aportan principalmente las entidades financieras como grupo de interés externo?",
+      "opciones": {
+        "A": "La distribución comercial de los productos en el mercado.",
+        "B": "La supervisión de las obligaciones tributarias de la empresa.",
+        "C": "Financiación que favorece la liquidez y la solvencia.",
+        "D": "La fijación de la misión y la visión empresariales."
+      },
+      "correcta": "C",
+      "explicacion": "El temario atribuye a las entidades financieras la función de proporcionar financiación, liquidez y solvencia."
+    },
+    {
+      "id": "RRHH-T1-N-11",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "media",
+      "pregunta": "Una empresa revisa los acuerdos con quienes comercializan sus productos a terceros. ¿Qué interés de ese stakeholder debe atender?",
+      "opciones": {
+        "A": "Mantener condiciones equitativas de colaboración y contratación.",
+        "B": "Participar en las decisiones estratégicas como órgano directivo.",
+        "C": "Recibir los derechos económicos propios de los accionistas.",
+        "D": "Determinar las obligaciones fiscales de la organización."
+      },
+      "correcta": "A",
+      "explicacion": "Los distribuidores son grupos externos que colaboran con la empresa y esperan condiciones equitativas en esa relación."
+    },
+    {
+      "id": "RRHH-T1-N-12",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "media-alta",
+      "pregunta": "Una compañía compra componentes, obtiene un préstamo y encarga la comercialización de sus productos a otra empresa. ¿Qué stakeholders aparecen en ese orden?",
+      "opciones": {
+        "A": "Distribuidores, entidades financieras y proveedores.",
+        "B": "Proveedores, accionistas y distribuidores.",
+        "C": "Proveedores, entidades financieras y clientes.",
+        "D": "Proveedores, entidades financieras y distribuidores."
+      },
+      "correcta": "D",
+      "explicacion": "Comprar componentes implica proveedores; el préstamo, entidades financieras; y la comercialización por terceros, distribuidores."
+    },
+    {
+      "id": "RRHH-T1-N-13",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.4",
+      "pagina_manual": 14,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué cambio describe mejor la globalización económica del tema?",
+      "opciones": {
+        "A": "La reducción de las relaciones entre mercados nacionales para proteger la producción local.",
+        "B": "La sustitución de la competencia internacional por relaciones exclusivamente locales.",
+        "C": "La creciente conexión mundial de economías y mercados, impulsada por las comunicaciones.",
+        "D": "La desaparición de la necesidad de principios éticos en los negocios internacionales."
+      },
+      "correcta": "C",
+      "explicacion": "La globalización da una dimensión mundial a economías y mercados, favorecida por las tecnologías de comunicación, y aumenta la competencia internacional."
+    },
+    {
+      "id": "RRHH-T1-N-14",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.4",
+      "pagina_manual": 14,
+      "dificultad": "media",
+      "pregunta": "Una empresa ha identificado los intereses de sus distintos stakeholders. Detecta que trabajadores y vecinos comparten la preocupación por las emisiones de una fábrica y estudia cómo podrían defender ese interés conjuntamente. ¿Qué fase está aplicando principalmente?",
+      "opciones": {
+        "A": "Unión de grupos con intereses comunes.",
+        "B": "Descripción de los intereses particulares de cada grupo.",
+        "C": "Legitimación moral de los intereses identificados.",
+        "D": "Respuesta moral adecuada ante los intereses legítimos."
+      },
+      "correcta": "A",
+      "explicacion": "La unión de grupos consiste en reconocer qué stakeholders comparten intereses y pueden defenderlos conjuntamente. La descripción identifica intereses; la legitimación valora su aceptación moral, y la respuesta moral determina cómo actuar."
+    },
+    {
+      "id": "RRHH-T1-N-15",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.4",
+      "pagina_manual": 14,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa puede abaratar sus productos comprando a un proveedor de otro país que vierte residuos contaminantes. Aunque esa práctica no esté prohibida allí, ¿qué decisión refleja mejor la ética como límite a la competitividad?",
+      "opciones": {
+        "A": "Contratarlo siempre que cumpla la legislación del país donde opera, sin valorar otros efectos.",
+        "B": "Contratarlo y compensar el posible daño con una campaña de imagen corporativa.",
+        "C": "Contratarlo mientras los clientes no manifiesten expresamente su oposición.",
+        "D": "Valorar el impacto ambiental y exigir prácticas sostenibles o elegir otra alternativa, aunque aumenten los costes."
+      },
+      "correcta": "D",
+      "explicacion": "Según el tema, la obtención de beneficios no justifica cualquier actuación, ni siquiera cuando existen vacíos legales o diferencias entre países. La empresa debe aplicar principios éticos y de sostenibilidad en sus relaciones con proveedores."
+    },
+    {
+      "id": "RRHH-T1-N-16",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.4",
+      "pagina_manual": 15,
+      "dificultad": "media",
+      "pregunta": "¿Cuál de estas medidas responde directamente a uno de los principios laborales de la OIT recogidos en el tema?",
+      "opciones": {
+        "A": "Exigir que todos los trabajadores pertenezcan a una misma asociación.",
+        "B": "Eliminar cualquier forma de trabajo forzoso.",
+        "C": "Sustituir la negociación colectiva por acuerdos individuales obligatorios.",
+        "D": "Reservar determinados puestos según características personales ajenas al desempeño."
+      },
+      "correcta": "B",
+      "explicacion": "Entre los principios citados figuran la libertad de asociación, la negociación colectiva, la eliminación del trabajo forzoso, la abolición del trabajo infantil y la no discriminación."
+    },
+    {
+      "id": "RRHH-T1-N-17",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5",
+      "pagina_manual": 16,
+      "dificultad": "media",
+      "pregunta": "Una empleada detecta un riesgo antes de que genere incidencias y propone una solución. ¿Qué valor demuestra principalmente?",
+      "opciones": {
+        "A": "Perseverancia, por mantener el esfuerzo ante las dificultades.",
+        "B": "Disciplina, por cumplir las tareas sin supervisión constante.",
+        "C": "Autocrítica, por reconocer errores ya cometidos.",
+        "D": "Proactividad, por anticiparse y tomar la iniciativa."
+      },
+      "correcta": "D",
+      "explicacion": "La proactividad consiste en anticiparse a problemas, aprovechar oportunidades y tomar la iniciativa."
+    },
+    {
+      "id": "RRHH-T1-N-18",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5",
+      "pagina_manual": 17,
+      "dificultad": "media",
+      "pregunta": "¿Qué relación deben mantener los valores empresariales con la misión y la visión?",
+      "opciones": {
+        "A": "Sustituirlas cuando la empresa ya tiene una cultura consolidada.",
+        "B": "Servirles de soporte ético y orientar las decisiones de la organización.",
+        "C": "Definir únicamente los objetivos económicos de los accionistas.",
+        "D": "Permanecer invariables aunque cambie el contexto sociocultural."
+      },
+      "correcta": "B",
+      "explicacion": "Los valores orientan conductas y decisiones, sirven de soporte ético a la misión y visión y deben poder adaptarse al contexto sociocultural."
+    },
+    {
+      "id": "RRHH-T1-N-19",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5",
+      "pagina_manual": 18,
+      "dificultad": "media",
+      "pregunta": "Una empresa renueva su logotipo y su página web, pero parte del público sigue teniendo una percepción negativa por experiencias anteriores. ¿Qué explica mejor esta situación?",
+      "opciones": {
+        "A": "La identidad corporativa depende únicamente de las opiniones de los consumidores.",
+        "B": "La imagen corporativa se determina solo por los elementos visuales elegidos por la empresa.",
+        "C": "La imagen corporativa es la percepción del público y no está totalmente bajo control empresarial.",
+        "D": "La identidad y la imagen corporativa son equivalentes y siempre cambian al mismo tiempo."
+      },
+      "correcta": "C",
+      "explicacion": "La identidad es lo que la empresa pretende proyectar; la imagen es cómo la percibe realmente el público, influido también por experiencias, medios y stakeholders."
+    },
+    {
+      "id": "RRHH-T1-N-20",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5",
+      "pagina_manual": 19,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa quiere comunicar sus compromisos éticos y conseguir que se apliquen en el trabajo diario. ¿Qué opción relaciona correctamente las tres herramientas destacadas en el tema?",
+      "opciones": {
+        "A": "Cultura: documentar misión, visión y valores; formación: enseñar a aplicarlos; campañas: difundir las buenas prácticas.",
+        "B": "Cultura: definir logotipo y eslogan; formación: enseñar los valores; campañas: difundir las buenas prácticas.",
+        "C": "Cultura: documentar misión y valores; formación: medir el clima laboral con encuestas; campañas: difundir las buenas prácticas.",
+        "D": "Cultura: documentar misión y valores; formación: enseñar a aplicarlos; campañas: medir la satisfacción mediante encuestas internas."
+      },
+      "correcta": "A",
+      "explicacion": "Las tres herramientas destacadas son la construcción y documentación de la cultura empresarial, la formación de los empleados en esos valores y las campañas o programas para difundir buenas prácticas. El logotipo y el eslogan pertenecen a la identidad corporativa, y la evaluación del clima laboral o las encuestas de satisfacción tienen otras funciones."
+    }
+  ]
+}

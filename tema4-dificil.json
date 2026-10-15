@@ -1,0 +1,347 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "4. Aplicación de los procedimientos administrativos relativos a la selección de recursos humanos",
+  "test": "Test 2 — Nivel difícil",
+  "preguntas": [
+    {
+      "id": "RRHH-T4-D-01",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.1",
+      "pagina_manual": 51,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa necesita incorporar durante tres meses a una persona para sustituir una baja. Contrata el servicio de una ETT en lugar de gestionar por sí misma la contratación. Según el manual, ¿cómo se distribuyen las funciones?",
+      "opciones": {
+        "A": "La empresa usuaria contrata laboralmente a la persona, mientras la ETT se limita a realizar la preselección por encargo.",
+        "B": "La ETT propone candidatos, pero el SEPE formaliza el contrato temporal y factura el servicio a la empresa usuaria.",
+        "C": "La ETT contrata a la persona trabajadora y la pone a disposición de la empresa usuaria, que paga por ese servicio.",
+        "D": "La empresa usuaria y la ETT contratan conjuntamente al trabajador y comparten un único contrato laboral."
+      },
+      "correcta": "C",
+      "explicacion": "El manual explica que la ETT contrata al trabajador temporal y lo pone a disposición de una empresa usuaria, que paga por el servicio. Es distinto de una consultora de selección, que asesora en la búsqueda de candidatos, y de la preselección gratuita del servicio público de empleo (p. 51)."
+    },
+    {
+      "id": "RRHH-T4-D-02",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.2",
+      "pagina_manual": 52,
+      "dificultad": "difícil",
+      "pregunta": "Un área prevé dos jubilaciones, una reducción temporal de producción y después un incremento estable de pedidos. ¿Qué actuación responde mejor a la planificación de RR. HH. descrita en el manual?",
+      "opciones": {
+        "A": "Contrastar las previsiones del área con las necesidades globales y la capacidad económica, y determinar cantidad y perfil de personal en distintos horizontes.",
+        "B": "Convertir las dos jubilaciones directamente en dos vacantes a cubrir, sin considerar la evolución prevista de la carga de trabajo.",
+        "C": "Calcular primero la plantilla futura exclusivamente a partir del coste salarial actual y solicitar después la previsión de los departamentos.",
+        "D": "Definir el perfil de cada nuevo candidato antes de comprobar si la plantilla existente resulta suficiente para la carga de trabajo."
+      },
+      "correcta": "A",
+      "explicacion": "Planificar significa prever cuántas personas y de qué perfiles se necesitan a corto, medio y largo plazo, valorando jubilaciones, bajas, producción y costes. RR. HH. debe contrastar las solicitudes de los departamentos con la situación global y la capacidad económica de la empresa (pp. 52-53)."
+    },
+    {
+      "id": "RRHH-T4-D-03",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.2",
+      "pagina_manual": 56,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa quiere analizar un puesto y teme que las personas observadas alteren su conducta habitual y que quienes registren sus tareas exageren responsabilidades. ¿Qué asociación entre método y limitación coincide con el manual?",
+      "opciones": {
+        "A": "La entrevista evita que se omitan tareas, mientras que el cuestionario impide que las personas contesten bajo presión.",
+        "B": "La observación elimina cualquier alteración de las rutinas, mientras que los diarios requieren siempre un observador externo presente.",
+        "C": "El diario produce información necesariamente más fiable que la observación, mientras que la entrevista impide respuestas incompletas.",
+        "D": "La observación puede modificar la conducta de quien sabe que es observado; en los diarios pueden exagerarse tareas o dejar de anotarse algunas."
+      },
+      "correcta": "D",
+      "explicacion": "La observación directa puede provocar que el empleado cambie sus rutinas. Los diarios, por depender del registro de los trabajadores, pueden incluir exageraciones u omisiones. El manual también advierte que en las entrevistas pueden silenciarse tareas y que los cuestionarios anónimos pueden reducir presión (pp. 55-56)."
+    },
+    {
+      "id": "RRHH-T4-D-04",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.2",
+      "pagina_manual": 55,
+      "dificultad": "muy difícil",
+      "pregunta": "Se crea un puesto que nunca ha existido en la empresa. RR. HH. necesita primero identificar sus funciones y requisitos, después documentar las capacidades exigidas y finalmente evaluar el potencial de varios aspirantes. ¿Qué secuencia de herramientas se ajusta mejor al manual?",
+      "opciones": {
+        "A": "Assessment center para describir el puesto; profesiograma para seleccionar el método de entrevista; opinión experta para medir el potencial de aspirantes.",
+        "B": "Opinión experta para analizar el nuevo puesto; profesiograma para recoger requisitos y capacidades; assessment center para evaluar el potencial de aspirantes.",
+        "C": "Profesiograma para observar las tareas de un ocupante inexistente; assessment center para definir funciones; entrevista libre para sustituir la valoración del potencial.",
+        "D": "Cuestionario a ocupantes del nuevo puesto; assessment center para fijar sus requisitos; profesiograma solo cuando ya se haya contratado a un aspirante."
+      },
+      "correcta": "B",
+      "explicacion": "El manual recomienda recurrir a la opinión de personas expertas para definir puestos de nueva creación (p. 56). Las conclusiones del análisis se trasladan al profesiograma, donde constan aptitudes y capacidades requeridas (pp. 53-54). El assessment center evalúa potencial y desarrollo profesional de aspirantes o trabajadores (p. 55)."
+    },
+    {
+      "id": "RRHH-T4-D-05",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.3",
+      "pagina_manual": 58,
+      "dificultad": "media-alta",
+      "pregunta": "Para redactar el perfil de una vacante técnica, RR. HH. solo ha incluido los títulos académicos y los años de experiencia; no ha consultado a la jefatura que conoce el puesto. ¿Qué corrección se corresponde con el manual?",
+      "opciones": {
+        "A": "Incorporar competencias personales únicamente después de seleccionar al candidato, pues no forman parte de su perfil profesional.",
+        "B": "Sustituir las características del puesto por los rasgos personales que el candidato desee destacar, aunque no guarden relación con la vacante.",
+        "C": "Precisar habilidades y competencias relevantes para el puesto y elaborar el perfil conjuntamente con la persona responsable del departamento afectado.",
+        "D": "Fijar primero un perfil general válido para cualquier departamento y limitar su adaptación posterior al salario ofrecido."
+      },
+      "correcta": "C",
+      "explicacion": "El perfil debe ser claro, concreto y vinculado a la vacante; contempla conocimientos, experiencia, características personales y competencias. El manual aconseja elaborarlo entre la persona encargada de selección y la responsable del departamento que necesita cubrir el puesto (p. 58)."
+    },
+    {
+      "id": "RRHH-T4-D-06",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.4",
+      "pagina_manual": 58,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa encarga la búsqueda de una persona responsable de compras a una consultora especializada. ¿Qué conjunto de actuaciones representa mejor el servicio descrito por el manual sin confundirlo con la decisión de contratación de la empresa cliente?",
+      "opciones": {
+        "A": "Fijar unilateralmente las condiciones definitivas del contrato, realizar la incorporación y asignar tareas al nuevo trabajador, sin informar a la empresa cliente.",
+        "B": "Limitarse a publicar la vacante en una página de empleo y remitir todos los currículos recibidos sin análisis ni entrevistas.",
+        "C": "Preseleccionar únicamente entre trabajadores de la empresa cliente y sustituir la decisión de su responsable de departamento.",
+        "D": "Analizar el puesto, captar y clasificar candidaturas, contactar y evaluar aspirantes, y presentar a la empresa informes sobre los seleccionados."
+      },
+      "correcta": "D",
+      "explicacion": "El manual atribuye a las empresas de selección análisis de puestos y perfiles, captación, cribado, contacto telefónico, entrevistas, pruebas e informes para la empresa cliente (p. 58). La elección final requiere la participación de los responsables de la empresa que cubrirá el puesto (p. 67)."
+    },
+    {
+      "id": "RRHH-T4-D-07",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.5",
+      "pagina_manual": 59,
+      "dificultad": "difícil",
+      "pregunta": "Un entrevistador lleva preguntas previamente preparadas para comparar a los candidatos, pero adapta las preguntas de seguimiento a cada respuesta con el fin de ampliar información. ¿Qué modalidad de entrevista está aplicando y por qué?",
+      "opciones": {
+        "A": "Mixta, porque combina un núcleo de preguntas previstas con ampliaciones no rígidas según los objetivos de la entrevista.",
+        "B": "Planificada, porque cualquier presencia de preguntas predeterminadas obliga a seguir exactamente el mismo cuestionario.",
+        "C": "Libre, porque cualquier pregunta de seguimiento elimina la planificación inicial y convierte la entrevista en espontánea.",
+        "D": "Tensa, porque adaptar las preguntas exige someter al candidato a situaciones difíciles para evaluar su control emocional."
+      },
+      "correcta": "A",
+      "explicacion": "La entrevista mixta combina preguntas preparadas y objetivos definidos con la posibilidad de ampliarlos durante la conversación. La planificada sigue un guion uniforme, la libre no cuenta con cuestionario rígido y la tensa se clasifica por el grado de presión, no por la estructura (p. 59)."
+    },
+    {
+      "id": "RRHH-T4-D-08",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.5",
+      "pagina_manual": 59,
+      "dificultad": "difícil",
+      "pregunta": "Una candidata es entrevistada simultáneamente por tres responsables de la empresa. Cada uno le hace preguntas, pero no se le pide colaborar con otras personas candidatas en ninguna actividad. ¿Cómo se clasifica esta entrevista en la tipología del manual?",
+      "opciones": {
+        "A": "Individual, porque solo participa una persona aspirante, aunque intervengan varios entrevistadores.",
+        "B": "Grupal según el número de intervinientes, sin que ello la convierta en una dinámica de grupo.",
+        "C": "Dinámica de grupo, porque basta con que haya más de dos personas presentes para evaluar trabajo en equipo.",
+        "D": "Mixta por el número de intervinientes, pues combina una persona candidata y varias personas entrevistadoras."
+      },
+      "correcta": "B",
+      "explicacion": "En la clasificación del manual, las entrevistas grupales pueden celebrarse entre varios entrevistadores y un entrevistado o entre varios entrevistados y un entrevistador. No deben confundirse por ello con las dinámicas de grupo, que constituyen una prueba diferenciada (p. 59 y p. 66)."
+    },
+    {
+      "id": "RRHH-T4-D-09",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.5",
+      "pagina_manual": 63,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa ha terminado la preselección por currículos y quiere completar el proceso hasta que la nueva empleada se integre. ¿Cuál de estas secuencias respeta la división en fases del manual?",
+      "opciones": {
+        "A": "Fase central: contrato y acogida; fase final: evaluación psicotécnica, entrevistas y comprobación de referencias.",
+        "B": "Fase previa: contratación y periodo de prueba; fase central: publicación de la vacante; fase final: verificación de títulos.",
+        "C": "Fase central: entrevistas y contratación; fase final: comprobación de referencias, decisión y descarte de candidaturas.",
+        "D": "Fase central: pruebas, entrevistas, referencias y decisión; fase final: contratación, acogida, formación inicial y periodo de prueba."
+      },
+      "correcta": "D",
+      "explicacion": "El manual sitúa el análisis del puesto, el reclutamiento y la preselección en la fase previa. Las pruebas, entrevistas, verificación de referencias y toma de decisión pertenecen a la central. La contratación y la integración mediante acogida, formación inicial y periodo de prueba corresponden a la fase final (pp. 62-63)."
+    },
+    {
+      "id": "RRHH-T4-D-10",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.5",
+      "pagina_manual": 62,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa publica una vacante en LinkedIn e intercambia mensajes con profesionales que no estaban buscando activamente empleo, resolviendo sus dudas. ¿Qué elemento permite hablar de reclutamiento 2.0 y no solo de difusión digital de una oferta?",
+      "opciones": {
+        "A": "La utilización de internet para publicar anuncios, aunque no exista comunicación posterior con las personas interesadas.",
+        "B": "La incorporación de un formulario de currículo, que convierte cualquier oferta electrónica en reclutamiento exclusivamente interno.",
+        "C": "La interacción bidireccional entre empresa y candidatos activos o pasivos mediante tecnologías y redes profesionales.",
+        "D": "La sustitución de cualquier preselección o evaluación por la respuesta espontánea de los contactos de la empresa."
+      },
+      "correcta": "C",
+      "explicacion": "El reclutamiento 2.0 o social recruiting aprovecha las nuevas tecnologías para acceder a candidatos activos y pasivos. El manual subraya su carácter bidireccional: no consiste únicamente en publicar una oferta, sino en permitir la interacción de empresa y candidatos (p. 62)."
+    },
+    {
+      "id": "RRHH-T4-D-11",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.5",
+      "pagina_manual": 61,
+      "dificultad": "difícil",
+      "pregunta": "Una trabajadora pasa desde un puesto de administración a otro de compras, dentro de la misma empresa, manteniendo salario y responsabilidad. ¿Cómo debe clasificarse el movimiento según las modalidades de reclutamiento interno?",
+      "opciones": {
+        "A": "Movilidad vertical, porque cualquier cambio de departamento supone una promoción dentro de la organización.",
+        "B": "Movilidad horizontal, porque cambia de puesto sin aumentar el nivel de responsabilidad ni el salario.",
+        "C": "Reclutamiento externo, porque el destino pertenece a un departamento distinto del de origen.",
+        "D": "Movilidad vertical, porque no puede existir reclutamiento interno cuando se mantiene la misma categoría."
+      },
+      "correcta": "B",
+      "explicacion": "El reclutamiento interno puede expresarse mediante movilidad vertical (ascenso, salario y responsabilidad mayores) u horizontal (cambio de puesto con igual sueldo y responsabilidad). Un cambio de departamento no equivale por sí mismo a promoción ni a contratación externa (p. 61)."
+    },
+    {
+      "id": "RRHH-T4-D-12",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.6",
+      "pagina_manual": 64,
+      "dificultad": "media-alta",
+      "pregunta": "Una oferta presenta un título técnico poco comprensible, dedica casi todo el anuncio a la historia de la empresa, enumera quince tareas y no indica dónde remitir el currículo. ¿Qué revisión encaja mejor con los criterios del manual?",
+      "opciones": {
+        "A": "Usar un título directo, introducir brevemente el puesto, seleccionar entre tres y siete funciones relevantes e indicar el medio de recepción de currículos.",
+        "B": "Mantener la enumeración exhaustiva, aunque sea extensa, y compensarla añadiendo una relación más larga de los atributos personales esperados.",
+        "C": "Priorizar la descripción institucional de la empresa, pues el manual considera secundario explicar la vacante y sus funciones concretas.",
+        "D": "Eliminar las funciones y los requisitos profesionales y sustituirlos por datos sobre la ubicación y el acceso mediante transporte público."
+      },
+      "correcta": "A",
+      "explicacion": "El manual recomienda un título breve y directo, una introducción sobre el puesto y no sobre la empresa, una lista de aproximadamente tres a siete tareas y un correo electrónico o dirección de envío del currículo; también señala la relevancia de atributos y datos de la compañía (pp. 64-65)."
+    },
+    {
+      "id": "RRHH-T4-D-13",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.7",
+      "pagina_manual": 65,
+      "dificultad": "difícil",
+      "pregunta": "Una compañía compara dos procesos: cubrir una jefatura mediante promoción de alguien de la plantilla y contratar personal externo para una nueva delegación. ¿Qué diferencia en la recepción de candidaturas se ajusta al manual?",
+      "opciones": {
+        "A": "La selección interna exige siempre una convocatoria formal abierta; la externa, en cambio, puede prescindir de recibir solicitudes.",
+        "B": "La recepción de candidaturas solo existe cuando interviene una consultora, tanto si se busca dentro como fuera de la empresa.",
+        "C": "La empresa debe emplear los mismos medios de recepción en ambos procesos, aunque cambien las vías de difusión de la oferta.",
+        "D": "En la interna puede bastar con proponer la promoción a empleados identificados; en la externa cabe recibir solicitudes por distintos canales."
+      },
+      "correcta": "D",
+      "explicacion": "El manual señala que en procesos internos la recepción formal puede ser innecesaria si la empresa identifica directamente a trabajadores y les propone promocionar. Para la captación externa contempla vías de recepción diversas y recomienda difundir la oferta ampliamente (p. 65)."
+    },
+    {
+      "id": "RRHH-T4-D-14",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.8",
+      "pagina_manual": 66,
+      "dificultad": "muy difícil",
+      "pregunta": "Para seleccionar personal de mantenimiento, una empresa quiere comprobar tres aspectos diferentes: manejo real de una máquina, aptitud espacial y conducta de cooperación en una tarea colectiva. ¿Qué combinación de pruebas se corresponde con esos tres objetivos, en ese orden?",
+      "opciones": {
+        "A": "Prueba de conocimientos, entrevista libre y prueba de personalidad, pues las tres permiten observar directamente la ejecución técnica.",
+        "B": "Prueba profesional práctica, prueba psicotécnica de aptitud espacial y dinámica de grupo para observar la interacción.",
+        "C": "Dinámica de grupo, prueba profesional práctica y test de inteligencia general, pues cooperar equivale a razonar con figuras.",
+        "D": "Prueba de personalidad, entrevista tensa y cuestionario de conocimientos, pues el comportamiento grupal se deduce del control emocional."
+      },
+      "correcta": "B",
+      "explicacion": "El manual diferencia pruebas profesionales, donde se ejecutan casos o tareas con herramientas; psicotécnicas de aptitud, que miden capacidades concretas como la espacial o mecánica; y dinámicas de grupo, que observan el desenvolvimiento en equipo. El orden de los objetivos exige esas tres herramientas (pp. 65-66)."
+    },
+    {
+      "id": "RRHH-T4-D-15",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.8",
+      "pagina_manual": 65,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa combina entrevista, prueba de ejecución de tareas y un test psicotécnico. Una candidatura logra la puntuación psicotécnica más alta, pero su desempeño práctico muestra carencias relevantes para el puesto. ¿Qué criterio sigue la recomendación del manual?",
+      "opciones": {
+        "A": "Dar prioridad automáticamente al psicotécnico, porque mide aptitudes generales y permite prescindir de la demostración práctica para decidir.",
+        "B": "Considerar el psicotécnico decisivo siempre que esté estandarizado, y usar el resto del proceso únicamente para desempatar puntuaciones.",
+        "C": "Integrar su resultado con la entrevista y la prueba profesional, porque las pruebas aportan información complementaria y no deben decidir solas.",
+        "D": "Eliminar el psicotécnico del expediente y resolver exclusivamente por entrevista, dado que el manual desaconseja utilizar cualquier test."
+      },
+      "correcta": "C",
+      "explicacion": "Las pruebas pueden servir para conocer capacidades o descartar aspirantes, pero el manual advierte que no son imprescindibles ni deberían ser el único criterio de elección. Su resultado complementa la entrevista y otras evidencias de aptitud profesional (p. 65)."
+    },
+    {
+      "id": "RRHH-T4-D-16",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.9",
+      "pagina_manual": 67,
+      "dificultad": "difícil",
+      "pregunta": "Una consultora externa ha presentado informes de dos finalistas para cubrir un puesto en una empresa cliente. ¿Qué procedimiento de elección responde a la recomendación del manual?",
+      "opciones": {
+        "A": "Consensuar la decisión entre la persona responsable de RR. HH. y quien supervisará directamente al futuro trabajador, pudiendo incorporar una última entrevista.",
+        "B": "Delegar automáticamente toda la decisión en la consultora, puesto que solo ella conoce los informes de evaluación y no participa en la relación laboral.",
+        "C": "Encomendar la selección definitiva a la dirección comercial de la empresa, sin intervención de RR. HH. ni del departamento que solicita la vacante.",
+        "D": "Escoger al aspirante con más experiencia acreditada sin revisar informes ni consultar a la futura jefatura, porque esa valoración ya es suficiente."
+      },
+      "correcta": "A",
+      "explicacion": "Cuando la selección la ha realizado una entidad externa, el manual aconseja que la elección se acuerde entre RR. HH. y el responsable directo del puesto, dado que este mantendrá una relación continuada con la persona incorporada. Puede incluirse una última entrevista (p. 67)."
+    },
+    {
+      "id": "RRHH-T4-D-17",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.10",
+      "pagina_manual": 68,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa incorpora a seis personas. Tras una sesión inicial muy cargada de datos, conocen las normas generales pero siguen sin entender bien las funciones de su departamento. ¿Qué modificación encaja mejor con el plan de acogida y el mentoring explicados en el manual?",
+      "opciones": {
+        "A": "Concentrar la información restante en otro manual y posponer el contacto con los compañeros hasta después de la adaptación.",
+        "B": "Repartir la información, explicar el funcionamiento del departamento y asignar un tutor experimentado que acompañe el aprendizaje.",
+        "C": "Limitar las actuaciones de acogida a presentar la misión y visión, porque el aprendizaje del puesto queda fuera de este proceso.",
+        "D": "Sustituir el acompañamiento por una entrevista de selección adicional, ya que el mentor interviene antes de la incorporación."
+      },
+      "correcta": "B",
+      "explicacion": "El exceso de información puede saturar. El objetivo de la acogida es facilitar la integración, conocer la cultura, el departamento y el papel en la empresa; el mentoring aporta apoyo de un tutor, interno o externo, durante el aprendizaje (p. 68)."
+    },
+    {
+      "id": "RRHH-T4-D-18",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.11",
+      "pagina_manual": 69,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa contrata un programa de outplacement para personas afectadas por una reestructuración. ¿Qué descripción recoge correctamente su finalidad y quién puede beneficiarse?",
+      "opciones": {
+        "A": "Un sistema de adaptación de recién contratados que beneficia solo a los trabajadores que permanecen en la empresa.",
+        "B": "Un servicio de selección para incorporar sustitutos cuyo coste asumen principalmente las personas despedidas.",
+        "C": "Una prestación económica que reemplaza el asesoramiento profesional y está dirigida exclusivamente a personas con cargos directivos.",
+        "D": "Una ayuda de orientación y recolocación que facilita a los despedidos buscar empleo y puede beneficiar también a la organización que despide y a la que contrata."
+      },
+      "correcta": "D",
+      "explicacion": "El outplacement acompaña a los despedidos mediante orientación, asesoramiento e intermediación para encontrar nuevo empleo. El manual identifica ventajas para la persona despedida, para la organización que despide —imagen y reducción del impacto emocional— y para la que recluta —acceso a candidatos contrastados— (pp. 69-70)."
+    },
+    {
+      "id": "RRHH-T4-D-19",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.12",
+      "pagina_manual": 70,
+      "dificultad": "muy difícil",
+      "pregunta": "Durante una selección, la empresa quiere incorporar al expediente laboral la documentación de los candidatos contratados, conservar algunos currículos de descartados para vacantes futuras y organizar todos los archivos digitales para localizarlos sin riesgo de pérdida. ¿Qué procedimiento reúne los criterios del manual?",
+      "opciones": {
+        "A": "Incorporar los documentos de contratados al expediente personal, informar a descartados si se conservarán sus datos, clasificar el archivo digital y realizar copias de seguridad periódicas.",
+        "B": "Incorporar los documentos de contratados al expediente personal, guardar currículos de descartados sin informarles del nuevo uso y mantener clasificados los archivos con copias de seguridad.",
+        "C": "Archivar en el expediente personal tanto a contratados como a descartados, informar sobre la conservación y mantener carpetas digitales clasificadas con respaldos periódicos.",
+        "D": "Incorporar los documentos de contratados al expediente, informar a descartados y conservar sus currículos, pero evitar copias de seguridad para reducir la duplicación de información."
+      },
+      "correcta": "A",
+      "explicacion": "Los documentos de la persona seleccionada se integran en su expediente personal; los de candidatos descartados pueden conservarse para futuros procesos si se les informa de ello y de sus derechos (p. 64). El apartado sobre archivo aconseja organizar los documentos digitales por criterios consistentes y realizar copias de seguridad para prevenir pérdidas (pp. 70-71)."
+    },
+    {
+      "id": "RRHH-T4-D-20",
+      "tema": 4,
+      "nivel": "difícil",
+      "apartado": "4.13",
+      "pagina_manual": 71,
+      "dificultad": "difícil",
+      "pregunta": "Una organización quiere localizar a especialistas que quizá no estén buscando empleo, contactar directamente con ellos y darles información sobre su cultura empresarial; también desea recoger impresiones iniciales mediante vídeos grabados por aspirantes. ¿Qué combinación corresponde al manual?",
+      "opciones": {
+        "A": "Utilizar únicamente anuncios en prensa y hojas de firmas, porque las redes profesionales no permiten contacto directo con candidatos.",
+        "B": "Usar un assessment center para localizar por iniciativa propia a profesionales en redes y emplear Evernote para grabar sus entrevistas en vídeo.",
+        "C": "Combinar búsqueda directa de perfiles mediante headhunting o LinkedIn con una aplicación de videocandidaturas como Jobaloon.",
+        "D": "Recurrir a una agencia pública de colocación para publicar vídeos de candidaturas y a un sistema de nóminas para difundir la marca empleadora."
+      },
+      "correcta": "C",
+      "explicacion": "El manual atribuye al headhunting la búsqueda proactiva de perfiles por parte del especialista. LinkedIn permite localizar, contactar e interactuar con candidatos y difundir la cultura de la empresa. Jobaloon se describe como una aplicación para visualizar vídeos breves grabados por candidatos antes de una entrevista presencial (p. 71)."
+    }
+  ]
+}

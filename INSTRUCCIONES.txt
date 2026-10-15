@@ -1,0 +1,52 @@
+MI AULA — VERSIÓN PREMIUM
+========================
+
+ESTRUCTURA
+index.html
+css/estilos.css
+js/app.js
+datos/recursos-humanos/tema1-normal.json ... tema5-dificil.json
+resumenes/recursos-humanos/tema1-basico.pdf ... tema5-ampliado.pdf
+
+LA WEB YA CONTIENE
+- 6 asignaturas, con Recursos Humanos y RSC completamente activa.
+- 5 temas, cada uno con resumen básico y ampliado, test normal y difícil.
+- Acceso a PDF: botón Ver PDF y botón de descarga.
+- 10 test independientes de 20 preguntas, con corrección explicada.
+- Respuestas guardadas en el navegador, progreso, nota y repaso de errores.
+- 5 simulacros finales anunciados como 'Próximamente'.
+
+PARA ACTUALIZAR TU CARPETA BEA
+1. Haz una copia de seguridad de la carpeta actual BEA.
+2. Si utilizas el ZIP de actualización, extrae su contenido DENTRO de BEA
+   y acepta reemplazar index.html, css/estilos.css y js/app.js.
+3. Conserva las carpetas 'datos' y 'resumenes' que ya tienes.
+4. Si utilizas el ZIP completo, también contiene todos los PDF y JSON.
+
+PARA PROBAR LOS TEST EN WINDOWS
+- Lo recomendado es subir los archivos a GitHub Pages.
+- Para probar en Windows, haz doble clic en INICIAR_AULA.bat.
+  Requiere Python instalado y su lanzador 'py' disponible.
+- Si no lo tienes, instala Python o usa GitHub Pages.
+- NO abras index.html con doble clic para hacer los test: los navegadores
+  bloquean la lectura de JSON desde archivos locales (file://).
+- Para cerrar el servidor local, cierra la ventana del servidor.
+
+PARA PUBLICAR EN GITHUB PAGES
+1. Sube el contenido INTERIOR de BEA a la raíz del repositorio,
+   respetando sus subcarpetas y nombres.
+2. En el repositorio, abre Settings > Pages y elige la rama principal,
+   carpeta /(root), si aún no está configurado.
+3. Abre el enlace generado por GitHub Pages.
+4. Comprueba que un PDF y un test de cada tema se abran correctamente.
+
+NOTA SOBRE EL PROGRESO
+- El navegador guarda respuestas y notas en su almacenamiento local.
+- No se sincronizan automáticamente entre móvil y ordenador.
+- Si sustituyes un JSON con preguntas diferentes, su intento anterior
+  se reinicia para no mezclar respuestas de versiones distintas.
+- El resultado se muestra solo cuando corriges el test.
+
+PARA INCORPORAR MÁS ASIGNATURAS Y SIMULACROS
+Los accesos se definen en js/app.js (SUBJECTS y TESTS), y los contenidos
+se añaden como archivos JSON y PDF, igual que con los ya existentes.

@@ -1,0 +1,347 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "2. Aplicación de los principios de responsabilidad social corporativa (RSC)",
+  "test": "Test 2 — Nivel difícil",
+  "preguntas": [
+    {
+      "id": "RRHH-T2-D-01",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.1",
+      "pagina_manual": 21,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa obtiene beneficios, cumple la legislación y financia actividades comunitarias, pero mantiene un trato injusto hacia un grupo afectado por su actividad, sin vulnerar una norma concreta. ¿Qué responsabilidad de la pirámide de Carroll revela especialmente esa carencia?",
+      "opciones": {
+        "A": "La económica, porque la rentabilidad debe acompañarse de una ganancia aceptable.",
+        "B": "La legal, porque toda conducta injusta equivale a un incumplimiento normativo.",
+        "C": "La ética, porque exige actuar de forma justa y reducir daños más allá de cumplir la ley.",
+        "D": "La filantrópica, porque las acciones voluntarias deben compensar el impacto de la actividad."
+      },
+      "correcta": "C",
+      "explicacion": "Carroll distingue la rentabilidad (responsabilidad económica), el cumplimiento normativo (legal), actuar justamente y evitar daños (ética) y la participación en acciones de bienestar social (filantrópica). Las donaciones no sustituyen la responsabilidad ética. Manual, p. 21."
+    },
+    {
+      "id": "RRHH-T2-D-02",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.1",
+      "pagina_manual": 22,
+      "dificultad": "difícil",
+      "pregunta": "Una compañía revisa su política de negociación colectiva, elimina criterios discriminatorios de promoción y establece un protocolo contra el soborno. Según el Pacto Mundial expuesto en el tema, ¿cómo se relacionan correctamente esas tres medidas?",
+      "opciones": {
+        "A": "P3 y P6 pertenecen a normas laborales; P10 corresponde a la lucha contra la corrupción.",
+        "B": "P3 pertenece a derechos humanos; P6 a lucha contra la corrupción; P10 a normas laborales.",
+        "C": "P3 y P10 pertenecen a normas laborales; P6 corresponde a derechos humanos.",
+        "D": "P3 pertenece a lucha contra la corrupción; P6 a derechos humanos; P10 al medio ambiente."
+      },
+      "correcta": "A",
+      "explicacion": "El Pacto Mundial agrupa P3 (libertad de asociación y negociación colectiva) y P6 (no discriminación laboral) entre las normas laborales. P10 se refiere a combatir el soborno y la extorsión, dentro del área anticorrupción. Manual, p. 22."
+    },
+    {
+      "id": "RRHH-T2-D-03",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.1",
+      "pagina_manual": 22,
+      "dificultad": "difícil",
+      "pregunta": "Un responsable afirma: «Como el tema presenta recomendaciones internacionales voluntarias de RSC, tampoco necesitamos cumplir las leyes laborales o mercantiles». ¿Qué respuesta distingue mejor los dos planos descritos en el manual?",
+      "opciones": {
+        "A": "Las leyes se convierten en voluntarias si la organización publica una memoria de sostenibilidad.",
+        "B": "Las recomendaciones de RSC son siempre obligatorias cuando las promueve un organismo internacional.",
+        "C": "El carácter voluntario corresponde a toda actuación social, incluida la protección legal de los trabajadores.",
+        "D": "El carácter voluntario atribuido a las recomendaciones de RSC no elimina la obligación de cumplir la legislación aplicable."
+      },
+      "correcta": "D",
+      "explicacion": "El manual caracteriza como voluntarias numerosas recomendaciones y principios internacionales de RSC, pero diferencia esas iniciativas de la legislación que las empresas deben cumplir. La responsabilidad legal también es una capa de Carroll. Manual, pp. 21-24."
+    },
+    {
+      "id": "RRHH-T2-D-04",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.1",
+      "pagina_manual": 25,
+      "dificultad": "muy difícil",
+      "pregunta": "Tres organizaciones buscan: (1) una guía general de responsabilidad social que no pueda certificarse; (2) un sistema de gestión certificable que lleve a la práctica sus principios; y (3) una norma internacional sobre condiciones de trabajo seguro, jornadas, salarios y trabajo infantil. ¿Qué combinación se ajusta al manual?",
+      "opciones": {
+        "A": "(1) RS 10; (2) ISO 26000; (3) AA 1000.",
+        "B": "(1) ISO 26000; (2) RS 10; (3) SA 8000.",
+        "C": "(1) ISO 26000; (2) SA 8000; (3) RS 10.",
+        "D": "(1) AA 1000; (2) RS 10; (3) UNE 16001."
+      },
+      "correcta": "B",
+      "explicacion": "ISO 26000 es una guía aplicable a diferentes organizaciones y no certificable. El manual presenta RS 10 como norma certificable con requisitos que aplica orientaciones de ISO 26000. SA 8000 se centra, entre otras materias, en condiciones laborales, salarios, jornadas y lucha contra la explotación. Manual, p. 25."
+    },
+    {
+      "id": "RRHH-T2-D-05",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.1",
+      "pagina_manual": 23,
+      "dificultad": "difícil",
+      "pregunta": "Una multinacional busca recomendaciones internacionales de conducta responsable y procedimientos para tratar conflictos con comunidades perjudicadas. Además, quiere reforzar la diligencia debida y la responsabilidad de su cadena de suministro, tal como destaca una actualización de 2011. ¿A qué instrumento se refiere?",
+      "opciones": {
+        "A": "A las Directrices de la OCDE para empresas multinacionales.",
+        "B": "A la Declaración de Río sobre medio ambiente y desarrollo.",
+        "C": "Al Pacto Internacional de Derechos Económicos, Sociales y Culturales.",
+        "D": "A la Declaración de la OIT sobre derechos fundamentales en el trabajo."
+      },
+      "correcta": "A",
+      "explicacion": "El tema atribuye a las Directrices de la OCDE tanto recomendaciones sobre conducta empresarial responsable como procedimientos de resolución de conflictos; indica que su actualización de mayo de 2011 puso énfasis en diligencia debida, derechos humanos y cadena de suministro. Manual, p. 23."
+    },
+    {
+      "id": "RRHH-T2-D-06",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.1",
+      "pagina_manual": 25,
+      "dificultad": "difícil",
+      "pregunta": "Una consultora distingue un instrumento que establece estándares sobre jornada, salario y trabajo seguro de un organismo de la ONU que supervisa normas laborales internacionales, presta asistencia técnica y promueve el trabajo decente. ¿Qué identificación es correcta?",
+      "opciones": {
+        "A": "AA 1000 como estándar laboral y la OCDE como organismo tripartito.",
+        "B": "ISO 26000 como estándar laboral y el Consejo Estatal de RSC como organismo tripartito.",
+        "C": "UNE 15011 como estándar laboral y la Comisión Europea como organismo tripartito.",
+        "D": "SA 8000 como estándar laboral y la OIT como organismo de la ONU."
+      },
+      "correcta": "D",
+      "explicacion": "SA 8000 regula aspectos concretos de las condiciones de trabajo; la OIT es un organismo especializado de la ONU que establece y supervisa normas laborales, presta asistencia técnica y promueve el Programa de Trabajo Decente. Manual, pp. 25-26."
+    },
+    {
+      "id": "RRHH-T2-D-07",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.1",
+      "pagina_manual": 24,
+      "dificultad": "muy difícil",
+      "pregunta": "Se reconstruye la evolución de tres documentos europeos de RSC: uno propone fomentar buenas prácticas y herramientas de evaluación; otro analiza su desarrollo y subraya que la RSC rebasa las obligaciones legales; un tercero revisa la definición y promueve la creación de valor compartido. ¿Cuál es el orden correcto?",
+      "opciones": {
+        "A": "Resolución del Consejo Europeo (2003) → Libro Verde (2001) → Comunicación de la Comisión (2011-2014).",
+        "B": "Libro Verde (2001) → Resolución del Consejo Europeo (2003) → Comunicación de la Comisión (2011-2014).",
+        "C": "Comunicación de la Comisión (2011-2014) → Libro Verde (2001) → Resolución del Consejo Europeo (2003).",
+        "D": "Libro Verde (2001) → Comunicación de la Comisión (2011-2014) → Resolución del Consejo Europeo (2003)."
+      },
+      "correcta": "B",
+      "explicacion": "El Libro Verde de 2001 impulsa prácticas e instrumentos de evaluación; la Resolución de 2003 examina su desarrollo y plantea ir más allá de obligaciones legales; la Comunicación de 2011-2014 revisa la definición y persigue maximizar el valor compartido. Manual, p. 24."
+    },
+    {
+      "id": "RRHH-T2-D-08",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.1",
+      "pagina_manual": 24,
+      "dificultad": "difícil",
+      "pregunta": "Al preparar una ficha de instrumentos españoles, un estudiante debe distinguir el documento de 2006 que recomienda prácticas responsables del órgano colegiado con representación de administraciones, sindicatos, empresas e instituciones. ¿Qué correspondencia es correcta?",
+      "opciones": {
+        "A": "Libro Blanco de la RSC: órgano colegiado; Consejo Estatal de RSC: documento de recomendaciones.",
+        "B": "Constitución Española: documento de recomendaciones; Libro Blanco: órgano colegiado.",
+        "C": "Libro Blanco de la RSC: documento de recomendaciones; Consejo Estatal de RSC: órgano colegiado.",
+        "D": "Ley de conciliación de 1999: documento de recomendaciones; Consejo Estatal: código de conducta empresarial."
+      },
+      "correcta": "C",
+      "explicacion": "El Libro Blanco de 2006 recomienda iniciativas y medidas que favorezcan conductas responsables. El Real Decreto de creación y regulación del Consejo Estatal de RSC configura un órgano con representación de diversos sectores. Manual, p. 24."
+    },
+    {
+      "id": "RRHH-T2-D-09",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.2",
+      "pagina_manual": 26,
+      "dificultad": "difícil",
+      "pregunta": "El departamento de recursos humanos revisa tres problemas: discriminación en la contratación, dificultades de conciliación y estrés con conflictos internos. ¿Qué conjunto de acciones responde a las políticas de RSC que el manual atribuye especialmente a este departamento?",
+      "opciones": {
+        "A": "Revisar la selección solo mediante formación de reclutadores, mantener horarios y abordar el clima con reuniones informativas.",
+        "B": "Potenciar la contratación por perfiles habituales, conceder permisos caso por caso y resolver los conflictos solo cuando surjan.",
+        "C": "Priorizar campañas públicas de igualdad, anunciar medidas de conciliación y medir el estrés sin introducir cambios internos.",
+        "D": "Implantar selección no discriminatoria, fórmulas de flexibilidad laboral y medidas de mejora del clima de trabajo."
+      },
+      "correcta": "D",
+      "explicacion": "El manual destaca como políticas de RSC impulsadas por RR. HH. la igualdad en selección y contratación, la conciliación (flexibilidad, teletrabajo y otras medidas) y la mejora del bienestar y clima laboral. Manual, p. 26."
+    },
+    {
+      "id": "RRHH-T2-D-10",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.2",
+      "pagina_manual": 28,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa introduce medidas de seguridad laboral, reduce los residuos de su producción y participa en proyectos de integración de su localidad. Según la clasificación del manual, ¿qué asignación de dimensiones de la RSC es la más ajustada?",
+      "opciones": {
+        "A": "Seguridad laboral y proyectos locales: dimensión interna; residuos productivos: dimensión externa.",
+        "B": "Seguridad laboral y aspectos ambientales de la producción: dimensión interna; integración en el entorno: externa.",
+        "C": "Seguridad laboral: dimensión externa; residuos productivos y proyectos locales: dimensión interna.",
+        "D": "Las tres medidas pertenecen a la dimensión externa, porque repercuten también en la sociedad."
+      },
+      "correcta": "B",
+      "explicacion": "La dimensión interna comprende prácticas relacionadas con trabajadores y aspectos medioambientales de la producción. La externa se refiere a relaciones fuera de la organización y a la integración en el entorno local y más amplio. Manual, p. 28."
+    },
+    {
+      "id": "RRHH-T2-D-11",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.2",
+      "pagina_manual": 27,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa redacta una memoria que informa de sus resultados económicos, sociales y medioambientales y emplea indicadores normalizados para cuantificar su desempeño. ¿Qué combinación de conceptos del tema describe mejor este procedimiento?",
+      "opciones": {
+        "A": "Memoria con triple balance e indicadores de la iniciativa GRI.",
+        "B": "Balance social limitado a costes laborales e indicadores del Consejo Estatal de RSC.",
+        "C": "Memoria centrada en la rentabilidad e indicadores propios del Libro Verde.",
+        "D": "Código de conducta con triple balance e indicadores de la Declaración de Río."
+      },
+      "correcta": "A",
+      "explicacion": "La memoria de sostenibilidad recoge resultados en los ámbitos económico, social y medioambiental (triple balance). La iniciativa Global Reporting Initiative (GRI) propone indicadores estandarizados para cuantificar el desempeño en RSC. Manual, p. 27."
+    },
+    {
+      "id": "RRHH-T2-D-12",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.2",
+      "pagina_manual": 27,
+      "dificultad": "muy difícil",
+      "pregunta": "Una organización (1) mide documentalmente los efectos de su actividad y asume públicamente las consecuencias negativas, (2) facilita información clara y veraz a quienes participan en ella y (3) atiende las necesidades de colectivos afectados. ¿Qué tres principios de ISO 26000 aparecen, respectivamente, en el manual?",
+      "opciones": {
+        "A": "Transparencia → rendición de cuentas → comportamiento ético.",
+        "B": "Rendición de cuentas → respeto a las partes interesadas → legalidad.",
+        "C": "Rendición de cuentas → transparencia → respeto a las partes interesadas.",
+        "D": "Comportamiento ético → normativa internacional → transparencia."
+      },
+      "correcta": "C",
+      "explicacion": "ISO 26000 diferencia rendición de cuentas (medición de impactos y asunción de responsabilidades), transparencia (información clara y veraz) y respeto a las partes interesadas (atención de las necesidades de los agentes implicados). Manual, p. 27."
+    },
+    {
+      "id": "RRHH-T2-D-13",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.3",
+      "pagina_manual": 28,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa redacta dos documentos: uno comunica su filosofía, valores e identidad; el otro concreta conductas esperadas y prohibidas e indica cómo proceder ante riesgos o incumplimientos. ¿Qué identificación corresponde al manual?",
+      "opciones": {
+        "A": "El primero es un código de conducta; el segundo, un código ético.",
+        "B": "El primero es un código ético; el segundo, un código de conducta.",
+        "C": "Ambos son códigos éticos, porque un código de conducta solo enumera leyes vigentes.",
+        "D": "Ambos son códigos de conducta, porque los valores no forman parte de un código ético."
+      },
+      "correcta": "B",
+      "explicacion": "El código ético se centra en los valores y la filosofía de la organización y tiene un carácter comunicativo. El código de conducta desarrolla pautas concretas de actuación, conductas prohibidas y orientación ante situaciones de riesgo o incumplimiento. Manual, p. 28."
+    },
+    {
+      "id": "RRHH-T2-D-14",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.3",
+      "pagina_manual": 29,
+      "dificultad": "difícil",
+      "pregunta": "Una iniciativa piloto mejora cuantificablemente un servicio y tiene financiación para continuar. Sin embargo, fue diseñada solo por la dirección, sin consultar a sus destinatarios, y sus resultados no pueden trasladarse a otras entidades. ¿Qué carencia señala el manual al valorar si es una buena práctica?",
+      "opciones": {
+        "A": "La mejora medible y la continuidad compensan la falta de participación, aunque convendría documentar su difusión.",
+        "B": "La implicación de los destinatarios solo es indispensable si el proyecto no cuenta con financiación estable.",
+        "C": "La posibilidad de replicar experiencias resulta prescindible cuando ya se han medido resultados positivos.",
+        "D": "No basta con medir mejoras y asegurar continuidad: faltan participación de los implicados y posibilidad de replicación."
+      },
+      "correcta": "D",
+      "explicacion": "Entre las condiciones de las buenas prácticas, el manual menciona expresamente la participación de los implicados en diseño, implantación y evaluación y la posibilidad de intercambiar, replicar y transferir experiencias. La mejora tangible y la financiación no suplen por sí mismas esos requisitos. Manual, p. 29."
+    },
+    {
+      "id": "RRHH-T2-D-15",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.3",
+      "pagina_manual": 30,
+      "dificultad": "difícil",
+      "pregunta": "En el diagnóstico cultural de una organización se estudian (1) las reuniones y protocolos cotidianos, (2) la disposición de los puestos en la jerarquía y los canales de información y (3) la existencia de espacios reservados a directivos como signos de autoridad. ¿Cómo se clasifican esos elementos?",
+      "opciones": {
+        "A": "Rituales y rutinas → estructura organizacional → símbolos.",
+        "B": "Sistemas de control → estructuras de poder → historias y mitos.",
+        "C": "Símbolos → paradigma → estructura organizacional.",
+        "D": "Paradigma → rituales y rutinas → sistemas de control."
+      },
+      "correcta": "A",
+      "explicacion": "Las reuniones, informes y protocolos son rituales y rutinas; la jerarquía y los flujos de información constituyen estructura organizacional; los espacios reservados a directivos se citan como símbolos de poder. Manual, p. 30."
+    },
+    {
+      "id": "RRHH-T2-D-16",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.3",
+      "pagina_manual": 31,
+      "dificultad": "muy difícil",
+      "pregunta": "Tres equipos tienen necesidades diferentes: A maneja sustancias peligrosas y necesita seguir normas con precisión; B reúne especialistas autónomos y experimentados, con seguimiento del trabajo; C necesita innovación y un líder que motive, escuche propuestas y asuma cambios. ¿Qué combinación de estilos describe mejor sus situaciones?",
+      "opciones": {
+        "A": "A autocrático; B natural; C transaccional.",
+        "B": "A burocrático; B transaccional; C democrático.",
+        "C": "A carismático; B laissez-faire; C autocrático.",
+        "D": "A burocrático; B laissez-faire; C transformacional."
+      },
+      "correcta": "D",
+      "explicacion": "El liderazgo burocrático enfatiza las normas y resulta adecuado en trabajos con riesgos de seguridad. El laissez-faire favorece la autonomía de equipos expertos y requiere seguimiento y comunicación. El transformacional fomenta creatividad, propuestas, motivación y adaptación al cambio. Manual, pp. 31-32."
+    },
+    {
+      "id": "RRHH-T2-D-17",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.3",
+      "pagina_manual": 32,
+      "dificultad": "difícil",
+      "pregunta": "En una empresa, una persona sin cargo directivo es reconocida por el equipo porque atiende sus necesidades y facilita la participación. En otro departamento, la jefa consulta las decisiones con todos, aunque conserva la responsabilidad final. ¿Qué estilos distingue el manual?",
+      "opciones": {
+        "A": "Transaccional para la primera persona y laissez-faire para la jefa.",
+        "B": "Transformacional para la primera persona y carismático para la jefa.",
+        "C": "Natural para la primera persona y participativo o democrático para la jefa.",
+        "D": "Burocrático para la primera persona y autocrático para la jefa."
+      },
+      "correcta": "C",
+      "explicacion": "El liderazgo natural puede ejercerse sin reconocimiento formal y se orienta a satisfacer las necesidades del equipo. En el participativo o democrático se promueve la intervención de todos, pero el líder conserva la responsabilidad final de decidir. Manual, pp. 31-32."
+    },
+    {
+      "id": "RRHH-T2-D-18",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.3",
+      "pagina_manual": 32,
+      "dificultad": "difícil",
+      "pregunta": "Un director vincula el cumplimiento eficiente de órdenes a premios y sanciones; otra directiva motiva gracias a su energía personal, aunque el equipo depende excesivamente de su presencia. ¿Qué comparación se ajusta al manual?",
+      "opciones": {
+        "A": "El primero es transaccional y la segunda carismática, con riesgo de dependencia de la líder.",
+        "B": "El primero es burocrático y la segunda transformacional, por su dependencia del grupo.",
+        "C": "El primero es democrático y la segunda natural, porque ambos reparten las decisiones.",
+        "D": "El primero es laissez-faire y la segunda transaccional, por su capacidad para inspirar."
+      },
+      "correcta": "A",
+      "explicacion": "El transaccional busca la eficiencia en el cumplimiento de órdenes mediante refuerzos positivos y negativos. El carismático transmite entusiasmo y energía, pero su ausencia puede ser problemática si el equipo depende demasiado de esa figura. Manual, pp. 31-32."
+    },
+    {
+      "id": "RRHH-T2-D-19",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.4",
+      "pagina_manual": 33,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa quiere (1) documentar sus valores y su modelo de relación con los grupos de interés, (2) investigar incumplimientos y proponer cambios del documento y (3) comparar costes y beneficios sociales de su actividad. ¿Qué herramientas corresponden a cada objetivo?",
+      "opciones": {
+        "A": "Comité de ética → código de conducta → memoria financiera.",
+        "B": "Balance social → código ético → auditoría de calidad.",
+        "C": "Código ético → comité de ética → balance social.",
+        "D": "Código de conducta → memoria de sostenibilidad → comité de ética."
+      },
+      "correcta": "C",
+      "explicacion": "El código ético recoge valores, relaciones con grupos de interés y pautas directivas; el comité de ética controla su cumplimiento y resuelve conflictos o plantea modificaciones; el balance social enfrenta beneficios y costes sociales. Manual, p. 33."
+    },
+    {
+      "id": "RRHH-T2-D-20",
+      "tema": 2,
+      "nivel": "difícil",
+      "apartado": "2.4",
+      "pagina_manual": 33,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa publica que ha creado empleo y financiado proyectos ambientales, pero también registra accidentes laborales, agotamiento de recursos y conflictos sociales. ¿Qué criterio exige el manual para establecer el signo de su balance social?",
+      "opciones": {
+        "A": "Que los beneficios de crear empleo y donar a la comunidad determinen su signo, aunque existan daños significativos.",
+        "B": "Que se contrapongan beneficios y costes sociales; será positivo solo si los primeros superan a los segundos.",
+        "C": "Que se comparen solo los efectos sobre los trabajadores, sin considerar los beneficios comunitarios ni daños ambientales.",
+        "D": "Que los resultados económicos favorables determinen su signo, aunque no compensen los costes sociales registrados."
+      },
+      "correcta": "B",
+      "explicacion": "El balance social contrapone efectos positivos —como empleo, riqueza local o proyectos comunitarios— y negativos —como contaminación, accidentes, estrés o conflictos—. Según el manual, el saldo es positivo si los beneficios sociales superan a los costes, y negativo en caso contrario. Manual, p. 33."
+    }
+  ]
+}

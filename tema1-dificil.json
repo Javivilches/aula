@@ -1,0 +1,347 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "1. Análisis de la empresa como comunidad de personas",
+  "test": "Test 2 — Nivel difícil",
+  "preguntas": [
+    {
+      "id": "RRHH-T1-D-01",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.1",
+      "pagina_manual": 9,
+      "dificultad": "difícil",
+      "pregunta": "En una sociedad con varios accionistas, la dirección diseña un plan y una persona responsable de un área coordina su aplicación, trasladando instrucciones a la plantilla. ¿Qué interpretación de las funciones es la más ajustada al manual?",
+      "opciones": {
+        "A": "Los accionistas deben dirigir el trabajo diario; los directivos se limitan a asesorarlos y los gestores ejecutan las tareas de producción.",
+        "B": "Los directivos desarrollan los planes; los gestores coordinan las actuaciones previstas y conectan a directivos y empleados, aunque los propietarios no dirijan personalmente.",
+        "C": "Los gestores definen la estrategia empresarial; los directivos comunican sus decisiones y los propietarios supervisan la ejecución de las tareas.",
+        "D": "Los directivos representan al capital inversor; los gestores adoptan las decisiones de propiedad y los empleados establecen los objetivos de negocio."
+      },
+      "correcta": "B",
+      "explicacion": "En la página 9, los directivos desarrollan planes y acciones; los gestores son mandos intermedios que coordinan lo diseñado por aquellos y actúan como enlace con los empleados. La propiedad puede estar separada de la dirección efectiva."
+    },
+    {
+      "id": "RRHH-T1-D-02",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.1",
+      "pagina_manual": 10,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa tiene misión, visión y valores definidos por escrito, y sus departamentos trabajan para un objetivo común. Sin embargo, cada uno impone normas de conducta incompatibles y comunica a los clientes principios distintos de los utilizados internamente. ¿Qué diagnóstico se ajusta de forma más completa a la idea de empresa como comunidad de personas?",
+      "opciones": {
+        "A": "El objetivo compartido y la planificación estratégica bastan para formar una comunidad; las normas y valores pueden diferir entre departamentos.",
+        "B": "Las normas comunes son necesarias entre empleados, pero la comunicación exterior puede basarse en valores distintos para adaptarse al mercado.",
+        "C": "La misión y la visión documentadas permiten sustituir las normas compartidas, siempre que los trabajadores respeten sus objetivos particulares.",
+        "D": "Además del objetivo y del plan, hacen falta normas de comportamiento comunes y una comunicación interna y externa basada en valores compartidos."
+      },
+      "correcta": "D",
+      "explicacion": "El manual (p. 10) exige simultáneamente compromiso con normas de comportamiento común, comunicación entre integrantes y con personas externas usando los mismos valores, y actividades orientadas a objetivos compartidos mediante una planificación estratégica. Tener misión, visión y valores escritos no reemplaza estas prácticas."
+    },
+    {
+      "id": "RRHH-T1-D-03",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.1.1",
+      "pagina_manual": 11,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa aprueba un código de conducta para su actividad comercial, pero sus mandos y empleados no aplican personalmente los criterios que proclama. ¿Qué conclusión encaja mejor con el apartado sobre ética empresarial?",
+      "opciones": {
+        "A": "Implantar una política empresarial ética sólida será difícil si falta ética moral personal en quienes dirigen y trabajan en la organización.",
+        "B": "La ética personal puede resultar insuficiente para evitar toda infracción legal, por lo que el código basta para garantizar una cultura empresarial ética.",
+        "C": "La ética moral personal solo condiciona las relaciones externas; las decisiones de gestión dependen exclusivamente de las normas formales.",
+        "D": "Una ética personal compartida sustituye la necesidad de orientar éticamente las operaciones comerciales y la gestión de la organización."
+      },
+      "correcta": "A",
+      "explicacion": "El manual indica que llevar a cabo actividades comerciales requiere ética moral y empresarial; si dirección y empleados carecen de ética moral personal, resultará difícil implantar una política de ética empresarial fuerte. Un documento formal no suple por sí solo ese compromiso."
+    },
+    {
+      "id": "RRHH-T1-D-04",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.1.2",
+      "pagina_manual": 11,
+      "dificultad": "media-alta",
+      "pregunta": "Una iniciativa de buen gobierno organiza sesiones abiertas para explicar por qué ciertas reformas pueden fortalecer el mercado de capitales. ¿Qué objetivo específico del concurso de buen gobierno corporativo está desarrollando?",
+      "opciones": {
+        "A": "Promover entre las empresas la adopción y práctica cotidiana de los principios de buen gobierno.",
+        "B": "Resaltar la creación de valor derivada de incorporar buenas prácticas dentro de las empresas.",
+        "C": "Sensibilizar al público sobre la necesidad de reformas que permitan fortalecer el mercado de capitales.",
+        "D": "Concienciar al empresario para que adopte prácticas de gobierno que incentiven nuevas inversiones en su compañía."
+      },
+      "correcta": "C",
+      "explicacion": "Entre los objetivos del concurso de buen gobierno corporativo (p. 11) figura expresamente sensibilizar al público acerca de las reformas necesarias para fortalecer el mercado de capitales. Los demás enunciados también son objetivos de la iniciativa, pero describen finalidades distintas."
+    },
+    {
+      "id": "RRHH-T1-D-05",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "media-alta",
+      "pregunta": "Una persona invierte capital en una sociedad y, posteriormente, deja todas las decisiones de gestión cotidiana en manos de profesionales. Según la personificación de las tareas, ¿qué ocurre con la dimensión personal de su inversión?",
+      "opciones": {
+        "A": "Pasa a identificarse con el trabajo directivo, porque toda inversión exige tomar decisiones ordinarias de gestión.",
+        "B": "Desaparece al delegarse la administración, pues la personificación solo afecta a actividades ejecutadas personalmente cada día.",
+        "C": "Queda vinculada al trabajo operativo, porque los resultados de la inversión dependen de las tareas realizadas por los empleados.",
+        "D": "Permanece dentro de la personificación del inversionista o capitalista, porque el vínculo de la inversión con quien invierte no desaparece."
+      },
+      "correcta": "D",
+      "explicacion": "El apartado 1.2 distingue la personificación del inversionista o capitalista y precisa que la vinculación de las inversiones con la persona que invierte no desaparece nunca. Delegar la gestión no convierte la inversión en trabajo directivo u operativo."
+    },
+    {
+      "id": "RRHH-T1-D-06",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "difícil",
+      "pregunta": "En una empresa, las negociaciones con proveedores se realizan ignorando los valores éticos declarados, mientras que el departamento comercial sí los aplica al atender a los clientes. La dirección afirma que basta con comportarse éticamente en la venta para compensar la compra. ¿Qué valoración corresponde a la personificación de las tareas?",
+      "opciones": {
+        "A": "La ética del acto de vender prevalece sobre la del acto de comprar, porque es la relación en la que se materializa el producto final.",
+        "B": "Comprar y vender son relaciones personificadas diferentes y ambas deben ajustarse a los valores éticos; actuar bien en una no justifica incumplirlos en la otra.",
+        "C": "El acto de comprar se valora por su eficiencia operativa, mientras que los valores éticos solo condicionan la relación comercial posterior con clientes.",
+        "D": "El cumplimiento ético puede evaluarse globalmente: las buenas prácticas de venta compensan las deficiencias de la relación con proveedores."
+      },
+      "correcta": "B",
+      "explicacion": "El apartado 1.2 (p. 12) diferencia el acto de comprar —relación con proveedores— y el de vender —relación con clientes—, y exige que ambos se rijan por actitudes y comportamientos coherentes con los valores y principios éticos empresariales. No contempla compensar las malas prácticas de una relación con las buenas de otra."
+    },
+    {
+      "id": "RRHH-T1-D-07",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.2.1",
+      "pagina_manual": 12,
+      "dificultad": "difícil",
+      "pregunta": "En una compañía, la plantilla conoce los valores comunes, pero cualquier propuesta de mejora queda bloqueada por instrucciones rígidas. ¿Qué finalidad concreta de la dirección por valores está quedando desatendida?",
+      "opciones": {
+        "A": "Simplificar la complejidad organizativa mediante una coordinación más práctica de los distintos niveles de la empresa.",
+        "B": "Orientar la visión estratégica de la empresa definiendo con mayor precisión los objetivos que desea alcanzar en el futuro.",
+        "C": "Potenciar la creatividad individual y de equipo, dando margen para proponer ideas y procesos frente a una rigidez excesiva.",
+        "D": "Integrar la dirección estratégica y la política de recursos humanos para reforzar la implicación profesional y emocional del personal."
+      },
+      "correcta": "C",
+      "explicacion": "La medida que falta es potenciar la creatividad individual y de equipo frente a la rigidez de las normas (p. 12). Las otras alternativas describen también finalidades auténticas de la DpV, pero no responden al problema específico de bloquear las propuestas de mejora."
+    },
+    {
+      "id": "RRHH-T1-D-08",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.2.1",
+      "pagina_manual": 12,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa implanta cuatro medidas: I. agiliza la coordinación entre niveles; II. vincula los objetivos estratégicos con la política de personal; III. establece metas tan elevadas que casi nadie puede alcanzarlas; IV. prohíbe proponer cambios a los procedimientos. ¿Qué evaluación identifica correctamente las finalidades de la dirección por valores que se cumplen y las que se contradicen?",
+      "opciones": {
+        "A": "I simplifica la complejidad y II integra estrategia y recursos humanos; III perjudica la fijación de metas motivadoras y IV bloquea la creatividad del equipo.",
+        "B": "I orienta la visión estratégica y II simplifica la complejidad; III perjudica las metas motivadoras y IV bloquea la creatividad del equipo.",
+        "C": "I simplifica la complejidad y II integra estrategia y recursos humanos; III refuerza las metas realistas y IV bloquea la creatividad del equipo.",
+        "D": "I simplifica la complejidad y II integra estrategia y recursos humanos; III perjudica las metas motivadoras y IV favorece la creatividad del equipo."
+      },
+      "correcta": "A",
+      "explicacion": "Las cinco finalidades de la DpV se enumeran en la p. 12. Agilizar la coordinación atiende a simplificar la complejidad; vincular estrategia y política de personal corresponde a su integración; unas metas desmesuradas no son realistas ni mantienen la motivación; impedir propuestas contradice la creatividad frente a la rigidez. Cada distractor altera al menos una relación concreta."
+    },
+    {
+      "id": "RRHH-T1-D-09",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "difícil",
+      "pregunta": "En una sociedad de capital disperso, los accionistas no dirigen las operaciones diarias, pero ejercen sus derechos económicos y de información; el equipo directivo determina las líneas estratégicas. ¿Qué afirmación combina correctamente la clasificación de estos grupos y el reparto de funciones?",
+      "opciones": {
+        "A": "Accionistas y directivos son internos; los accionistas conservan derechos económicos, pero pierden los políticos si delegan las decisiones de gestión.",
+        "B": "Los accionistas pasan a ser stakeholders externos si no administran la sociedad, mientras que los directivos siguen siendo internos por su capacidad decisoria.",
+        "C": "Accionistas y directivos son internos; los primeros aportan capital y suelen tener derechos económicos y políticos, y los segundos fijan la estrategia.",
+        "D": "Accionistas y directivos son internos; el plan estratégico corresponde necesariamente a los accionistas y la dirección se limita a ejecutarlo."
+      },
+      "correcta": "C",
+      "explicacion": "En la p. 13 los accionistas y directivos figuran entre los stakeholders internos. Los accionistas aportan capital mediante acciones y suelen tener derechos económicos y políticos, aunque no gestionen personalmente; a los directivos se les atribuyen las líneas estratégicas y la capacidad de decisión. No ejercer la dirección diaria no convierte a un accionista en externo ni elimina por sí mismo sus derechos políticos."
+    },
+    {
+      "id": "RRHH-T1-D-10",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa atiende tres reclamaciones: I. una petición de mejora del servicio posventa; II. la revisión de las condiciones de colaboración de quienes comercializan sus artículos; III. la exigencia de actuar sin prácticas desleales en el mercado. ¿Qué correspondencia entre intereses y stakeholders es correcta?",
+      "opciones": {
+        "A": "I clientes: atención y posventa; II distribuidores: contratación equitativa; III competidores: competencia leal.",
+        "B": "I clientes: contratación equitativa; II distribuidores: servicio posventa; III competidores: competencia leal.",
+        "C": "I distribuidores: atención y posventa; II clientes: contratación equitativa; III competidores: competencia leal.",
+        "D": "I clientes: atención y posventa; II competidores: contratación equitativa; III distribuidores: competencia leal."
+      },
+      "correcta": "A",
+      "explicacion": "Según el apartado 1.3 (p. 13), los clientes esperan atención y posventa eficaz; los distribuidores, condiciones equitativas de contratación y colaboración; y los competidores se relacionan con las prácticas de competencia y el desarrollo del producto. Las respuestas incorrectas intercambian intereses reales entre grupos diferentes."
+    },
+    {
+      "id": "RRHH-T1-D-11",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "difícil",
+      "pregunta": "Una industria destaca la creación de empleo en la comarca como prueba de que cumple todas sus responsabilidades ante el entorno. Sin embargo, su producción ocasiona daños ambientales que no está tratando de reducir. ¿Qué valoración diferencia correctamente los intereses externos implicados?",
+      "opciones": {
+        "A": "La creación de empleo satisface el ámbito medioambiental y, por ello, permite dar por cumplidas las exigencias de sostenibilidad.",
+        "B": "La protección ambiental se atribuye al entorno social próximo, mientras que el medio ambiente se vincula en el manual con la creación de puestos de trabajo.",
+        "C": "El interés del entorno social próximo se limita a la relación con administraciones, de modo que el empleo creado no es un elemento relevante.",
+        "D": "La creación de empleo atiende al entorno social próximo, pero no reemplaza la obligación de aplicar criterios de sostenibilidad respecto al medio ambiente."
+      },
+      "correcta": "D",
+      "explicacion": "La p. 13 identifica por separado el entorno social próximo —desarrollo local y creación de empleo— y el medio ambiente —aplicación de criterios sostenibles—. Una contribución positiva al empleo no elimina los deberes ambientales: se trata de intereses distintos que la empresa debe considerar conjuntamente."
+    },
+    {
+      "id": "RRHH-T1-D-12",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "difícil",
+      "pregunta": "Una trabajadora también posee acciones de su empresa y solicita información vinculada a su inversión. Por separado, la compañía negocia con un banco la financiación que necesita para operar. Un responsable afirma que las tres relaciones son externas porque tienen consecuencias económicas. ¿Qué análisis es el más ajustado al manual?",
+      "opciones": {
+        "A": "Como empleada pertenece al ámbito interno, pero como accionista al externo; la entidad financiera también es externa por su función crediticia.",
+        "B": "Tanto como empleada como accionista tiene vínculos internos; el banco es externo, y los derechos de la inversión y la provisión de liquidez corresponden a grupos diferentes.",
+        "C": "Es interna en ambos papeles y el banco también debe considerarse interno, puesto que su financiación contribuye directamente a los objetivos empresariales.",
+        "D": "Es interna como empleada y accionista, y el banco externo, pero los derechos económicos y políticos pertenecen al banco por aportar recursos a la compañía."
+      },
+      "correcta": "B",
+      "explicacion": "La clasificación del apartado 1.3 (p. 13) depende del papel ejercido: empleados y accionistas son stakeholders internos; las entidades financieras, externas. Poseer acciones puede conferir derechos económicos y políticos, mientras que el banco se vincula con la aportación de liquidez y solvencia. La dimensión económica de las relaciones no altera la clasificación."
+    },
+    {
+      "id": "RRHH-T1-D-13",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.4.1",
+      "pagina_manual": 14,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa ha descrito los intereses de empleados, vecinos y accionistas y ha estudiado sus relaciones. Dos grupos deciden defender una petición común; la dirección quiere aceptarla inmediatamente porque es compartida por ambos. ¿Qué evaluación se ajusta a la secuencia ética del manual?",
+      "opciones": {
+        "A": "La unión de grupos no acredita por sí sola legitimidad moral: corresponde examinarla antes de formular una respuesta acorde con los intereses legítimos.",
+        "B": "Cuando varios grupos se unen para defender la misma petición, esta queda moralmente legitimada y se puede pasar directamente a ejecutarla.",
+        "C": "La empresa debe dar primero una respuesta a la petición común y legitimar después los intereses para verificar si la decisión fue aceptable.",
+        "D": "La identificación de intereses compartidos exige repetir la descripción de los grupos, pues todavía no procede analizar su legitimidad moral."
+      },
+      "correcta": "A",
+      "explicacion": "En la p. 14 se distinguen, en este orden, descripción, interrelaciones, unión de grupos, legitimación de intereses y respuesta moral adecuada. La coincidencia de intereses y su defensa conjunta son propias de la unión, no de la legitimación: la moralidad de la petición aún debe analizarse antes de decidir."
+    },
+    {
+      "id": "RRHH-T1-D-14",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.4",
+      "pagina_manual": 16,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa quiere contratar a un proveedor que no dispone de un sistema formal de gestión ética, pero acredita que su actividad no vulnera los principios éticos básicos. ¿Qué criterio establece el manual para relacionarse con proveedores, distribuidores y entidades financieras?",
+      "opciones": {
+        "A": "Debe descartarlo en todo caso, ya que la existencia de un sistema formal de gestión ética es una condición imprescindible sin excepciones.",
+        "B": "Puede contratarlo sin examinar la ética de su actividad, siempre que existan precios y plazos de entrega competitivos.",
+        "C": "Puede colaborar con él si, aunque carezca de un sistema ético implantado, al menos respeta los principios que sirven de base a esos sistemas.",
+        "D": "Debe comprobar únicamente que dispone de un sistema de control financiero, sin valorar su comportamiento respecto a otros principios éticos."
+      },
+      "correcta": "C",
+      "explicacion": "El manual (p. 16) señala que proveedores, distribuidores y entidades financieras deberían tener implantados sistemas de gestión ética o, como mínimo, no vulnerar los principios éticos que los sustentan. Por eso no exige necesariamente la existencia formal de ese sistema."
+    },
+    {
+      "id": "RRHH-T1-D-15",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.4",
+      "pagina_manual": 15,
+      "dificultad": "difícil",
+      "pregunta": "Una compañía deja que la plantilla forme asociaciones libremente, pero prohíbe negociar colectivamente las condiciones de trabajo y mantiene a determinados empleados en su puesto mediante amenazas. ¿Qué diagnóstico distingue correctamente los principios laborales enumerados por la OIT en el manual?",
+      "opciones": {
+        "A": "Respeta la negociación colectiva por permitir asociaciones, pero vulnera la libertad de asociación y la prohibición de discriminación.",
+        "B": "Respeta la libertad de asociación, pero vulnera el derecho a la negociación colectiva y el principio de eliminación del trabajo forzoso.",
+        "C": "Vulnera la libertad de asociación y la abolición del trabajo infantil, pero respeta la negociación colectiva porque fija condiciones laborales.",
+        "D": "Respeta la libertad de asociación y la negociación colectiva, pero vulnera únicamente el principio de eliminación del trabajo forzoso."
+      },
+      "correcta": "B",
+      "explicacion": "La p. 15 diferencia expresamente libertad de asociación, derecho a negociación colectiva y eliminación del trabajo forzoso. Permitir asociaciones no equivale a permitir negociar colectivamente; impedir abandonar el trabajo mediante amenazas es incompatible con la eliminación del trabajo forzoso. No se describe trabajo infantil ni discriminación en el supuesto."
+    },
+    {
+      "id": "RRHH-T1-D-16",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.4",
+      "pagina_manual": 16,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa adopta simultáneamente estas decisiones: I. facilita a los accionistas la información que les corresponde; II. exige a un proveedor un sistema ético formal pese a que no vulnera ningún principio básico; III. admite campañas desleales contra competidores porque son legales en su mercado. ¿Qué valoración conjunta se fundamenta en el manual?",
+      "opciones": {
+        "A": "I respeta el derecho de información; II es obligatoria para cualquier proveedor y III vulnera la exigencia ética de evitar competencia desleal.",
+        "B": "I respeta el derecho de información; II es más estricta que el mínimo exigido y III es admisible si la legislación local no la sanciona.",
+        "C": "I no satisface una obligación ética específica con los accionistas; II supera el mínimo previsto y III contradice la competencia leal.",
+        "D": "I respeta el derecho de información; II supera el mínimo exigido para proveedores y III vulnera la prohibición ética de competencia desleal."
+      },
+      "correcta": "D",
+      "explicacion": "El apartado 1.4 (p. 16) reconoce el derecho a la información de los accionistas, establece para proveedores y otros colaboradores que tengan gestión ética o, como mínimo, no vulneren sus principios básicos, y rechaza la competencia desleal en todo caso. La inexistencia de un sistema formal no implica incumplimiento del mínimo ético descrito. Que una actuación sea posible jurídicamente no anula el límite ético."
+    },
+    {
+      "id": "RRHH-T1-D-17",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.5",
+      "pagina_manual": 17,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa conserva ciertos valores que la definen, pero revisa cómo aplicarlos tras cambios sociales y organizativos. ¿Qué interpretación concilia las características que el manual exige a los valores empresariales?",
+      "opciones": {
+        "A": "Para ser duraderos, los valores deben mantenerse sin ningún cambio de aplicación, incluso si el contexto sociocultural se transforma.",
+        "B": "Los valores han de ser duraderos e integrales, pero también flexibles y dinámicos para adaptarse al contexto sociocultural.",
+        "C": "La adaptación de valores corresponde únicamente a la dirección, porque su aceptación por el resto de la plantilla es secundaria.",
+        "D": "Los valores solo son útiles como declaraciones de cultura; su aplicación cotidiana podría impedir que la empresa se adapte."
+      },
+      "correcta": "B",
+      "explicacion": "El manual exige que los valores sean durables, integrales y flexibles; también dinámicos y adaptables al contexto sociocultural, compartidos y aplicados diariamente. Duración no equivale a rigidez absoluta."
+    },
+    {
+      "id": "RRHH-T1-D-18",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.5",
+      "pagina_manual": 16,
+      "dificultad": "difícil",
+      "pregunta": "Una técnica cumple con diligencia su plan de trabajo sin supervisión, después reconoce un error propio y aprende de él, pero deja sin atender una obligación que tenía asignada. ¿Qué análisis distingue con precisión los valores descritos en el manual?",
+      "opciones": {
+        "A": "Muestra disciplina y perseverancia, y ha cumplido la responsabilidad porque realizó la mayor parte del trabajo.",
+        "B": "Muestra responsabilidad y autocrítica, pero carece de disciplina porque admitió un error de ejecución.",
+        "C": "Muestra disciplina y proactividad, mientras que la obligación desatendida demuestra falta de perseverancia.",
+        "D": "Muestra disciplina y autocrítica, pero el incumplimiento de una obligación evidencia una carencia de responsabilidad en esa actuación."
+      },
+      "correcta": "D",
+      "explicacion": "Según las pp. 16–17, la disciplina incluye seguir el plan y trabajar con diligencia sin supervisión; la autocrítica consiste en admitir los errores y aprender de ellos; la responsabilidad exige cumplir los deberes y obligaciones. Mostrar unos valores no garantiza que se haya satisfecho otro. El enunciado no acredita proactividad ni una adversidad superada con perseverancia."
+    },
+    {
+      "id": "RRHH-T1-D-19",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.5.1",
+      "pagina_manual": 19,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa prepara, desde la dirección y marketing, un plan de identidad corporativa. Además, quiere fortalecer su cultura entre la plantilla y diferenciarse en el mercado. ¿Qué afirmación relaciona correctamente la planificación y las funciones de la imagen corporativa?",
+      "opciones": {
+        "A": "La identidad debe planificarse desde el área de recursos humanos; la imagen interna busca distinguirse de competidores y la externa difunde la misión entre empleados.",
+        "B": "La identidad se limita a conocer la opinión del público; la imagen interna define el logotipo y la externa controla las decisiones éticas de la plantilla.",
+        "C": "El plan de identidad se coordina desde dirección y marketing; la imagen interna refuerza misión, visión y valores, y la externa diferencia frente a competidores.",
+        "D": "El plan de identidad sustituye la planificación estratégica; la imagen interna fija los valores del mercado y la externa se ocupa del ambiente laboral."
+      },
+      "correcta": "C",
+      "explicacion": "El manual recomienda planificar estratégicamente desde dirección y marketing antes de crear un plan de identidad corporativa (p. 18). También distingue la función interna de la imagen —potenciar misión, visión y valores entre empleados— de su función externa —diferenciar a la empresa de la competencia— (p. 19)."
+    },
+    {
+      "id": "RRHH-T1-D-20",
+      "tema": 1,
+      "nivel": "difícil",
+      "apartado": "1.5.1",
+      "pagina_manual": 19,
+      "dificultad": "media-alta",
+      "pregunta": "En una empresa aumentan el estrés, el absentismo y la rotación, mientras desciende la productividad. La dirección compara varias actuaciones. ¿Qué plan utiliza las herramientas de evaluación del modo más ajustado a lo que expone el manual?",
+      "opciones": {
+        "A": "Evaluar clima laboral, satisfacción y desempeño con instrumentos adaptados a la empresa; analizar los datos y adoptar medidas de mejora a partir de los resultados.",
+        "B": "Evaluar el desempeño individual y publicar los resultados generales; considerar resuelto el clima laboral si la imagen externa mejora en la siguiente encuesta.",
+        "C": "Medir únicamente absentismo y rotación con una herramienta común a cualquier sector; evitar incluir percepciones sobre relaciones interpersonales.",
+        "D": "Evaluar clima y satisfacción mediante encuestas, pero sustituir el análisis del rendimiento por campañas de comunicación para aumentar el reconocimiento de la empresa."
+      },
+      "correcta": "A",
+      "explicacion": "La p. 19 relaciona niveles altos de estrés con deterioro de clima laboral, relaciones, productividad, absentismo y rotación. Propone aplicaciones para medir desempeño, clima y satisfacción, analizar datos y escoger herramientas adecuadas al sector y sistema de trabajo, a fin de orientar mejoras. Ni la comunicación externa ni un indicador aislado sustituyen esa evaluación."
+    }
+  ]
+}

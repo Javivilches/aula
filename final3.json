@@ -1,0 +1,517 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "Repaso integral: temas 1 a 5",
+  "test": "Simulacro 3 — Nivel difícil",
+  "preguntas": [
+    {
+      "id": "RRHH-F3-01",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.4",
+      "pagina_manual": 33,
+      "dificultad": "media",
+      "pregunta": "Una empresa cuantifica donaciones y empleo local, pero omite contaminación y conflictos laborales al presentar su balance social como necesariamente positivo. ¿Qué objeción se ajusta al manual?",
+      "opciones": {
+        "A": "Debe incluir también costes sociales y comparar su magnitud con los beneficios antes de determinar el signo del balance.",
+        "B": "El balance social solo recoge los beneficios y nunca puede ser negativo.",
+        "C": "La contaminación constituye exclusivamente un coste salarial y no pertenece al balance social.",
+        "D": "La aparición de cualquier beneficio positivo obliga a declarar un balance favorable aunque haya costes mayores."
+      },
+      "correcta": "A",
+      "explicacion": "El balance social contrapone aportaciones y perjuicios; será negativo cuando los costes sociales superen a los beneficios."
+    },
+    {
+      "id": "RRHH-F3-02",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.5",
+      "pagina_manual": 19,
+      "dificultad": "media",
+      "pregunta": "Una empresa lanza una campaña sobre su ética, pero detecta una elevada rotación y deterioro de relaciones laborales. ¿Qué actuación enlaza mejor con el procedimiento de evaluación descrito en el tema?",
+      "opciones": {
+        "A": "Medir el clima laboral y la satisfacción de empleados para identificar problemas y adoptar mejoras organizativas.",
+        "B": "Modificar el eslogan sin recoger datos internos, porque la satisfacción forma parte solo de la imagen externa.",
+        "C": "Sustituir las encuestas por rumores informales sin registro ni comprobación.",
+        "D": "Considerar que la rotación de personal no guarda relación posible con el clima de trabajo."
+      },
+      "correcta": "A",
+      "explicacion": "Los instrumentos de evaluación del clima permiten detectar estrés, problemas de relaciones, rotación y productividad para orientar la mejora."
+    },
+    {
+      "id": "RRHH-F3-03",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.9",
+      "pagina_manual": 86,
+      "dificultad": "difícil",
+      "pregunta": "Un comité valora un puesto según responsabilidad y esfuerzo, define niveles de exigencia para cada factor y atribuye un peso numérico a cada uno. ¿Qué documento sirve como instrumento de medida?",
+      "opciones": {
+        "A": "La oferta de trabajo, que reúne exclusivamente requisitos de candidaturas.",
+        "B": "El plan de acogida, centrado en acompañar a quienes se incorporan.",
+        "C": "El balance social, destinado a contraponer impactos sobre la comunidad.",
+        "D": "El manual de valoración compuesto por factores, grados y ponderaciones."
+      },
+      "correcta": "D",
+      "explicacion": "El método de puntuación por factores utiliza factores, grados e importancia ponderada que conforman el manual de valoración."
+    },
+    {
+      "id": "RRHH-F3-04",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "difícil",
+      "pregunta": "Una organización atiende las reclamaciones ambientales de vecinos y, al mismo tiempo, presta atención a una petición de financiación de sus bancos. ¿Qué diferencia entre los intereses identificados es la más precisa?",
+      "opciones": {
+        "A": "Ambos grupos se limitan al servicio de atención posventa que recibe el consumidor.",
+        "B": "La protección ambiental corresponde solo a los accionistas y la liquidez al entorno social próximo.",
+        "C": "El medio ambiente exige sostenibilidad y las entidades financieras proporcionan liquidez y solvencia.",
+        "D": "El medio ambiente exige garantías sobre el dividendo y los bancos se ocupan de la contratación de distribuidores."
+      },
+      "correcta": "C",
+      "explicacion": "El manual distingue expresamente sostenibilidad ambiental, por un lado, y liquidez/solvencia facilitada por entidades financieras, por otro."
+    },
+    {
+      "id": "RRHH-F3-05",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.2",
+      "pagina_manual": 39,
+      "dificultad": "difícil",
+      "pregunta": "La empresa A centra su gestión en recortar costes salariales y deja la formación a cargo del trabajador. La empresa B prioriza motivación y desarrollo profesional para aumentar productividad y retención. ¿Qué modelos representan?",
+      "opciones": {
+        "A": "Ambas actuales, porque emplean procedimientos de recursos humanos.",
+        "B": "Tradicional en A y tendencia actual en B.",
+        "C": "Ambas tradicionales, porque también la motivación busca productividad.",
+        "D": "Tendencia actual en A y tradicional en B."
+      },
+      "correcta": "B",
+      "explicacion": "El manual asocia el enfoque tradicional con reducción de costes y formación a cargo del empleado; el actual con satisfacción, formación y promoción impulsadas por la empresa."
+    },
+    {
+      "id": "RRHH-F3-06",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 25,
+      "dificultad": "difícil",
+      "pregunta": "Un informe sostiene que una organización cumplirá con responsabilidad social únicamente cuando alcance la certificación ISO 26000. ¿Qué observación permite corregirlo según el temario?",
+      "opciones": {
+        "A": "ISO 26000 es aplicable solo a administraciones públicas de la Unión Europea.",
+        "B": "ISO 26000 excluye consideraciones ambientales y solo estudia la rentabilidad.",
+        "C": "ISO 26000 aporta orientación para todo tipo de organizaciones y no es una norma certificable.",
+        "D": "ISO 26000 certifica productos financieros éticos y se limita a entidades bancarias."
+      },
+      "correcta": "C",
+      "explicacion": "La guía ISO 26000 persigue contribuir al desarrollo sostenible y ofrecer criterios comunes, pero el manual especifica que no es certificable."
+    },
+    {
+      "id": "RRHH-F3-07",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.5",
+      "pagina_manual": 63,
+      "dificultad": "media",
+      "pregunta": "Tras entrevistas y pruebas, RR. HH. comprueba títulos y experiencia de los finalistas; luego el responsable del puesto y el área de personal valoran la decisión. ¿Qué secuencia describe?",
+      "opciones": {
+        "A": "Únicamente acogida, pues la documentación ya se conoce al seleccionar al aspirante.",
+        "B": "Firma del contrato y mentoría en la fase final antes de la entrevista.",
+        "C": "Reclutamiento y publicación de oferta en la fase previa, sin evaluación de candidatos.",
+        "D": "Verificación de referencias y documentación seguida de toma de decisión en la fase central."
+      },
+      "correcta": "D",
+      "explicacion": "La fase central comprende pruebas, entrevistas, verificación de méritos y decisión; la fase final llega después, con contratación y acogida."
+    },
+    {
+      "id": "RRHH-F3-08",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.2",
+      "pagina_manual": 27,
+      "dificultad": "difícil",
+      "pregunta": "La dirección estudia una memoria que cuantifica el valor económico creado, las aportaciones sociales y el impacto ambiental, apoyándose en indicadores de una iniciativa internacional. ¿Qué dos conceptos está relacionando?",
+      "opciones": {
+        "A": "Comunicación ambiental y registro diario de accesos biométricos.",
+        "B": "Código ético y prueba de desempeño individual sin información social.",
+        "C": "Balance salarial de nóminas y catálogo de pruebas psicotécnicas.",
+        "D": "Triple balance de la memoria de sostenibilidad e indicadores GRI."
+      },
+      "correcta": "D",
+      "explicacion": "La memoria de sostenibilidad incorpora resultados económico, social y ambiental, y GRI ofrece indicadores de desempeño para cuantificar la RSC."
+    },
+    {
+      "id": "RRHH-F3-09",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.4",
+      "pagina_manual": 79,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa completa su plan formativo y tramita su financiación. ¿Qué par de actuaciones forma parte de la gestión administrativa descrita?",
+      "opciones": {
+        "A": "Solicitar ayudas a Fundae y aplicar bonificaciones en cotizaciones a la Seguridad Social.",
+        "B": "Registrar exclusivamente la evaluación del desempeño de futuros candidatos.",
+        "C": "Sustituir la gestión de expedientes por informes de ventas y producción.",
+        "D": "Asignar categorías laborales y seleccionar nuevos directivos sin registrar formación."
+      },
+      "correcta": "A",
+      "explicacion": "El manual incluye la tramitación ante Fundae y la aplicación de bonificaciones entre las gestiones de formación."
+    },
+    {
+      "id": "RRHH-F3-10",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.11",
+      "pagina_manual": 70,
+      "dificultad": "muy difícil",
+      "pregunta": "En una reestructuración, la empresa financia un programa de recolocación. Otra compañía contrata posteriormente a varias personas participantes. ¿Cuál es una ventaja específica para la compañía que recluta?",
+      "opciones": {
+        "A": "Prescindir necesariamente de toda evaluación porque el programa garantiza cualquier competencia.",
+        "B": "Eliminar las obligaciones de protección de datos al acceder a informes externos.",
+        "C": "Trasladar al trabajador el pago del servicio de recolocación que recibe.",
+        "D": "Acceder a perfiles cualificados ya contrastados con coste de captación reducido."
+      },
+      "correcta": "D",
+      "explicacion": "El manual señala que la entidad que recluta puede acceder a candidatos de calidad a bajo coste y con credenciales verificadas."
+    },
+    {
+      "id": "RRHH-F3-11",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.3",
+      "pagina_manual": 41,
+      "dificultad": "difícil",
+      "pregunta": "Ante una reclamación, una responsable expresa su desacuerdo sin agresividad y después resume con sus palabras lo que ha entendido para comprobarlo. ¿Qué técnicas aplica de forma sucesiva?",
+      "opciones": {
+        "A": "Empatía y comunicación corporativa hacia el mercado.",
+        "B": "Asertividad y escucha activa.",
+        "C": "Comunicación horizontal e información ambiental recibida del exterior.",
+        "D": "Comunicación descendente y control de absentismo."
+      },
+      "correcta": "B",
+      "explicacion": "Expresar una opinión clara y respetuosa es asertividad; parafrasear para confirmar comprensión es una práctica de escucha activa."
+    },
+    {
+      "id": "RRHH-F3-12",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "difícil",
+      "pregunta": "La dirección fija objetivos alcanzables y concede libertad para proponer mejoras, pero diseña la estrategia de negocio sin coordinarla con la gestión de personal. ¿Qué finalidad diferenciada de la dirección por valores permanece pendiente?",
+      "opciones": {
+        "A": "Integrar la dirección estratégica con la política de recursos humanos para implicar profesional y emocionalmente a la plantilla.",
+        "B": "Potenciar la creatividad individual, ya que se han prohibido las propuestas de mejora.",
+        "C": "Simplificar la complejidad mediante la supresión completa de todos los niveles de responsabilidad.",
+        "D": "Establecer objetivos realistas, pues todavía no existe ningún límite a las metas."
+      },
+      "correcta": "A",
+      "explicacion": "Aunque las metas y la creatividad ya se han atendido, falta alinear la dirección estratégica con RR. HH., un objetivo propio y distinto de la DpV."
+    },
+    {
+      "id": "RRHH-F3-13",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.5",
+      "pagina_manual": 44,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa registra ausencias y decide implantar fichaje mediante tarjeta. Paralelamente, mejora la prevención de riesgos y la conciliación horaria. ¿Cómo distingue el manual estas actuaciones?",
+      "opciones": {
+        "A": "Todas son medidas de control porque permiten conocer cuándo hay ausencias.",
+        "B": "Ninguna tiene relación con el absentismo cuando la plantilla está motivada.",
+        "C": "El fichaje es control; prevención de riesgos y conciliación son medidas preventivas del absentismo.",
+        "D": "El fichaje es una medida preventiva del clima y las otras dos son controles de entrada y salida."
+      },
+      "correcta": "C",
+      "explicacion": "El manual diferencia dispositivos de registro de presencia y medidas para reducir causas del absentismo, como seguridad y flexibilidad."
+    },
+    {
+      "id": "RRHH-F3-14",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.4",
+      "pagina_manual": 14,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa ha identificado intereses y agrupado colectivamente a quienes presentan demandas parecidas. Antes de emitir una respuesta ética quiere saber si todas esas demandas merecen ser atendidas moralmente. ¿Qué fase debe desarrollar?",
+      "opciones": {
+        "A": "Legitimación de intereses, para evaluar la aceptabilidad moral de las demandas detectadas.",
+        "B": "Unión de grupos, porque cualquier interés compartido se convierte automáticamente en legítimo.",
+        "C": "Respuesta moral adecuada, porque puede decidir sin verificar la legitimidad de lo que se reclama.",
+        "D": "Descripción de grupos, porque la legitimidad equivale únicamente a nombrar a los colectivos."
+      },
+      "correcta": "A",
+      "explicacion": "La legitimación determina la aceptabilidad moral de los intereses previamente descritos, analizados y eventualmente agrupados."
+    },
+    {
+      "id": "RRHH-F3-15",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.8",
+      "pagina_manual": 48,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa crea una copia de seguridad de sus archivos de personal. ¿Qué característica debe acompañar a esa copia según el temario?",
+      "opciones": {
+        "A": "Que sustituya indefinidamente al fichero original incluso sin pérdidas.",
+        "B": "Que el acceso a ella quede limitado al personal autorizado.",
+        "C": "Que permita eludir las obligaciones de custodia de datos personales.",
+        "D": "Que pueda consultarla cualquier usuario sin identificación."
+      },
+      "correcta": "B",
+      "explicacion": "Las copias de seguridad requieren acceso restringido y sirven para recuperar información ante la pérdida del fichero original."
+    },
+    {
+      "id": "RRHH-F3-16",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.1",
+      "pagina_manual": 11,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa informa con transparencia sobre sus resultados, pero excluye deliberadamente de las decisiones a sus órganos de gobierno previstos. ¿Qué valoración responde mejor a la definición de buen gobierno corporativo?",
+      "opciones": {
+        "A": "La transparencia es un principio relevante, pero el buen gobierno también regula el diseño, la integración y el funcionamiento de los órganos que gobiernan la organización.",
+        "B": "La transparencia basta por sí sola para definir el buen gobierno, aunque se omita toda regla sobre órganos directivos.",
+        "C": "El buen gobierno solo consiste en obtener beneficios mediante decisiones de los trabajadores operativos.",
+        "D": "El funcionamiento de los órganos no guarda relación con el gobierno corporativo, sino solo con la imagen publicitaria."
+      },
+      "correcta": "A",
+      "explicacion": "El buen gobierno integra normas de organización y funcionamiento de los órganos, transparencia, protección de intereses y eficiencia; no queda reducido a un solo principio."
+    },
+    {
+      "id": "RRHH-F3-17",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.4",
+      "pagina_manual": 42,
+      "dificultad": "difícil",
+      "pregunta": "Dos candidatos muestran dominio técnico equivalente. El primero comunica ideas claramente, pero rechaza adaptarse a cambios; el segundo resuelve problemas en equipo y ajusta su actuación a nuevas situaciones. ¿Qué combinación de habilidades destaca especialmente el segundo?",
+      "opciones": {
+        "A": "Trabajo en equipo y flexibilidad.",
+        "B": "Normativa de archivo y capacidad salarial.",
+        "C": "Comunicación descendente y control formal de presencia.",
+        "D": "Autonomía y valoración financiera del puesto."
+      },
+      "correcta": "A",
+      "explicacion": "Cooperar para metas comunes refleja trabajo en equipo; adaptarse a cambios y situaciones complicadas refleja flexibilidad."
+    },
+    {
+      "id": "RRHH-F3-18",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.10",
+      "pagina_manual": 88,
+      "dificultad": "difícil",
+      "pregunta": "La empresa quiere distinguir en su archivo los títulos presentados al incorporarse y los cursos realizados después por la persona empleada. ¿Qué criterio organiza mejor ambos grupos?",
+      "opciones": {
+        "A": "Promoción vertical y promoción horizontal, respectivamente.",
+        "B": "Formación continuada y formación inicial, respectivamente.",
+        "C": "Formación inicial y formación continuada, respectivamente.",
+        "D": "Evaluación 360 grados y valoración del puesto, respectivamente."
+      },
+      "correcta": "C",
+      "explicacion": "El registro diferencia títulos y documentos iniciales de formación que se desarrolla durante la relación laboral."
+    },
+    {
+      "id": "RRHH-F3-19",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.8",
+      "pagina_manual": 47,
+      "dificultad": "media",
+      "pregunta": "RR. HH. conserva documentos de candidatos con datos especialmente delicados y varios empleados acceden por trabajo a ellos. ¿Qué obligación del manual permanece incluso cuando termina su contrato?",
+      "opciones": {
+        "A": "Entregar copias a cualquier compañero de la empresa que las solicite.",
+        "B": "Incorporarlos a campañas publicitarias sin informar a los titulares.",
+        "C": "Guardar secreto profesional sobre la información personal conocida y evitar revelarla.",
+        "D": "Hacer públicos los datos cuando ya no exista relación contractual."
+      },
+      "correcta": "C",
+      "explicacion": "El deber de confidencialidad se extiende más allá del fin del vínculo contractual, según el apartado sobre secreto profesional del manual."
+    },
+    {
+      "id": "RRHH-F3-20",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.2",
+      "pagina_manual": 77,
+      "dificultad": "difícil",
+      "pregunta": "En una acción formativa se recogen calificaciones finales de asistentes y encuestas de satisfacción sobre quien impartió el curso. ¿Qué evaluación realiza cada grupo de información?",
+      "opciones": {
+        "A": "La primera valora al formador y la segunda mide siempre la rentabilidad económica del curso.",
+        "B": "La primera mide resultados del alumnado y la segunda valora al formador.",
+        "C": "La primera corresponde a una evaluación 360 grados de candidatos y la segunda a su contratación.",
+        "D": "Ambas miden exclusivamente los costes indirectos de los planes de formación."
+      },
+      "correcta": "B",
+      "explicacion": "El manual distingue resultados de participantes y evaluación del formador a través de cuestionarios de satisfacción."
+    },
+    {
+      "id": "RRHH-F3-21",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.2",
+      "pagina_manual": 55,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa usa observación directa durante una sola hora para definir un puesto de tareas variables. ¿Qué ajuste recomienda el manual para aumentar la representatividad?",
+      "opciones": {
+        "A": "Limitarla siempre a una persona para reducir la diversidad de información.",
+        "B": "Sustituirla por un juicio inmediato basado en la primera tarea observada.",
+        "C": "Extender la observación durante varios días, ajustando su duración a la complejidad del puesto.",
+        "D": "Realizarla sin informar a los trabajadores sobre el objetivo del estudio."
+      },
+      "correcta": "C",
+      "explicacion": "La observación debe abarcar un tiempo considerable, no simples horas, especialmente si el puesto es complejo o variable."
+    },
+    {
+      "id": "RRHH-F3-22",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.5",
+      "pagina_manual": 17,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa fija valores que toda su plantilla conoce, pero estos nunca se reflejan en actuaciones cotidianas. ¿Qué rasgo de los valores empresariales falta especialmente?",
+      "opciones": {
+        "A": "Su función de diferenciar solo las normas de la empresa frente a las disposiciones legales.",
+        "B": "Su aplicación diaria en la práctica laboral, además de su aceptación y comunicación.",
+        "C": "Su adaptación a entornos sociales cambiantes, lo que exige su modificación diaria.",
+        "D": "Su vigencia exclusiva en las decisiones publicitarias y no en la gestión interna."
+      },
+      "correcta": "B",
+      "explicacion": "Según el manual, comunicar y aceptar los valores no basta: han de practicarse diariamente y regir las conductas de la organización."
+    },
+    {
+      "id": "RRHH-F3-23",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.5",
+      "pagina_manual": 62,
+      "dificultad": "difícil",
+      "pregunta": "La empresa recibe muchas candidaturas y primero contrasta los currículos con el perfil profesional antes de citar a las personas que pasan una entrevista telefónica breve. ¿En qué fase del proceso se encuentra?",
+      "opciones": {
+        "A": "Comprobación de referencias de la fase central tras la elección.",
+        "B": "Acogida y periodo de prueba de la fase final.",
+        "C": "Evaluación final del desempeño ya contratado.",
+        "D": "Preselección dentro de la fase previa."
+      },
+      "correcta": "D",
+      "explicacion": "La preselección o primera criba se realiza en la fase previa a través de currículos o contactos iniciales."
+    },
+    {
+      "id": "RRHH-F3-24",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.3",
+      "pagina_manual": 79,
+      "dificultad": "media",
+      "pregunta": "Una empresa ha obtenido puntuaciones muy favorables en un curso, pero el problema organizativo que motivó el plan continúa. ¿Qué evaluación adicional permite detectar esta diferencia?",
+      "opciones": {
+        "A": "Una nueva clasificación de los empleados según su categoría contractual.",
+        "B": "La evaluación global del programa, contrastando los objetivos del plan completo con la situación que pretendía corregir.",
+        "C": "Únicamente otra encuesta de satisfacción del mismo curso sin analizar los resultados empresariales.",
+        "D": "El cálculo de la antigüedad de todos los trabajadores participantes."
+      },
+      "correcta": "B",
+      "explicacion": "La evaluación global no se limita a cursos concretos: determina si el plan completo cumplió objetivos y solucionó la necesidad."
+    },
+    {
+      "id": "RRHH-F3-25",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 24,
+      "dificultad": "difícil",
+      "pregunta": "Dos responsables comparan el Libro Verde europeo de 2001 y la Comunicación de la Comisión sobre la estrategia de RSC 2011-2014. ¿Qué correspondencia es correcta?",
+      "opciones": {
+        "A": "El Libro Verde aprueba la Constitución europea y la Comunicación de 2011 regula las relaciones individuales de trabajo.",
+        "B": "El Libro Verde establece certificaciones obligatorias y la Comunicación prohíbe que se generen beneficios económicos.",
+        "C": "El Libro Verde fomenta prácticas y evaluación; la Comunicación posterior revisa la definición de RSC y promueve creación de valor compartido.",
+        "D": "Ambos documentos consisten en convenios colectivos de cumplimiento obligatorio para todas las empresas."
+      },
+      "correcta": "C",
+      "explicacion": "El manual diferencia el objetivo promotor del Libro Verde de la revisión de estrategia y creación de valor compartido de la Comunicación 2011-2014."
+    },
+    {
+      "id": "RRHH-F3-26",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.7",
+      "pagina_manual": 83,
+      "dificultad": "muy difícil",
+      "pregunta": "Una dirección establece resultados individuales desconectados de la estrategia, sin indicadores claros ni un plazo. ¿Qué criterio de evaluación del desempeño incumple?",
+      "opciones": {
+        "A": "Sustituir las competencias por una única encuesta sobre satisfacción del formador.",
+        "B": "Exigir que cada empleado elija el objetivo financiero de toda la empresa sin indicadores.",
+        "C": "Definir objetivos alineados, medibles, alcanzables y delimitados en un periodo.",
+        "D": "Asignar siempre un objetivo cualitativo que no pueda describirse ni valorarse."
+      },
+      "correcta": "C",
+      "explicacion": "Los objetivos se encadenan desde lo estratégico hasta lo individual y deben disponer de indicadores, plazo y posibilidad real de cumplimiento."
+    },
+    {
+      "id": "RRHH-F3-27",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.2",
+      "pagina_manual": 53,
+      "dificultad": "difícil",
+      "pregunta": "Un responsable elabora un profesiograma con puntuaciones del nivel de inglés, la adaptabilidad y la capacidad negociadora. ¿Qué relación guarda ese documento con el análisis previo?",
+      "opciones": {
+        "A": "Recoge únicamente las notas académicas de los candidatos tras su contratación.",
+        "B": "Se utiliza solo en formación de personal, sin relación con los perfiles de selección.",
+        "C": "Sustituye el estudio de funciones por la valoración exclusiva de la satisfacción del empleado.",
+        "D": "Sistematiza las aptitudes y características relevantes del puesto obtenidas mediante su análisis."
+      },
+      "correcta": "D",
+      "explicacion": "El profesiograma recoge requisitos y capacidades asociados al puesto a partir de la información recabada en el análisis."
+    },
+    {
+      "id": "RRHH-F3-28",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.3",
+      "pagina_manual": 31,
+      "dificultad": "media",
+      "pregunta": "Una entidad necesita precisión extrema al operar maquinaria peligrosa; otra quiere que su equipo autónomo de especialistas experimentados trabaje con libertad pero con seguimiento. ¿Qué estilos sugiere el manual, en ese orden?",
+      "opciones": {
+        "A": "Laissez-faire en el primer caso y autocrático sin seguimiento en el segundo.",
+        "B": "Burocrático en el primer caso y laissez-faire en el segundo.",
+        "C": "Natural en el primero y burocrático con supervisión minuciosa en el segundo.",
+        "D": "Carismático en el primero y transaccional sin normas en el segundo."
+      },
+      "correcta": "B",
+      "explicacion": "El liderazgo burocrático se adapta a tareas con riesgos que requieren cumplimiento exacto de normas; laissez-faire exige experiencia, autonomía y seguimiento/comunicación."
+    },
+    {
+      "id": "RRHH-F3-29",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.8",
+      "pagina_manual": 66,
+      "dificultad": "muy difícil",
+      "pregunta": "Para evaluar a un aspirante se plantean tres actividades: una serie de razonamiento numérico, una simulación de tarea real y un cuestionario sobre rasgos de personalidad. ¿Qué categorías corresponden respectivamente?",
+      "opciones": {
+        "A": "Profesional, dinámica grupal y entrevista planificada.",
+        "B": "Dinámica de grupo, estudio grafológico y entrevista tensa.",
+        "C": "Aptitud física, conocimientos generales y prueba de referencias.",
+        "D": "Inteligencia, prueba profesional y personalidad."
+      },
+      "correcta": "D",
+      "explicacion": "Las series numéricas son prueba de inteligencia; las tareas reales son profesionales; los rasgos personales se evalúan con pruebas de personalidad."
+    },
+    {
+      "id": "RRHH-F3-30",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 23,
+      "dificultad": "muy difícil",
+      "pregunta": "Una multinacional busca una guía que proponga procedimientos para resolver conflictos con comunidades afectadas y favorezca la diligencia debida en su cadena de suministro. ¿Cuál es?",
+      "opciones": {
+        "A": "La Declaración de Río, centrada exclusivamente en registros de jornada laboral.",
+        "B": "La norma UNE 16001, dedicada a arbitraje de controversias ambientales con vecinos.",
+        "C": "El Libro Blanco español, entendido como norma internacional obligatoria de resolución judicial.",
+        "D": "Las directrices de la OCDE para empresas multinacionales."
+      },
+      "correcta": "D",
+      "explicacion": "El manual atribuye a las directrices OCDE las recomendaciones de conducta responsable y los procedimientos de resolución de controversias, con énfasis en diligencia debida y suministro."
+    }
+  ]
+}
