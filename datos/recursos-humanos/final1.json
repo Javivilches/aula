@@ -1,0 +1,517 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "Repaso integral: temas 1 a 5",
+  "test": "Simulacro 1 — Nivel normal",
+  "preguntas": [
+    {
+      "id": "RRHH-F1-01",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.5",
+      "pagina_manual": 43,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa registra 50 horas de ausencia justificadas y 150 de ausencia total en un periodo de 5.000 horas de trabajo. ¿Cuál es el índice de absentismo injustificado?",
+      "opciones": {
+        "A": "3 %.",
+        "B": "1 %.",
+        "C": "4 %.",
+        "D": "2 %."
+      },
+      "correcta": "D",
+      "explicacion": "Las ausencias injustificadas son 150 − 50 = 100 horas; 100/5.000 × 100 = 2 %."
+    },
+    {
+      "id": "RRHH-F1-02",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.6",
+      "pagina_manual": 81,
+      "dificultad": "media",
+      "pregunta": "Para obtener bonificaciones de formación, una empresa comprueba que sus obligaciones tributarias y con la Seguridad Social están al día. ¿Qué está verificando?",
+      "opciones": {
+        "A": "La obligatoriedad de impartir únicamente formación presencial.",
+        "B": "Uno de los requisitos que enumera el manual para beneficiarse del sistema de Fundae.",
+        "C": "Un requisito para ascender de categoría a cualquier trabajador.",
+        "D": "Una condición exclusiva de la formación de funcionarios del INAP."
+      },
+      "correcta": "B",
+      "explicacion": "El manual exige, entre otras condiciones, estar al corriente de las obligaciones tributarias y con la Seguridad Social."
+    },
+    {
+      "id": "RRHH-F1-03",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.4",
+      "pagina_manual": 14,
+      "dificultad": "media",
+      "pregunta": "Una dirección ha descrito los intereses de diversos colectivos y observa que algunos coinciden. Antes de decidir si son moralmente aceptables, ¿qué análisis contempla la secuencia del manual?",
+      "opciones": {
+        "A": "Sustituir los intereses detectados por los objetivos de rentabilidad de los socios.",
+        "B": "Evaluar el diseño del logotipo y la identidad corporativa de la empresa.",
+        "C": "Estudiar las semejanzas y los vínculos entre los intereses de los distintos grupos.",
+        "D": "Obtener una puntuación económica para cada uno de los intereses identificados."
+      },
+      "correcta": "C",
+      "explicacion": "La fase de interrelaciones analiza las semejanzas y nexos entre intereses; después pueden identificarse uniones y valorarse su legitimidad moral."
+    },
+    {
+      "id": "RRHH-F1-04",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.4",
+      "pagina_manual": 33,
+      "dificultad": "media",
+      "pregunta": "Una industria anota como beneficio social la creación de puestos de trabajo y como coste social los accidentes laborales. ¿Qué instrumento está elaborando?",
+      "opciones": {
+        "A": "Un balance social que contrapone beneficios y costes sociales.",
+        "B": "Una evaluación 360 grados de las competencias.",
+        "C": "Una estimación de salarios y bonificaciones formativas.",
+        "D": "Un organigrama de funciones y niveles jerárquicos."
+      },
+      "correcta": "A",
+      "explicacion": "El balance social recoge y compara efectos positivos y negativos de la actividad empresarial en el ámbito social."
+    },
+    {
+      "id": "RRHH-F1-05",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.1",
+      "pagina_manual": 74,
+      "dificultad": "media",
+      "pregunta": "Un mando observa errores repetidos en la ejecución de una tarea y comprueba si se deben a carencias de conocimientos. ¿Qué método utiliza para detectar necesidades formativas?",
+      "opciones": {
+        "A": "La evaluación de un programa de recolocación.",
+        "B": "La promoción profesional automática.",
+        "C": "El análisis de fallos.",
+        "D": "El cálculo del crédito de formación."
+      },
+      "correcta": "C",
+      "explicacion": "El análisis de fallos parte de un problema o defecto para determinar si existe una necesidad formativa."
+    },
+    {
+      "id": "RRHH-F1-06",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.2",
+      "pagina_manual": 37,
+      "dificultad": "fácil",
+      "pregunta": "El departamento de RR. HH. diseña una política de incentivos según la categoría profesional y comprueba después sus resultados. ¿Qué función está desarrollando?",
+      "opciones": {
+        "A": "La función de prevención de riesgos limitada a los equipos de protección.",
+        "B": "La función de retribución.",
+        "C": "La función de servicios sociales ajenos al salario.",
+        "D": "La función de gestión de expedientes personales."
+      },
+      "correcta": "B",
+      "explicacion": "La función de retribución abarca diseño, implantación y valoración de políticas salariales y de incentivos."
+    },
+    {
+      "id": "RRHH-F1-07",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.1",
+      "pagina_manual": 52,
+      "dificultad": "fácil",
+      "pregunta": "Una organización busca asesoramiento especializado para identificar y evaluar candidatos, pero desea contratar directamente a la persona elegida. ¿Qué servicio es el más apropiado?",
+      "opciones": {
+        "A": "Un servicio de outplacement destinado a trabajadores despedidos.",
+        "B": "Una consultora de selección de personal.",
+        "C": "Un sistema de control de presencia basado en tarjetas.",
+        "D": "Una empresa de trabajo temporal que siempre formaliza por sí misma el contrato del trabajador cedido."
+      },
+      "correcta": "B",
+      "explicacion": "La consultora presta asesoramiento y apoyo especializado en la selección, mientras que la ETT contrata al trabajador que pone a disposición de la usuaria."
+    },
+    {
+      "id": "RRHH-F1-08",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.1",
+      "pagina_manual": 35,
+      "dificultad": "fácil",
+      "pregunta": "En una empresa, un esquema representa los niveles de autoridad y las líneas de información entre puestos. ¿Qué estructura describe?",
+      "opciones": {
+        "A": "La totalidad de conversaciones espontáneas que se producen entre compañeros.",
+        "B": "La red de afinidades personales no previstas en las normas.",
+        "C": "La estructura formal de la organización.",
+        "D": "La comunicación exclusivamente externa de la entidad."
+      },
+      "correcta": "C",
+      "explicacion": "El organigrama representa la estructura formal, la jerarquía y los cauces establecidos de comunicación."
+    },
+    {
+      "id": "RRHH-F1-09",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.10",
+      "pagina_manual": 68,
+      "dificultad": "media-alta",
+      "pregunta": "Una recién incorporada cuenta con el acompañamiento temporal de una compañera experimentada que resuelve sus dudas y facilita su adaptación. ¿Qué técnica aplica la empresa?",
+      "opciones": {
+        "A": "Mentoring o tutorización.",
+        "B": "Outplacement colectivo.",
+        "C": "Promoción profesional horizontal.",
+        "D": "Reclutamiento externo."
+      },
+      "correcta": "A",
+      "explicacion": "El mentoring asigna un tutor para acompañar el aprendizaje y adaptación, generalmente durante los primeros días o semanas."
+    },
+    {
+      "id": "RRHH-F1-10",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 22,
+      "dificultad": "fácil",
+      "pregunta": "Una entidad implanta un protocolo contra los sobornos a sus proveedores y directivos. ¿Con qué área del Pacto Mundial se vincula directamente?",
+      "opciones": {
+        "A": "La protección del medio ambiente, recogida en el principio 8.",
+        "B": "Las normas laborales, recogidas en el principio 6.",
+        "C": "Los derechos humanos, recogidos en el principio 2.",
+        "D": "La lucha contra la corrupción, recogida en el principio 10."
+      },
+      "correcta": "D",
+      "explicacion": "El principio 10 del Pacto Mundial aborda expresamente la lucha contra la corrupción, incluidas la extorsión y el soborno."
+    },
+    {
+      "id": "RRHH-F1-11",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.7",
+      "pagina_manual": 84,
+      "dificultad": "media",
+      "pregunta": "Una empresa pregunta por el desempeño de una empleada tanto a su responsable como a compañeros y clientes con quienes trabaja. ¿Qué tipo de evaluación realiza?",
+      "opciones": {
+        "A": "Evaluación exclusiva del superior directo.",
+        "B": "Valoración cuantitativa de puestos por factores.",
+        "C": "Evaluación 360 grados.",
+        "D": "Balance social de actividades filantrópicas."
+      },
+      "correcta": "C",
+      "explicacion": "La evaluación 360 grados incorpora valoraciones de distintas personas que interactúan con la empleada, no solo de su superior."
+    },
+    {
+      "id": "RRHH-F1-12",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 25,
+      "dificultad": "media",
+      "pregunta": "Una entidad solicita una certificación basada en requisitos de un sistema de gestión social. ¿Qué comparación entre ISO 26000 y RS 10 se ajusta al manual?",
+      "opciones": {
+        "A": "ISO 26000 certifica obligatoriamente mientras RS 10 es exclusivamente una recomendación sin requisitos.",
+        "B": "Ninguna considera las relaciones con los grupos de interés en la gestión de la RSC.",
+        "C": "Ambas son certificables, pero ISO 26000 solo admite empresas industriales.",
+        "D": "ISO 26000 ofrece orientación y no es certificable; RS 10 establece requisitos y sí es certificable."
+      },
+      "correcta": "D",
+      "explicacion": "ISO 26000 es una guía no certificable. RS 10 incorpora requisitos para un sistema de gestión y permite certificación, según el manual."
+    },
+    {
+      "id": "RRHH-F1-13",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.2",
+      "pagina_manual": 55,
+      "dificultad": "media",
+      "pregunta": "Una analista observa durante varios días las tareas de un puesto, informando previamente a sus ocupantes de que no evalúa su rendimiento personal. ¿Qué técnica emplea?",
+      "opciones": {
+        "A": "La observación directa para analizar el puesto de trabajo.",
+        "B": "Un cuestionario de satisfacción con la formación.",
+        "C": "Una dinámica de grupo para comprobar rasgos de candidatos.",
+        "D": "Una entrevista de selección en fase de cierre."
+      },
+      "correcta": "A",
+      "explicacion": "La observación directa estudia tareas reales durante tiempo suficiente y se recomienda explicar su finalidad para limitar cambios artificiales de conducta."
+    },
+    {
+      "id": "RRHH-F1-14",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.6",
+      "pagina_manual": 46,
+      "dificultad": "fácil",
+      "pregunta": "El departamento decide reutilizar carpetas en buen estado antes de adquirir otras nuevas. ¿A qué principio de las 3R corresponde?",
+      "opciones": {
+        "A": "Reducir.",
+        "B": "Reciclar.",
+        "C": "Renovar.",
+        "D": "Reutilizar."
+      },
+      "correcta": "D",
+      "explicacion": "Reutilizar significa volver a usar objetos o materiales y aprovechar su utilidad antes de desecharlos."
+    },
+    {
+      "id": "RRHH-F1-15",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.1",
+      "pagina_manual": 10,
+      "dificultad": "media",
+      "pregunta": "Una organización quiere reforzar su condición de comunidad de personas. ¿Cuál de estas medidas responde de forma más directa a esa idea?",
+      "opciones": {
+        "A": "Reservar los objetivos comunes a los propietarios y permitir que cada departamento actúe con valores distintos.",
+        "B": "Compartir normas de comportamiento, valores en la comunicación y objetivos definidos mediante una planificación estratégica.",
+        "C": "Definir únicamente incentivos económicos y dejar los comportamientos al criterio de cada persona.",
+        "D": "Sustituir la planificación estratégica por decisiones individuales de cada trabajador."
+      },
+      "correcta": "B",
+      "explicacion": "La empresa como comunidad exige normas comunes, comunicación mediante valores compartidos y actuación coordinada en torno a fines planificados."
+    },
+    {
+      "id": "RRHH-F1-16",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.2",
+      "pagina_manual": 52,
+      "dificultad": "media",
+      "pregunta": "Una dirección pide prever cuántos trabajadores y de qué perfiles necesitará durante los próximos dos años según jubilaciones y cambios de producción. ¿Qué proceso desarrolla?",
+      "opciones": {
+        "A": "La acogida posterior a la contratación.",
+        "B": "La planificación de los recursos humanos.",
+        "C": "La evaluación de satisfacción de un programa formativo ya finalizado.",
+        "D": "La comunicación del resultado de una entrevista."
+      },
+      "correcta": "B",
+      "explicacion": "La planificación calcula el volumen y las características de la plantilla necesaria a corto, medio y largo plazo."
+    },
+    {
+      "id": "RRHH-F1-17",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 21,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa obtiene beneficios vendiendo productos demandados, cumple las leyes y destina voluntariamente recursos a un programa comunitario. ¿Qué dimensión de Carroll representa esta última actuación?",
+      "opciones": {
+        "A": "La responsabilidad filantrópica.",
+        "B": "La responsabilidad económica.",
+        "C": "La responsabilidad de control de costes de personal.",
+        "D": "La responsabilidad legal."
+      },
+      "correcta": "A",
+      "explicacion": "La responsabilidad filantrópica incluye la participación voluntaria en actividades que promueven el bienestar y la calidad de vida de la comunidad."
+    },
+    {
+      "id": "RRHH-F1-18",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.9",
+      "pagina_manual": 87,
+      "dificultad": "media",
+      "pregunta": "Una trabajadora cambia a un puesto diferente con igual categoría profesional. ¿Cómo se clasifica esa promoción?",
+      "opciones": {
+        "A": "Horizontal.",
+        "B": "Retributiva monetaria en todos los casos.",
+        "C": "Vertical.",
+        "D": "Subjetiva necesariamente."
+      },
+      "correcta": "A",
+      "explicacion": "La promoción horizontal supone asumir tareas distintas sin cambio de categoría; la vertical implica ascenso."
+    },
+    {
+      "id": "RRHH-F1-19",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "media",
+      "pregunta": "Un consejo directivo propone simplificar la coordinación de los departamentos para que puedan trabajar de modo más práctico y dinámico. ¿Qué objetivo de la dirección por valores está aplicando?",
+      "opciones": {
+        "A": "Limitar las propuestas creativas a los altos cargos de la organización.",
+        "B": "Simplificar la complejidad organizativa en los distintos niveles de la empresa.",
+        "C": "Trasladar a los inversores la responsabilidad de todas las tareas operativas.",
+        "D": "Sustituir los valores éticos por normas de producción individuales."
+      },
+      "correcta": "B",
+      "explicacion": "Entre los fines de la dirección por valores figura simplificar la complejidad organizativa mediante una forma de trabajo práctica y dinámica."
+    },
+    {
+      "id": "RRHH-F1-20",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.3",
+      "pagina_manual": 78,
+      "dificultad": "fácil",
+      "pregunta": "Una empleada desempeña durante varias semanas funciones de otra área para comprender mejor el funcionamiento global de la empresa. ¿Qué método sigue?",
+      "opciones": {
+        "A": "Coaching individual.",
+        "B": "Outdoor training.",
+        "C": "Routing o rotación.",
+        "D": "Mentoring del personal recién incorporado."
+      },
+      "correcta": "C",
+      "explicacion": "El routing supone ocupar temporalmente tareas de otro puesto y persigue una visión integral de la empresa."
+    },
+    {
+      "id": "RRHH-F1-21",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.3",
+      "pagina_manual": 28,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa necesita un documento que oriente a los trabajadores ante incumplimientos, delimite conductas prohibidas y explique cómo actuar en situaciones de riesgo. ¿Cuál encaja mejor?",
+      "opciones": {
+        "A": "Una memoria económica anual sin normas de actuación.",
+        "B": "Un código de conducta con orientaciones concretas.",
+        "C": "Una relación de valores informales que no se comunica al personal.",
+        "D": "Un código ético dedicado únicamente a difundir la filosofía corporativa."
+      },
+      "correcta": "B",
+      "explicacion": "El código de conducta describe actuaciones esperadas o prohibidas y ofrece orientación; el código ético presenta una naturaleza más comunicativa y centrada en valores."
+    },
+    {
+      "id": "RRHH-F1-22",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.1",
+      "pagina_manual": 11,
+      "dificultad": "fácil",
+      "pregunta": "Una empresa mantiene relaciones comerciales con sus acreedores y desea que su actuación proyecte los principios éticos socialmente aceptados. ¿Qué ámbito de ética está reforzando?",
+      "opciones": {
+        "A": "La determinación de los incentivos salariales de los empleados.",
+        "B": "El gobierno de las funciones operativas entre los trabajadores.",
+        "C": "La ética interna limitada a la planificación de la jornada de trabajo.",
+        "D": "La ética externa en sus relaciones con agentes ajenos al funcionamiento interno."
+      },
+      "correcta": "D",
+      "explicacion": "La ética externa se refiere a clientes, acreedores, proveedores y demás agentes externos; la interna aborda la gestión y las decisiones organizativas."
+    },
+    {
+      "id": "RRHH-F1-23",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.12",
+      "pagina_manual": 70,
+      "dificultad": "media",
+      "pregunta": "Una empresa archiva las candidaturas digitales por tipo de documento y fecha, además de establecer copias de seguridad. ¿Cuál es la finalidad principal de este procedimiento?",
+      "opciones": {
+        "A": "Facilitar la consulta ordenada y reducir el riesgo de pérdida de documentación.",
+        "B": "Suprimir cualquier obligación de conservar expedientes del personal.",
+        "C": "Eliminar la necesidad de identificar a qué proceso corresponde cada candidatura.",
+        "D": "Evitar que RR. HH. deba respetar la protección de datos personales."
+      },
+      "correcta": "A",
+      "explicacion": "El registro estandarizado permite localizar documentación y las copias de seguridad ayudan a prevenir pérdidas."
+    },
+    {
+      "id": "RRHH-F1-24",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.3",
+      "pagina_manual": 40,
+      "dificultad": "media",
+      "pregunta": "Una trabajadora solicita una reunión a su superior para trasladarle propuestas del equipo. ¿Qué dirección adopta la comunicación interna?",
+      "opciones": {
+        "A": "Vertical descendente.",
+        "B": "Horizontal entre cargos del mismo nivel.",
+        "C": "Vertical ascendente.",
+        "D": "Externa corporativa."
+      },
+      "correcta": "C",
+      "explicacion": "El mensaje va desde un nivel jerárquico inferior a otro superior; por ello es comunicación vertical ascendente."
+    },
+    {
+      "id": "RRHH-F1-25",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "fácil",
+      "pregunta": "Una empresa decide evitar campañas engañosas destinadas a perjudicar directamente a otras firmas del sector. ¿Qué grupo de interés externo está atendiendo de manera más específica?",
+      "opciones": {
+        "A": "Las entidades financieras, que proporcionan financiación.",
+        "B": "Los competidores, con quienes debe evitarse la competencia desleal.",
+        "C": "El entorno social próximo, vinculado al desarrollo local.",
+        "D": "Los distribuidores, que buscan condiciones de contratación equitativas."
+      },
+      "correcta": "B",
+      "explicacion": "La relación ética con los competidores exige rechazar prácticas desleales. Los otros grupos tienen intereses diferentes."
+    },
+    {
+      "id": "RRHH-F1-26",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.2",
+      "pagina_manual": 76,
+      "dificultad": "media",
+      "pregunta": "Antes de iniciar un curso, el coordinador determina el número de sesiones, sus formadores, participantes, calendario y recursos didácticos. ¿En qué fase del plan de formación trabaja?",
+      "opciones": {
+        "A": "Diseño y organización de la formación.",
+        "B": "Evaluación posterior de los resultados.",
+        "C": "Cierre del expediente una vez concluido el curso.",
+        "D": "Reconocimiento económico de objetivos alcanzados."
+      },
+      "correcta": "A",
+      "explicacion": "Seleccionar docentes, contenidos, participantes y calendario forma parte del diseño y la organización previa."
+    },
+    {
+      "id": "RRHH-F1-27",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.5",
+      "pagina_manual": 19,
+      "dificultad": "media",
+      "pregunta": "La plantilla de una organización comparte la misión de la empresa, pero en el mercado su principal desafío es distinguirse de otras marcas. ¿Qué función de la imagen corporativa se busca potenciar?",
+      "opciones": {
+        "A": "La función interna de autorización de inversiones financieras.",
+        "B": "La función interna de fijación de horarios y control horario.",
+        "C": "La función externa de diferenciación frente a los competidores.",
+        "D": "La función externa de determinar los salarios de la plantilla."
+      },
+      "correcta": "C",
+      "explicacion": "El manual distingue la función interna de potenciar misión, visión y valores entre empleados y la externa de diferenciar la organización de sus competidores."
+    },
+    {
+      "id": "RRHH-F1-28",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.5",
+      "pagina_manual": 59,
+      "dificultad": "media-alta",
+      "pregunta": "El entrevistador dispone de unas preguntas preparadas, pero durante la conversación añade otras para aclarar respuestas relevantes. ¿De qué tipo de entrevista se trata?",
+      "opciones": {
+        "A": "Tensa, por el mero hecho de formular cuestiones adicionales.",
+        "B": "Libre sin ningún conjunto de preguntas previsto.",
+        "C": "Planificada sin posibilidad de ampliar preguntas.",
+        "D": "Mixta."
+      },
+      "correcta": "D",
+      "explicacion": "La entrevista mixta combina un guion previsto con preguntas adicionales según evoluciona la conversación."
+    },
+    {
+      "id": "RRHH-F1-29",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.2",
+      "pagina_manual": 26,
+      "dificultad": "media",
+      "pregunta": "Una empresa crea un programa para adaptar horarios a las necesidades familiares y prevenir conflictos y estrés en la plantilla. ¿Qué área debe desempeñar un papel protagonista en esa política de RSC?",
+      "opciones": {
+        "A": "El departamento de recursos humanos, por su competencia en conciliación y clima laboral.",
+        "B": "La administración tributaria, por ser responsable de decidir las jornadas de todos los empleados.",
+        "C": "El departamento comercial, por depender únicamente de la venta de productos.",
+        "D": "Las empresas de distribución, porque su función es negociar las vacaciones de la plantilla."
+      },
+      "correcta": "A",
+      "explicacion": "El área de recursos humanos impulsa políticas de conciliación, igualdad, seguridad y bienestar como acciones de RSC."
+    },
+    {
+      "id": "RRHH-F1-30",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.4",
+      "pagina_manual": 42,
+      "dificultad": "media-alta",
+      "pregunta": "Una administrativa identifica el malestar de un compañero, comprende sus motivos y adapta su respuesta a sus necesidades emocionales. ¿Qué habilidad aplica sobre todo?",
+      "opciones": {
+        "A": "Autonomía técnica.",
+        "B": "Control biométrico.",
+        "C": "Flexibilidad salarial.",
+        "D": "Empatía."
+      },
+      "correcta": "D",
+      "explicacion": "La empatía consiste en ponerse en el lugar de otra persona y responder adecuadamente a sus necesidades emocionales."
+    }
+  ]
+}

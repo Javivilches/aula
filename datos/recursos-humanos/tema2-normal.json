@@ -1,0 +1,347 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "2. Aplicación de los principios de responsabilidad social corporativa (RSC)",
+  "test": "Test 1 — Nivel normal",
+  "preguntas": [
+    {
+      "id": "RRHH-T2-N-01",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1",
+      "pagina_manual": 21,
+      "dificultad": "fácil",
+      "pregunta": "Una organización revisa cómo sus decisiones afectan a la sociedad y al medio ambiente, e incorpora criterios éticos y sociales a su gestión. ¿Qué concepto describe mejor esta actuación?",
+      "opciones": {
+        "A": "Filantropía entendida como única obligación de la empresa.",
+        "B": "Control financiero ajeno a la actividad ordinaria.",
+        "C": "Gobierno interno limitado al reparto de responsabilidades.",
+        "D": "Responsabilidad social corporativa."
+      },
+      "correcta": "D",
+      "explicacion": "La RSC implica incorporar consideraciones sociales, éticas y ambientales a la toma de decisiones y valorar el impacto de la organización, no limitarse a donaciones o controles financieros."
+    },
+    {
+      "id": "RRHH-T2-N-02",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1",
+      "pagina_manual": 21,
+      "dificultad": "media",
+      "pregunta": "Según la pirámide de Carroll explicada en el tema, ¿qué responsabilidad ocupa la base porque exige producir bienes o servicios y obtener una ganancia aceptable?",
+      "opciones": {
+        "A": "La filantrópica.",
+        "B": "La legal.",
+        "C": "La económica.",
+        "D": "La ética."
+      },
+      "correcta": "C",
+      "explicacion": "La responsabilidad económica constituye la base de la pirámide de Carroll: producir lo que necesitan los consumidores y mantener una actividad rentable (p. 21)."
+    },
+    {
+      "id": "RRHH-T2-N-03",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1",
+      "pagina_manual": 21,
+      "dificultad": "media",
+      "pregunta": "Una entidad sin ánimo de lucro incorpora compromisos de responsabilidad social. ¿Qué denominación específica señala el manual para este tipo de organización?",
+      "opciones": {
+        "A": "Responsabilidad social de la Administración pública (RSA).",
+        "B": "Responsabilidad social organizacional (RSO).",
+        "C": "Responsabilidad social corporativa limitada a sociedades mercantiles (RSC).",
+        "D": "Responsabilidad social empresarial (RSE)."
+      },
+      "correcta": "B",
+      "explicacion": "El manual emplea RSO para las organizaciones sin ánimo de lucro, RSA para la Administración pública y RSE para el ámbito empresarial; también advierte de que a menudo se usan como sinónimos."
+    },
+    {
+      "id": "RRHH-T2-N-04",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1",
+      "pagina_manual": 22,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa pone en marcha planes de igualdad, medidas de conciliación y acciones para integrar a colectivos en riesgo de exclusión. ¿En qué área de los diez principios del Pacto Mundial encaja principalmente ese conjunto?",
+      "opciones": {
+        "A": "Lucha contra la corrupción, en el principio P10.",
+        "B": "Normas laborales.",
+        "C": "Medio ambiente, en los principios P7 a P9.",
+        "D": "Derechos humanos, en los principios P1 y P2 exclusivamente."
+      },
+      "correcta": "B",
+      "explicacion": "La tabla del Pacto Mundial del manual sitúa los planes de igualdad, la conciliación y la integración laboral entre los aspectos de gestión vinculados a normas laborales (P3-P6)."
+    },
+    {
+      "id": "RRHH-T2-N-05",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1",
+      "pagina_manual": 23,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué organismo está vinculado a la declaración sobre libertad sindical, negociación colectiva y eliminación del trabajo forzoso e infantil?",
+      "opciones": {
+        "A": "La Comisión Europea a través de su Libro Verde.",
+        "B": "La Organización para la Cooperación y el Desarrollo Económicos (OCDE).",
+        "C": "El Consejo Estatal de Responsabilidad Social Corporativa.",
+        "D": "La Organización Internacional del Trabajo (OIT)."
+      },
+      "correcta": "D",
+      "explicacion": "La Declaración de la OIT relativa a principios y derechos fundamentales en el trabajo incluye asociación, negociación colectiva y eliminación del trabajo forzoso, infantil y discriminatorio (p. 23)."
+    },
+    {
+      "id": "RRHH-T2-N-06",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1",
+      "pagina_manual": 24,
+      "dificultad": "media",
+      "pregunta": "Una responsable consulta un documento europeo de 2001 que propone fomentar buenas prácticas empresariales de RSC y promover instrumentos de evaluación. ¿Qué documento está consultando?",
+      "opciones": {
+        "A": "La Resolución del Consejo Europeo de 2003.",
+        "B": "El Libro Verde de la Comisión Europea.",
+        "C": "El Libro Blanco español de la RSC.",
+        "D": "La Declaración de Río sobre medio ambiente y desarrollo."
+      },
+      "correcta": "B",
+      "explicacion": "El Libro Verde de la Comisión Europea de 2001 se presenta como un impulso a las prácticas responsables, políticas coherentes y herramientas de evaluación; los otros documentos pertenecen a otros años o ámbitos."
+    },
+    {
+      "id": "RRHH-T2-N-07",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1",
+      "pagina_manual": 25,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa quiere aplicar un marco de orientación general sobre responsabilidad social sin obtener por ello una certificación. ¿Qué instrumento se corresponde con esa necesidad según el manual?",
+      "opciones": {
+        "A": "La norma RS 10, porque se define como una guía no certificable.",
+        "B": "La SA 8000, porque se dedica exclusivamente a la imagen corporativa.",
+        "C": "La UNE 16001, porque abarca toda la RSC en cualquier organización.",
+        "D": "La guía ISO 26000."
+      },
+      "correcta": "D",
+      "explicacion": "ISO 26000 es una guía aplicable a todo tipo de organizaciones y expresamente no certificable; RS 10 sí establece requisitos y se presenta como certificable (p. 25)."
+    },
+    {
+      "id": "RRHH-T2-N-08",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2",
+      "pagina_manual": 26,
+      "dificultad": "fácil",
+      "pregunta": "¿Cuál de estas actuaciones corresponde a las políticas de RSC gestionadas por Recursos Humanos que recoge el manual?",
+      "opciones": {
+        "A": "Sustituir los informes de desempeño por campañas comerciales.",
+        "B": "Trasladar las decisiones de contratación al área de publicidad.",
+        "C": "Implantar medidas de conciliación de la vida laboral y familiar.",
+        "D": "Reservar la prevención de riesgos únicamente al departamento de ventas."
+      },
+      "correcta": "C",
+      "explicacion": "El tema atribuye un papel protagonista a RR. HH. en prevención, igualdad, conciliación y mejora del clima laboral (p. 26)."
+    },
+    {
+      "id": "RRHH-T2-N-09",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2",
+      "pagina_manual": 27,
+      "dificultad": "media",
+      "pregunta": "En una memoria de sostenibilidad se presentan resultados económicos, sociales y medioambientales de la empresa. ¿Cómo denomina el manual a esta visión conjunta?",
+      "opciones": {
+        "A": "Balance exclusivamente social.",
+        "B": "Código bilateral de conducta.",
+        "C": "Triple balance.",
+        "D": "Análisis del organigrama."
+      },
+      "correcta": "C",
+      "explicacion": "El triple balance recoge resultados en los tres ámbitos: económico, social y medioambiental (p. 27)."
+    },
+    {
+      "id": "RRHH-T2-N-10",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2",
+      "pagina_manual": 27,
+      "dificultad": "media",
+      "pregunta": "¿Para qué destaca el manual la iniciativa Global Reporting Initiative (GRI)?",
+      "opciones": {
+        "A": "Para cuantificar la RSC mediante indicadores de desempeño estandarizados.",
+        "B": "Para sustituir la prevención de riesgos laborales por auditorías voluntarias.",
+        "C": "Para regular la contratación de personal a través de ETT.",
+        "D": "Para fijar los salarios de los trabajadores de la Administración."
+      },
+      "correcta": "A",
+      "explicacion": "GRI aparece como iniciativa internacional que utiliza un modelo estandarizado de indicadores para medir el desempeño en RSC (p. 27)."
+    },
+    {
+      "id": "RRHH-T2-N-11",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2",
+      "pagina_manual": 28,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa mejora la seguridad de su plantilla y, por otro lado, colabora en un proyecto de integración de su municipio. ¿Cómo clasifica el manual estas dos actuaciones por dimensiones de la RSC?",
+      "opciones": {
+        "A": "Seguridad laboral: externa; integración en el entorno local: interna.",
+        "B": "Ambas: internas, porque requieren decisiones de la dirección.",
+        "C": "Ambas: externas, porque pueden mejorar la reputación corporativa.",
+        "D": "Seguridad laboral: interna; integración en el entorno local: externa."
+      },
+      "correcta": "D",
+      "explicacion": "La dimensión interna engloba las prácticas relativas a trabajadores y producción; la externa comprende la integración y las relaciones con el entorno en el que opera la empresa (p. 28)."
+    },
+    {
+      "id": "RRHH-T2-N-12",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2",
+      "pagina_manual": 27,
+      "dificultad": "media",
+      "pregunta": "¿Cuál de los siguientes principios de ISO 26000 se refiere a ofrecer información clara, veraz y accesible a las partes interesadas?",
+      "opciones": {
+        "A": "Transparencia.",
+        "B": "Comportamiento ético, referido exclusivamente a la rentabilidad.",
+        "C": "Respeto a la normativa internacional.",
+        "D": "Rendición de cuentas, entendida solo como difusión de información."
+      },
+      "correcta": "A",
+      "explicacion": "El manual define transparencia como ofrecer información clara, veraz y transparente a quienes están implicados; distingue ese principio de rendir cuentas por los impactos y consecuencias de la actividad."
+    },
+    {
+      "id": "RRHH-T2-N-13",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3",
+      "pagina_manual": 28,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué documento concreta las conductas esperadas y prohibidas y orienta al personal ante riesgos o incumplimientos?",
+      "opciones": {
+        "A": "La evaluación de clima laboral.",
+        "B": "El código de conducta.",
+        "C": "El código ético cuando se limita a expresar la filosofía corporativa.",
+        "D": "La memoria de sostenibilidad en su apartado económico."
+      },
+      "correcta": "B",
+      "explicacion": "El código de conducta es más descriptivo y operativo que el código ético: indica comportamientos y cómo actuar ante situaciones problemáticas (p. 28)."
+    },
+    {
+      "id": "RRHH-T2-N-14",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3",
+      "pagina_manual": 29,
+      "dificultad": "media",
+      "pregunta": "Una entidad quiere presentar una iniciativa como buena práctica. ¿Qué requisito del manual refuerza que sus resultados puedan ser valorados objetivamente?",
+      "opciones": {
+        "A": "Priorizar la rapidez frente a la continuidad de la medida.",
+        "B": "Sustituir la evaluación por el respaldo exclusivo de la dirección.",
+        "C": "Prescindir de la valoración de quienes reciben la intervención.",
+        "D": "Apoyarse en datos contrastables, cuantificables y calificables."
+      },
+      "correcta": "D",
+      "explicacion": "Entre las condiciones de buena práctica está fundamentarse en datos contrastables y valorar mejoras tangibles; también se piden participación, continuidad y apoyo de la dirección (p. 29)."
+    },
+    {
+      "id": "RRHH-T2-N-15",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3",
+      "pagina_manual": 30,
+      "dificultad": "media",
+      "pregunta": "En un diagnóstico cultural se estudian las reuniones periódicas, los protocolos de trabajo y los informes recurrentes. ¿Qué elemento de la cultura organizacional se está describiendo?",
+      "opciones": {
+        "A": "Rituales y rutinas.",
+        "B": "Estructuras de poder.",
+        "C": "Símbolos de la organización.",
+        "D": "Paradigma corporativo."
+      },
+      "correcta": "A",
+      "explicacion": "El manual clasifica las reuniones de gestión, informes y protocolos de trabajo como rituales y rutinas; las estructuras de poder, el paradigma y los símbolos corresponden a otros elementos."
+    },
+    {
+      "id": "RRHH-T2-N-16",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3",
+      "pagina_manual": 31,
+      "dificultad": "media-alta",
+      "pregunta": "Una responsable invita al equipo a participar en la elección de una solución, escucha propuestas y mantiene la responsabilidad final sobre la decisión. ¿Qué liderazgo describe mejor el manual?",
+      "opciones": {
+        "A": "Autocrático, porque conserva toda la iniciativa y excluye sugerencias.",
+        "B": "Transaccional, porque basa la decisión en premios y sanciones.",
+        "C": "Participativo o democrático.",
+        "D": "Laissez-faire, porque delega la decisión final sin supervisión."
+      },
+      "correcta": "C",
+      "explicacion": "El liderazgo participativo fomenta la participación del equipo y conserva en la persona líder la responsabilidad final de la decisión (p. 31)."
+    },
+    {
+      "id": "RRHH-T2-N-17",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3",
+      "pagina_manual": 32,
+      "dificultad": "media",
+      "pregunta": "Un equipo trabaja con autonomía porque sus integrantes tienen mucha experiencia, pero el responsable sigue revisando las tareas y mantiene una comunicación adecuada. ¿Qué estilo encaja mejor?",
+      "opciones": {
+        "A": "Autocrático.",
+        "B": "Burocrático.",
+        "C": "Laissez-faire.",
+        "D": "Transaccional."
+      },
+      "correcta": "C",
+      "explicacion": "El laissez-faire puede resultar útil en equipos experimentados y proactivos; para funcionar, el manual exige seguimiento de tareas y buena comunicación (p. 31)."
+    },
+    {
+      "id": "RRHH-T2-N-18",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3",
+      "pagina_manual": 31,
+      "dificultad": "media",
+      "pregunta": "¿Qué diferencia presenta el liderazgo transaccional respecto al transformacional según el tema?",
+      "opciones": {
+        "A": "El transaccional se apoya en órdenes y refuerzos; el transformacional inspira, motiva y abre espacio a nuevas ideas.",
+        "B": "El transaccional renuncia a supervisar; el transformacional se ciñe con rigor a procedimientos de seguridad.",
+        "C": "El transaccional fomenta especialmente la participación creativa; el transformacional dirige mediante premios y castigos.",
+        "D": "El transaccional depende del carisma personal; el transformacional evita los cambios organizativos."
+      },
+      "correcta": "A",
+      "explicacion": "El liderazgo transaccional vincula cumplimiento de órdenes a refuerzos positivos o negativos; el transformacional promueve motivación, creatividad, confianza y preparación para cambios (p. 32)."
+    },
+    {
+      "id": "RRHH-T2-N-19",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.4",
+      "pagina_manual": 33,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué órgano puede redactar y revisar el código ético y resolver conflictos relacionados con su aplicación?",
+      "opciones": {
+        "A": "El comité de ética.",
+        "B": "El organismo que elabora el triple balance económico.",
+        "C": "El comité de valoración de puestos de trabajo.",
+        "D": "El equipo de comercialización y distribución."
+      },
+      "correcta": "A",
+      "explicacion": "Entre las funciones del comité de ética están redactar y revisar el código, controlar las herramientas éticas y resolver conflictos o vulneraciones (p. 33)."
+    },
+    {
+      "id": "RRHH-T2-N-20",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.4",
+      "pagina_manual": 33,
+      "dificultad": "media",
+      "pregunta": "Una empresa identifica beneficios sociales de 80 unidades y costes sociales de 110. ¿Cómo se clasifica el balance social según el criterio explicado en el manual?",
+      "opciones": {
+        "A": "No se puede clasificar salvo que se conozca la rentabilidad económica.",
+        "B": "Negativo, porque los costes sociales superan a los beneficios sociales.",
+        "C": "Neutro, porque los costes y beneficios pertenecen al ámbito social.",
+        "D": "Positivo, porque existen beneficios sociales aunque sean menores."
+      },
+      "correcta": "B",
+      "explicacion": "El balance social contrapone beneficios y costes sociales. Si los costes superan a los beneficios, el balance resulta negativo (p. 33)."
+    }
+  ]
+}

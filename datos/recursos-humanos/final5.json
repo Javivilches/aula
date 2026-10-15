@@ -1,0 +1,517 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "Repaso integral: temas 1 a 5",
+  "test": "Simulacro 5 — Desafío final",
+  "preguntas": [
+    {
+      "id": "RRHH-F5-01",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.7",
+      "pagina_manual": 83,
+      "dificultad": "difícil",
+      "pregunta": "Una entidad fija objetivos individuales coherentes con las metas del departamento, evalúa competencias genéricas y específicas y celebra una entrevista final de resultados. ¿Qué secuencia del procedimiento de evaluación del desempeño describe?",
+      "opciones": {
+        "A": "Diseño de presupuesto, ejecución de un curso y cálculo de salario variable.",
+        "B": "Entrevista de selección, evaluación 360 y planificación de bonificaciones, respectivamente.",
+        "C": "Establecimiento de objetivos, definición de competencias y evaluación de resultados.",
+        "D": "Definición de competencias, formación inicial y registro de contratación, sin evaluar resultados."
+      },
+      "correcta": "C",
+      "explicacion": "El manual presenta tres fases: objetivos con indicadores, competencias por grupos y evaluación final de consecución e informe de mejora."
+    },
+    {
+      "id": "RRHH-F5-02",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.8",
+      "pagina_manual": 49,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa desea integrar gestión de plantilla de varias sedes, análisis para apoyar decisiones directivas y creación eficiente de materiales de cursos online. ¿Qué combinación de sistemas se ajusta al manual?",
+      "opciones": {
+        "A": "B2E, SIRH y LCMS, respectivamente.",
+        "B": "LMS, B2E y SIRH, respectivamente.",
+        "C": "SIRH, LCMS y LMS, respectivamente.",
+        "D": "LCMS, LMS y B2E, respectivamente."
+      },
+      "correcta": "A",
+      "explicacion": "B2E conecta organización y plantilla dispersa; SIRH informatiza procesos y apoya decisiones; LCMS gestiona la creación de contenidos e-learning."
+    },
+    {
+      "id": "RRHH-F5-03",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.2",
+      "pagina_manual": 27,
+      "dificultad": "difícil",
+      "pregunta": "Una corporación informa claramente a consumidores, reconoce públicamente impactos negativos, cumple normas locales y tiene en cuenta normas internacionales. ¿Qué dos pares de principios ISO 26000 permiten distinguir las actuaciones?",
+      "opciones": {
+        "A": "Respeto a los empleados y evaluación 360 grados; sostenibilidad y balance salarial.",
+        "B": "Transparencia y rendición de cuentas; legalidad y respeto a la normativa internacional.",
+        "C": "Comportamiento ético y gestión documental; contratación y movilidad horizontal.",
+        "D": "Rendición de cuentas y filantropía; publicidad corporativa y liderazgo transaccional."
+      },
+      "correcta": "B",
+      "explicacion": "La información veraz corresponde a transparencia; asumir impactos a rendición de cuentas. Respetar derecho interno y normas internacionales son otros dos principios diferenciados."
+    },
+    {
+      "id": "RRHH-F5-04",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.8",
+      "pagina_manual": 66,
+      "dificultad": "media-alta",
+      "pregunta": "Una consultora pretende evaluar capacidad de archivo administrativo, conocimientos de normativa interna, manejo real de una herramienta y conducta de cooperación. ¿Qué secuencia de métodos resulta más ajustada?",
+      "opciones": {
+        "A": "Prueba de conocimientos, test de inteligencia general, entrevista libre y cuestionario de referencias.",
+        "B": "Prueba de aptitudes, prueba de conocimientos, prueba profesional y dinámica de grupo.",
+        "C": "Dinámica de grupo, prueba de personalidad, entrevista tensa y grafología.",
+        "D": "Prueba profesional, prueba de personalidad, dinámica de grupo y test de aptitud, respectivamente."
+      },
+      "correcta": "B",
+      "explicacion": "El manual distingue aptitudes específicas (como archivado), saberes profesionales, ejecución práctica del puesto y observación de cooperación en grupo."
+    },
+    {
+      "id": "RRHH-F5-05",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.2",
+      "pagina_manual": 38,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa registra el alta de una empleada, elabora nóminas, ingresa cotizaciones y prepara el certificado de empresa al finalizar la relación. ¿Cuál es la relación más ajustada entre esas tareas?",
+      "opciones": {
+        "A": "Todas integran obligaciones administrativas de personal en distintas fases de la relación laboral.",
+        "B": "La elaboración de nóminas pertenece solo a servicios sociales y el certificado de empresa a un programa formativo.",
+        "C": "El certificado de empresa sustituye las nóminas durante toda la relación laboral y se emite al contratar.",
+        "D": "El alta inicial y las cotizaciones son asuntos exclusivamente de comunicación corporativa externa de carácter publicitario."
+      },
+      "correcta": "A",
+      "explicacion": "El manual reúne documentación inicial, salarios, obligaciones con administraciones y certificado empresarial al extinguirse el vínculo bajo administración de personal."
+    },
+    {
+      "id": "RRHH-F5-06",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.1",
+      "pagina_manual": 10,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa define su actividad principal, acuerda unos principios de actuación y fija un objetivo de expansión sostenible a cinco años. Un responsable propone difundir solo ese objetivo futuro para consolidar la cultura. ¿Qué elemento omite ese plan?",
+      "opciones": {
+        "A": "La comunicación conjunta de misión, visión y valores, que constituyen las bases de la cultura empresarial.",
+        "B": "La separación total entre misión y valores, que el manual sitúa fuera de la cultura organizativa.",
+        "C": "La obligación de sustituir los valores compartidos por el beneficio neto de cada ejercicio.",
+        "D": "La exigencia de formular la cultura exclusivamente mediante decisiones de propietarios sin empleados."
+      },
+      "correcta": "A",
+      "explicacion": "La cultura se sustenta en razón de ser (misión), propósito futuro (visión) y principios éticos (valores); proyectar solo la visión es insuficiente."
+    },
+    {
+      "id": "RRHH-F5-07",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.10",
+      "pagina_manual": 68,
+      "dificultad": "difícil",
+      "pregunta": "La dirección diseña un plan de acogida con un manual extensísimo que el nuevo empleado debe memorizar en una sesión. Como conoce todas las reglas, se elimina la intervención de mandos y compañeros. ¿Qué corrección responde mejor al manual?",
+      "opciones": {
+        "A": "Incrementar la extensión del manual, porque el contacto con compañeros solo forma parte del outplacement.",
+        "B": "Dosificar información y combinarla con formación, contacto con responsables y apoyo de un mentor para favorecer adaptación real.",
+        "C": "Excluir información sobre cultura y funciones para centrar la acogida exclusivamente en normas tributarias.",
+        "D": "Sustituir todo acompañamiento por una entrevista de tensión orientada a descartar al empleado ya contratado."
+      },
+      "correcta": "B",
+      "explicacion": "El exceso de información satura; el plan debe transmitir cultura, funciones y contactos y puede apoyarse en formación y tutorización."
+    },
+    {
+      "id": "RRHH-F5-08",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.3",
+      "pagina_manual": 32,
+      "dificultad": "difícil",
+      "pregunta": "Un líder actúa como referencia para el grupo sin nombramiento oficial; otro ha sido designado y dirige mediante recompensas por objetivos y sanciones por incumplimientos. ¿Qué tipologías se identifican?",
+      "opciones": {
+        "A": "Carismático y transformacional, respectivamente.",
+        "B": "Natural y transaccional, respectivamente.",
+        "C": "Laissez-faire y participativo, respectivamente.",
+        "D": "Autocrático y burocrático, respectivamente."
+      },
+      "correcta": "B",
+      "explicacion": "El liderazgo natural puede no estar formalmente reconocido; el transaccional utiliza premios y castigos para exigir cumplimiento de órdenes."
+    },
+    {
+      "id": "RRHH-F5-09",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.3",
+      "pagina_manual": 13,
+      "dificultad": "media-alta",
+      "pregunta": "Una entidad atiende cuatro reivindicaciones: participación en decisiones estratégicas, mejora del servicio posventa, condiciones equitativas de colaboración comercial y cumplimiento tributario. ¿Qué grupos se corresponden, en ese orden?",
+      "opciones": {
+        "A": "Empleados, entorno social próximo, clientes y entidades financieras.",
+        "B": "Accionistas, proveedores, bancos y competidores.",
+        "C": "Directivos, clientes, distribuidores y administraciones públicas.",
+        "D": "Distribuidores, competidores, propietarios y trabajadores operativos."
+      },
+      "correcta": "C",
+      "explicacion": "Los directivos trazan líneas estratégicas, los clientes valoran servicio y posventa, los distribuidores buscan contratación equitativa y la administración exige legalidad fiscal."
+    },
+    {
+      "id": "RRHH-F5-10",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.7",
+      "pagina_manual": 46,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa conserva datos laborales que ya no necesita actualizar, pero los difunde internamente sin informar a sus titulares porque proceden de expedientes antiguos. ¿Qué principios de gestión documental se ven vulnerados?",
+      "opciones": {
+        "A": "Limitación a necesidades de RR. HH., actualización adecuada y confidencialidad de los datos.",
+        "B": "Solo la obligación de informar sobre identidad visual, ajena al tratamiento de datos personales.",
+        "C": "Únicamente el objetivo de reducir residuos de papel, porque la confidencialidad deja de importar con el tiempo.",
+        "D": "Ninguno, porque los expedientes antiguos no contienen información personal protegida."
+      },
+      "correcta": "A",
+      "explicacion": "El tratamiento de datos incluye conservación y cesión; debe ceñirse a fines necesarios, mantener privacidad e informar de su finalidad a los titulares."
+    },
+    {
+      "id": "RRHH-F5-11",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.9",
+      "pagina_manual": 86,
+      "dificultad": "muy difícil",
+      "pregunta": "En una valoración de puestos, una empresa define el factor responsabilidad, distingue grados según su exigencia y asigna ponderaciones. Otra dirección usa el resultado para fijar salarios justos entre puestos. ¿Qué describe exactamente la metodología?",
+      "opciones": {
+        "A": "Un sistema cuantitativo de puntos por factores que ayuda a comparar valor relativo y establecer retribuciones equitativas.",
+        "B": "Una evaluación 360 del comportamiento personal, utilizada para eliminar la comparación de puestos.",
+        "C": "Un método de promoción subjetiva que solo puede aplicarse a puestos directivos.",
+        "D": "Un sistema cualitativo sin cifras en el que la ponderación equivale a opiniones libres sin criterios."
+      },
+      "correcta": "A",
+      "explicacion": "La puntuación por factores asigna grados y pesos numéricos a características del puesto y permite comparar valores para diseñar retribución equitativa."
+    },
+    {
+      "id": "RRHH-F5-12",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.5",
+      "pagina_manual": 62,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa difunde una oferta en una red profesional, responde dudas de candidatos pasivos, recibe comentarios y mantiene intercambios con ellos. ¿Qué característica la separa de una mera publicación tradicional?",
+      "opciones": {
+        "A": "La sustitución de la selección por un programa de acompañamiento al despido.",
+        "B": "La obligatoriedad de que todos los aspirantes ya sean empleados internos.",
+        "C": "La bidireccionalidad e interacción propias del reclutamiento 2.0.",
+        "D": "La eliminación del perfil del puesto y de cualquier filtro profesional."
+      },
+      "correcta": "C",
+      "explicacion": "El reclutamiento 2.0 incorpora tecnologías y redes sociales con interacción entre potenciales candidatos y empresas, no solo publicar anuncios."
+    },
+    {
+      "id": "RRHH-F5-13",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.1",
+      "pagina_manual": 36,
+      "dificultad": "muy difícil",
+      "pregunta": "Dos responsables discrepan: uno quiere prohibir toda interacción espontánea porque circulan rumores; otro confía exclusivamente en la red informal para comunicar decisiones. ¿Qué alternativa atiende los dos riesgos identificados por el manual?",
+      "opciones": {
+        "A": "Convertir las afinidades espontáneas en la única jerarquía y renunciar a documentar los cargos.",
+        "B": "Mantener ambas redes sin establecer ningún cauce oficial de comunicación de decisiones.",
+        "C": "Sustituir toda comunicación informal por informes externos de clientes, aunque no afecten a la plantilla.",
+        "D": "Conservar los vínculos informales por su valor social mientras se fortalece una comunicación formal transparente y fiable."
+      },
+      "correcta": "D",
+      "explicacion": "Las redes informales cumplen funciones relacionales y pueden ser rápidas, pero los canales formales deben evitar rumores y garantizar información fiable."
+    },
+    {
+      "id": "RRHH-F5-14",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.4",
+      "pagina_manual": 33,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa ya tiene redactado un código de valores, pero al surgir una disputa con un colectivo necesita un mecanismo que delimite procesos de control y resuelva conflictos; también quiere medir los costes sociales de una huelga. ¿Qué combinación corresponde?",
+      "opciones": {
+        "A": "Una campaña externa para sustituir al comité y un profesiograma para evaluar los efectos de la huelga.",
+        "B": "Un plan de identidad corporativa para arbitrar litigios y una encuesta de selección para cuantificar daños sociales.",
+        "C": "Un código de conducta limitado a eslóganes y una norma de conciliación destinada a medir salarios.",
+        "D": "Un comité de ética para controles y conflictos y un balance social para comparar el coste de la huelga con beneficios sociales."
+      },
+      "correcta": "D",
+      "explicacion": "El comité diseña controles y resuelve conflictos éticos; los conflictos sociales son costes que pueden reflejarse en un balance social."
+    },
+    {
+      "id": "RRHH-F5-15",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.1",
+      "pagina_manual": 74,
+      "dificultad": "difícil",
+      "pregunta": "Tras detectar baja productividad, una empresa organiza una reunión grupal sin moderación y termina debatiendo salarios sin identificar necesidades formativas; en otra área aplica encuestas anónimas por departamento. ¿Qué valoración se ajusta al manual?",
+      "opciones": {
+        "A": "La reunión puede desviarse sin moderación; las encuestas permiten comparar necesidades formativas con respuestas anónimas.",
+        "B": "Las reuniones son el método más fiable en cualquier tamaño de empresa y las encuestas no sirven para detectar formación.",
+        "C": "Las encuestas sustituyen necesariamente al análisis de tareas y descartan cualquier necesidad de validar respuestas.",
+        "D": "Ambas técnicas se limitan a la evaluación del formador una vez terminado el plan."
+      },
+      "correcta": "A",
+      "explicacion": "Las reuniones requieren moderación para no perder el foco; las encuestas recogen opiniones y autovaloraciones por escrito de grupos amplios."
+    },
+    {
+      "id": "RRHH-F5-16",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.5",
+      "pagina_manual": 43,
+      "dificultad": "media-alta",
+      "pregunta": "Un informe mensual ofrece 4.000 horas de trabajo previstas, 120 horas de ausencia justificada y 80 injustificada. Otro analista sostiene que el porcentaje de ausencias injustificadas debe calcularse sobre las horas efectivamente trabajadas. ¿Cuál es el resultado siguiendo el manual?",
+      "opciones": {
+        "A": "3 %, al dividir 120 entre las 4.000 horas previstas.",
+        "B": "5 %, al dividir todas las ausencias entre las horas previstas.",
+        "C": "2 %, al dividir 80 entre las 4.000 horas de trabajo previstas.",
+        "D": "2,11 %, al dividir 80 entre 3.800 horas realmente trabajadas."
+      },
+      "correcta": "C",
+      "explicacion": "El índice injustificado usa total de horas injustificadas entre total de horas de trabajo ×100: 80/4.000×100=2 %."
+    },
+    {
+      "id": "RRHH-F5-17",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.5",
+      "pagina_manual": 17,
+      "dificultad": "muy difícil",
+      "pregunta": "La organización comunica valores duraderos, pero rechaza reformular su modo de aplicarlos cuando cambia el entorno social. ¿Qué tensión plantea esa postura según los criterios del manual?",
+      "opciones": {
+        "A": "Cumple todos los criterios porque los valores nunca pueden adaptarse a cambios sociales.",
+        "B": "Confunde durabilidad con inmovilidad y desatiende la exigencia de que los valores sean también flexibles y dinámicos.",
+        "C": "Solo incumple que los valores se expresen gráficamente, sin que su adaptación tenga relevancia.",
+        "D": "Desatiende la obligación de sustituir todos los valores con cada cambio de dirección, aunque se mantengan vigentes."
+      },
+      "correcta": "B",
+      "explicacion": "Los valores han de ser durables, integrales y flexibles, pero también adaptables a contextos socioculturales; ambas propiedades coexisten."
+    },
+    {
+      "id": "RRHH-F5-18",
+      "tema": 3,
+      "nivel": "final",
+      "apartado": "3.3",
+      "pagina_manual": 40,
+      "dificultad": "difícil",
+      "pregunta": "RR. HH. recibe por correo oficial una incidencia informada por un supervisor, transmite instrucciones a un mando inferior y luego emite un comunicado público sobre su política de empleo. ¿Cómo debe clasificar las dos últimas comunicaciones?",
+      "opciones": {
+        "A": "Ambas son internas y ascendentes porque nacen en un mismo departamento.",
+        "B": "La instrucción es externa ambiental; el comunicado público es interno horizontal.",
+        "C": "La instrucción es interna y vertical descendente; el comunicado público es externo y corporativo.",
+        "D": "La instrucción es informal por utilizar correo y el comunicado corporativo es una comunicación interna entre iguales."
+      },
+      "correcta": "C",
+      "explicacion": "La dirección del mensaje y el destinatario importan: de mando superior a inferior es descendente interna; al público para proyectar imagen, corporativa externa."
+    },
+    {
+      "id": "RRHH-F5-19",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.5",
+      "pagina_manual": 19,
+      "dificultad": "difícil",
+      "pregunta": "Tras implantar formación ética, una empresa constata descenso de absentismo, pero quiere acreditar el alcance de las medidas y vigilar la satisfacción de grupos internos. ¿Qué enfoque se desprende de las herramientas del tema?",
+      "opciones": {
+        "A": "Limitar el examen de los efectos al diseño de la identidad gráfica, porque el absentismo es ajeno al entorno interno.",
+        "B": "Sustituir la medición del clima por campañas publicitarias para consumidores externos.",
+        "C": "Considerar la formación suficiente prueba de satisfacción sin examinar condiciones laborales o resultados.",
+        "D": "Complementar la formación con instrumentos de evaluación del clima, satisfacción y desempeño, utilizando sus resultados para mejorar."
+      },
+      "correcta": "D",
+      "explicacion": "La formación transmite valores, pero las aplicaciones de evaluación permiten estudiar clima, satisfacción, absentismo y productividad para mejorar las prácticas."
+    },
+    {
+      "id": "RRHH-F5-20",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.2",
+      "pagina_manual": 55,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa está evaluando candidatos para un puesto directivo mediante ejercicios individuales y grupales y quiere estimar su potencial de desarrollo; otro profesional registra tareas observando durante varios días a los ocupantes actuales. ¿Qué herramientas emplean?",
+      "opciones": {
+        "A": "Diario individual para evaluar candidatos y estudio de caso para describir el puesto sin observación.",
+        "B": "Entrevista libre para observar el trabajo real y reclutamiento 2.0 para las pruebas de potencial.",
+        "C": "Assessment center para evaluar potencial y observación directa para analizar las tareas reales.",
+        "D": "Profesiograma para estimar potencial y dinámica de contratación para el registro de tareas."
+      },
+      "correcta": "C",
+      "explicacion": "Un assessment center usa ejercicios individuales o colectivos para evaluar competencias y potencial; observar tareas ejecutadas durante días es técnica de análisis del puesto."
+    },
+    {
+      "id": "RRHH-F5-21",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 22,
+      "dificultad": "muy difícil",
+      "pregunta": "Una multinacional formula cuatro políticas: vigilancia de derechos humanos en proveedores, negociación colectiva, tecnologías menos contaminantes y prohibición de sobornos. ¿Qué orden de áreas del Pacto Mundial corresponde?",
+      "opciones": {
+        "A": "Corrupción, normas laborales, derechos humanos y medio ambiente.",
+        "B": "Derechos humanos, normas laborales, medio ambiente y lucha contra la corrupción.",
+        "C": "Normas laborales, derechos humanos, corrupción y medio ambiente.",
+        "D": "Derechos humanos, medio ambiente, normas laborales y corrupción."
+      },
+      "correcta": "B",
+      "explicacion": "Los principios 1-2 son derechos humanos, 3-6 trabajo, 7-9 ambiente y el 10 anticorrupción; cada medida encaja en una de estas áreas."
+    },
+    {
+      "id": "RRHH-F5-22",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.2",
+      "pagina_manual": 77,
+      "dificultad": "muy difícil",
+      "pregunta": "Al calcular el presupuesto, una empresa incluye honorarios docentes, alquiler temporal de aula y horas de trabajadores asistentes; también añade tareas recurrentes del departamento para diagnosticar necesidades. ¿Qué asignación es la más precisa?",
+      "opciones": {
+        "A": "Los tres primeros son costes directos y la actividad administrativa recurrente es indirecta.",
+        "B": "Los honorarios son indirectos y todos los demás directos por ocurrir dentro de la empresa.",
+        "C": "El alquiler del aula y las horas de asistentes son indirectos; la administración recurrente es siempre directa.",
+        "D": "Todos son indirectos porque el aprendizaje contribuye a resultados futuros y no a ventas inmediatas."
+      },
+      "correcta": "A",
+      "explicacion": "El manual considera directos los recursos consumidos en la acción concreta, incluidas horas de asistentes; indirectos la gestión administrativa continua y detección de necesidades."
+    },
+    {
+      "id": "RRHH-F5-23",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.1",
+      "pagina_manual": 21,
+      "dificultad": "muy difícil",
+      "pregunta": "Una firma entrega donaciones a la comunidad y considera que con ello compensa incumplir regulaciones ambientales aplicables y tolerar daños laborales evitables. ¿Qué lectura de la pirámide de Carroll resulta correcta?",
+      "opciones": {
+        "A": "La filantropía no reemplaza responsabilidades legales ni éticas, que constituyen dimensiones diferenciadas de RSC.",
+        "B": "La responsabilidad económica permite elegir libremente cuál de las obligaciones legales debe respetarse.",
+        "C": "Las acciones filantrópicas absorben las responsabilidades restantes siempre que tengan mayor coste que las multas.",
+        "D": "La pirámide solo contempla filantropía y rentabilidad, por lo que las cuestiones éticas quedan al margen."
+      },
+      "correcta": "A",
+      "explicacion": "El modelo incluye responsabilidades económicas, legales, éticas y filantrópicas: una acción voluntaria no anula las otras."
+    },
+    {
+      "id": "RRHH-F5-24",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.6",
+      "pagina_manual": 82,
+      "dificultad": "muy difícil",
+      "pregunta": "Según las reglas del material docente, una empresa constituida este año con diez empleados calcula el crédito por la regla de nueva creación; otra, de 55 empleados, consulta su tramo porcentual. ¿Qué resultados corresponden?",
+      "opciones": {
+        "A": "650 euros y tramo del 75 %, porque de 50 a 249 empleados no hay cambio respecto al tramo anterior.",
+        "B": "420 euros de cálculo obligatorio en todos los casos y tramo del 75 % para 55 trabajadores.",
+        "C": "520 euros y tramo del 50 %, porque cualquier empresa de más de 49 empleados pertenece al tramo máximo.",
+        "D": "650 euros de cálculo por nueva creación y tramo del 60 % para la empresa de 55 trabajadores."
+      },
+      "correcta": "D",
+      "explicacion": "La edición del manual indica 65 € por trabajador para nuevas empresas (10×65=650) y asigna el 60 % al grupo de 50 a 249. Cifras tomadas del manual, no verificación normativa actual."
+    },
+    {
+      "id": "RRHH-F5-25",
+      "tema": 2,
+      "nivel": "final",
+      "apartado": "2.3",
+      "pagina_manual": 30,
+      "dificultad": "difícil",
+      "pregunta": "En una compañía se detectan tres señales: la forma de usar aparcamientos reservados refleja jerarquía; se repiten reuniones semanales; y circulan relatos sobre antiguos fundadores que transmiten qué se valora. ¿Qué elementos culturales representan?",
+      "opciones": {
+        "A": "Paradigma, estructura de poder y sistemas de control, respectivamente.",
+        "B": "Rituales y rutinas, estructuras organizacionales y normativa laboral, respectivamente.",
+        "C": "Sistemas de control, símbolos y paradigma, respectivamente.",
+        "D": "Símbolos, rituales y rutinas, e historias y mitos."
+      },
+      "correcta": "D",
+      "explicacion": "El manual identifica privilegios visibles como símbolos, hábitos y reuniones como rituales/rutinas, y relatos compartidos como historias/mitos."
+    },
+    {
+      "id": "RRHH-F5-26",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.11",
+      "pagina_manual": 69,
+      "dificultad": "difícil",
+      "pregunta": "Una compañía diseña dos programas tras una reestructuración: atención personalizada a un mando intermedio y orientación conjunta al grupo de despedidos. ¿Cómo deben denominarse y qué objetivo comparten?",
+      "opciones": {
+        "A": "Coaching directivo y plan de bienvenida; reducir el periodo de prueba del nuevo contrato.",
+        "B": "Outplacement individual y colectivo; facilitar una nueva inserción laboral mediante orientación y acompañamiento.",
+        "C": "Mentoring individual y routing colectivo; evaluar su desempeño dentro de la organización anterior.",
+        "D": "Reclutamiento interno y externo; decidir qué despedidos conservan su puesto."
+      },
+      "correcta": "B",
+      "explicacion": "El manual distingue recolocación individual adaptada a perfiles y colectiva ligada a reestructuraciones, ambas destinadas a apoyar la búsqueda de nuevo empleo."
+    },
+    {
+      "id": "RRHH-F5-27",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.4",
+      "pagina_manual": 15,
+      "dificultad": "difícil",
+      "pregunta": "Un proveedor opera en un país con escasa protección laboral. La empresa compradora ya ha comprobado que sus precios y contratos son legales allí, pero encuentra trabajo forzoso. ¿Qué fundamento ético del manual invalida justificar la compra solo con la legalidad local?",
+      "opciones": {
+        "A": "La ausencia de legislación convierte automáticamente cualquier demanda de trabajadores en ilegítima.",
+        "B": "El acto de comprar deja fuera de la empresa la responsabilidad moral por sus relaciones con proveedores.",
+        "C": "La competitividad internacional permite suspender toda obligación moral cuando el país de origen no prohíbe una práctica.",
+        "D": "La eliminación del trabajo forzoso es un principio laboral fundamental y la ética debe limitar actuaciones aunque existan vacíos o permisividad legales."
+      },
+      "correcta": "D",
+      "explicacion": "Los derechos laborales de la OIT y la ética como límite se aplican a las relaciones empresariales; una laguna normativa no hace aceptable una vulneración básica."
+    },
+    {
+      "id": "RRHH-F5-28",
+      "tema": 4,
+      "nivel": "final",
+      "apartado": "4.5",
+      "pagina_manual": 62,
+      "dificultad": "difícil",
+      "pregunta": "Tras definir puesto y perfil, una entidad realiza difusión de vacante, primera criba curricular, pruebas y entrevistas, toma decisión y prepara acogida. ¿Qué reparto entre fases del proceso es correcto?",
+      "opciones": {
+        "A": "Todas esas tareas constituyen una sola etapa central sin actuaciones previas o posteriores.",
+        "B": "Reclutamiento y preselección son previos; pruebas, entrevistas y decisión son centrales; acogida pertenece a la fase final.",
+        "C": "La preselección y pruebas son finales, mientras que la contratación se realiza antes de definir el perfil.",
+        "D": "El reclutamiento y las entrevistas pertenecen por completo a la fase final; la acogida sucede antes de identificar necesidades."
+      },
+      "correcta": "B",
+      "explicacion": "El esquema del manual divide el proceso en previa (análisis, reclutamiento, cribado), central (evaluación y decisión) y final (incorporación y acogida)."
+    },
+    {
+      "id": "RRHH-F5-29",
+      "tema": 5,
+      "nivel": "final",
+      "apartado": "5.9",
+      "pagina_manual": 87,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa ofrece a un trabajador una comisión por ventas, financia un posgrado y reconoce públicamente su contribución. ¿Cómo se diferencian las tres medidas dentro del sistema de incentivos?",
+      "opciones": {
+        "A": "Las tres son necesariamente primas salariales pagadas en nómina, pues ningún beneficio formativo cuenta como incentivo.",
+        "B": "Las tres son formas de outplacement que solo proceden tras el despido.",
+        "C": "La comisión es no monetaria; el posgrado es una promoción vertical automática y el reconocimiento equivale a una indemnización.",
+        "D": "La comisión es monetaria; el apoyo formativo es un incentivo no monetario; el reconocimiento público también motiva sin ser necesariamente retributivo."
+      },
+      "correcta": "D",
+      "explicacion": "El manual distingue incentivos económicos como comisiones y aumentos de sueldo, y otros como formación y horarios flexibles; también destaca el reconocimiento público como recompensa."
+    },
+    {
+      "id": "RRHH-F5-30",
+      "tema": 1,
+      "nivel": "final",
+      "apartado": "1.2",
+      "pagina_manual": 12,
+      "dificultad": "muy difícil",
+      "pregunta": "La dirección facilita que los equipos propongan procedimientos nuevos, conecta sus propuestas con los objetivos de personal y elimina pasos burocráticos innecesarios. Un informe sostiene que son tres versiones de una única finalidad de la DpV. ¿Qué valoración es correcta?",
+      "opciones": {
+        "A": "La libertad de proponer mejoras corresponde al acto de vender, mientras la simplificación no se relaciona con DpV.",
+        "B": "La integración de RR. HH. exige conservar toda rigidez normativa e impedir la creatividad individual.",
+        "C": "Son tres finalidades diferenciables: creatividad, integración de estrategia con RR. HH. y simplificación organizativa.",
+        "D": "Todas representan exclusivamente la fijación de metas realistas, porque las demás finalidades solo contemplan cifras de producción."
+      },
+      "correcta": "C",
+      "explicacion": "La DpV contempla de forma separada innovación creativa, alineamiento estrategia-personal y simplificación de niveles organizativos."
+    }
+  ]
+}

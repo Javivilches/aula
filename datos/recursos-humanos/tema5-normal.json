@@ -1,0 +1,347 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "5. Gestión de los procedimientos administrativos relativos a la formación y promoción de personal",
+  "test": "Test 1 — Nivel normal",
+  "preguntas": [
+    {
+      "id": "RRHH-T5-N-01",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.1",
+      "pagina_manual": 73,
+      "dificultad": "fácil",
+      "pregunta": "¿Cuál es la finalidad principal de la formación de empleados según el tema?",
+      "opciones": {
+        "A": "Evitar que la empresa adapte sus procesos a nuevas tecnologías.",
+        "B": "Reducir toda actividad formativa a la incorporación inicial.",
+        "C": "Sustituir la selección de personal por un sistema de ascensos automático.",
+        "D": "Mejorar sus conocimientos y actitudes para desempeñar mejor su trabajo."
+      },
+      "correcta": "D",
+      "explicacion": "La formación mejora conocimientos y actitudes, contribuye a la competitividad, ayuda a adaptarse a cambios y puede impulsar motivación y promoción (p. 73)."
+    },
+    {
+      "id": "RRHH-T5-N-02",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.1",
+      "pagina_manual": 74,
+      "dificultad": "media",
+      "pregunta": "Un mando intermedio detecta necesidades de formación al examinar de manera habitual cómo se ejecutan las tareas. ¿Qué técnica emplea?",
+      "opciones": {
+        "A": "Entrevista individual en un despacho.",
+        "B": "Observación del desempeño diario.",
+        "C": "Reunión grupal para recoger opiniones.",
+        "D": "Encuesta anónima distribuida por departamentos."
+      },
+      "correcta": "B",
+      "explicacion": "La observación cotidiana del trabajo permite descubrir carencias de formación; el manual señala su uso frecuente por mandos intermedios (p. 74)."
+    },
+    {
+      "id": "RRHH-T5-N-03",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.2",
+      "pagina_manual": 75,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué documento reúne las acciones formativas que una empresa prevé realizar a corto, medio y largo plazo?",
+      "opciones": {
+        "A": "El plan de formación.",
+        "B": "El organigrama de la empresa.",
+        "C": "El protocolo de reclutamiento externo.",
+        "D": "El registro de control de presencia."
+      },
+      "correcta": "A",
+      "explicacion": "El plan de formación registra las acciones que se llevarán a cabo en distintos horizontes temporales, no solo en el corto plazo (p. 75)."
+    },
+    {
+      "id": "RRHH-T5-N-04",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.2",
+      "pagina_manual": 76,
+      "dificultad": "media",
+      "pregunta": "Una vez diseñada una acción formativa, el coordinador presenta al docente, entrega el material y realiza un seguimiento de las sesiones. ¿En qué fase se encuentra?",
+      "opciones": {
+        "A": "Desarrollo y ejecución.",
+        "B": "Detección inicial de necesidades.",
+        "C": "Definición del presupuesto anual.",
+        "D": "Evaluación final del plan una vez concluido."
+      },
+      "correcta": "A",
+      "explicacion": "El desarrollo y ejecución consisten en llevar a la práctica lo diseñado: presentación, entrega de programación y materiales y seguimiento periódico (p. 76)."
+    },
+    {
+      "id": "RRHH-T5-N-05",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.2",
+      "pagina_manual": 77,
+      "dificultad": "media-alta",
+      "pregunta": "¿Qué opción distingue correctamente la evaluación de quienes reciben un curso y la evaluación de su formador, según el plan de formación?",
+      "opciones": {
+        "A": "El formador evalúa su propio trabajo únicamente con indicadores salariales; los asistentes son evaluados por clientes externos.",
+        "B": "Solo se evalúa al docente, ya que la adquisición de competencias no forma parte del plan.",
+        "C": "Ambas evaluaciones se limitan a verificar el número de horas de clase sin valorar resultados.",
+        "D": "El aprendizaje del alumnado puede evaluarse de forma continua; los asistentes pueden valorar al formador mediante encuestas de satisfacción."
+      },
+      "correcta": "D",
+      "explicacion": "El manual diferencia los resultados de participantes (evaluación continua o final) y la valoración del formador realizada por asistentes con cuestionarios de satisfacción (p. 77)."
+    },
+    {
+      "id": "RRHH-T5-N-06",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.3",
+      "pagina_manual": 78,
+      "dificultad": "media",
+      "pregunta": "Una empresa quiere desarrollar el liderazgo de un directivo mediante entrevistas personales con un profesional que le ayuda a mejorar aspectos concretos. ¿Qué método utiliza?",
+      "opciones": {
+        "A": "Outdoor training.",
+        "B": "Routing entre puestos de trabajo.",
+        "C": "Coaching.",
+        "D": "Formación presencial magistral."
+      },
+      "correcta": "C",
+      "explicacion": "El coaching se caracteriza por entrevistas individuales con un entrenador y suele abordar liderazgo, coordinación y gestión de equipos (p. 78)."
+    },
+    {
+      "id": "RRHH-T5-N-07",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.3",
+      "pagina_manual": 78,
+      "dificultad": "media",
+      "pregunta": "Una empresa organiza actividades y juegos al aire libre seguidos de reflexión para reforzar la cooperación y el liderazgo. ¿A qué método se refiere el manual?",
+      "opciones": {
+        "A": "Puntuación de factores.",
+        "B": "E-learning.",
+        "C": "Outdoor training.",
+        "D": "Evaluación 360 grados."
+      },
+      "correcta": "C",
+      "explicacion": "El outdoor training se desarrolla mediante actividades al aire libre, a menudo combinadas con reflexión, para trabajar cooperación, liderazgo y comunicación (p. 78)."
+    },
+    {
+      "id": "RRHH-T5-N-08",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.3",
+      "pagina_manual": 79,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa piensa comprobar la efectividad del programa de desarrollo profesional solo cuando hayan terminado todos los cursos. ¿Qué ajuste aconseja el manual para la evaluación global?",
+      "opciones": {
+        "A": "Revisar solo el presupuesto, sin contrastar objetivos formativos.",
+        "B": "Hacer un seguimiento continuo del plan, sin limitar la evaluación a su finalización.",
+        "C": "Evitar comprobar resultados hasta diseñar otro programa distinto.",
+        "D": "Evaluar únicamente la satisfacción con un curso escogido al azar."
+      },
+      "correcta": "B",
+      "explicacion": "El manual recomienda una evaluación global continua: debe comprobarse si el programa va cubriendo objetivos, y no limitar ese examen exclusivamente a cuando acabe (pp. 78-79)."
+    },
+    {
+      "id": "RRHH-T5-N-09",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.4",
+      "pagina_manual": 79,
+      "dificultad": "media",
+      "pregunta": "Después de organizar una formación y registrar la asistencia, ¿qué documento puede entregarse al participante para acreditar su realización?",
+      "opciones": {
+        "A": "Un informe sobre los competidores de la empresa.",
+        "B": "Una comunicación de alta en un nuevo proceso de selección.",
+        "C": "Un certificado con la actividad formativa y el número de horas cursadas.",
+        "D": "Una carta de despido con el motivo de extinción del contrato."
+      },
+      "correcta": "C",
+      "explicacion": "El manual señala que habitualmente se entrega al trabajador un certificado que acredita la formación realizada y las horas recibidas (p. 79)."
+    },
+    {
+      "id": "RRHH-T5-N-10",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.5",
+      "pagina_manual": 80,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué organismo menciona el manual como responsable de la formación de empleados públicos en España?",
+      "opciones": {
+        "A": "El comité de valoración de puestos.",
+        "B": "Una empresa de trabajo temporal.",
+        "C": "El Instituto Nacional de Administración Pública (INAP).",
+        "D": "El servicio privado de headhunting."
+      },
+      "correcta": "C",
+      "explicacion": "El INAP aparece como organismo de formación del personal de las administraciones públicas, con programas para distintos perfiles (p. 80)."
+    },
+    {
+      "id": "RRHH-T5-N-11",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.6",
+      "pagina_manual": 81,
+      "dificultad": "media",
+      "pregunta": "¿Cómo recuperan las empresas parte del coste de la formación programada para sus trabajadores según el sistema descrito en el tema?",
+      "opciones": {
+        "A": "Sustituyendo los cursos por una evaluación sin financiación.",
+        "B": "Descontando directamente el importe del salario del trabajador sin condiciones.",
+        "C": "Mediante la eliminación de la obligación de realizar formación inicial.",
+        "D": "Mediante bonificaciones en las cotizaciones que ingresan a la Seguridad Social."
+      },
+      "correcta": "D",
+      "explicacion": "El manual describe un sistema de bonificaciones de formación en las cuotas de la Seguridad Social, gestionado en el ámbito de Fundae (p. 81)."
+    },
+    {
+      "id": "RRHH-T5-N-12",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.6",
+      "pagina_manual": 82,
+      "dificultad": "media-alta",
+      "pregunta": "Según la tabla de porcentajes de bonificación recogida en el manual, ¿qué tramo corresponde a una empresa con 120 trabajadores?",
+      "opciones": {
+        "A": "El 60 %, por estar entre 50 y 249 empleados.",
+        "B": "El 100 %, correspondiente a empresas de 1 a 9.",
+        "C": "El 75 %, por estar entre 10 y 49 empleados.",
+        "D": "El 50 %, reservado a empresas de 250 o más."
+      },
+      "correcta": "A",
+      "explicacion": "La tabla del manual asigna el 60 % a empresas de 50 a 249 trabajadores. Es un dato del material de estudio, que debe distinguirse de una consulta actualizada de bonificaciones (p. 82)."
+    },
+    {
+      "id": "RRHH-T5-N-13",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.7",
+      "pagina_manual": 83,
+      "dificultad": "media",
+      "pregunta": "Un objetivo de evaluación busca aumentar en un número concreto las unidades producidas. ¿Qué tipo de objetivo es?",
+      "opciones": {
+        "A": "Cuantitativo, porque se expresa mediante un resultado medible.",
+        "B": "Genérico, porque se aplica a todas las competencias personales.",
+        "C": "Subjetivo, porque no admite indicadores.",
+        "D": "Cualitativo, porque describe la organización interna."
+      },
+      "correcta": "A",
+      "explicacion": "Los objetivos cuantitativos se relacionan con resultados fácilmente medibles; los cualitativos recogen aspectos de gestión más subjetivos (p. 83)."
+    },
+    {
+      "id": "RRHH-T5-N-14",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.7",
+      "pagina_manual": 84,
+      "dificultad": "media",
+      "pregunta": "En una evaluación del desempeño, ¿cómo se clasifica una competencia como el trabajo en equipo cuando la empresa espera que la tenga toda la plantilla?",
+      "opciones": {
+        "A": "Propia solo de la evaluación del formador.",
+        "B": "Genérica.",
+        "C": "Exclusivamente retributiva.",
+        "D": "Específica de un único puesto."
+      },
+      "correcta": "B",
+      "explicacion": "El manual diferencia competencias genéricas, comunes al conjunto de trabajadores y vinculadas a valores corporativos, y específicas, asociadas a funciones de cada puesto (p. 84)."
+    },
+    {
+      "id": "RRHH-T5-N-15",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.8",
+      "pagina_manual": 85,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué aspecto debe valorarse al evaluar la efectividad de un plan de formación?",
+      "opciones": {
+        "A": "Exclusivamente el coste de imprimir los certificados.",
+        "B": "En qué grado se han alcanzado los objetivos y se han desarrollado las competencias previstas.",
+        "C": "Solo el número de correos de convocatoria enviados.",
+        "D": "Únicamente cuántos empleados están próximos a jubilarse."
+      },
+      "correcta": "B",
+      "explicacion": "El manual indica que se analiza el cumplimiento de objetivos y la adquisición de competencias para detectar deficiencias y aplicar mejoras (p. 85)."
+    },
+    {
+      "id": "RRHH-T5-N-16",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.9",
+      "pagina_manual": 85,
+      "dificultad": "media",
+      "pregunta": "¿Qué característica debe cumplir un sistema de retribución para contribuir a la motivación y a la retención del talento?",
+      "opciones": {
+        "A": "Vincular toda retribución exclusivamente a la antigüedad sin otros criterios.",
+        "B": "Excluir los incentivos ligados al desempeño profesional.",
+        "C": "Ser equitativo, competitivo externamente y motivador para los empleados.",
+        "D": "Mantener idénticas funciones y sueldos tras cualquier promoción."
+      },
+      "correcta": "C",
+      "explicacion": "El manual señala que un buen sistema retributivo ha de ser equitativo, competitivo respecto al exterior y motivador, y relaciona incentivos con retención del talento (p. 85)."
+    },
+    {
+      "id": "RRHH-T5-N-17",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.9",
+      "pagina_manual": 86,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa valora puestos asignando puntuaciones numéricas a factores como responsabilidad, esfuerzo y dificultad técnica. ¿Qué tipo de procedimiento emplea?",
+      "opciones": {
+        "A": "Cualitativo, sin asignación de valores numéricos.",
+        "B": "De evaluación del formador mediante encuestas de satisfacción.",
+        "C": "De promoción subjetiva por elección de la jefatura.",
+        "D": "Cuantitativo, mediante puntuación de factores."
+      },
+      "correcta": "D",
+      "explicacion": "La valoración cuantitativa asigna valores numéricos a factores del puesto, como en el método de puntuación de factores; la cualitativa se centra en atributos y posición relativa (p. 86)."
+    },
+    {
+      "id": "RRHH-T5-N-18",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.9",
+      "pagina_manual": 87,
+      "dificultad": "media",
+      "pregunta": "Una empresa recompensa el buen desempeño ofreciendo a una empleada flexibilidad horaria. Según los ejemplos del tema, se trata de un incentivo...",
+      "opciones": {
+        "A": "No monetario.",
+        "B": "Retributivo exclusivamente salarial.",
+        "C": "Cuantitativo por puntuación de factores.",
+        "D": "Monetario en forma de comisión."
+      },
+      "correcta": "A",
+      "explicacion": "Entre los incentivos no monetarios el manual cita horarios flexibles, teletrabajo y apoyo a formación; comisiones o aumentos salariales son monetarios (p. 87)."
+    },
+    {
+      "id": "RRHH-T5-N-19",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.10",
+      "pagina_manual": 88,
+      "dificultad": "media",
+      "pregunta": "¿Qué criterio debe respetar RR. HH. al archivar los títulos y certificados de formación de la plantilla?",
+      "opciones": {
+        "A": "Eliminar el expediente personal una vez comenzada la formación continuada.",
+        "B": "Publicar todos los certificados con nombres y datos personales en la web de la empresa.",
+        "C": "Archivar solo los cursos organizados fuera de la empresa.",
+        "D": "Mantener expedientes actualizados y tratar los datos personales de acuerdo con la normativa de protección de datos."
+      },
+      "correcta": "D",
+      "explicacion": "El manual encomienda a RR. HH. registrar y actualizar la documentación formativa en expedientes personales, tanto en papel como digital, respetando la protección de datos (p. 88)."
+    },
+    {
+      "id": "RRHH-T5-N-20",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.11",
+      "pagina_manual": 89,
+      "dificultad": "fácil",
+      "pregunta": "¿Qué plataforma cita el tema como ejemplo habitual de sistema de gestión de aprendizaje (LMS)?",
+      "opciones": {
+        "A": "Una empresa de trabajo temporal.",
+        "B": "Moodle.",
+        "C": "LinkedIn.",
+        "D": "Un control de presencia con tarjeta."
+      },
+      "correcta": "B",
+      "explicacion": "Moodle aparece expresamente como ejemplo de LMS, usado para gestionar formación no presencial, evaluaciones e informes (p. 89)."
+    }
+  ]
+}

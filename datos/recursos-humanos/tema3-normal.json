@@ -1,0 +1,347 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "3. Coordinación de los flujos de información del departamento de recursos humanos a través de la organización",
+  "test": "Test 1 — Nivel normal",
+  "preguntas": [
+    {
+      "id": "RRHH-T3-N-01",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.1",
+      "pagina_manual": 35,
+      "dificultad": "fácil",
+      "pregunta": "En una empresa, ¿qué instrumento representa oficialmente la estructura jerárquica, los puestos y los canales de autoridad?",
+      "opciones": {
+        "A": "El plan de formación.",
+        "B": "El registro de absentismo.",
+        "C": "El organigrama.",
+        "D": "La red de afinidades personales."
+      },
+      "correcta": "C",
+      "explicacion": "La organización formal se representa mediante un organigrama, que muestra jerarquías, relaciones de autoridad, puestos y canales de comunicación (p. 35)."
+    },
+    {
+      "id": "RRHH-T3-N-02",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.1",
+      "pagina_manual": 36,
+      "dificultad": "media",
+      "pregunta": "¿Qué describe el manual como característica de las relaciones informales entre trabajadores?",
+      "opciones": {
+        "A": "Sustituyen legalmente los canales formales de comunicación de la empresa.",
+        "B": "Se limitan a las comunicaciones dirigidas a clientes y proveedores.",
+        "C": "Están definidas en el organigrama y requieren autorización escrita.",
+        "D": "Surgen espontáneamente por afinidad y pueden canalizar información rápidamente."
+      },
+      "correcta": "D",
+      "explicacion": "Las relaciones informales se crean sin estar previstas por la organización formal, suelen responder a afinidades y pueden acelerar la circulación de información, aunque también difunden rumores (p. 36)."
+    },
+    {
+      "id": "RRHH-T3-N-03",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.2",
+      "pagina_manual": 37,
+      "dificultad": "media",
+      "pregunta": "Una responsable de RR. HH. diseña incentivos salariales y niveles retributivos por categoría. ¿En qué función de gestión del personal encaja esta actuación?",
+      "opciones": {
+        "A": "Función de retribución.",
+        "B": "Función de desarrollo de personal.",
+        "C": "Función de servicios sociales.",
+        "D": "Función de empleo."
+      },
+      "correcta": "A",
+      "explicacion": "La función de retribución comprende diseñar fórmulas salariales, políticas de incentivos y niveles salariales, así como evaluar sus resultados (p. 37)."
+    },
+    {
+      "id": "RRHH-T3-N-04",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.2",
+      "pagina_manual": 38,
+      "dificultad": "media",
+      "pregunta": "Según los trámites administrativos recogidos en el manual, ¿qué documento debe recoger percepciones salariales y no salariales, además de las deducciones?",
+      "opciones": {
+        "A": "El recibo de salarios.",
+        "B": "El modelo 145 cumplimentado al inicio de la contratación.",
+        "C": "La comunicación del contrato al servicio público de empleo.",
+        "D": "El certificado de empresa."
+      },
+      "correcta": "A",
+      "explicacion": "El recibo de salarios contiene percepciones salariales, no salariales y deducciones; el certificado de empresa y el modelo 145 cumplen funciones diferentes (p. 38)."
+    },
+    {
+      "id": "RRHH-T3-N-05",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.2",
+      "pagina_manual": 39,
+      "dificultad": "media",
+      "pregunta": "Una compañía considera que formar a sus empleados contribuye a su motivación, productividad y permanencia. ¿A qué modelo de gestión de RR. HH. responde?",
+      "opciones": {
+        "A": "Al sistema de registro de entrada y salida de personal.",
+        "B": "A las tendencias tradicionales centradas en reducir costes salariales.",
+        "C": "Al modelo informal de comunicación con proveedores.",
+        "D": "A las tendencias actuales de gestión de personal."
+      },
+      "correcta": "D",
+      "explicacion": "Los modelos actuales priorizan motivación, satisfacción, desarrollo y formación a cargo de la empresa; los tradicionales se centran más en reducir costes (p. 39)."
+    },
+    {
+      "id": "RRHH-T3-N-06",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.3",
+      "pagina_manual": 39,
+      "dificultad": "fácil",
+      "pregunta": "Una circular que RR. HH. distribuye mediante el canal oficial establecido por la empresa es un ejemplo de comunicación...",
+      "opciones": {
+        "A": "Formal.",
+        "B": "Espontánea ajena a las reglas internas.",
+        "C": "Ambiental.",
+        "D": "Informal."
+      },
+      "correcta": "A",
+      "explicacion": "La comunicación formal sigue canales reconocidos por la empresa, como circulares, cartas, informes o reuniones institucionales (p. 39)."
+    },
+    {
+      "id": "RRHH-T3-N-07",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.3",
+      "pagina_manual": 40,
+      "dificultad": "media-alta",
+      "pregunta": "Una técnica de nóminas envía una consulta directamente a otra técnica de su mismo nivel jerárquico. ¿Qué dirección tiene la comunicación interna?",
+      "opciones": {
+        "A": "Vertical ascendente.",
+        "B": "Vertical descendente.",
+        "C": "Externa corporativa.",
+        "D": "Horizontal."
+      },
+      "correcta": "D",
+      "explicacion": "La comunicación horizontal se realiza entre personas del mismo nivel jerárquico; ascendente y descendente implican niveles diferentes (p. 40)."
+    },
+    {
+      "id": "RRHH-T3-N-08",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.3",
+      "pagina_manual": 41,
+      "dificultad": "media-alta",
+      "pregunta": "Durante una conversación, el responsable repite con sus palabras lo explicado por una empleada para confirmar que ha entendido su preocupación. ¿Qué técnica aplica principalmente?",
+      "opciones": {
+        "A": "Comunicación ambiental.",
+        "B": "Escucha activa.",
+        "C": "Negociación colectiva.",
+        "D": "Comunicación corporativa."
+      },
+      "correcta": "B",
+      "explicacion": "La escucha activa exige atender, comprender y transmitir esa comprensión. Parafrasear al interlocutor es una de las técnicas que cita expresamente el manual (p. 41)."
+    },
+    {
+      "id": "RRHH-T3-N-09",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.4",
+      "pagina_manual": 42,
+      "dificultad": "fácil",
+      "pregunta": "La capacidad de ponerse en el lugar de otra persona y responder adecuadamente a sus necesidades emocionales se denomina...",
+      "opciones": {
+        "A": "Empatía.",
+        "B": "Autonomía.",
+        "C": "Flexibilidad.",
+        "D": "Capacidad organizativa."
+      },
+      "correcta": "A",
+      "explicacion": "La empatía es una habilidad social que implica comprender motivaciones y emociones ajenas y responder en consecuencia (p. 42)."
+    },
+    {
+      "id": "RRHH-T3-N-10",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.4",
+      "pagina_manual": 42,
+      "dificultad": "fácil",
+      "pregunta": "Dos candidaturas presentan una formación semejante. Una demuestra capacidad para adaptarse a cambios inesperados en su trabajo. ¿Qué habilidad destaca especialmente?",
+      "opciones": {
+        "A": "Comunicación descendente.",
+        "B": "Competencia técnica en control de presencia.",
+        "C": "Flexibilidad.",
+        "D": "Capacidad de archivo documental."
+      },
+      "correcta": "C",
+      "explicacion": "La flexibilidad es la disposición para adaptarse a cambios y situaciones complicadas, habilidad social relevante en la selección (p. 42)."
+    },
+    {
+      "id": "RRHH-T3-N-11",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.5",
+      "pagina_manual": 43,
+      "dificultad": "media",
+      "pregunta": "¿Cuál de las siguientes situaciones clasifica el manual como absentismo laboral injustificado?",
+      "opciones": {
+        "A": "No acudir al puesto de trabajo sin aportar una razón que justifique la ausencia.",
+        "B": "Una ausencia protegida por un permiso legalmente reconocido.",
+        "C": "Un permiso por matrimonio debidamente tramitado.",
+        "D": "Una incapacidad temporal acreditada con el justificante requerido."
+      },
+      "correcta": "A",
+      "explicacion": "El absentismo injustificado comprende ausencias o faltas de puntualidad sin motivo reconocido. Los permisos legales y bajas justificadas pertenecen a la otra categoría (p. 43)."
+    },
+    {
+      "id": "RRHH-T3-N-12",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.5",
+      "pagina_manual": 43,
+      "dificultad": "media-alta",
+      "pregunta": "Un informe indica que el absentismo total es del 4 % y el justificado del 3,5 %, calculados ambos sobre las mismas horas de trabajo previstas. ¿Qué índice de absentismo injustificado se deduce?",
+      "opciones": {
+        "A": "4 %.",
+        "B": "3,5 %.",
+        "C": "0,5 %.",
+        "D": "7,5 %."
+      },
+      "correcta": "C",
+      "explicacion": "El absentismo total se compone de ausencias justificadas e injustificadas. Por tanto, 4 % − 3,5 % = 0,5 % de ausencias injustificadas (fórmulas de p. 43)."
+    },
+    {
+      "id": "RRHH-T3-N-13",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.5",
+      "pagina_manual": 44,
+      "dificultad": "media",
+      "pregunta": "Según el tema, ¿qué relación suele observarse entre unas condiciones laborales percibidas como precarias y el absentismo?",
+      "opciones": {
+        "A": "Desaparecen las ausencias justificadas y se conservan las injustificadas.",
+        "B": "Disminuye necesariamente el absentismo porque mejora la vigilancia.",
+        "C": "El absentismo se mantiene sin cambios porque solo depende del fichaje.",
+        "D": "Puede aumentar el absentismo y, con él, los costes para la empresa."
+      },
+      "correcta": "D",
+      "explicacion": "El manual relaciona condiciones laborales insatisfactorias con un mayor absentismo y mayores costes organizativos; recomienda analizar las causas y mejorar dichas condiciones (p. 44)."
+    },
+    {
+      "id": "RRHH-T3-N-14",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.6",
+      "pagina_manual": 45,
+      "dificultad": "media",
+      "pregunta": "En el libro de registro de correspondencia de RR. HH., ¿qué campo permite indicar si una carta viene acompañada de documentación adicional?",
+      "opciones": {
+        "A": "Número de orden.",
+        "B": "Anexos u observaciones.",
+        "C": "Destinatario.",
+        "D": "Remitente."
+      },
+      "correcta": "B",
+      "explicacion": "El libro de registro incluye número de orden, fecha, remitente, destinatario, clase de documento y anexos u observaciones. Este último campo permite hacer constar adjuntos (p. 45)."
+    },
+    {
+      "id": "RRHH-T3-N-15",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.6",
+      "pagina_manual": 46,
+      "dificultad": "media",
+      "pregunta": "La empresa digitaliza formularios para evitar impresiones innecesarias. ¿A cuál de las tres R de la gestión documental responde directamente esta decisión?",
+      "opciones": {
+        "A": "Reclasificar.",
+        "B": "Reducir.",
+        "C": "Reutilizar.",
+        "D": "Reciclar."
+      },
+      "correcta": "B",
+      "explicacion": "Reducir consiste en evitar actividades que generen residuos innecesarios. Reutilizar implica usar varias veces un material; reciclar significa reincorporar residuos como recursos (p. 46)."
+    },
+    {
+      "id": "RRHH-T3-N-16",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.7",
+      "pagina_manual": 46,
+      "dificultad": "media-alta",
+      "pregunta": "Antes de recoger nuevos datos de la plantilla, RR. HH. prepara una cláusula informativa. Según el apartado 3.7, ¿qué debe comunicar?",
+      "opciones": {
+        "A": "Exclusivamente que la empresa puede conservar cualquier dato, sea o no necesario para RR. HH.",
+        "B": "Únicamente quién supervisa los contratos y las nóminas.",
+        "C": "La existencia y finalidad del fichero, junto con los derechos de acceso, rectificación, cancelación y oposición.",
+        "D": "Solo el periodo durante el cual se realizará la siguiente evaluación de desempeño."
+      },
+      "correcta": "C",
+      "explicacion": "El manual exige limitar la recogida a las necesidades de RR. HH., actualizar la información y comunicar mediante cláusula la finalidad del tratamiento y los derechos de la persona titular (p. 46)."
+    },
+    {
+      "id": "RRHH-T3-N-17",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.7",
+      "pagina_manual": 46,
+      "dificultad": "media",
+      "pregunta": "¿Qué responsabilidad atribuye el manual al departamento de RR. HH. respecto a los datos personales que trata?",
+      "opciones": {
+        "A": "Mantenerlos inalterados incluso cuando se detecten errores.",
+        "B": "Recopilar toda la información posible aunque no sea necesaria para su gestión.",
+        "C": "Cederlos de forma general a otros departamentos con cualquier finalidad.",
+        "D": "Actualizarlos periódicamente y preservar su confidencialidad y privacidad."
+      },
+      "correcta": "D",
+      "explicacion": "RR. HH. debe limitar la recogida a los datos necesarios, actualizarlos con periodicidad y garantizar la confidencialidad de los expedientes (p. 46)."
+    },
+    {
+      "id": "RRHH-T3-N-18",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.8",
+      "pagina_manual": 47,
+      "dificultad": "fácil",
+      "pregunta": "¿Cuál de los siguientes elementos es un dato personal al que se refiere el manual?",
+      "opciones": {
+        "A": "El horario general de apertura de una tienda.",
+        "B": "El número de la Seguridad Social de un empleado.",
+        "C": "El nombre comercial de una marca sin referencia a ninguna persona.",
+        "D": "El domicilio de la sede social publicado en un folleto."
+      },
+      "correcta": "B",
+      "explicacion": "El manual menciona como datos personales nombres, DNI, número de Seguridad Social, cuentas bancarias y datos sanitarios de las personas físicas (p. 46)."
+    },
+    {
+      "id": "RRHH-T3-N-19",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.8",
+      "pagina_manual": 46,
+      "dificultad": "media",
+      "pregunta": "¿Qué norma europea sobre protección de datos menciona expresamente el tema como aplicable desde el 25 de mayo de 2018?",
+      "opciones": {
+        "A": "La Ley 39/1999 de conciliación.",
+        "B": "La norma SGE 21.",
+        "C": "El Reglamento (UE) 2016/679.",
+        "D": "La norma ISO 26000."
+      },
+      "correcta": "C",
+      "explicacion": "El manual identifica el Reglamento (UE) 2016/679 y señala el 25 de mayo de 2018 como fecha de aplicación en España (p. 46)."
+    },
+    {
+      "id": "RRHH-T3-N-20",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.8",
+      "pagina_manual": 49,
+      "dificultad": "media",
+      "pregunta": "Una empresa necesita gestionar cursos no presenciales, evaluar la participación y administrar el aprendizaje mediante una plataforma alojada en un servidor. ¿Qué tipo de sistema se ajusta mejor?",
+      "opciones": {
+        "A": "Una hoja de firmas de control de acceso.",
+        "B": "Un LMS (sistema de gestión de aprendizaje).",
+        "C": "Un registro manual de correspondencia.",
+        "D": "Un portal B2E utilizado únicamente como organigrama."
+      },
+      "correcta": "B",
+      "explicacion": "El LMS es una plataforma de aprendizaje a distancia para gestionar la formación no presencial; B2E se centra en la comunicación empresa-empleado y SIRH en los procesos de gestión de RR. HH. (p. 49)."
+    }
+  ]
+}

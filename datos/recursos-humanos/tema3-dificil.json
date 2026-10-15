@@ -1,0 +1,347 @@
+{
+  "asignatura": "Recursos Humanos y Responsabilidad Social Corporativa",
+  "tema": "3. Coordinación de los flujos de información del departamento de recursos humanos a través de la organización",
+  "test": "Test 2 — Nivel difícil",
+  "preguntas": [
+    {
+      "id": "RRHH-T3-D-01",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.1",
+      "pagina_manual": 36,
+      "dificultad": "media-alta",
+      "pregunta": "En una empresa existe un organigrama actualizado, pero las novedades sobre cambios de turnos llegan antes por conversaciones espontáneas y generan rumores. ¿Qué interpretación y actuación se ajustan mejor al manual?",
+      "opciones": {
+        "A": "La red formal es inexistente, pues cualquier información que circule primero entre compañeros sustituye al organigrama.",
+        "B": "Las relaciones informales son necesariamente negativas y deben suprimirse para impedir cualquier intercambio no autorizado.",
+        "C": "Coexisten organización formal e informal; conviene reforzar la transparencia de los canales formales para reducir rumores.",
+        "D": "El problema demuestra que la estructura informal define las jerarquías y que la formal solo recoge afinidades personales."
+      },
+      "correcta": "C",
+      "explicacion": "El organigrama representa la organización formal; las relaciones espontáneas forman la informal. El manual advierte que por esta última la información puede circular más deprisa, por lo que recomienda una organización formal sólida y transparente para evitar rumores. Manual, pp. 35-36."
+    },
+    {
+      "id": "RRHH-T3-D-02",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.1",
+      "pagina_manual": 36,
+      "dificultad": "difícil",
+      "pregunta": "Dos equipos tienen perfiles profesionales distintos. Uno recompensa que cada empleado resuelva únicamente sus tareas; el otro coordina conocimientos y promueve que todos se identifiquen con los objetivos empresariales. ¿Qué segundo enfoque refleja mejor la participación descrita en el manual?",
+      "opciones": {
+        "A": "La cooperación dirigida a metas comunes, priorizando el beneficio colectivo y vinculando al personal con misión, visión y valores.",
+        "B": "La autonomía individual como fin principal, aunque las aportaciones no se coordinen con las del resto del equipo.",
+        "C": "La sustitución de las funciones de dirección por acuerdos informales, prescindiendo de la planificación estratégica.",
+        "D": "La homogeneización de los perfiles profesionales para evitar que existan habilidades y experiencias diferentes."
+      },
+      "correcta": "A",
+      "explicacion": "El trabajo en equipo supone coordinación y prioridad de objetivos colectivos sobre el individualismo; recursos humanos y dirección deben impulsar participación y motivación alineadas con misión, visión y valores. Manual, p. 36."
+    },
+    {
+      "id": "RRHH-T3-D-03",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.2",
+      "pagina_manual": 37,
+      "dificultad": "difícil",
+      "pregunta": "RR. HH. está rediseñando puestos, fijando perfiles, seleccionando candidatos e implantando un programa de incorporación. ¿A qué función de gestión del personal corresponden principalmente estas tareas, aunque después intervengan otras funciones administrativas?",
+      "opciones": {
+        "A": "A desarrollo de personal, porque comprende la nómina, las vacaciones y la disciplina de toda persona contratada.",
+        "B": "A retribución, porque engloba las reglas salariales y la evaluación de incentivos para cada categoría profesional.",
+        "C": "A relaciones laborales, porque se orienta a la negociación colectiva y a la resolución de conflictos con representantes.",
+        "D": "A empleo, porque incluye planificación de plantilla, perfiles, selección y acogida de nuevos trabajadores."
+      },
+      "correcta": "D",
+      "explicacion": "El manual agrupa bajo «empleo» la planificación, definición y descripción de puestos, selección, formación e inserción de trabajadores. Retribución y desarrollo de personal abarcan otras tareas, aunque RR. HH. intervenga en todas. Manual, p. 37."
+    },
+    {
+      "id": "RRHH-T3-D-04",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.2",
+      "pagina_manual": 37,
+      "dificultad": "difícil",
+      "pregunta": "Una compañía acuerda con representantes de los trabajadores cambios en condiciones de contratación y, además, ofrece una guardería como incentivo no monetario. ¿Cómo deben clasificarse estas dos actuaciones?",
+      "opciones": {
+        "A": "Ambas son funciones de retribución, porque afectan directa o indirectamente a lo que recibe el empleado.",
+        "B": "La negociación pertenece a relaciones laborales; la guardería, a servicios sociales de los empleados.",
+        "C": "La negociación pertenece a desarrollo de personal; la guardería, a relaciones laborales por afectar a familias.",
+        "D": "La negociación pertenece a empleo; la guardería, a la administración de incidencias y ausencias."
+      },
+      "correcta": "B",
+      "explicacion": "El manual atribuye a relaciones laborales los asuntos de contratación y negociación con representantes; los beneficios no monetarios como guarderías, gimnasios o ayudas para estudios se encuadran en servicios sociales. Manual, p. 37."
+    },
+    {
+      "id": "RRHH-T3-D-05",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.2",
+      "pagina_manual": 38,
+      "dificultad": "muy difícil",
+      "pregunta": "Una empresa incorpora a una persona trabajadora y quiere cumplir los trámites de inicio tal como los enumera el manual. ¿Qué combinación es la correcta?",
+      "opciones": {
+        "A": "Comunicar la contratación a la Agencia Tributaria en diez días, tramitar el modelo 145 con el SEPE y solicitar el alta en la Seguridad Social al cierre de mes.",
+        "B": "Solicitar datos del modelo 145 a la Seguridad Social, comunicar el contrato a la Agencia Tributaria y preparar el certificado de empresa antes de la primera nómina.",
+        "C": "Gestionar afiliación o alta en Seguridad Social, comunicar el contrato al SEPE en un máximo de diez días posteriores y obtener los datos para el modelo 145 del IRPF.",
+        "D": "Registrar el contrato exclusivamente en el expediente personal, comunicarlo al SEPE al extinguirse la relación y presentar el modelo 145 ante la Tesorería de la Seguridad Social."
+      },
+      "correcta": "C",
+      "explicacion": "En la documentación de inicio, el manual indica afiliación y alta en Seguridad Social cuando corresponda, comunicación del contrato al SEPE dentro de diez días posteriores a la contratación y recopilación de datos para el modelo 145 del IRPF. El certificado de empresa se vincula a la finalización de la relación laboral. Manual, p. 38."
+    },
+    {
+      "id": "RRHH-T3-D-06",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.2",
+      "pagina_manual": 39,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa pretende reducir costes salariales y considera que la formación debe procurársela cada trabajador. Otra invierte en desarrollo profesional para aumentar motivación y retener talento. ¿Qué conclusión se desprende de los modelos de RR. HH. que distingue el manual?",
+      "opciones": {
+        "A": "La primera sigue tendencias tradicionales; la segunda, tendencias actuales que relacionan bienestar y formación con productividad.",
+        "B": "Ambas siguen tendencias actuales, ya que tanto la reducción salarial como la formación por cuenta propia incrementan el compromiso.",
+        "C": "La primera sigue tendencias actuales; la segunda, tradicionales, porque la promoción profesional eleva los costes de personal.",
+        "D": "Ninguna responde a los modelos del manual, porque ambos se clasifican únicamente según el tamaño de la organización."
+      },
+      "correcta": "A",
+      "explicacion": "El modelo tradicional privilegia productividad mediante reducción de costes y deja la formación en manos del empleado. El actual da relevancia a satisfacción, motivación, desarrollo y permanencia de la plantilla. Manual, p. 39."
+    },
+    {
+      "id": "RRHH-T3-D-07",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.3",
+      "pagina_manual": 40,
+      "dificultad": "difícil",
+      "pregunta": "Un grupo de técnicos envía, a través del procedimiento interno oficialmente establecido, una propuesta conjunta al responsable del departamento. ¿Qué dos clasificaciones son compatibles para ese mensaje?",
+      "opciones": {
+        "A": "Informal y descendente: procede de trabajadores y se dirige a quien tiene mayor responsabilidad.",
+        "B": "Formal y horizontal: se ha emitido por un grupo de personas del mismo equipo de trabajo.",
+        "C": "Informal y ascendente: el contenido es una propuesta y no una instrucción obligatoria.",
+        "D": "Formal y ascendente: usa el canal establecido y se transmite de un nivel inferior a uno superior."
+      },
+      "correcta": "D",
+      "explicacion": "«Formal» describe si se siguen los canales establecidos; «ascendente» indica que la información sube en la jerarquía. Ambas categorías se combinan sin contradicción. Manual, pp. 39-40."
+    },
+    {
+      "id": "RRHH-T3-D-08",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.3",
+      "pagina_manual": 40,
+      "dificultad": "muy difícil",
+      "pregunta": "RR. HH. recibe indicaciones de una administración, publica una nota institucional para dar a conocer la imagen de la empresa y, después, la dirección transmite instrucciones a su equipo. ¿Cómo se clasifican los dos primeros flujos de comunicación externa, sin confundirlos con la instrucción interna descendente?",
+      "opciones": {
+        "A": "Primero corporativa y después ambiental, porque la administración es una institución y la nota se dirige al entorno.",
+        "B": "Primero ambiental y después corporativa, porque en un caso la empresa recibe información externa y en el otro la emite para proyectar una imagen.",
+        "C": "Ambos son ambientales, porque toda comunicación con instituciones o ciudadanos tiene lugar fuera de la jerarquía interna.",
+        "D": "Ambos son corporativos, porque RR. HH. representa a la empresa tanto cuando recibe instrucciones como cuando difunde mensajes."
+      },
+      "correcta": "B",
+      "explicacion": "El manual llama comunicación ambiental a la información que la empresa recibe de agentes externos, y corporativa a la información que ella transmite al exterior para presentar una imagen. La distinción depende de la dirección y función del flujo, no solo de quién participe. Manual, p. 40."
+    },
+    {
+      "id": "RRHH-T3-D-09",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.3",
+      "pagina_manual": 41,
+      "dificultad": "media-alta",
+      "pregunta": "En una conversación tensa, la responsable de RR. HH. explica con claridad su desacuerdo sin descalificar al empleado. Después le pide que precise su preocupación y reformula lo escuchado. ¿Qué técnicas aplica, en ese orden?",
+      "opciones": {
+        "A": "Asertividad y escucha activa.",
+        "B": "Escucha activa y comunicación no verbal.",
+        "C": "Comunicación escrita y asertividad.",
+        "D": "Empatía y comunicación descendente."
+      },
+      "correcta": "A",
+      "explicacion": "Expresar opiniones y desacuerdos con claridad y respeto es asertividad; preguntar, escuchar cuidadosamente y parafrasear para mostrar comprensión son procedimientos de escucha activa. Manual, p. 41."
+    },
+    {
+      "id": "RRHH-T3-D-10",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.3",
+      "pagina_manual": 41,
+      "dificultad": "difícil",
+      "pregunta": "Se prepara una comunicación escrita sobre un cambio de procedimiento que afecta a varios perfiles profesionales. ¿Qué decisión recoge mejor las exigencias de comunicación efectiva que establece el manual?",
+      "opciones": {
+        "A": "Utilizar un texto muy técnico para todos los receptores, ya que la precisión formal debe prevalecer sobre la adaptación al destinatario.",
+        "B": "Sustituir las aclaraciones por gestos y expresiones faciales, porque así el mensaje escrito mantiene la brevedad.",
+        "C": "Revisar claridad, concisión y corrección lingüística, adaptando el contenido al receptor y aprovechando la preparación previa.",
+        "D": "Difundirlo por canales informales para evitar revisiones, puesto que la rapidez garantiza que los empleados lo comprendan."
+      },
+      "correcta": "C",
+      "explicacion": "Para la comunicación escrita, el manual exige claridad, concisión, corrección gramatical y ortográfica, y adaptación al receptor. Su ventaja específica es que puede prepararse previamente. Manual, p. 41."
+    },
+    {
+      "id": "RRHH-T3-D-11",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.4",
+      "pagina_manual": 42,
+      "dificultad": "media-alta",
+      "pregunta": "En una entrevista, dos candidatos explican cómo actuarían ante el malestar de un compañero y un cambio imprevisto de tareas. ¿Qué pareja relaciona correctamente las habilidades sociales relevantes para cada situación?",
+      "opciones": {
+        "A": "Flexibilidad para comprender las emociones ajenas y trabajo en equipo para soportar cualquier cambio individual.",
+        "B": "Comunicación para aceptar cambios y empatía para repartir automáticamente el trabajo del grupo.",
+        "C": "Negociación para percibir las necesidades emocionales y orientación al cliente para reajustar una tarea interna.",
+        "D": "Empatía para comprender las necesidades emocionales y flexibilidad para adaptarse a la situación cambiante."
+      },
+      "correcta": "D",
+      "explicacion": "El manual define empatía como ponerse en el lugar del otro y responder a sus necesidades emocionales; flexibilidad es adaptarse a cambios y situaciones complicadas. Manual, p. 42."
+    },
+    {
+      "id": "RRHH-T3-D-12",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.5",
+      "pagina_manual": 43,
+      "dificultad": "muy difícil",
+      "pregunta": "Durante un periodo se han programado 2.000 horas de trabajo. Se registran 70 horas de ausencia justificada y 30 de ausencia injustificada. Aplicando las fórmulas del manual, ¿cuáles son, respectivamente, los índices de absentismo total y de absentismo injustificado?",
+      "opciones": {
+        "A": "3,5 % y 1,5 %, porque el índice total considera solo las ausencias justificadas.",
+        "B": "5 % y 1,5 %, porque las 100 horas ausentes se computan en el total y 30 en el injustificado.",
+        "C": "5 % y 3,5 %, porque las ausencias justificadas determinan el índice injustificado.",
+        "D": "1,5 % y 5 %, porque el porcentaje total se calcula únicamente con las faltas no justificadas."
+      },
+      "correcta": "B",
+      "explicacion": "Absentismo total = (70 + 30) / 2.000 × 100 = 5 %. Absentismo injustificado = 30 / 2.000 × 100 = 1,5 %. El absentismo justificado, que no se pide, sería 3,5 %. Manual, p. 43."
+    },
+    {
+      "id": "RRHH-T3-D-13",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.5",
+      "pagina_manual": 44,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa implanta tarjetas para registrar accesos y, simultáneamente, flexibiliza turnos y fomenta la comunicación para reducir ausencias. ¿Cuál es la interpretación más precisa de estas medidas?",
+      "opciones": {
+        "A": "Las tarjetas son preventivas porque generan motivación, mientras que la flexibilidad y la comunicación son instrumentos de control horario.",
+        "B": "Todas son medidas de control, ya que su finalidad común es conocer con exactitud la hora de entrada y salida.",
+        "C": "Todas son medidas de prevención, porque ninguna permite detectar si una persona ha acudido a su puesto.",
+        "D": "Las tarjetas constituyen una medida de control; la flexibilidad y la mejora de la comunicación se consideran medidas preventivas."
+      },
+      "correcta": "D",
+      "explicacion": "El manual diferencia controles de presencia (firmas, tarjetas y huella) de prevención del absentismo mediante mejor comunicación, motivación, clima, seguridad y flexibilidad. Manual, p. 44."
+    },
+    {
+      "id": "RRHH-T3-D-14",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.6",
+      "pagina_manual": 45,
+      "dificultad": "difícil",
+      "pregunta": "RR. HH. recibe una carta con certificados adjuntos sobre la formación de un empleado. ¿Qué actuación diferencia correctamente el libro de registro del expediente personal?",
+      "opciones": {
+        "A": "Registrar entrada, remitente, destinatario, clase de documento y anexos en el libro, y conservar en el expediente la documentación relativa al historial formativo del empleado.",
+        "B": "Incorporar la carta únicamente al libro de registro, porque el expediente personal solo contiene nóminas y documentación de salida.",
+        "C": "Sustituir el asiento del libro por una copia del currículo del empleado, ya que este documento identifica el origen de la correspondencia.",
+        "D": "Archivar los certificados únicamente como anexos del libro, porque la formación cursada no forma parte del expediente personal."
+      },
+      "correcta": "A",
+      "explicacion": "El libro de registro recoge datos de entrada o salida de la correspondencia, incluidos remitente, destinatario, tipo y anexos. El expediente personal reúne, entre otros, documentos de formación e historial laboral. Manual, p. 45."
+    },
+    {
+      "id": "RRHH-T3-D-15",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.6",
+      "pagina_manual": 46,
+      "dificultad": "difícil",
+      "pregunta": "Una oficina busca aplicar las 3R a sus documentos. ¿Qué secuencia asigna correctamente cada actuación: evitar impresiones prescindibles, volver a utilizar carpetas en buen estado y transformar papel desechado en nueva materia prima?",
+      "opciones": {
+        "A": "Reutilizar, reciclar y reducir, respectivamente, porque todas las acciones implican aprovechar mejor el soporte.",
+        "B": "Reciclar, reducir y reutilizar, respectivamente, porque la principal distinción es cuánto papel se conserva.",
+        "C": "Reducir, reutilizar y reciclar, respectivamente, según se evita el residuo, se prolonga el uso o se transforma el material.",
+        "D": "Reducir, reciclar y reutilizar, respectivamente, ya que reciclar es utilizar otra vez la carpeta sin transformarla."
+      },
+      "correcta": "C",
+      "explicacion": "Reducir consiste en evitar actividades que generan residuos; reutilizar, usar de nuevo el material sin destruirlo; reciclar, utilizar residuos como recursos en nuevos procesos. Manual, p. 46."
+    },
+    {
+      "id": "RRHH-T3-D-16",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.7",
+      "pagina_manual": 46,
+      "dificultad": "difícil",
+      "pregunta": "El departamento de RR. HH. diseña un formulario para actualizar los expedientes. ¿Qué conjunto de decisiones refleja mejor los criterios del apartado sobre supervisión de datos?",
+      "opciones": {
+        "A": "Recopilar cualquier dato que pudiera ser útil en el futuro, con independencia de la finalidad, y actualizarlo solo al finalizar el contrato.",
+        "B": "Limitar la recogida a las necesidades de RR. HH., actualizar periódicamente y explicar al trabajador la existencia y finalidad del tratamiento y sus derechos.",
+        "C": "Permitir que cada área recopile libremente los datos y evitar informar al empleado cuando el uso permanezca dentro de la organización.",
+        "D": "Mantener los datos estáticos desde la contratación y reservar la información sobre sus derechos a quienes soliciten la baja voluntaria."
+      },
+      "correcta": "B",
+      "explicacion": "Según el manual, la recogida se limita a necesidades de RR. HH., debe actualizarse periódicamente y preservar la confidencialidad; se informa de la existencia y finalidad del tratamiento y de los derechos del titular. Manual, p. 46."
+    },
+    {
+      "id": "RRHH-T3-D-17",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.8",
+      "pagina_manual": 47,
+      "dificultad": "muy difícil",
+      "pregunta": "Al concluir una relación laboral, RR. HH. revisa qué hacer con los datos archivados, el deber de secreto de quienes tuvieron acceso y las copias de seguridad. ¿Qué combinación reproduce correctamente las tres medidas explicadas en el manual?",
+      "opciones": {
+        "A": "Cancelar y destruir inmediatamente toda la documentación, mantener el secreto y limitar el acceso a la copia a personal autorizado.",
+        "B": "Cancelar y bloquear los datos para su conservación, mantener el secreto solo hasta finalizar el contrato y restringir la copia a personal autorizado.",
+        "C": "Cancelar y bloquear los datos para conservarlos según el manual, mantener el secreto tras finalizar el contrato y limitar la copia al personal autorizado.",
+        "D": "Cancelar y bloquear los datos para su conservación, mantener el secreto tras el contrato y permitir consultar la copia a toda la plantilla."
+      },
+      "correcta": "C",
+      "explicacion": "El manual contempla cancelación, bloqueo y conservación de datos cuando termina la relación laboral; el deber de secreto continúa tras el contrato y las copias de seguridad quedan reservadas a personas autorizadas. No equivale a destruir de inmediato, levantar el secreto ni abrir el acceso. Manual, pp. 47-48. La conservación concreta debe contrastarse con la legislación vigente al aplicarla en la práctica."
+    },
+    {
+      "id": "RRHH-T3-D-18",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.8",
+      "pagina_manual": 48,
+      "dificultad": "difícil",
+      "pregunta": "Una empresa informatiza su archivo y decide mantener una copia de seguridad por si se pierde el fichero principal. Según el manual, ¿qué condición debe cumplir el acceso a esa copia?",
+      "opciones": {
+        "A": "La copia debe estar accesible a toda la plantilla para que cualquiera pueda recuperar datos perdidos sin demoras.",
+        "B": "La copia sustituye la obligación de archivo ordenado, por lo que no es preciso limitar quién la consulta.",
+        "C": "La copia solo debe reservarse para proveedores externos, aunque el acceso al fichero original siga siendo interno.",
+        "D": "La copia debe quedar restringida al personal autorizado y utilizarse para recuperar información cuando se extravíe el fichero original."
+      },
+      "correcta": "D",
+      "explicacion": "El manual exige realizar copias de seguridad de los ficheros informáticos que contienen datos personales y limitar el acceso a las personas autorizadas; la copia permite recuperar datos perdidos del original. Manual, p. 48."
+    },
+    {
+      "id": "RRHH-T3-D-19",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.8",
+      "pagina_manual": 48,
+      "dificultad": "media-alta",
+      "pregunta": "Una empresa pasa del archivo en papel a uno informatizado. Cuenta con ordenadores, sistema operativo y personal encargado de gestionar los datos. ¿Qué afirmación combina correctamente los componentes del sistema con la finalidad del archivo?",
+      "opciones": {
+        "A": "Los ordenadores son hardware; el sistema operativo, software; el personal, componente humano. El archivo sigue debiendo almacenar los datos ordenadamente.",
+        "B": "Los ordenadores son hardware; el sistema operativo, software; el personal, componente humano. Su digitalización elimina la necesidad de organizarlos.",
+        "C": "Los ordenadores son software; el sistema operativo, hardware; el personal, componente humano. Los datos deben mantenerse ordenados.",
+        "D": "Los ordenadores son hardware; el sistema operativo, componente humano; el personal, software. Los datos se conservan para su posterior gestión."
+      },
+      "correcta": "A",
+      "explicacion": "El manual distingue hardware (parte física), software (parte lógica, como el sistema operativo) y componente humano (usuarios). Informatizar no cambia la finalidad esencial del archivo: conservar información ordenada para su tratamiento y gestión. Manual, p. 48."
+    },
+    {
+      "id": "RRHH-T3-D-20",
+      "tema": 3,
+      "nivel": "difícil",
+      "apartado": "3.8",
+      "pagina_manual": 49,
+      "dificultad": "difícil",
+      "pregunta": "Una organización necesita dos herramientas diferenciadas: una para facilitar la comunicación entre dirección y empleados de sucursales dispersas; otra para crear y gestionar con eficiencia los contenidos de sus cursos virtuales. ¿Qué combinación se ajusta mejor a las definiciones del manual?",
+      "opciones": {
+        "A": "SIRH para comunicar dirección y plantilla; LMS para crear contenidos, porque ambos sistemas se centran en la producción de material educativo.",
+        "B": "Portal B2E para la relación empresa-empleados; LCMS para la creación y gestión de contenidos e-learning.",
+        "C": "LMS para la comunicación general de sucursales; SIRH para crear materiales de cursos, porque informatiza los procesos administrativos.",
+        "D": "LCMS para la relación dirección-empleados; portal B2E para diseñar contenidos de formación a distancia."
+      },
+      "correcta": "B",
+      "explicacion": "Los portales B2E comunican la empresa y su plantilla y facilitan la gestión a través de sedes; LCMS se centra en crear y gestionar contenidos de aprendizaje electrónico. El SIRH informatiza procesos de RR. HH. y LMS gestiona actividades de formación no presencial. Manual, p. 49."
+    }
+  ]
+}
