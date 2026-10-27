@@ -15,3 +15,12 @@
 .final-head .badge-later.available{background:#e4ca8f24;color:#ffe2a8;border-color:#e9c58d55}
 @media(max-width:720px){.final-launch{min-height:144px;padding:16px 14px}.final-enter{padding-top:12px}}
 @media(max-width:460px){.final-grid{gap:10px}.final-launch{min-height:153px}.final-launch strong{font-size:13px;line-height:1.35}.final-launch small{font-size:11px}}
+
+/* Foto opcional en portada: si falta, se conserva la tarjeta original del libro. */
+.hero-art-card .hero-photo{display:none}
+.hero-art-card.has-photo{width:224px;height:224px;border-radius:50%;transform:none;overflow:hidden;padding:5px;background:linear-gradient(145deg,#f7db9e,#d4a960);border:1px solid #f8e3b7;box-shadow:0 16px 55px #050a1959,0 0 0 10px #ffffff0a}
+.hero-art-card.has-photo .hero-photo{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 42%;border-radius:50%}
+.hero-art-card.has-photo .icon{display:none}
+@media(max-width:950px){.hero-art-card.has-photo{width:160px;height:160px}}
+@media(max-width:720px){.hero{flex-direction:column;align-items:stretch}.hero-art{display:grid;flex:0 0 auto;min-height:0;margin-top:8px}.hero-art-card.has-photo{width:170px;height:170px}}
+@media(max-width:460px){.hero-art-card.has-photo{width:148px;height:148px}}

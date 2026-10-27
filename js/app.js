@@ -67,7 +67,7 @@
         <p class="page-subtitle">Todo lo que necesitas para preparar tus exámenes, bien organizado y a tu ritmo. Estudia los resúmenes y demuestra lo que sabes con cada test.</p>
         <div class="hero-bottom"><span class="hero-chip">${ic('book')} ${SUBJECTS.filter(s=>s.topics.length).reduce((n,s)=>n+s.topics.length,0)} temas disponibles</span><span class="hero-chip">${ic('target')} ${total} test para practicar</span></div>
       </div>
-      <div class="hero-art" aria-hidden="true"><div class="hero-art-card">${ic('book')}</div></div>
+      <div class="hero-art" aria-hidden="true"><div class="hero-art-card" id="hero-art-card"><img class="hero-photo" id="hero-photo" src="imagenes/sorpresa.jpg" alt="" decoding="async">${ic('book')}</div></div>
     </section>
     <div class="section-head"><div><span class="eyebrow">Biblioteca de asignaturas</span><h2>¿Qué vamos a estudiar hoy?</h2></div><span class="section-note">${completed} de ${total} test completados</span></div>
     <section class="subjects-grid" aria-label="Asignaturas">${SUBJECTS.map((subject,i)=>{
@@ -76,6 +76,16 @@
       <span class="subject-top"><span class="subject-icon">${ic(available?'book':'lock')}</span><span class="subject-index">${String(i+1).padStart(2,'0')} / 06</span></span>
       <span class="subject-title">${html(subject.short)}</span><span class="subject-desc">${available?`${subject.topics.length} temas · ${subject.topics.length*2} resúmenes · ${subject.topics.length*2+5} test`:'Próximamente'}</span>
       <span class="subject-bottom"><span>${available?'Explorar asignatura':'En preparación'}</span>${ic(available?'arrow-right':'lock')}</span></button>`;}).join('')}</section>`;
+    // La foto es opcional: si se elimina, aparece de nuevo el libro original.
+    const heroPhoto = document.querySelector('#hero-photo');
+    const heroCard = document.querySelector('#hero-art-card');
+    if(heroPhoto && heroCard){
+      heroPhoto.addEventListener('load', () => {
+        if(heroPhoto.naturalWidth > 0) heroCard.classList.add('has-photo');
+      });
+      heroPhoto.addEventListener('error', () => heroCard.classList.remove('has-photo'));
+      if(heroPhoto.complete && heroPhoto.naturalWidth > 0) heroCard.classList.add('has-photo');
+    }
   }
 
   function resourcePDF(n,level){
