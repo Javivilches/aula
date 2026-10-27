@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 9,
+  "test": "Tema 9 · Test normal",
+  "preguntas": [
+    {
+      "id": "OFI-T9-NORMAL-01",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.7 Colaboración en equipo",
+      "pagina_manual": 410,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Colaboración y trabajo en equipo Uno de los puntos fuertes de Presentaciones de Google es su capacidad para facilitar el trabajo colaborativo en tiempo real.»",
+      "opciones": {
+        "A": "Anexo: consultas",
+        "B": "Colaboración en equipo",
+        "C": "Trabajo con diapositivas",
+        "D": "Anexo: macros"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 9.7, «Colaboración en equipo», página 410."
+    },
+    {
+      "id": "OFI-T9-NORMAL-02",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 370,
+      "pregunta": "¿Qué recurso favorece la coherencia visual de una presentación de varias personas?",
+      "opciones": {
+        "A": "Impedir la revisión de los compañeros",
+        "B": "Insertar gráficos ilegibles",
+        "C": "Una plantilla o tema común",
+        "D": "Usar una tipografía diferente en cada título"
+      },
+      "correcta": "C",
+      "explicacion": "Los temas y diseños unifican el aspecto de las diapositivas."
+    },
+    {
+      "id": "OFI-T9-NORMAL-03",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 402,
+      "pregunta": "¿Qué diferencia hay entre una transición y una animación en diapositivas?",
+      "opciones": {
+        "A": "Ninguna puede aplicarse a una presentación",
+        "B": "Notas del orador",
+        "C": "Son sinónimos exactos de impresión",
+        "D": "La transición ocurre entre diapositivas; la animación afecta elementos dentro de ellas"
+      },
+      "correcta": "D",
+      "explicacion": "Una transición controla el cambio de diapositiva y una animación actúa sobre objetos."
+    },
+    {
+      "id": "OFI-T9-NORMAL-04",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.1 Introducción a Presentaciones de Google",
+      "pagina_manual": 363,
+      "pregunta": "En el apartado «Introducción a Presentaciones de Google», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Este capítulo proporciona una visión general sobre Presentaciones de Google, abordando sus principales características y comparándola con otras aplicaciones similares.",
+        "B": "Encabezado de página: esta parte se mostrará al principio de cada página que genere el informe.",
+        "C": "Opciones de personalización Color de relleno: para formas, usar el botón Color de relleno para cambiar el color interior.",
+        "D": "Por defecto, la base de datos se creará a partir de un fichero nativo de OpenOffice en formato .obd que utiliza el motor HSQL."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 9.1: «Introducción a Presentaciones de Google» (página 363 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-NORMAL-05",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.6 Animaciones y transiciones",
+      "pagina_manual": 402,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Animaciones y transiciones»?",
+      "opciones": {
+        "A": "Vincular la imagen al recurso usando un hipervínculo (seguir los pasos indicados anteriormente).",
+        "B": "Este capítulo explica cómo añadir animaciones a los objetos de las diapositivas y configurar transiciones entre ellas.",
+        "C": "Consejos para el uso de formas y líneas Usar formas simples para crear gráficos personalizados o diagramas que resalten información importante.",
+        "D": "Macros de creación de datos Se distinguen dos tipos generales de macros de datos: las de eventos, que se desencadenan cuando se realiza una acción en los datos, y las macros, que se ejecutan cuando se las llama por su nombre."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 9.6: «Animaciones y transiciones» (página 402 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-NORMAL-06",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 417,
+      "pregunta": "Al exponer una presentación, ¿qué ayuda al ponente sin llenar las diapositivas de texto?",
+      "opciones": {
+        "A": "Insertar todo el discurso en la diapositiva",
+        "B": "Utilizar una sola imagen idéntica en todas",
+        "C": "Notas del orador",
+        "D": "Ocultar el contenido principal"
+      },
+      "correcta": "C",
+      "explicacion": "Las notas sirven de apoyo durante la exposición."
+    },
+    {
+      "id": "OFI-T9-NORMAL-07",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.8 Preparación de la presentación",
+      "pagina_manual": 417,
+      "pregunta": "En el apartado «Preparación de la presentación», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Apache OpenOffice: es un sistema gestor de bases de datos incluido en el paquete informático gratuito y libre Apache OpenOffice.",
+        "B": "En el panel derecho, se mostrarán las versiones guardadas con sus respectivas fechas y horarios.",
+        "C": "Criterio: se utiliza para especificar una condición que han de cumplir los registros que aparezcan como resultado de la consulta.",
+        "D": "Preparación y presentación El último paso en el desarrollo de una presentación es configurarla y ejecutarla para captar la atención del público."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 9.8: «Preparación de la presentación» (página 417 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-NORMAL-08",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.5 Contenido multimedia y elementos avanzados",
+      "pagina_manual": 393,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Elementos avanzados y contenido multimedia Además de los elementos básicos como texto, imágenes y formas, Presentaciones de Google permite incluir gráficos, tablas y contenido multimedia para enriquecer las diapositivas y transmitir información de manera clara y visual.»",
+      "opciones": {
+        "A": "Contenido multimedia y elementos avanzados",
+        "B": "Anexo: tablas y asistentes",
+        "C": "Crear y gestionar presentaciones",
+        "D": "Anexo: búsquedas y filtros"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 9.5, «Contenido multimedia y elementos avanzados», página 393."
+    },
+    {
+      "id": "OFI-T9-NORMAL-09",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.2 Crear y gestionar presentaciones",
+      "pagina_manual": 370,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Crear y gestionar presentaciones El primer paso para trabajar con Presentaciones de Google consiste en crear o abrir un archivo.»",
+      "opciones": {
+        "A": "Anexo: consultas",
+        "B": "Crear y gestionar presentaciones",
+        "C": "Anexo: formularios",
+        "D": "Anexo: macros"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 9.2, «Crear y gestionar presentaciones», página 370."
+    },
+    {
+      "id": "OFI-T9-NORMAL-10",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.13 Anexo: tablas y asistentes",
+      "pagina_manual": 426,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Anexo: tablas y asistentes»?",
+      "opciones": {
+        "A": "Algunas de sus características son más trabajadas en el ámbito informático, pero, a nivel empresarial, veremos los detalles básicos de cada tipo: Relacional: es el tipo más común y el que utiliza Access.",
+        "B": "Insertar y editar cuadros de texto Los cuadros de texto son la base para introducir y organizar el contenido textual en una presentación.",
+        "C": "Trabajar con tablas Crear una tabla consiste en repartir la información de cada registro en campos.",
+        "D": "Consejos para notas y diapositivas ocultas Usar notas breves y claras para evitar perder el hilo durante la presentación."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 9.13: «Anexo: tablas y asistentes» (página 426 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-NORMAL-11",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.3 Trabajo con diapositivas",
+      "pagina_manual": 379,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Duplicar diapositivas Duplicar una diapositiva permite copiar su contenido y diseño para usarlo como base en otra parte de la presentación.»",
+      "opciones": {
+        "A": "Colaboración en equipo",
+        "B": "Texto, imágenes y formas",
+        "C": "Anexo: tipos de bases de datos",
+        "D": "Trabajo con diapositivas"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 9.3, «Trabajo con diapositivas», página 379."
+    },
+    {
+      "id": "OFI-T9-NORMAL-12",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.10 Anexo: bases de datos relacionales",
+      "pagina_manual": 424,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Tipos de bases de datos: relacionales, no relacionales y documentales Existen diferentes tipos de bases de datos.»",
+      "opciones": {
+        "A": "Anexo: bases de datos relacionales",
+        "B": "Contenido multimedia y elementos avanzados",
+        "C": "Anexo: informes",
+        "D": "Crear y gestionar presentaciones"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 9.10, «Anexo: bases de datos relacionales», página 424."
+    },
+    {
+      "id": "OFI-T9-NORMAL-13",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.20 Anexo: menú inicial",
+      "pagina_manual": 445,
+      "pregunta": "En el apartado «Anexo: menú inicial», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Colaboración en tiempo real: Presentaciones de Google destaca por su capacidad de edición simultánea entre múltiples usuarios, una función más limitada en PowerPoint, que requiere sincronización en Microsoft OneDrive.",
+        "B": "Creación de un menú inicial Existe una herramienta que se denomina Formulario de navegación.",
+        "C": "Revisar la estructura de las diapositivas desde la vista de organización para identificar si hay contenido redundante o desordenado.",
+        "D": "Para simplificar, existen tres maneras principales de llevar a cabo esta tarea: 1."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 9.20: «Anexo: menú inicial» (página 445 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-NORMAL-14",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.4 Texto, imágenes y formas",
+      "pagina_manual": 386,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Elementos básicos: texto, imágenes y formas Los cuadros de texto, imágenes y formas son elementos esenciales en cualquier presentación.»",
+      "opciones": {
+        "A": "Anexo: relación con otras aplicaciones",
+        "B": "Colaboración en equipo",
+        "C": "Texto, imágenes y formas",
+        "D": "Trabajo con diapositivas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 9.4, «Texto, imágenes y formas», página 386."
+    },
+    {
+      "id": "OFI-T9-NORMAL-15",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.9 Software y dispositivos de introducción",
+      "pagina_manual": 422,
+      "pregunta": "En el apartado «Software y dispositivos de introducción», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Incrustar audio El audio puede servir para narrar contenido, añadir música de fondo o proporcionar efectos de sonido que complementen la presentación.",
+        "B": "Si no se encuentra una plantilla adecuada, es posible buscar dise- ños adicionales en bancos de recursos externos compatibles con Presentaciones de Google.",
+        "C": "Personalizar el fondo de una diapositiva El fondo de una diapositiva define el color o la imagen que aparece detrás del contenido principal.",
+        "D": "Una base de datos puede estar formada por uno o más archivos, los cuales tienen una función u objetivo específico."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 9.9: «Software y dispositivos de introducción» (página 422 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-NORMAL-16",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.16 Anexo: informes",
+      "pagina_manual": 438,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Creación y utilización de informes Un informe muestra los registros de una tabla o una consulta en un formato listo para ser impreso.»",
+      "opciones": {
+        "A": "Anexo: informes",
+        "B": "Contenido multimedia y elementos avanzados",
+        "C": "Anexo: formularios",
+        "D": "Colaboración en equipo"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 9.16, «Anexo: informes», página 438."
+    },
+    {
+      "id": "OFI-T9-NORMAL-17",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 393,
+      "pregunta": "Una diapositiva contiene cifras mensuales difíciles de comparar. ¿Qué recurso mejora su lectura?",
+      "opciones": {
+        "A": "Convertir cada cifra en contraseña",
+        "B": "Un gráfico apropiado",
+        "C": "Una línea de texto con 200 cifras",
+        "D": "Eliminar las etiquetas de eje"
+      },
+      "correcta": "B",
+      "explicacion": "El contenido numérico suele comunicarse mejor mediante una visualización adecuada."
+    },
+    {
+      "id": "OFI-T9-NORMAL-18",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.15 Anexo: formularios",
+      "pagina_manual": 436,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Anexo: formularios»?",
+      "opciones": {
+        "A": "Buscar y reemplazar: es parecida a la acción anterior, pero, cuando encuentra el valor buscado, permite cambiarlo por otro.",
+        "B": "Hipervínculo: un hipervínculo es un campo que permite acceder a otro objeto (un documento, otro registro, etcétera).",
+        "C": "Creación y utilización de formularios Se utilizan para gestionar (añadir, modificar, borrar) los datos de una tabla.",
+        "D": "Animaciones de objetos: tipos y personalización Las animaciones permiten aplicar efectos de movimiento a los elementos de las diapositivas, como texto, imágenes, gráficos y formas."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 9.15: «Anexo: formularios» (página 436 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-NORMAL-19",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.14 Anexo: consultas",
+      "pagina_manual": 433,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Anexo: consultas»?",
+      "opciones": {
+        "A": "Aquí se nos abrirá una ventana donde podremos diseñar macros y acceder al catálogo de acciones.",
+        "B": "Incrustar audio El audio puede servir para narrar contenido, añadir música de fondo o proporcionar efectos de sonido que complementen la presentación.",
+        "C": "Configurar correctamente el modo de presentación asegura una experiencia fluida y profesional, ayudando a transmitir el mensaje de manera clara y efectiva.",
+        "D": "Una consulta se utiliza para mostrar información (registros) de una o más tablas (una o más consultas y tablas)."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 9.14: «Anexo: consultas» (página 433 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-NORMAL-20",
+      "tema": 9,
+      "nivel": "normal",
+      "apartado": "9.18 Anexo: macros",
+      "pagina_manual": 443,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Aquí se nos abrirá una ventana donde podremos diseñar macros y acceder al catálogo de acciones.»",
+      "opciones": {
+        "A": "Anexo: macros",
+        "B": "Contenido multimedia y elementos avanzados",
+        "C": "Animaciones y transiciones",
+        "D": "Crear y gestionar presentaciones"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 9.18, «Anexo: macros», página 443."
+    }
+  ]
+}

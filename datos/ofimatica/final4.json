@@ -1,0 +1,487 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": "Todos",
+  "test": "Simulacro final 4 · Muy difícil",
+  "preguntas": [
+    {
+      "id": "OFI-T5-FINAL4-01",
+      "tema": 5,
+      "nivel": "final4",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 233,
+      "pregunta": "Caso de Google Docs: se ha borrado accidentalmente una sección de un borrador. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Consultar historial de versiones",
+        "B": "Lector",
+        "C": "Modificar un estilo de título",
+        "D": "Sugerencias"
+      },
+      "correcta": "A",
+      "explicacion": "Consultar historial de versiones: recupera estados previos."
+    },
+    {
+      "id": "OFI-T4-FINAL4-02",
+      "tema": 4,
+      "nivel": "final4",
+      "apartado": "4.6 Colaboración en tiempo real e integración con Google",
+      "pagina_manual": 144,
+      "pregunta": "En el apartado «Colaboración en tiempo real e integración con Google», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Uno de los principales beneficios de Google Sheets es su capacidad para facilitar la colaboración en tiempo real.",
+        "B": "Compartir documentos y gestionar permisos Google Sheets permite compartir documentos con otros usuarios y asignar permisos para definir qué pueden hacer dentro del archivo.",
+        "C": "Inserción de otros elementos visuales Además de tablas y gráficos, Google Sheets permite incluir otros elementos para enriquecer los documentos.",
+        "D": "Ventajas de los gráficos dinámicos Permiten analizar datos en tiempo real sin necesidad de ajustar manualmente los gráficos."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 4.6: «Colaboración en tiempo real e integración con Google» (página 144 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-FINAL4-03",
+      "tema": 4,
+      "nivel": "final4",
+      "apartado": "4.4 Fórmulas y funciones básicas",
+      "pagina_manual": 125,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Operaciones básicas: suma, resta, multiplicación y división Las operaciones básicas son la base del trabajo con fórmulas en Google Sheets.»",
+      "opciones": {
+        "A": "Apéndice de hojas de cálculo",
+        "B": "Gestión de datos",
+        "C": "Fórmulas y funciones básicas",
+        "D": "Funciones avanzadas y automatización"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 4.4, «Fórmulas y funciones básicas», página 125."
+    },
+    {
+      "id": "OFI-T5-FINAL4-04",
+      "tema": 5,
+      "nivel": "final4",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 208,
+      "pregunta": "Caso de Google Docs: un responsable quiere impedir cambios de quien solo debe consultar. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Estilos de párrafo y encabezado",
+        "B": "Lista de verificación",
+        "C": "Historial y comentarios",
+        "D": "Permiso de lector"
+      },
+      "correcta": "D",
+      "explicacion": "Permiso de lector: reduce la capacidad de edición."
+    },
+    {
+      "id": "OFI-T5-FINAL4-05",
+      "tema": 5,
+      "nivel": "final4",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 215,
+      "pregunta": "Caso de Google Docs: se desea cambiar el estilo de todos los encabezados. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Modificar un estilo de título",
+        "B": "Enlace",
+        "C": "Permiso de lector",
+        "D": "Modo sugerencias"
+      },
+      "correcta": "A",
+      "explicacion": "Modificar un estilo de título: propaga una pauta de formato."
+    },
+    {
+      "id": "OFI-T4-FINAL4-06",
+      "tema": 4,
+      "nivel": "final4",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "Se registran los importes 58, 91, 72, 86 en C1:C4. ¿Qué muestra =MAX(C1:C4)?",
+      "opciones": {
+        "A": "58",
+        "B": "91",
+        "C": "76.75",
+        "D": "307"
+      },
+      "correcta": "B",
+      "explicacion": "MAX selecciona el mayor valor del rango: 91."
+    },
+    {
+      "id": "OFI-T6-FINAL4-07",
+      "tema": 6,
+      "nivel": "final4",
+      "apartado": "6.2 Primeros pasos con AppSheet",
+      "pagina_manual": 269,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Dispositivo compatible: AppSheet funciona en navegadores web modernos y en aplicaciones móviles disponibles para Android e iOS.»",
+      "opciones": {
+        "A": "Automatización de flujos de trabajo",
+        "B": "Introducción a la gestión de datos y AppSheet",
+        "C": "Primeros pasos con AppSheet",
+        "D": "Diseño de la estructura de datos"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 6.2, «Primeros pasos con AppSheet», página 269."
+    },
+    {
+      "id": "OFI-T5-FINAL4-08",
+      "tema": 5,
+      "nivel": "final4",
+      "apartado": "5.4 Formato de párrafos y estilos avanzados",
+      "pagina_manual": 201,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Personalización de estilos de título, subtítulo o encabezados Google Docs permite modificar los estilos predeterminados para adaptarlos a las preferencias de formato de cada usuario o las normas de estilo establecidas en un contexto específico.»",
+      "opciones": {
+        "A": "Introducción al procesador de texto",
+        "B": "Formato de texto",
+        "C": "Primeros pasos con Google Docs",
+        "D": "Formato de párrafos y estilos avanzados"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 5.4, «Formato de párrafos y estilos avanzados», página 201."
+    },
+    {
+      "id": "OFI-T6-FINAL4-09",
+      "tema": 6,
+      "nivel": "final4",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 289,
+      "pregunta": "Una pyme configura en AppSheet una aplicación que se comparte con terceros. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "revisar autorización y seguridad de acceso",
+        "B": "usar una vista adecuada a coordenadas",
+        "C": "probar altas, cambios, permisos y errores",
+        "D": "verificar reglas y probar con un conjunto de ejemplo"
+      },
+      "correcta": "A",
+      "explicacion": "Para una aplicación que se comparte con terceros conviene revisar autorización y seguridad de acceso; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T5-FINAL4-10",
+      "tema": 5,
+      "nivel": "final4",
+      "apartado": "5.8 Enlaces, comentarios y colaboración",
+      "pagina_manual": 234,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Google Docs permite insertar comentarios en cualquier parte del texto y activar el modo de sugerencias para facilitar una revisión precisa y organizada.»",
+      "opciones": {
+        "A": "Primeros pasos con Google Docs",
+        "B": "Enlaces, comentarios y colaboración",
+        "C": "Formato de texto",
+        "D": "Introducción al procesador de texto"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 5.8, «Enlaces, comentarios y colaboración», página 234."
+    },
+    {
+      "id": "OFI-T6-FINAL4-11",
+      "tema": 6,
+      "nivel": "final4",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 299,
+      "pregunta": "Una pyme configura en AppSheet una alta de producto con precio obligatorio. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "probar altas, cambios, permisos y errores",
+        "B": "revisar autorización y seguridad de acceso",
+        "C": "configurar obligatoriedad del campo",
+        "D": "homogeneizar el tipo de dato"
+      },
+      "correcta": "C",
+      "explicacion": "Para una alta de producto con precio obligatorio conviene configurar obligatoriedad del campo; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T4-FINAL4-12",
+      "tema": 4,
+      "nivel": "final4",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "Una hoja contiene A1=100 y usa =SI(A1>=91;\"ALTO\";\"BAJO\"). ¿Qué resultado devuelve?",
+      "opciones": {
+        "A": "0",
+        "B": "ERROR #DIV/0!",
+        "C": "BAJO",
+        "D": "ALTO"
+      },
+      "correcta": "D",
+      "explicacion": "SI comprueba si 100 es mayor o igual a 91; la condición es True, por eso devuelve ALTO."
+    },
+    {
+      "id": "OFI-T1-FINAL4-13",
+      "tema": 1,
+      "nivel": "final4",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "Una entidad necesita conectar oficinas distribuidas entre España y Japón. ¿Qué red elegirías por su alcance geográfico?",
+      "opciones": {
+        "A": "WAN",
+        "B": "MAN",
+        "C": "LAN",
+        "D": "PAN"
+      },
+      "correcta": "A",
+      "explicacion": "WAN: red extensa entre países."
+    },
+    {
+      "id": "OFI-T5-FINAL4-14",
+      "tema": 5,
+      "nivel": "final4",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 190,
+      "pregunta": "Caso de Google Docs: antes de entregar se necesita una copia sin posibilidad cómoda de editar el diseño. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Ajuste de imagen",
+        "B": "Exportación a PDF",
+        "C": "Historial y comentarios",
+        "D": "Editor"
+      },
+      "correcta": "B",
+      "explicacion": "Exportación a PDF: genera una copia de presentación."
+    },
+    {
+      "id": "OFI-T2-FINAL4-15",
+      "tema": 2,
+      "nivel": "final4",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 215 pulsaciones en 4 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "860 pulsaciones/minuto",
+        "B": "215 pulsaciones/minuto",
+        "C": "53,8 pulsaciones/minuto",
+        "D": "43.0 pulsaciones/minuto"
+      },
+      "correcta": "C",
+      "explicacion": "Promedio = 215 / 4 = 53,8 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T9-FINAL4-16",
+      "tema": 9,
+      "nivel": "final4",
+      "apartado": "Presentaciones y anexo · caso",
+      "pagina_manual": 410,
+      "pregunta": "En el trabajo con presentaciones y su anexo se necesita revisar cambios realizados en un archivo compartido. ¿Qué recurso conviene usar?",
+      "opciones": {
+        "A": "Duplicar diapositiva",
+        "B": "Informe",
+        "C": "Formas",
+        "D": "Historial de versiones"
+      },
+      "correcta": "D",
+      "explicacion": "El recurso «Historial de versiones» se corresponde con el objetivo concreto del enunciado."
+    },
+    {
+      "id": "OFI-T6-FINAL4-17",
+      "tema": 6,
+      "nivel": "final4",
+      "apartado": "6.1 Introducción a la gestión de datos y AppSheet",
+      "pagina_manual": 265,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Introducción a la gestión de datos y AppSheet»?",
+      "opciones": {
+        "A": "AppSheet se utiliza principalmente para crear aplicaciones funcionales que ayudan a: Gestionar datos de manera estructurada.",
+        "B": "Dominar el panel de control de AppSheet facilita la creación de aplicaciones funcionales, adaptadas a cualquier necesidad.",
+        "C": "Aplicaciones prácticas El capítulo de aplicaciones prácticas tiene como objetivo mostrar cómo implementar AppSheet en situaciones reales para resolver problemas específicos de gestión, automatización y organización.",
+        "D": "Relacionar tablas en AppSheet permite conectar diferentes conjuntos de datos de manera eficiente, creando aplicaciones más completas y funcionales."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 6.1: «Introducción a la gestión de datos y AppSheet» (página 265 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T7-FINAL4-18",
+      "tema": 7,
+      "nivel": "final4",
+      "apartado": "Integración de aplicaciones",
+      "pagina_manual": 333,
+      "pregunta": "La oficina necesita mantener un responsable por cada actualización de documento. ¿Cuál es la operación más apropiada?",
+      "opciones": {
+        "A": "Convertir a PDF",
+        "B": "Asignar control de versiones",
+        "C": "Verificar el formato y configuración regional",
+        "D": "Importar registros compatibles"
+      },
+      "correcta": "B",
+      "explicacion": "La finalidad descrita corresponde a asignar control de versiones; comprueba que se conserve el formato y la trazabilidad cuando proceda."
+    },
+    {
+      "id": "OFI-T7-FINAL4-19",
+      "tema": 7,
+      "nivel": "final4",
+      "apartado": "7.2 Integración en tareas administrativas",
+      "pagina_manual": 336,
+      "pregunta": "En el apartado «Integración en tareas administrativas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Documentos con vinculación e incrustados Existen tres formas fundamentales de integrar archivos en las diversas aplicaciones ofimáticas: Vinculado: los datos quedan conectados entre dos documentos.",
+        "B": "Gestión de personal La gestión de personal es una de las tareas más complejas dentro de la empresa.",
+        "C": "Beneficios de la integración de aplicaciones La integración efectiva de aplicaciones puede ofrecer a la empresa: Más eficiencia y menor coste.",
+        "D": "Integración de aplicaciones ofimáticas Una forma rápida de conocer los formatos de datos que Access puede importar o exportar es explorando la ficha Datos externos, tanto el grupo Importar y vincular como el de Exportar."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 7.2: «Integración en tareas administrativas» (página 336 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-FINAL4-20",
+      "tema": 8,
+      "nivel": "final4",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 356,
+      "pregunta": "Un departamento administrativo quiere mantener citas disponibles en móvil y ordenador. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "Conversaciones o hilos",
+        "B": "SMTP",
+        "C": "Un filtro o regla",
+        "D": "Sincronización de agenda"
+      },
+      "correcta": "D",
+      "explicacion": "La necesidad indicada se atiende con «Sincronización de agenda», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T6-FINAL4-21",
+      "tema": 6,
+      "nivel": "final4",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 278,
+      "pregunta": "Una pyme configura en AppSheet dos tablas relacionadas por cliente. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "relacionar los registros mediante un campo clave",
+        "B": "registrar estado como campo controlado",
+        "C": "simplificar y optimizar el modelo de datos",
+        "D": "crear un flujo automático condicionado al evento"
+      },
+      "correcta": "A",
+      "explicacion": "Para dos tablas relacionadas por cliente conviene relacionar los registros mediante un campo clave; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T3-FINAL4-22",
+      "tema": 3,
+      "nivel": "final4",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 79,
+      "pregunta": "En una empresa se necesita hacer seguimiento de novedades sectoriales. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "buscar en repositorios y bases temáticas",
+        "B": "consultar fuentes de prensa digital especializadas",
+        "C": "emplear un protocolo de transferencia de archivos",
+        "D": "utilizar una herramienta colaborativa"
+      },
+      "correcta": "B",
+      "explicacion": "La actuación «consultar fuentes de prensa digital especializadas» responde directamente a la necesidad de hacer seguimiento de novedades sectoriales; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T4-FINAL4-23",
+      "tema": 4,
+      "nivel": "final4",
+      "apartado": "4.3 Formato y diseño de hojas",
+      "pagina_manual": 109,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Formato condicional: resaltado automático de datos El formato condicional en Google Sheets permite aplicar estilos automáticamente a las celdas que cumplen ciertos criterios.»",
+      "opciones": {
+        "A": "Colaboración en tiempo real e integración con Google",
+        "B": "Apéndice de hojas de cálculo",
+        "C": "Formato y diseño de hojas",
+        "D": "Gestión de datos"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 4.3, «Formato y diseño de hojas», página 109."
+    },
+    {
+      "id": "OFI-T8-FINAL4-24",
+      "tema": 8,
+      "nivel": "final4",
+      "apartado": "8.6 Clasificación y archivo de mensajes",
+      "pagina_manual": 349,
+      "pregunta": "En el apartado «Clasificación y archivo de mensajes», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Esta es una opción que suelen tener los gestores de correo electrónico para poder crear mensajes sin necesidad de tenerlos que enviar, ya sea para editarlos posteriormente, revisarlos, etcétera.",
+        "B": "Muestra todos los mensajes que contengan “ “ las palabras exactas que estén dentro del “Información importante” entrecomillado.",
+        "C": "Normalmente, los mensajes se eliminan del servidor después de comprobar el correo.",
+        "D": "Se utiliza, sobre todo, para poder filtrar los mensajes y buscar únicamente los mensajes que contengan dichas etiquetas."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 8.6: «Clasificación y archivo de mensajes» (página 349 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-FINAL4-25",
+      "tema": 5,
+      "nivel": "final4",
+      "apartado": "5.10 Integración con otras herramientas de Google",
+      "pagina_manual": 253,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Integración con otras herramientas de Google»?",
+      "opciones": {
+        "A": "Comparar documentos en Google Docs Esta función permite identificar las diferencias entre dos versiones de un archivo, resaltando los cambios de manera clara y organizada.",
+        "B": "Recuento de palabras y herramientas de estadística La función de recuento de palabras en Google Docs permite obtener estadísticas detalladas del documento, como el número total de palabras, caracteres, párrafos y páginas.",
+        "C": "Google Docs ofrece múltiples herramientas para dar formato a los párrafos, lo cual resulta fundamental en la creación de documentos profesionales y atractivos.",
+        "D": "Google Docs ofrece diversas herramientas para asegurar que el documento final cumpla con los requisitos de formato, tamaño y márgenes necesarios, garantizando una presentación profesional en papel o en archivo digital."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 5.10: «Integración con otras herramientas de Google» (página 253 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-FINAL4-26",
+      "tema": 4,
+      "nivel": "final4",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "En una hoja, B2=54 y C2=10. ¿Qué valor calcula la fórmula =B2*C2?",
+      "opciones": {
+        "A": "594",
+        "B": "540",
+        "C": "64",
+        "D": "550"
+      },
+      "correcta": "B",
+      "explicacion": "El operador * multiplica ambos valores: 54 × 10 = 540."
+    },
+    {
+      "id": "OFI-T3-FINAL4-27",
+      "tema": 3,
+      "nivel": "final4",
+      "apartado": "3.1 Historia, orígenes y evolución de internet",
+      "pagina_manual": 67,
+      "pregunta": "En el apartado «Historia, orígenes y evolución de internet», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Del sistema que utilizamos para conectarnos a internet dependerá la capacidad que tendremos de transmitir datos multimedia (vídeo, audio, etcétera).",
+        "B": "Herramientas colaborativas: blogs, wikis, servicios de alojamiento de vídeos, sonidos e imágenes y redes sociales, entre otros Internet no nació para informar, sino para interactuar.",
+        "C": "La conexión de las redes de ordenadores de las universidades y los centros de investigación basados en el sistema UNIX fue el origen de lo que hoy es internet.",
+        "D": "Servidor FTP Un servidor FTP es un programa especial que se ejecuta en un equipo servidor normalmente conectado a internet (aunque puede estar conectado a otros tipos de redes, LAN, MAN, etcétera)."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 3.1: «Historia, orígenes y evolución de internet» (página 67 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-FINAL4-28",
+      "tema": 9,
+      "nivel": "final4",
+      "apartado": "9.14 Anexo: consultas",
+      "pagina_manual": 433,
+      "pregunta": "En el apartado «Anexo: consultas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Consultas: este elemento sirve para realizar búsquedas de datos con base en unos determinados criterios, lo que será útil para extraer cierta información o realizar modificaciones en los datos.",
+        "B": "Ofrece una vasta variedad de funcionalidades, se integra con el resto de aplicaciones OpenOffice y permite, entre otras acciones, crear formularios, tablas, consultas e informes.",
+        "C": "Una consulta se utiliza para mostrar información (registros) de una o más tablas (una o más consultas y tablas).",
+        "D": "Creación y utilización de consultas La consulta sirve para mostrar y realizar operaciones con los datos contenidos en una o más tablas (o en otra consulta)."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 9.14: «Anexo: consultas» (página 433 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-FINAL4-29",
+      "tema": 1,
+      "nivel": "final4",
+      "apartado": "1.7 Empresas de servicios informáticos y garantías",
+      "pagina_manual": 39,
+      "pregunta": "En el apartado «Empresas de servicios informáticos y garantías», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Servicios: suelen tener un margen de tres meses e incluyen, por ejemplo, reparaciones de productos o componentes.",
+        "B": "Actualización del software Las actualizaciones son revisiones o paquetes de servicios que suelen corregir o incluir alguna función nueva en un programa.",
+        "C": "Clientes: son los equipos informáticos que van a solicitar al equipo servidor acceso a su red y a sus servicios.",
+        "D": "Realización de copias de seguridad del sistema informático de la empresa y de copias de imagen fija del sistema Los sistemas informáticos permiten procesar y generar una gran cantidad de información."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.7: «Empresas de servicios informáticos y garantías» (página 39 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-FINAL4-30",
+      "tema": 2,
+      "nivel": "final4",
+      "apartado": "2.9 Palabras de dificultad progresiva",
+      "pagina_manual": 55,
+      "pregunta": "En el apartado «Palabras de dificultad progresiva», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "QWERTY La distribución QWERTY se diseñó con el propósito de lograr que las personas escribieran más rápido distribuyendo las letras de tal forma que se puedan usar las dos manos para escribir la mayoría de las palabras.",
+        "B": "Cuando ya se ha alcanzado un cierto nivel en la escritura de palabras simples, sin errores y con una velocidad considerable, ya se puede intentar aumentar de nivel y empezar a escribir palabras y frases de mayor dificultad.",
+        "C": "Escritura de palabras simples Cuando llegamos a esta fase, significa que hemos practicado sobre las tres hileras todos y cada uno de los ejercicios con éxito.",
+        "D": "Para no desanimarse, comenzaremos con ejercicios de fácil ejecución para luego ir aumentando la dificultad de forma progresiva."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 2.9: «Palabras de dificultad progresiva» (página 55 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}

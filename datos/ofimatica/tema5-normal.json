@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 5,
+  "test": "Tema 5 · Test normal",
+  "preguntas": [
+    {
+      "id": "OFI-T5-NORMAL-01",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 256,
+      "pregunta": "La empresa necesita enviar un informe sin que el receptor altere fácilmente su maquetación. ¿Qué formato suele convenir?",
+      "opciones": {
+        "A": "Archivo temporal sin extensión",
+        "B": "PDF",
+        "C": "Hoja de datos CSV",
+        "D": "Documento editable de origen"
+      },
+      "correcta": "B",
+      "explicacion": "El PDF facilita compartir una representación estable del documento."
+    },
+    {
+      "id": "OFI-T5-NORMAL-02",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.8 Enlaces, comentarios y colaboración",
+      "pagina_manual": 233,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Enlaces, comentarios y colaboración en tiempo real en Google Docs En la era de la digitalización y el trabajo colaborativo, es fundamental que los documentos sean accesibles y puedan compartirse en tiempo real.»",
+      "opciones": {
+        "A": "Formato de párrafos y estilos avanzados",
+        "B": "Formato de texto",
+        "C": "Enlaces, comentarios y colaboración",
+        "D": "Objetos avanzados"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 5.8, «Enlaces, comentarios y colaboración», página 233."
+    },
+    {
+      "id": "OFI-T5-NORMAL-03",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.11 Almacenamiento, descarga e impresión",
+      "pagina_manual": 257,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Imprimir el documento Opciones de impresión y distribución Esta opción permite ajustar configuraciones para preparar documentos para su impresión o exportación.»",
+      "opciones": {
+        "A": "Formato de párrafos y estilos avanzados",
+        "B": "Enlaces, comentarios y colaboración",
+        "C": "Funciones y herramientas avanzadas",
+        "D": "Almacenamiento, descarga e impresión"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 5.11, «Almacenamiento, descarga e impresión», página 257."
+    },
+    {
+      "id": "OFI-T5-NORMAL-04",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 190,
+      "pregunta": "Para mantener uniformes todos los títulos de un informe, ¿qué conviene aplicar?",
+      "opciones": {
+        "A": "Estilos de párrafo y encabezado",
+        "B": "Escribir todos los títulos como imagen",
+        "C": "Desactivar el formato",
+        "D": "Cambiar manualmente cada título sin patrón"
+      },
+      "correcta": "A",
+      "explicacion": "Los estilos garantizan coherencia y permiten cambios globales."
+    },
+    {
+      "id": "OFI-T5-NORMAL-05",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.1 Introducción al procesador de texto",
+      "pagina_manual": 169,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Google Docs: este procesador de texto gratuito y basado en la nube permite la creación, edición y colaboración en documentos desde cualquier dispositivo con acceso a Internet.»",
+      "opciones": {
+        "A": "Funciones y herramientas avanzadas",
+        "B": "Introducción al procesador de texto",
+        "C": "Enlaces, comentarios y colaboración",
+        "D": "Formato de texto"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 5.1, «Introducción al procesador de texto», página 169."
+    },
+    {
+      "id": "OFI-T5-NORMAL-06",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.9 Funciones y herramientas avanzadas",
+      "pagina_manual": 246,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Funciones y herramientas avanzadas»?",
+      "opciones": {
+        "A": "Inserción de encabezados, marcadores y vínculos internos Para crear vínculos internos en Google Docs, es necesario primero definir las secciones o encabezados a los que se quiere enlazar.",
+        "B": "Los cambios aparecerán resaltados como sugerencias, indicando qué texto ha sido añadido, eliminado o modificado.",
+        "C": "Estas herramientas ayudan a interactuar con el documento de manera más eficiente y permiten la colaboración de todos los usuarios.",
+        "D": "Sugerencia: usar el chat para discusiones rápidas y los comentarios para observaciones detalladas o revisiones que deban quedar registradas aportará fluidez al proceso de trabajo."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 5.9: «Funciones y herramientas avanzadas» (página 246 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-NORMAL-07",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.4 Formato de párrafos y estilos avanzados",
+      "pagina_manual": 190,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Formato de párrafos y estilos avanzados»?",
+      "opciones": {
+        "A": "Por ello, la elección entre un procesador de texto gratuito y uno de pago depende de las necesidades individuales o empresariales.",
+        "B": "Hacer clic en el icono de micrófono y comenzar a hablar para que el texto se escriba automáticamente en el documento.",
+        "C": "Al vincular los datos, es posible actualizar automáticamente la información en Google Docs cuando se realizan cambios en la hoja de cálculo original, asegurando que los datos estén siempre al día.",
+        "D": "Ajustar sangrías, espaciado entre párrafos y estilos avanzados permite organizar el contenido de manera más clara, facilitando su lectura y comprensión."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 5.4: «Formato de párrafos y estilos avanzados» (página 190 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-NORMAL-08",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.6 Imágenes y gráficos en el documento",
+      "pagina_manual": 215,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Imágenes y gráficos en el documento Las imágenes y los gráficos son elementos esenciales para enriquecer los documentos y hacerlos más visuales y comprensibles.»",
+      "opciones": {
+        "A": "Imágenes y gráficos en el documento",
+        "B": "Objetos avanzados",
+        "C": "Integración con otras herramientas de Google",
+        "D": "Formato de párrafos y estilos avanzados"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 5.6, «Imágenes y gráficos en el documento», página 215."
+    },
+    {
+      "id": "OFI-T5-NORMAL-09",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.6 Imágenes y gráficos en el documento",
+      "pagina_manual": 217,
+      "pregunta": "En el apartado «Imágenes y gráficos en el documento», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "En los siguiente enlaces: Sin embargo, los conceptos y habilidades que serán tratados —como el formato de texto, la organización de párrafos y la inserción de elemen- 1.",
+        "B": "Redimensionar y rotar imágenes Si es necesario ajustar la imagen para que se ajuste mejor al diseño del documento, Google Docs también permite rotar la imagen.",
+        "C": "A diferencia de las listas numeradas, las viñetas permiten presentar cada ítem como parte de un grupo sin una secuencia específica.",
+        "D": "Ignorar diacríticos: al seleccionar esta opción, el programa ignora los acentos y otros signos diacríticos en la búsqueda."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 5.6: «Imágenes y gráficos en el documento» (página 217 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-NORMAL-10",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.3 Formato de texto",
+      "pagina_manual": 181,
+      "pregunta": "En el apartado «Formato de texto», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Mantener una organización en Google Drive: almacenar los documentos en carpetas organizadas facilita el acceso rápido y asegura que todos los archivos relevantes estén disponibles en un solo lugar.",
+        "B": "En el ámbito académico, esta herramienta permite a los estudiantes estructurar y presentar sus trabajos, mientras que en el uso personal simplifica tareas como la redacción de cartas y currículos.",
+        "C": "Tipos y tamaños de fuentes La elección de la fuente y su tamaño es una de las primeras decisiones en el formato de texto, ya que determinan el tono visual del documento y afectan directamente la lectura.",
+        "D": "Convertir documentos a otros formatos (PDF, Word, etc.) Uno de los beneficios de Google Docs es su capacidad para exportar documentos a diferentes formatos, lo que facilita su uso en distintos entornos y aplicaciones."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 5.3: «Formato de texto» (página 181 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-NORMAL-11",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.2 Primeros pasos con Google Docs",
+      "pagina_manual": 174,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Primeros pasos con Google Docs»?",
+      "opciones": {
+        "A": "Dentro del editor de dibujo, hacer clic en el icono de Cuadro de texto en la barra de herramientas.",
+        "B": "Se pueden realizar otras configuraciones, como la impresión en blanco y negro o color (si la impresora lo permite) y la selección de páginas específicas para imprimir.",
+        "C": "Esto facilita las observaciones queden registradas, incluso después de que el contenido principal haya sido revisado o actualizado.",
+        "D": "Primeros pasos en Google Docs Para comenzar a utilizar Google Docs y sacar el máximo provecho a sus funcionalidades, es importante conocer los primeros pasos necesarios para crear y gestionar un documento desde cero."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 5.2: «Primeros pasos con Google Docs» (página 174 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-NORMAL-12",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.4 Formato de párrafos y estilos avanzados",
+      "pagina_manual": 190,
+      "pregunta": "En el apartado «Formato de párrafos y estilos avanzados», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Formato de párrafos y estilos avanzados El formato de párrafos es un elemento clave para mejorar la presentación y legibilidad de cualquier documento, especialmente en textos largos o estructurados.",
+        "B": "Enlaces, comentarios y colaboración en tiempo real en Google Docs En la era de la digitalización y el trabajo colaborativo, es fundamental que los documentos sean accesibles y puedan compartirse en tiempo real.",
+        "C": "Con estos primeros pasos, el usuario está listo para comenzar a trabajar de forma efectiva en Google Docs.",
+        "D": "Una vez creado el cuadro, escribir el texto que se desea incluir y ajustar el tamaño según sea necesario."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 5.4: «Formato de párrafos y estilos avanzados» (página 190 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-NORMAL-13",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 233,
+      "pregunta": "Un compañero debe proponer cambios sin modificar directamente el texto definitivo. ¿Qué modo es más adecuado?",
+      "opciones": {
+        "A": "Vista previa de impresión",
+        "B": "Sugerencias",
+        "C": "Borrar las versiones anteriores",
+        "D": "Estilos de párrafo y encabezado"
+      },
+      "correcta": "B",
+      "explicacion": "El modo de sugerencias permite aceptar o rechazar modificaciones."
+    },
+    {
+      "id": "OFI-T5-NORMAL-14",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.10 Integración con otras herramientas de Google",
+      "pagina_manual": 248,
+      "pregunta": "En el apartado «Integración con otras herramientas de Google», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "A, B, C…) desde el menú de opciones, adaptando el formato según las necesidades del documento.",
+        "B": "Formato de párrafos y estilos avanzados El formato de párrafos es un elemento clave para mejorar la presentación y legibilidad de cualquier documento, especialmente en textos largos o estructurados.",
+        "C": "Al vincular los datos, es posible actualizar automáticamente la información en Google Docs cuando se realizan cambios en la hoja de cálculo original, asegurando que los datos estén siempre al día.",
+        "D": "Por ello, la elección entre un procesador de texto gratuito y uno de pago depende de las necesidades individuales o empresariales."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 5.10: «Integración con otras herramientas de Google» (página 248 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-NORMAL-15",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.5 Tablas y listas de verificación",
+      "pagina_manual": 208,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Tablas y listas de verificación El uso de tablas y listados es esencial en documentos de texto, ya que permite organizar la información de manera clara, estructurada y visualmente atractiva.»",
+      "opciones": {
+        "A": "Objetos avanzados",
+        "B": "Integración con otras herramientas de Google",
+        "C": "Imágenes y gráficos en el documento",
+        "D": "Tablas y listas de verificación"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 5.5, «Tablas y listas de verificación», página 208."
+    },
+    {
+      "id": "OFI-T5-NORMAL-16",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.3 Formato de texto",
+      "pagina_manual": 181,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Formato de texto»?",
+      "opciones": {
+        "A": "Formato de texto Este es un aspecto fundamental en la creación de documentos profesionales y visualmente atractivos, ya que afecta la claridad, el estilo y la organización del contenido.",
+        "B": "Para modificar la URL, seleccionar Editar enlace, realizar los cambios y hacer clic en Aplicar.",
+        "C": "Además, desde la función Historial de versiones, el usuario puede ver y restaurar versiones anteriores del documento, lo que es muy útil en caso de realizar modificaciones accidentales.",
+        "D": "En el menú de impresión, se puede elegir el tamaño de papel deseado, como Carta (8,5 x 11 pulgadas) o A4 (21 x 29,7 cm), según el estándar de impresión requerido."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 5.3: «Formato de texto» (página 181 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-NORMAL-17",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.8 Enlaces, comentarios y colaboración",
+      "pagina_manual": 237,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Herramientas de colaboración: chat y comentarios en tiempo real Google Docs permite a los usuarios trabajar en el mismo documento al mismo tiempo, facilitando así la colaboración en tiempo real.»",
+      "opciones": {
+        "A": "Funciones y herramientas avanzadas",
+        "B": "Enlaces, comentarios y colaboración",
+        "C": "Formato de párrafos y estilos avanzados",
+        "D": "Objetos avanzados"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 5.8, «Enlaces, comentarios y colaboración», página 237."
+    },
+    {
+      "id": "OFI-T5-NORMAL-18",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 233,
+      "pregunta": "¿Qué permiso debería recibir una persona que solo necesita leer un documento compartido?",
+      "opciones": {
+        "A": "Propietario de todos los documentos",
+        "B": "Editor sin restricciones",
+        "C": "Lector",
+        "D": "Administrador de la organización"
+      },
+      "correcta": "C",
+      "explicacion": "Dar el permiso mínimo necesario reduce riesgos de cambios involuntarios."
+    },
+    {
+      "id": "OFI-T5-NORMAL-19",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.7 Objetos avanzados",
+      "pagina_manual": 223,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «En Google Docs, es posible insertar cuadros de texto a través de la herramienta de dibujo, que permite su creación y personalización.»",
+      "opciones": {
+        "A": "Almacenamiento, descarga e impresión",
+        "B": "Formato de texto",
+        "C": "Formato de párrafos y estilos avanzados",
+        "D": "Objetos avanzados"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 5.7, «Objetos avanzados», página 223."
+    },
+    {
+      "id": "OFI-T5-NORMAL-20",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5.5 Tablas y listas de verificación",
+      "pagina_manual": 212,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Insertar y utilizar listas de verificación es sencillo y permite un control visual del progreso, 212»",
+      "opciones": {
+        "A": "Tablas y listas de verificación",
+        "B": "Enlaces, comentarios y colaboración",
+        "C": "Almacenamiento, descarga e impresión",
+        "D": "Integración con otras herramientas de Google"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 5.5, «Tablas y listas de verificación», página 212."
+    }
+  ]
+}

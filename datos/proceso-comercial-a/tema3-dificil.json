@@ -1,0 +1,327 @@
+{
+  "asignatura": "Proceso Integral de la Actividad Comercial - A",
+  "tema": 3,
+  "test": "Tema 3 · Test difícil",
+  "preguntas": [
+    {
+      "id": "PIAC-T3-DIFICIL-01",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.6 Operaciones relacionadas con personal",
+      "pagina_manual": 119,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «De igual manera, las cuentas relacionadas con los gastos de personal están compuestas por sueldos y salarios, indemnizaciones, cuotas de la Seguridad Social (SS) a cargo de la empresa y otros.»",
+      "opciones": {
+        "A": "Compra de mercaderías y operaciones relacionadas",
+        "B": "Provisiones por insolvencias",
+        "C": "Otros ingresos y gastos de gestión",
+        "D": "Operaciones relacionadas con personal"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 3.6, «Operaciones relacionadas con personal», página 119."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-02",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.10 Provisiones por insolvencias",
+      "pagina_manual": 147,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Cuando la provisión sea a corto plazo o se regularice por quedar menos de un año para anotar la pérdida, se utiliza la cuenta (529) Provisiones a corto plazo por retribuciones al personal.»",
+      "opciones": {
+        "A": "Provisiones por insolvencias",
+        "B": "Operaciones con fondos propios",
+        "C": "Operaciones de financiación",
+        "D": "Otros ingresos y gastos de gestión"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 3.10, «Provisiones por insolvencias», página 147."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-03",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.11 Periodificación contable",
+      "pagina_manual": 158,
+      "pregunta": "En el apartado «Periodificación contable», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Para llevar a cabo una correcta gestión contable de una empresa, es necesario conocer las partidas fundamentales que se utilizan para el correcto desarrollo de su actividad económica.",
+        "B": "– El 31 de diciembre de 2018, cuando se realiza la periodificación, se calcula qué importe del gasto corresponde al año 2019.",
+        "C": "Cuando se hace el asiento contable de estos ingresos, en el Debe se anota la cuenta (473) Hacienda pública, retenciones y pagos a cuenta.",
+        "D": "Las características de los paquetes de software contable son la flexibilidad, facilidad de manejo, compatibilidad, uniformidad y seguridad."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 3.11: «Periodificación contable» (página 158 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-04",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 136,
+      "pregunta": "Si una empresa solicita un préstamo que ingresa en el banco, ¿qué dos masas aumentan inicialmente?",
+      "opciones": {
+        "A": "Existencias y ventas",
+        "B": "Solo patrimonio neto",
+        "C": "Activo y pasivo",
+        "D": "Ingresos y gastos por igual"
+      },
+      "correcta": "C",
+      "explicacion": "Aumenta la tesorería (activo) y se reconoce una deuda (pasivo)."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-05",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 140,
+      "pregunta": "Los socios amplían capital aportando 10.000 € por transferencia. ¿Qué conceptos aumentan?",
+      "opciones": {
+        "A": "Proveedores e IVA soportado",
+        "B": "Ventas e IVA repercutido",
+        "C": "Solo gastos de personal",
+        "D": "Bancos y capital social"
+      },
+      "correcta": "D",
+      "explicacion": "La tesorería aumenta y se incrementan los fondos propios."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-06",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.2 Venta de mercaderías y operaciones relacionadas",
+      "pagina_manual": 84,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Venta de mercaderías y operaciones relacionadas»?",
+      "opciones": {
+        "A": "El IVA asociado a los envases y embalajes ya los pagó el cliente en el momento de la venta de las mercaderías, por lo que no será necesario aplicarlo en el asiento.",
+        "B": "Una de las operaciones más habituales e importantes de las empresas son las relacionadas con el movimiento de las mercaderías.",
+        "C": "Las operaciones relacionadas con el personal más habituales se dividen en cuentas de gastos, de pasivos y de activos.",
+        "D": "La empresa K vende productos por valor de 540 € a un cliente con el que acuerda que el pago se realizará a dos meses desde la venta."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 3.2: «Venta de mercaderías y operaciones relacionadas» (página 84 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-07",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.7 Inversiones financieras",
+      "pagina_manual": 124,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «(25-) Otras inversiones financieras a largo plazo por un periodo superior a un ejercicio económico.»",
+      "opciones": {
+        "A": "Provisiones por insolvencias",
+        "B": "Inversiones financieras",
+        "C": "Operaciones relacionadas con personal",
+        "D": "Operaciones de financiación"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.7, «Inversiones financieras», página 124."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-08",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.1 Compra de mercaderías y operaciones relacionadas",
+      "pagina_manual": 59,
+      "pregunta": "En el apartado «Compra de mercaderías y operaciones relacionadas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "En las operaciones de venta se pueden realizar descuentos a los clientes con base en diferentes criterios (como, por ejemplo, por volumen de compra, por desperfectos, por devoluciones, etcétera).",
+        "B": "Las operaciones relacionadas con el personal más habituales se dividen en cuentas de gastos, de pasivos y de activos.",
+        "C": "Lo primero que se tratará serán las cuentas de compras de mercaderías, es decir, la (600) Compras de mercaderías, la (601) Compras de materias primas y la (602) Compra de otros aprovisionamientos.",
+        "D": "500 € (390) Deterioro de valor de las mercaderías (793) Reversión del 500 € deterioro de existencias a"
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 3.1: «Compra de mercaderías y operaciones relacionadas» (página 59 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-09",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.13 Declaraciones y liquidaciones de IVA, IRPF e IS",
+      "pagina_manual": 174,
+      "pregunta": "En el apartado «Declaraciones y liquidaciones de IVA, IRPF e IS», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "El objetivo de estos métodos es calcular el valor de las existencias que se encuentran en el almacén, teniendo en cuenta las entradas y salidas de mercancías que se realizan a lo largo del ejercicio.",
+        "B": "El modelo de amortización indirecto consiste en cargar el gasto generado por la depreciación con abono a una cuenta del subgrupo 28.",
+        "C": "Estas cotizaciones son obligatorias tanto para los trabajadores como para las empresas, y las retenciones al trabajador a cuenta del IRPF.",
+        "D": "El impuesto sobre el valor añadido (IVA) es el principal impuesto indirecto generado para gravar el consumo."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 3.13: «Declaraciones y liquidaciones de IVA, IRPF e IS» (página 174 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-10",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.14 Desarrollo del ciclo contable",
+      "pagina_manual": 187,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Desarrollo del ciclo contable»?",
+      "opciones": {
+        "A": "Asiento de cierre de la contabilidad: como penúltimo paso dentro del desarrollo del ciclo contable, se hace el asiento de cierre.",
+        "B": "En este sentido, el ciclo contable consiste en el desarrollo de todas las actividades y operaciones que suceden durante un ejercicio contable.",
+        "C": "Para llevar a cabo una correcta gestión contable de una empresa, es necesario conocer las partidas fundamentales que se utilizan para el correcto desarrollo de su actividad económica.",
+        "D": "Cuando se hace el asiento contable de estos ingresos, en el Debe se anota la cuenta (473) Hacienda pública, retenciones y pagos a cuenta."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 3.14: «Desarrollo del ciclo contable» (página 187 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-11",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 102,
+      "pregunta": "Una empresa tiene una cuenta de clientes con 4.000 € pendientes y cobra 1.500 €. ¿Cuánto resta por cobrar?",
+      "opciones": {
+        "A": "4.000 €",
+        "B": "2.500 €",
+        "C": "1.500 €",
+        "D": "5.500 €"
+      },
+      "correcta": "B",
+      "explicacion": "Deuda pendiente = 4.000 - 1.500 = 2.500 €."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-12",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 147,
+      "pregunta": "¿Qué procedimiento permite reflejar contablemente la pérdida probable de cobro de un cliente?",
+      "opciones": {
+        "A": "Eliminar los pagos bancarios",
+        "B": "Duplicar el importe de existencias",
+        "C": "Reconocer el deterioro de créditos comerciales",
+        "D": "Incrementar la facturación sin respaldo"
+      },
+      "correcta": "C",
+      "explicacion": "El deterioro recoge el riesgo de insolvencia de derechos de cobro."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-13",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 181,
+      "pregunta": "Al cerrar el ejercicio, ¿qué permite llevar ingresos y gastos a la cuenta de resultados?",
+      "opciones": {
+        "A": "Solo la impresión del inventario",
+        "B": "La elección del transporte",
+        "C": "Un pedido de mercaderías",
+        "D": "Regularización contable"
+      },
+      "correcta": "D",
+      "explicacion": "La regularización salda cuentas de gestión contra el resultado del ejercicio."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-14",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 156,
+      "pregunta": "Una factura por servicios se devenga en diciembre pero se paga en enero. ¿En qué ejercicio debe reconocerse el gasto?",
+      "opciones": {
+        "A": "En diciembre, cuando se devenga",
+        "B": "Solo cuando lo decida el proveedor",
+        "C": "En enero, al pagar",
+        "D": "En ambos ejercicios íntegramente"
+      },
+      "correcta": "A",
+      "explicacion": "La periodificación asigna ingresos y gastos al ejercicio de devengo."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-15",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 102,
+      "pregunta": "Un cliente acepta una letra por una venta previamente facturada. ¿Qué documento representa el derecho de cobro?",
+      "opciones": {
+        "A": "Un préstamo bancario recibido",
+        "B": "Un efecto comercial a cobrar",
+        "C": "Un gasto anticipado",
+        "D": "Una nómina"
+      },
+      "correcta": "B",
+      "explicacion": "Las letras aceptadas se reconocen como efectos comerciales a cobrar."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-16",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.4 Otros ingresos y gastos de gestión",
+      "pagina_manual": 97,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Otros ingresos y gastos de gestión»?",
+      "opciones": {
+        "A": "Cuando se hace el asiento contable de estos ingresos, en el Debe se anota la cuenta (473) Hacienda pública, retenciones y pagos a cuenta.",
+        "B": "Gastos de investigación activados: se tienen que amortizar durante su vida útil, pero siempre en el plazo establecido de cinco años.",
+        "C": "Para llevar a cabo una correcta gestión contable de una empresa, es necesario conocer las partidas fundamentales que se utilizan para el correcto desarrollo de su actividad económica.",
+        "D": "En el grupo 7 del PGC (Ventas e Ingresos) aparecen la venta de bienes y la prestación de servicios que realiza una empresa, junto con otros ingresos derivados de su desarrollo."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 3.4: «Otros ingresos y gastos de gestión» (página 97 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-17",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 160,
+      "pregunta": "Una máquina cuesta 18.000 € y tiene una vida útil de 6 años sin valor residual. ¿Cuál es la amortización lineal anual?",
+      "opciones": {
+        "A": "6.000 €",
+        "B": "12.000 €",
+        "C": "1.800 €",
+        "D": "3.000 €"
+      },
+      "correcta": "D",
+      "explicacion": "Amortización anual = 18.000 / 6 = 3.000 €."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-18",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.9 Operaciones con fondos propios",
+      "pagina_manual": 141,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Si una empresa no tuviese fondos propios, se produciría una situación insostenible de desequilibrio total y quiebra técnica.»",
+      "opciones": {
+        "A": "Operaciones con fondos propios",
+        "B": "Compra de mercaderías y operaciones relacionadas",
+        "C": "Operaciones relacionadas con personal",
+        "D": "Declaraciones y liquidaciones de IVA, IRPF e IS"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 3.9, «Operaciones con fondos propios», página 141."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-19",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.8 Operaciones de financiación",
+      "pagina_manual": 140,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Se trata de una financiación que no tiene que devolverse, por lo que su exigibilidad es mínima o incluso nula.»",
+      "opciones": {
+        "A": "Operaciones relacionadas con personal",
+        "B": "Operaciones de financiación",
+        "C": "Inversiones financieras",
+        "D": "Desarrollo del ciclo contable"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.8, «Operaciones de financiación», página 140."
+    },
+    {
+      "id": "PIAC-T3-DIFICIL-20",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.3 Operaciones relacionadas con existencias",
+      "pagina_manual": 87,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Para las del subgrupo 32, se utilizará la cuenta (612) Variación de existencias de otros aprovisionamientos.»",
+      "opciones": {
+        "A": "Provisiones por insolvencias",
+        "B": "Compra de mercaderías y operaciones relacionadas",
+        "C": "Operaciones relacionadas con existencias",
+        "D": "Operaciones relacionadas con personal"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 3.3, «Operaciones relacionadas con existencias», página 87."
+    }
+  ]
+}

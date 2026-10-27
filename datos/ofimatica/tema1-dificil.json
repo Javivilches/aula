@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 1,
+  "test": "Tema 1 · Test difícil",
+  "preguntas": [
+    {
+      "id": "OFI-T1-DIFICIL-01",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.2 Documentación de las incidencias y resolución de problemas",
+      "pagina_manual": 23,
+      "pregunta": "En el apartado «Documentación de las incidencias y resolución de problemas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Software: empresas encargadas de desarrollar y mantener programas para los diferentes sistemas operativos.",
+        "B": "Documentación de las incidencias en el proceso de implementación y resolución de problemas de implementación Es bastante importante ofrecer asistencia a las diferentes incidencias que puedan surgir con la ayuda del software de control y mediante la monitorización de equipos.",
+        "C": "Software de aplicación: son los programas que permiten realizar a los usuarios diferentes trabajos como redactar escritos, hacer cálculos, mostrar vídeos, etcétera.",
+        "D": "En ocasiones, con seguir unos sencillos pasos es suficiente para solucionar los problemas."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 1.2: «Documentación de las incidencias y resolución de problemas» (página 23 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-02",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.5 Seguridad informática",
+      "pagina_manual": 33,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Muchas veces, esta información la traspasaremos a papel como medio de intercambio, otras, realizaremos el proceso mediante el envío y recepción de ficheros.»",
+      "opciones": {
+        "A": "Redes",
+        "B": "Documentación de las incidencias y resolución de problemas",
+        "C": "Seguridad informática",
+        "D": "Sistemas operativos, permisos, usuarios y configuración"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 1.5, «Seguridad informática», página 33."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-03",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 36,
+      "pregunta": "¿Qué medida controla conexiones de red autorizadas frente a intentos de acceso no permitido?",
+      "opciones": {
+        "A": "Un programa de mecanografía",
+        "B": "Un procesador de textos",
+        "C": "Una tabla dinámica",
+        "D": "Un cortafuegos"
+      },
+      "correcta": "D",
+      "explicacion": "El firewall filtra comunicaciones y bloquea accesos no autorizados."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-04",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "Una entidad necesita conectar los equipos de un solo almacén. ¿Qué red elegirías por su alcance geográfico?",
+      "opciones": {
+        "A": "LAN",
+        "B": "WAN",
+        "C": "PAN",
+        "D": "MAN"
+      },
+      "correcta": "A",
+      "explicacion": "LAN: red local para equipos próximos."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-05",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "Una entidad necesita conectar la biblioteca y el despacho de un centro educativo. ¿Qué red elegirías por su alcance geográfico?",
+      "opciones": {
+        "A": "WAN",
+        "B": "LAN",
+        "C": "PAN",
+        "D": "MAN"
+      },
+      "correcta": "B",
+      "explicacion": "LAN: red de alcance local."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-06",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 24,
+      "pregunta": "La empresa debe documentar una avería antes de asignarla a un técnico. ¿Qué información no debería faltar?",
+      "opciones": {
+        "A": "El número de diapositivas abiertas",
+        "B": "Solo el color del equipo",
+        "C": "Fecha, descripción y estado de la incidencia",
+        "D": "Únicamente el nombre de la empresa"
+      },
+      "correcta": "C",
+      "explicacion": "Un registro de incidencias debe recoger identificación, fecha, técnico, descripción, medidas y estado."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-07",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "Una entidad necesita conectar tres ordenadores en una misma oficina. ¿Qué red elegirías por su alcance geográfico?",
+      "opciones": {
+        "A": "MAN",
+        "B": "PAN",
+        "C": "WAN",
+        "D": "LAN"
+      },
+      "correcta": "D",
+      "explicacion": "LAN: red local de alcance limitado."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-08",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «MAN (metropolitan area network): consiste en una red de alta velocidad (banda ancha) que da cobertura en un área geográfica más extensa que un campus, pero, aun así, limitada.»",
+      "opciones": {
+        "A": "Redes",
+        "B": "Organización de los sistemas informáticos de la empresa",
+        "C": "Sistemas operativos, permisos, usuarios y configuración",
+        "D": "Seguridad informática"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 1.4, «Redes», página 27."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-09",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.5 Seguridad informática",
+      "pagina_manual": 33,
+      "pregunta": "En el apartado «Seguridad informática», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Dispone de herramientas de seguridad y de administración de redes muy avanzadas.",
+        "B": "Seguridad pasiva: aquella que se lleva a cabo para minimizar los efectos negativos causados por algún usuario, accidente o virus.",
+        "C": "Este registro puede estar en papel o en algún soporte informático, y la resolución de la incidencia se puede llevar a cabo por varios o por un único técnico.",
+        "D": "Interacción: se define como la capacidad del usuario de poder usar un sistema y que este le responda de manera recíproca."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 1.5: «Seguridad informática» (página 33 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-10",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "Una entidad necesita conectar varias aulas de un mismo edificio. ¿Qué red elegirías por su alcance geográfico?",
+      "opciones": {
+        "A": "WAN",
+        "B": "MAN",
+        "C": "LAN",
+        "D": "PAN"
+      },
+      "correcta": "C",
+      "explicacion": "LAN: red local para recursos del edificio."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-11",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.1 Organización de los sistemas informáticos de la empresa",
+      "pagina_manual": 9,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Vamos a centrarnos en los programas orientados al desarrollo de tareas en una oficina (para elaborar cartas, implementar presentaciones multimedia o diseñar plantillas para la realización de cálculos).»",
+      "opciones": {
+        "A": "Redes",
+        "B": "Empresas de servicios informáticos y garantías",
+        "C": "Seguridad informática",
+        "D": "Organización de los sistemas informáticos de la empresa"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 1.1, «Organización de los sistemas informáticos de la empresa», página 9."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-12",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 31,
+      "pregunta": "¿Qué permite que un equipo de una red local identifique la ubicación lógica de otro?",
+      "opciones": {
+        "A": "La dirección IP",
+        "B": "El formato de la fuente",
+        "C": "La marca del monitor",
+        "D": "La velocidad de mecanografía"
+      },
+      "correcta": "A",
+      "explicacion": "Las direcciones IP identifican interfaces en redes TCP/IP."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-13",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.6 Manuales técnicos y protocolos de incidencias",
+      "pagina_manual": 38,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Manuales técnicos y protocolos de incidencias»?",
+      "opciones": {
+        "A": "En cualquiera de los casos, a la hora de resolver incidencias, debemos seguir un protocolo de actuación que conste de: Recepción y documentación de la incidencia.",
+        "B": "Protocolos de actuación y reporte a los servicios técnicos informáticos El manual de uso que aportan las versiones tiene como objetivo explicar las posibilidades de uso que ofrece el software, así como orientar en las posibles incidencias que se puedan producir.",
+        "C": "Por ejemplo, una empresa que ofrece servicios informáticos y también de gestión de alojamiento web, dominios y contenidos desde un mismo lugar.",
+        "D": "Actualización del software Las actualizaciones son revisiones o paquetes de servicios que suelen corregir o incluir alguna función nueva en un programa."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 1.6: «Manuales técnicos y protocolos de incidencias» (página 38 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-14",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.6 Manuales técnicos y protocolos de incidencias",
+      "pagina_manual": 38,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Sin embargo, al no estar garantizados por los fabricantes, pueden provocar situaciones problemáticas al ser utilizados.»",
+      "opciones": {
+        "A": "Organización de los sistemas informáticos de la empresa",
+        "B": "Documentación de las incidencias y resolución de problemas",
+        "C": "Manuales técnicos y protocolos de incidencias",
+        "D": "Redes"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 1.6, «Manuales técnicos y protocolos de incidencias», página 38."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-15",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 25,
+      "pregunta": "Un usuario instala software sin autorización y altera la configuración de seguridad. ¿Qué medida preventiva responde al problema?",
+      "opciones": {
+        "A": "Desactivar todas las actualizaciones",
+        "B": "Eliminar las copias de seguridad",
+        "C": "Compartir la cuenta de administrador",
+        "D": "Asignar permisos de usuario limitados"
+      },
+      "correcta": "D",
+      "explicacion": "Los permisos restringen cambios de configuración y reducen el impacto de los errores."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-16",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Redes»?",
+      "opciones": {
+        "A": "WAN (wide area network): son redes informáticas que se extienden sobre un área geográfica extensa utilizando medios como satélites, cables interoceánicos, internet, fibras ópticas públicas, etcétera.",
+        "B": "En este sentido, un sistema informático es aquel conjunto de elementos necesarios para utilizar aplicaciones informáticas.",
+        "C": "Dispone de herramientas de seguridad y de administración de redes muy avanzadas.",
+        "D": "Una copia de seguridad consiste en clonar la información de documentos, mensajes de correo electrónico, imágenes, etcétera, en otro medio físico de almacenamiento como puede ser un pendrive, CD/ DVD o un disco externo."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.4: «Redes» (página 27 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-17",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.1 Organización de los sistemas informáticos de la empresa",
+      "pagina_manual": 11,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Un procesador que trabaja a 4 GHz es capaz de realizar 4 x 109 operaciones por segundo (cuatro mil millones de operaciones en un segundo).»",
+      "opciones": {
+        "A": "Seguridad informática",
+        "B": "Organización de los sistemas informáticos de la empresa",
+        "C": "Empresas de servicios informáticos y garantías",
+        "D": "Redes"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 1.1, «Organización de los sistemas informáticos de la empresa», página 11."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-18",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.3 Sistemas operativos, permisos, usuarios y configuración",
+      "pagina_manual": 25,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «En cada equipo podemos establecer ejecutar varios procesos a la vez? usuarios con diferentes permisos: a) Monotarea.»",
+      "opciones": {
+        "A": "Empresas de servicios informáticos y garantías",
+        "B": "Seguridad informática",
+        "C": "Sistemas operativos, permisos, usuarios y configuración",
+        "D": "Organización de los sistemas informáticos de la empresa"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 1.3, «Sistemas operativos, permisos, usuarios y configuración», página 25."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-19",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.7 Empresas de servicios informáticos y garantías",
+      "pagina_manual": 39,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Empresas de servicios informáticos y garantías»?",
+      "opciones": {
+        "A": "Normas de seguridad básicas para evitar infecciones por virus y otras intrusiones Cuando tratamos el tema de los virus informáticos, debemos aplicar una regla de oro: más vale prevenir que curar.",
+        "B": "Clientes: son los equipos informáticos que van a solicitar al equipo servidor acceso a su red y a sus servicios.",
+        "C": "Actualización del software Las actualizaciones son revisiones o paquetes de servicios que suelen corregir o incluir alguna función nueva en un programa.",
+        "D": "Además, las garantías suelen establecerse de la siguiente manera: Productos: tienen un margen de dos años."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 1.7: «Empresas de servicios informáticos y garantías» (página 39 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-DIFICIL-20",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.1 Organización de los sistemas informáticos de la empresa",
+      "pagina_manual": 11,
+      "pregunta": "En el apartado «Organización de los sistemas informáticos de la empresa», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Memoria: permite almacenar datos e instrucciones y puede distinguirse entre la memoria RAM (random access memory) y la memoria ROM (read only memory).",
+        "B": "Normas de seguridad básicas para evitar infecciones por virus y otras intrusiones Cuando tratamos el tema de los virus informáticos, debemos aplicar una regla de oro: más vale prevenir que curar.",
+        "C": "Clientes: son los equipos informáticos que van a solicitar al equipo servidor acceso a su red y a sus servicios.",
+        "D": "Por otra parte, las empresas de servicios informáticos pueden tener diferentes niveles de centralización: Centralizadas: ofrecen varios servicios desde un mismo panel de control."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.1: «Organización de los sistemas informáticos de la empresa» (página 11 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "asignatura": "Proceso Integral de la Actividad Comercial - A",
+  "tema": "Todos",
+  "test": "Simulacro final 2 · Normal-alto",
+  "preguntas": [
+    {
+      "id": "PIAC-T3-FINAL2-01",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.10 Provisiones por insolvencias",
+      "pagina_manual": 147,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «La contabilización de las provisiones se basa en el principio de prudencia, que establece que se deben tener en cuenta todos los riesgos con origen en el ejercicio en curso y en los anteriores.»",
+      "opciones": {
+        "A": "Operaciones relacionadas con existencias",
+        "B": "Inmovilizado y amortizaciones",
+        "C": "Provisiones por insolvencias",
+        "D": "Operaciones con fondos propios"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 3.10, «Provisiones por insolvencias», página 147."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-02",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.13 Liquidación IVA",
+      "pagina_manual": 173,
+      "pregunta": "En una liquidación simplificada del IVA se computan 1250 € de IVA repercutido y 200 € de IVA soportado deducible. ¿Cuál es el importe a ingresar?",
+      "opciones": {
+        "A": "1250 €",
+        "B": "1450 €",
+        "C": "200 €",
+        "D": "1050 €"
+      },
+      "correcta": "D",
+      "explicacion": "IVA a ingresar = IVA repercutido - soportado deducible = 1250 - 200 = 1050 €."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-03",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.12 Amortización",
+      "pagina_manual": 160,
+      "pregunta": "Una máquina cuesta 9000 € y tiene vida útil estimada de 6 años, sin valor residual. ¿Cuál es la amortización lineal anual?",
+      "opciones": {
+        "A": "1500 €",
+        "B": "9000 €",
+        "C": "2100 €",
+        "D": "3000 €"
+      },
+      "correcta": "A",
+      "explicacion": "La cuota lineal es 9000 / 6 = 1500 € cada año."
+    },
+    {
+      "id": "PIAC-T2-FINAL2-04",
+      "tema": 2,
+      "nivel": "final2",
+      "apartado": "2.1 Operaciones mercantiles y teoría de las cuentas",
+      "pagina_manual": 27,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Las cuentas patrimoniales o de balance son aquellas que representan los recursos y obligaciones que tiene la empresa.»",
+      "opciones": {
+        "A": "Normalización: Plan General de Contabilidad para pymes",
+        "B": "Operaciones mercantiles y teoría de las cuentas",
+        "C": "El ciclo contable",
+        "D": "Herramientas informáticas específicas"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 2.1, «Operaciones mercantiles y teoría de las cuentas», página 27."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-05",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.13 Declaraciones y liquidaciones de IVA, IRPF e IS",
+      "pagina_manual": 175,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Declaraciones y liquidaciones de IVA, IRPF e IS»?",
+      "opciones": {
+        "A": "Además, la cuenta (4751) tiene anotado el importe de las retenciones de IRPF y la (460) el importe del anticipo.",
+        "B": "En el grupo 7 del PGC (Ventas e Ingresos) aparecen la venta de bienes y la prestación de servicios que realiza una empresa, junto con otros ingresos derivados de su desarrollo.",
+        "C": "(472) HP IVA soportado: se recogen todos los importes que la empresa ha pagado en concepto de IVA soportado, principalmente por la adquisición de bienes y servicios.",
+        "D": "Compras, donde se agrupan las cuentas relacionadas con la adquisición de bienes y servicios, así como los trabajos que se han realizado para otras empresas."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 3.13: «Declaraciones y liquidaciones de IVA, IRPF e IS» (página 175 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-06",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.11 Periodificación contable",
+      "pagina_manual": 156,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «En ese momento, la empresa realiza todas las operaciones necesarias para registrar esta operación.»",
+      "opciones": {
+        "A": "Inmovilizado y amortizaciones",
+        "B": "Desarrollo del ciclo contable",
+        "C": "Declaraciones y liquidaciones de IVA, IRPF e IS",
+        "D": "Periodificación contable"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 3.11, «Periodificación contable», página 156."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-07",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.3 Operaciones relacionadas con existencias",
+      "pagina_manual": 87,
+      "pregunta": "En el apartado «Operaciones relacionadas con existencias», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Variación de existencias, en función de su saldo, se cargarán o se abonarán en la cuenta (129) Resultados del ejercicio.",
+        "B": "(39) Deterioro del valor de las existencias: pone de manifiesto las pérdidas reversibles que nacen en el momento de realizar el inventario de existencias al cierre del ejercicio económico.",
+        "C": "Una de las operaciones más habituales e importantes de las empresas son las relacionadas con el movimiento de las mercaderías.",
+        "D": "Las operaciones relacionadas con el personal más habituales se dividen en cuentas de gastos, de pasivos y de activos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 3.3: «Operaciones relacionadas con existencias» (página 87 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-FINAL2-08",
+      "tema": 2,
+      "nivel": "final2",
+      "apartado": "2.2 El ciclo contable",
+      "pagina_manual": 35,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «El documento de inventario ayuda a controlar el patrimonio de la empresa, lo que permite comprobar si el patrimonio neto que se tiene registrado coincide con el valor real del mismo.»",
+      "opciones": {
+        "A": "Operaciones mercantiles y teoría de las cuentas",
+        "B": "El ciclo contable",
+        "C": "Normalización: Plan General de Contabilidad para pymes",
+        "D": "Herramientas informáticas específicas"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 2.2, «El ciclo contable», página 35."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-09",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.14 Desarrollo del ciclo contable",
+      "pagina_manual": 181,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «El ciclo contable es el conjunto de operaciones que lleva a cabo la empresa durante un ejercicio económico.»",
+      "opciones": {
+        "A": "Declaraciones y liquidaciones de IVA, IRPF e IS",
+        "B": "Otros ingresos y gastos de gestión",
+        "C": "Desarrollo del ciclo contable",
+        "D": "Operaciones de financiación"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 3.14, «Desarrollo del ciclo contable», página 181."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-10",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.4 Otros ingresos y gastos de gestión",
+      "pagina_manual": 99,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «– (629) Otros servicios: cuenta cajón que recoge todos los gastos sobre servicios exteriores que no pueden incluirse en ninguna de las cuentas anteriores.»",
+      "opciones": {
+        "A": "Desarrollo del ciclo contable",
+        "B": "Operaciones relacionadas con existencias",
+        "C": "Operaciones relacionadas con personal",
+        "D": "Otros ingresos y gastos de gestión"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 3.4, «Otros ingresos y gastos de gestión», página 99."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-11",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.5 Cobros y pagos",
+      "pagina_manual": 102,
+      "pregunta": "El saldo de clientes asciende a 9600 € y se recibe un cobro de 1800 €. ¿Qué importe queda pendiente, sin otras operaciones?",
+      "opciones": {
+        "A": "7800 €",
+        "B": "1800 €",
+        "C": "9600 €",
+        "D": "11400 €"
+      },
+      "correcta": "A",
+      "explicacion": "Pendiente = 9600 - 1800 = 7800 €."
+    },
+    {
+      "id": "PIAC-T1-FINAL2-12",
+      "tema": 1,
+      "nivel": "final2",
+      "apartado": "1.5 Activo, pasivo y patrimonio neto",
+      "pagina_manual": 15,
+      "pregunta": "En el apartado «Activo, pasivo y patrimonio neto», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Se reflejan en el balance y en el inventario y son el activo, el pasivo y el patrimonio neto.",
+        "B": "Valorar los elementos que componen el patrimonio en función de las pautas y criterios establecidos.",
+        "C": "Es decir, el activo no corriente (ANC) estará cubierto por el patrimonio neto (PN) y el pasivo no corriente (PNC).",
+        "D": "Estos se agrupan en activos, pasivos y patrimonio neto y pueden ser, entre otros, la maquinaria, el mobiliario, las deudas a largo plazo con entidades de crédito, etcétera."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 1.5: «Activo, pasivo y patrimonio neto» (página 15 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-13",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.2 Venta de mercaderías y operaciones relacionadas",
+      "pagina_manual": 73,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Venta de mercaderías y operaciones relacionadas»?",
+      "opciones": {
+        "A": "Las operaciones relacionadas con el personal más habituales se dividen en cuentas de gastos, de pasivos y de activos.",
+        "B": "Una de las operaciones más habituales e importantes de las empresas son las relacionadas con el movimiento de las mercaderías.",
+        "C": "Una de las operaciones más importantes de las empresas son las ventas, pues son la fuente principal de generación de ingresos.",
+        "D": "Estas cuentas se encargan, por tanto, de registrar las operaciones de cobros y pagos aplazados."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 3.2: «Venta de mercaderías y operaciones relacionadas» (página 73 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-14",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.7 Inversiones financieras",
+      "pagina_manual": 126,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «(250) Inversiones financieras a largo plazo en instrumentos de patrimonio: inversiones en derechos sobre el capital, acciones u otros derechos de empresas no vinculadas.»",
+      "opciones": {
+        "A": "Provisiones por insolvencias",
+        "B": "Operaciones de financiación",
+        "C": "Operaciones relacionadas con personal",
+        "D": "Inversiones financieras"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 3.7, «Inversiones financieras», página 126."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-15",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.2 Ventas",
+      "pagina_manual": 72,
+      "pregunta": "Una factura por mercaderías tiene base imponible de 7300 € e IVA del 10 %. ¿Cuál es el importe total?",
+      "opciones": {
+        "A": "8030 €",
+        "B": "7300 €",
+        "C": "730 €",
+        "D": "6570 €"
+      },
+      "correcta": "A",
+      "explicacion": "Cuota IVA = 7300 × 10/100 = 730 €; total = 7300 + 730 = 8030 €."
+    },
+    {
+      "id": "PIAC-T2-FINAL2-16",
+      "tema": 2,
+      "nivel": "final2",
+      "apartado": "2.1 Operaciones mercantiles y teoría de las cuentas",
+      "pagina_manual": 27,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Operaciones mercantiles y teoría de las cuentas»?",
+      "opciones": {
+        "A": "Uno de los más usados es ContaSol, que ofrece la posibilidad de realizar todas las operativas fiscales y contables de manera gratuita y sencilla.",
+        "B": "Las cuentas de una empresa se pueden clasificar en cuentas patrimoniales o de balance y cuentas de resultados, como se plasma en el siguiente esquema.",
+        "C": "Su función es la de cerrar las cuentas de activo y pasivo para pasar su saldo al ejercicio siguiente.",
+        "D": "– Memoria: documento que completa la información recogida en los otros documentos de cuentas anuales."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 2.1: «Operaciones mercantiles y teoría de las cuentas» (página 27 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-17",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.2 Venta de mercaderías y operaciones relacionadas",
+      "pagina_manual": 72,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Venta de mercaderías y operaciones relacionadas»?",
+      "opciones": {
+        "A": "Una de las operaciones más habituales e importantes de las empresas son las relacionadas con el movimiento de las mercaderías.",
+        "B": "Las operaciones relacionadas con el personal más habituales se dividen en cuentas de gastos, de pasivos y de activos.",
+        "C": "En el grupo 7 del PGC (Ventas e Ingresos) aparecen la venta de bienes y la prestación de servicios que realiza una empresa, junto con otros ingresos derivados de su desarrollo.",
+        "D": "Para registrarlo, primero se contabiliza la venta con cargo a clientes, después se realiza un cambio de cuentas de la (430) a la (431) y, finalmente, se lleva a cabo el asiento de cobro."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 3.2: «Venta de mercaderías y operaciones relacionadas» (página 72 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-18",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.12 Inmovilizado y amortizaciones",
+      "pagina_manual": 166,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «La vida útil de un bien es el periodo de tiempo durante el cual un inmovilizado cumple con las condiciones necesarias para ser usado para el fin al que se destina.»",
+      "opciones": {
+        "A": "Declaraciones y liquidaciones de IVA, IRPF e IS",
+        "B": "Operaciones con fondos propios",
+        "C": "Periodificación contable",
+        "D": "Inmovilizado y amortizaciones"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 3.12, «Inmovilizado y amortizaciones», página 166."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-19",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.12 Amortización",
+      "pagina_manual": 160,
+      "pregunta": "Una máquina cuesta 6500 € y tiene vida útil estimada de 5 años, sin valor residual. ¿Cuál es la amortización lineal anual?",
+      "opciones": {
+        "A": "1300 €",
+        "B": "2600 €",
+        "C": "1800 €",
+        "D": "6500 €"
+      },
+      "correcta": "A",
+      "explicacion": "La cuota lineal es 6500 / 5 = 1300 € cada año."
+    },
+    {
+      "id": "PIAC-T2-FINAL2-20",
+      "tema": 2,
+      "nivel": "final2",
+      "apartado": "2.1 Teoría de cuentas",
+      "pagina_manual": 25,
+      "pregunta": "En una cuenta T figuran 250 € en el Debe y 2300 € en el Haber. ¿Qué saldo resulta?",
+      "opciones": {
+        "A": "Saldo nulo",
+        "B": "Acreedor, 2050 €",
+        "C": "Deudor, 2050 €",
+        "D": "Acreedor, 2550 €"
+      },
+      "correcta": "B",
+      "explicacion": "2300 - 250 = 2050; como Haber supera a Debe, el saldo es acreedor."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-21",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.1 Compras",
+      "pagina_manual": 58,
+      "pregunta": "Una factura por mercaderías tiene base imponible de 3600 € e IVA del 10 %. ¿Cuál es el importe total?",
+      "opciones": {
+        "A": "360 €",
+        "B": "3600 €",
+        "C": "3960 €",
+        "D": "3240 €"
+      },
+      "correcta": "C",
+      "explicacion": "Cuota IVA = 3600 × 10/100 = 360 €; total = 3600 + 360 = 3960 €."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-22",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.13 Liquidación IVA",
+      "pagina_manual": 173,
+      "pregunta": "En una liquidación simplificada del IVA se computan 1650 € de IVA repercutido y 350 € de IVA soportado deducible. ¿Cuál es el importe a ingresar?",
+      "opciones": {
+        "A": "2000 €",
+        "B": "1650 €",
+        "C": "350 €",
+        "D": "1300 €"
+      },
+      "correcta": "D",
+      "explicacion": "IVA a ingresar = IVA repercutido - soportado deducible = 1650 - 350 = 1300 €."
+    },
+    {
+      "id": "PIAC-T2-FINAL2-23",
+      "tema": 2,
+      "nivel": "final2",
+      "apartado": "2.3 Normalización: Plan General de Contabilidad para pymes",
+      "pagina_manual": 52,
+      "pregunta": "En el apartado «Normalización: Plan General de Contabilidad para pymes», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Valor neto realizable de un pasivo: valor que se obtiene de la venta del producto una vez se han descontado los gastos directos e indirectos.",
+        "B": "El Plan General Contable (PGC) es un texto que tiene como función principal la regulación de la contabilidad de las empresas españolas",
+        "C": "En el área de administración, por ejemplo, su uso se suele aplicar mediante los softwares informáticos que facilitan las tareas fiscales, de contabilidad y de gestión de recursos humanos.",
+        "D": "En este sentido, la contabilidad unifica todos los elementos patrimoniales de las empresas en función de su naturaleza."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 2.3: «Normalización: Plan General de Contabilidad para pymes» (página 52 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-FINAL2-24",
+      "tema": 1,
+      "nivel": "final2",
+      "apartado": "Equilibrio y ecuación patrimonial",
+      "pagina_manual": 19,
+      "pregunta": "El activo corriente de una sociedad es 64.000 € y el pasivo corriente 13.000 €. ¿Qué fondo de maniobra obtiene?",
+      "opciones": {
+        "A": "77.000 €",
+        "B": "51.000 €",
+        "C": "13.000 €",
+        "D": "64.000 €"
+      },
+      "correcta": "B",
+      "explicacion": "Fondo de maniobra = activo corriente - pasivo corriente = 64.000 - 13.000 = 51.000 €."
+    },
+    {
+      "id": "PIAC-T1-FINAL2-25",
+      "tema": 1,
+      "nivel": "final2",
+      "apartado": "1.2 La contabilidad: clases y objetivos",
+      "pagina_manual": 9,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «De sociedades: se encarga de operaciones que se realizan en las sociedades, como, por ejemplo, la constitución, la fusión de empresas o las ampliaciones de capital.»",
+      "opciones": {
+        "A": "La actividad económica y el ciclo económico",
+        "B": "Equilibrio patrimonial",
+        "C": "La contabilidad: clases y objetivos",
+        "D": "Elementos y masas patrimoniales"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 1.2, «La contabilidad: clases y objetivos», página 9."
+    },
+    {
+      "id": "PIAC-T2-FINAL2-26",
+      "tema": 2,
+      "nivel": "final2",
+      "apartado": "2.1 Teoría de cuentas",
+      "pagina_manual": 25,
+      "pregunta": "En una cuenta T figuran 2050 € en el Debe y 470 € en el Haber. ¿Qué saldo resulta?",
+      "opciones": {
+        "A": "Acreedor, 1580 €",
+        "B": "Saldo nulo",
+        "C": "Deudor, 2520 €",
+        "D": "Deudor, 1580 €"
+      },
+      "correcta": "D",
+      "explicacion": "2050 - 470 = 1580; como Debe supera a Haber, el saldo es deudor."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-27",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.1 Compras y descuentos",
+      "pagina_manual": 58,
+      "pregunta": "El precio de compra es 3900 € y el proveedor aplica un descuento comercial del 2 %. ¿Qué base queda tras el descuento, antes de IVA?",
+      "opciones": {
+        "A": "3822 €",
+        "B": "3978 €",
+        "C": "78 €",
+        "D": "3900 €"
+      },
+      "correcta": "A",
+      "explicacion": "Descuento = 3900 × 2/100 = 78 €; precio neto = 3900 - 78 = 3822 €."
+    },
+    {
+      "id": "PIAC-T3-FINAL2-28",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.6 Operaciones relacionadas con personal",
+      "pagina_manual": 121,
+      "pregunta": "En el apartado «Operaciones relacionadas con personal», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Una de las operaciones más habituales e importantes de las empresas son las relacionadas con el movimiento de las mercaderías.",
+        "B": "(640) Sueldos y salarios: remuneraciones fijas o eventuales realizadas al personal de la empresa.",
+        "C": "Los gastos de personal (64-) son todos aquellos gastos relacionados con las retribuciones del personal, los cuales se verán en epígrafes posteriores.",
+        "D": "Cuando la provisión sea a corto plazo o se regularice por quedar menos de un año para anotar la pérdida, se utiliza la cuenta (529) Provisiones a corto plazo por retribuciones al personal."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 3.6: «Operaciones relacionadas con personal» (página 121 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-FINAL2-29",
+      "tema": 1,
+      "nivel": "final2",
+      "apartado": "Equilibrio y ecuación patrimonial",
+      "pagina_manual": 11,
+      "pregunta": "Una empresa presenta activo total de 124.000 € y pasivo de 14.000 €. ¿Qué patrimonio neto tiene?",
+      "opciones": {
+        "A": "14.000 €",
+        "B": "138.000 €",
+        "C": "110.000 €",
+        "D": "124.000 €"
+      },
+      "correcta": "C",
+      "explicacion": "Patrimonio neto = activo - pasivo = 124.000 - 14.000 = 110.000 €."
+    },
+    {
+      "id": "PIAC-T2-FINAL2-30",
+      "tema": 2,
+      "nivel": "final2",
+      "apartado": "2.1 Teoría de cuentas",
+      "pagina_manual": 25,
+      "pregunta": "En una cuenta T figuran 490 € en el Debe y 1070 € en el Haber. ¿Qué saldo resulta?",
+      "opciones": {
+        "A": "Deudor, 580 €",
+        "B": "Saldo nulo",
+        "C": "Acreedor, 1560 €",
+        "D": "Acreedor, 580 €"
+      },
+      "correcta": "D",
+      "explicacion": "1070 - 490 = 580; como Haber supera a Debe, el saldo es acreedor."
+    }
+  ]
+}

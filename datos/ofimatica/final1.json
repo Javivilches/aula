@@ -1,0 +1,487 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": "Todos",
+  "test": "Simulacro final 1 · Normal",
+  "preguntas": [
+    {
+      "id": "OFI-T5-FINAL1-01",
+      "tema": 5,
+      "nivel": "final1",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 256,
+      "pregunta": "Caso de Google Docs: se requiere generar un índice basado en capítulos. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Sugerencias",
+        "B": "Estilos de título",
+        "C": "Tabla",
+        "D": "Insertar imagen"
+      },
+      "correcta": "B",
+      "explicacion": "Estilos de título: permiten construir un índice."
+    },
+    {
+      "id": "OFI-T5-FINAL1-02",
+      "tema": 5,
+      "nivel": "final1",
+      "apartado": "5.1 Introducción al procesador de texto",
+      "pagina_manual": 169,
+      "pregunta": "En el apartado «Introducción al procesador de texto», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Elaboración de documentos y plantillas mediante procesadores de texto Configuración de colaboración y permisos: Google Docs facilita la colaboración mediante la opción de compartir documentos.",
+        "B": "Elaboración de documentos y plantillas mediante procesadores de texto Ajuste de opciones de impresión 1.",
+        "C": "Introducción al procesador de texto Los procesadores de texto son herramientas fundamentales en la ofimática moderna, indispensables para la creación, edición y organización de documentos de texto en entornos laborales, educativos y profesionales.",
+        "D": "Formato de texto Este es un aspecto fundamental en la creación de documentos profesionales y visualmente atractivos, ya que afecta la claridad, el estilo y la organización del contenido."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 5.1: «Introducción al procesador de texto» (página 169 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-FINAL1-03",
+      "tema": 4,
+      "nivel": "final1",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "En Google Sheets, A1:A4 contiene 63, 16, 46, 13. ¿Qué devuelve =SUMA(A1:A4)?",
+      "opciones": {
+        "A": "63",
+        "B": "132",
+        "C": "140",
+        "D": "138"
+      },
+      "correcta": "D",
+      "explicacion": "SUMA agrega las cuatro celdas: 63 + 16 + 46 + 13 = 138."
+    },
+    {
+      "id": "OFI-T6-FINAL1-04",
+      "tema": 6,
+      "nivel": "final1",
+      "apartado": "6.8 Aplicaciones prácticas",
+      "pagina_manual": 328,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Aplicaciones prácticas El capítulo de aplicaciones prácticas tiene como objetivo mostrar cómo implementar AppSheet en situaciones reales para resolver problemas específicos de gestión, automatización y organización.»",
+      "opciones": {
+        "A": "Aplicaciones prácticas",
+        "B": "Primeros pasos con AppSheet",
+        "C": "Funciones avanzadas y optimización",
+        "D": "Seguridad y buenas prácticas"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 6.8, «Aplicaciones prácticas», página 328."
+    },
+    {
+      "id": "OFI-T5-FINAL1-05",
+      "tema": 5,
+      "nivel": "final1",
+      "apartado": "5.3 Formato de texto",
+      "pagina_manual": 181,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «La correcta elección de fuentes, tamaños, colores y estilos mejora la legibilidad y permite resaltar secciones importantes, ayudando a los lectores a comprender la información con mayor facilidad.»",
+      "opciones": {
+        "A": "Introducción al procesador de texto",
+        "B": "Formato de texto",
+        "C": "Formato de párrafos y estilos avanzados",
+        "D": "Primeros pasos con Google Docs"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 5.3, «Formato de texto», página 181."
+    },
+    {
+      "id": "OFI-T6-FINAL1-06",
+      "tema": 6,
+      "nivel": "final1",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 278,
+      "pregunta": "Una pyme configura en AppSheet un mapa de ubicaciones. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "revisar autorización y seguridad de acceso",
+        "B": "establecer validaciones y trazabilidad",
+        "C": "usar una vista adecuada a coordenadas",
+        "D": "verificar reglas y probar con un conjunto de ejemplo"
+      },
+      "correcta": "C",
+      "explicacion": "Para un mapa de ubicaciones conviene usar una vista adecuada a coordenadas; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T4-FINAL1-07",
+      "tema": 4,
+      "nivel": "final1",
+      "apartado": "4.7 Funciones avanzadas y automatización",
+      "pagina_manual": 158,
+      "pregunta": "En el apartado «Funciones avanzadas y automatización», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Dominar las operaciones básicas es esencial para realizar cálculos rápidos y precisos en Google Sheets, sentando las bases para el uso de funciones más avanzadas.",
+        "B": "La opción Ayuda permite buscar funciones específicas o solucionar dudas directamente desde la aplicación.",
+        "C": "Elaboración de documentos y plantillas mediante hojas de cálculo Funciones y fórmulas F2: editar una celda activa sin sobrescribir el contenido.",
+        "D": "Funciones de texto Las funciones de texto se utilizan para modificar, extraer o combinar cadenas de texto en una hoja de cálculo."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 4.7: «Funciones avanzadas y automatización» (página 158 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-FINAL1-08",
+      "tema": 4,
+      "nivel": "final1",
+      "apartado": "4.5 Visualización y análisis de datos",
+      "pagina_manual": 134,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Visualización y análisis de datos»?",
+      "opciones": {
+        "A": "Añadir y personalizar etiquetas de datos Las etiquetas de datos permiten mostrar valores directamente en el gráfico: 1.",
+        "B": "Elaboración de documentos y plantillas mediante hojas de cálculo En el análisis de datos, permiten transformar grandes cantidades de información en gráficos o tablas que simplifican la toma de decisiones.",
+        "C": "Algunas aplicaciones comunes del formato condicional incluyen: Resaltar valores mayores o menores a un umbral: útil para análisis financieros.",
+        "D": "La integración con otras aplicaciones de Google convierte a Sheets en una pieza central para la gestión y análisis de datos en proyectos colaborativos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 4.5: «Visualización y análisis de datos» (página 134 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-FINAL1-09",
+      "tema": 5,
+      "nivel": "final1",
+      "apartado": "5.5 Tablas y listas de verificación",
+      "pagina_manual": 212,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Tablas y listas de verificación»?",
+      "opciones": {
+        "A": "Listas numeradas y con viñetas Las listas numeradas y con viñetas permiten organizar el contenido en secciones o puntos específicos, facilitando su lectura y comprensión.",
+        "B": "Insertar listas de verificación Las listas de verificación en Google Docs son herramientas que permiten organizar tareas, hacer un seguimiento de actividades o registrar ítems pendientes de completar.",
+        "C": "Google Docs ofrece varias herramientas para insertar y editar imágenes dentro de un documento, permitiendo que el contenido visual se integre de manera fluida con el texto.",
+        "D": "Insertar datos de Google Sheets y vincularlos La opción de insertar datos de Google Sheets en un documento de Google Docs permite integrar tablas, gráficos y otros datos generados en hojas de cálculo."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 5.5: «Tablas y listas de verificación» (página 212 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-FINAL1-10",
+      "tema": 8,
+      "nivel": "final1",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 350,
+      "pregunta": "Un departamento administrativo quiere crear un mensaje sin enviarlo todavía. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "RSS",
+        "B": "Plantilla de correo",
+        "C": "Borrador",
+        "D": "Verificar origen y contenido"
+      },
+      "correcta": "C",
+      "explicacion": "La necesidad indicada se atiende con «Borrador», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T4-FINAL1-11",
+      "tema": 4,
+      "nivel": "final1",
+      "apartado": "4.6 Colaboración en tiempo real e integración con Google",
+      "pagina_manual": 144,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Colaboración en tiempo real e integración con herramientas Google Uno de los mayores beneficios de Google Sheets es su capacidad para facilitar la colaboración en tiempo real y su integración con otras herramientas del ecosistema Google.»",
+      "opciones": {
+        "A": "Apéndice de hojas de cálculo",
+        "B": "Introducción a las hojas de cálculo",
+        "C": "Visualización y análisis de datos",
+        "D": "Colaboración en tiempo real e integración con Google"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 4.6, «Colaboración en tiempo real e integración con Google», página 144."
+    },
+    {
+      "id": "OFI-T6-FINAL1-12",
+      "tema": 6,
+      "nivel": "final1",
+      "apartado": "6.5 Automatización de flujos de trabajo",
+      "pagina_manual": 299,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Permite simplificar tareas repetitivas, reducir errores y ahorrar tiempo al configurar procesos automáticos que responden a eventos específicos.»",
+      "opciones": {
+        "A": "Automatización de flujos de trabajo",
+        "B": "Aplicaciones prácticas",
+        "C": "Introducción a la gestión de datos y AppSheet",
+        "D": "Seguridad y buenas prácticas"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 6.5, «Automatización de flujos de trabajo», página 299."
+    },
+    {
+      "id": "OFI-T5-FINAL1-13",
+      "tema": 5,
+      "nivel": "final1",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 190,
+      "pregunta": "Caso de Google Docs: una tabla de precios debe mostrarse alineada por columnas. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "PDF",
+        "B": "Tabla",
+        "C": "Ajuste de imagen",
+        "D": "Permiso de lector"
+      },
+      "correcta": "B",
+      "explicacion": "Tabla: organiza filas y columnas."
+    },
+    {
+      "id": "OFI-T9-FINAL1-14",
+      "tema": 9,
+      "nivel": "final1",
+      "apartado": "Presentaciones y anexo · caso",
+      "pagina_manual": 393,
+      "pregunta": "En el trabajo con presentaciones y su anexo se necesita mostrar variaciones de ventas mes a mes. ¿Qué recurso conviene usar?",
+      "opciones": {
+        "A": "Contenido multimedia",
+        "B": "Tabla de base de datos",
+        "C": "Gráfico",
+        "D": "Filtro"
+      },
+      "correcta": "C",
+      "explicacion": "El recurso «Gráfico» se corresponde con el objetivo concreto del enunciado."
+    },
+    {
+      "id": "OFI-T5-FINAL1-15",
+      "tema": 5,
+      "nivel": "final1",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 169,
+      "pregunta": "Caso de Google Docs: se quiere enviar un informe con maquetación estable. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Descargar en formato editable",
+        "B": "Modificar un estilo de título",
+        "C": "Editor",
+        "D": "PDF"
+      },
+      "correcta": "D",
+      "explicacion": "PDF: mantiene la apariencia del documento."
+    },
+    {
+      "id": "OFI-T6-FINAL1-16",
+      "tema": 6,
+      "nivel": "final1",
+      "apartado": "6.4 Creación y personalización de vistas",
+      "pagina_manual": 294,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Creación y personalización de vistas»?",
+      "opciones": {
+        "A": "La elección y personalización de las vistas es crucial para asegurar que la aplicación sea funcional, fácil de usar y adecuada a las necesidades del usuario.",
+        "B": "Buenas prácticas para aplicaciones prácticas Adaptar los ejemplos a necesidades específicas: personalizar las tablas, vistas y automatizaciones según el caso particular.",
+        "C": "Este capítulo es una guía de los pasos iniciales para empezar a trabajar con AppSheet, desde el acceso hasta la creación de la primera aplicación básica.",
+        "D": "Funciones avanzadas y optimización A medida que las aplicaciones creadas con AppSheet se vuelven más complejas, es necesario aprovechar funcionalidades avanzadas para mejorar su eficiencia y personalización."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 6.4: «Creación y personalización de vistas» (página 294 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-FINAL1-17",
+      "tema": 1,
+      "nivel": "final1",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Tipos de redes En función de la distancia, encontramos las siguientes tipologías de red: LAN (local area network): es una red que se limita a un área especial relativamente pequeña, tal como un cuarto, un solo edificio, una nave o un avión.»",
+      "opciones": {
+        "A": "Sistemas operativos, permisos, usuarios y configuración",
+        "B": "Redes",
+        "C": "Seguridad informática",
+        "D": "Organización de los sistemas informáticos de la empresa"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 1.4, «Redes», página 27."
+    },
+    {
+      "id": "OFI-T4-FINAL1-18",
+      "tema": 4,
+      "nivel": "final1",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "Una hoja contiene A1=113 y usa =SI(A1>=80;\"ALTO\";\"BAJO\"). ¿Qué resultado devuelve?",
+      "opciones": {
+        "A": "BAJO",
+        "B": "0",
+        "C": "ALTO",
+        "D": "ERROR #DIV/0!"
+      },
+      "correcta": "C",
+      "explicacion": "SI comprueba si 113 es mayor o igual a 80; la condición es True, por eso devuelve ALTO."
+    },
+    {
+      "id": "OFI-T8-FINAL1-19",
+      "tema": 8,
+      "nivel": "final1",
+      "apartado": "8.2 Proveedores, servidores, dominios y protocolos",
+      "pagina_manual": 344,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Así, los principales proveedores de este tipo de servicios son: Gmail: webmail, POP3 e IMAP.»",
+      "opciones": {
+        "A": "Clasificación y archivo de mensajes",
+        "B": "Configuración y personalización",
+        "C": "Seguridad del correo y filtros",
+        "D": "Proveedores, servidores, dominios y protocolos"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 8.2, «Proveedores, servidores, dominios y protocolos», página 344."
+    },
+    {
+      "id": "OFI-T3-FINAL1-20",
+      "tema": 3,
+      "nivel": "final1",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 83,
+      "pregunta": "En una empresa se necesita comunicar información a un equipo distribuido. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "compartir el recurso con permisos adecuados",
+        "B": "consultar un organismo oficial",
+        "C": "Combinar filtros de dominio y tipo de archivo en la búsqueda",
+        "D": "mantener nombres y clasificación documental coherentes"
+      },
+      "correcta": "A",
+      "explicacion": "La actuación «compartir el recurso con permisos adecuados» responde directamente a la necesidad de comunicar información a un equipo distribuido; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T7-FINAL1-21",
+      "tema": 7,
+      "nivel": "final1",
+      "apartado": "Integración de aplicaciones",
+      "pagina_manual": 339,
+      "pregunta": "La oficina necesita copiar dentro de un documento un objeto independiente del archivo original. ¿Cuál es la operación más apropiada?",
+      "opciones": {
+        "A": "Control de versiones",
+        "B": "Incrustar",
+        "C": "Vincular",
+        "D": "PDF"
+      },
+      "correcta": "B",
+      "explicacion": "La finalidad descrita corresponde a incrustar; comprueba que se conserve el formato y la trazabilidad cuando proceda."
+    },
+    {
+      "id": "OFI-T2-FINAL1-22",
+      "tema": 2,
+      "nivel": "final1",
+      "apartado": "2.1 Actitud corporal y ergonomía",
+      "pagina_manual": 42,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Escritura de textos según la técnica mecanográfica Falta de adaptabilidad: el equipo no permite regular la pantalla ni en altura ni en profundidad.»",
+      "opciones": {
+        "A": "Composición del equipo informático",
+        "B": "Reglas gramaticales y abreviaturas",
+        "C": "Actitud corporal y ergonomía",
+        "D": "Corrección de errores y correctores automáticos"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.1, «Actitud corporal y ergonomía», página 42."
+    },
+    {
+      "id": "OFI-T1-FINAL1-23",
+      "tema": 1,
+      "nivel": "final1",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "Una entidad necesita conectar varios edificios municipales conectados por fibra dentro de una ciudad. ¿Qué red elegirías por su alcance geográfico?",
+      "opciones": {
+        "A": "WAN",
+        "B": "PAN",
+        "C": "LAN",
+        "D": "MAN"
+      },
+      "correcta": "D",
+      "explicacion": "MAN: red de ámbito metropolitano."
+    },
+    {
+      "id": "OFI-T2-FINAL1-24",
+      "tema": 2,
+      "nivel": "final1",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 517 pulsaciones en 4 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "129,2 pulsaciones/minuto",
+        "B": "517 pulsaciones/minuto",
+        "C": "2068 pulsaciones/minuto",
+        "D": "103.4 pulsaciones/minuto"
+      },
+      "correcta": "A",
+      "explicacion": "Promedio = 517 / 4 = 129,2 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T6-FINAL1-25",
+      "tema": 6,
+      "nivel": "final1",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 289,
+      "pregunta": "Una pyme configura en AppSheet una categoría que solo admite tres valores. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "definir criterios de unicidad",
+        "B": "definir opciones permitidas para ese campo",
+        "C": "asignar tipo numérico al precio",
+        "D": "restringir visibilidad mediante permisos y filtros"
+      },
+      "correcta": "B",
+      "explicacion": "Para una categoría que solo admite tres valores conviene definir opciones permitidas para ese campo; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T9-FINAL1-26",
+      "tema": 9,
+      "nivel": "final1",
+      "apartado": "9.3 Trabajo con diapositivas",
+      "pagina_manual": 380,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Dominar estas operaciones básicas con las diapositivas permite organizar las ideas de forma clara y profesional.»",
+      "opciones": {
+        "A": "Animaciones y transiciones",
+        "B": "Preparación de la presentación",
+        "C": "Trabajo con diapositivas",
+        "D": "Texto, imágenes y formas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 9.3, «Trabajo con diapositivas», página 380."
+    },
+    {
+      "id": "OFI-T5-FINAL1-27",
+      "tema": 5,
+      "nivel": "final1",
+      "apartado": "5.9 Funciones y herramientas avanzadas",
+      "pagina_manual": 239,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Recuento de palabras y herramientas de estadística La función de recuento de palabras en Google Docs permite obtener estadísticas detalladas del documento, como el número total de palabras, caracteres, párrafos y páginas.»",
+      "opciones": {
+        "A": "Almacenamiento, descarga e impresión",
+        "B": "Enlaces, comentarios y colaboración",
+        "C": "Introducción al procesador de texto",
+        "D": "Funciones y herramientas avanzadas"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 5.9, «Funciones y herramientas avanzadas», página 239."
+    },
+    {
+      "id": "OFI-T4-FINAL1-28",
+      "tema": 4,
+      "nivel": "final1",
+      "apartado": "4.4 Fórmulas y funciones básicas",
+      "pagina_manual": 124,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Introducción a las fórmulas y operadores Las fórmulas en Google Sheets son expresiones que realizan cálculos o transforman datos.»",
+      "opciones": {
+        "A": "Fórmulas y funciones básicas",
+        "B": "Gestión de datos",
+        "C": "Apéndice de hojas de cálculo",
+        "D": "Funciones avanzadas y automatización"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 4.4, «Fórmulas y funciones básicas», página 124."
+    },
+    {
+      "id": "OFI-T3-FINAL1-29",
+      "tema": 3,
+      "nivel": "final1",
+      "apartado": "3.5 Herramientas colaborativas y redes sociales",
+      "pagina_manual": 76,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Más aún, podemos proponernos que sigan de manera constante la actividad online de nuestra organización, afiliándose a nuestros espacios en las redes sociales y suscribiéndose a las actualizaciones de nuestros sitios web.»",
+      "opciones": {
+        "A": "Historia, orígenes y evolución de internet",
+        "B": "Herramientas colaborativas y redes sociales",
+        "C": "Formatos de conexión",
+        "D": "Bases de datos temáticas"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.5, «Herramientas colaborativas y redes sociales», página 76."
+    },
+    {
+      "id": "OFI-T7-FINAL1-30",
+      "tema": 7,
+      "nivel": "final1",
+      "apartado": "7.9 Inserción en otros medios o documentos",
+      "pagina_manual": 341,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Esto es un ejemplo de archivo adjuntado: ADAF_M05_UF3_PAC01_ ENUNCUIADO.doc Algunas webs permiten insertar documentos ofimáticos.»",
+      "opciones": {
+        "A": "Importación y exportación entre aplicaciones",
+        "B": "Gestión de archivos y registros",
+        "C": "Inserción en otros medios o documentos",
+        "D": "Conversión de documentos a PDF"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 7.9, «Inserción en otros medios o documentos», página 341."
+    }
+  ]
+}

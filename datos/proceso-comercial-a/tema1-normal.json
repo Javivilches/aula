@@ -1,0 +1,327 @@
+{
+  "asignatura": "Proceso Integral de la Actividad Comercial - A",
+  "tema": 1,
+  "test": "Tema 1 · Test normal",
+  "preguntas": [
+    {
+      "id": "PIAC-T1-NORMAL-01",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.2 La contabilidad: clases y objetivos",
+      "pagina_manual": 9,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «La contabilidad: clases y objetivos»?",
+      "opciones": {
+        "A": "Pasivo corriente: todas aquellas obligaciones de pago que la empresa debe enfrentar en menos de un ejercicio económico.",
+        "B": "El Plan General Contable o Plan General de Contabilidad (PGC) es la norma básica por la que se rige la contabilidad.",
+        "C": "– Todas las inversiones realizadas a largo plazo deben estar financiadas por recursos financieros a largo plazo.",
+        "D": "Periódicamente, las empresas deben realizar un análisis patrimonial con el fin de estudiar el patrimonio y comprobar que se cumple la ecuación fundamental del patrimonio."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 1.2: «La contabilidad: clases y objetivos» (página 9 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-02",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 11,
+      "pregunta": "Una empresa tiene activos de 85.000 € y deudas por 31.000 €. ¿Cuál es su patrimonio neto?",
+      "opciones": {
+        "A": "85.000 €",
+        "B": "31.000 €",
+        "C": "54.000 €",
+        "D": "116.000 €"
+      },
+      "correcta": "C",
+      "explicacion": "Patrimonio neto = activo - pasivo = 85.000 - 31.000 = 54.000 €."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-03",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 17,
+      "pregunta": "¿Qué concepto es distinto del pago, aunque pueda producirse en otro momento?",
+      "opciones": {
+        "A": "El formato de una factura",
+        "B": "El movimiento de una impresora",
+        "C": "La antigüedad de un empleado",
+        "D": "El gasto devengado"
+      },
+      "correcta": "D",
+      "explicacion": "Puede producirse un gasto en la compra y pagarse posteriormente."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-04",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5 Activo, pasivo y patrimonio neto",
+      "pagina_manual": 14,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «La principal función que tiene el balance de situación es informar sobre la estructura económica y financiera de la empresa, recogiendo los elementos de activo, pasivo y patrimonio neto.»",
+      "opciones": {
+        "A": "Activo, pasivo y patrimonio neto",
+        "B": "La actividad económica y el ciclo económico",
+        "C": "Equilibrio patrimonial",
+        "D": "La contabilidad: clases y objetivos"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 1.5, «Activo, pasivo y patrimonio neto», página 14."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-05",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.3 El patrimonio de la empresa",
+      "pagina_manual": 11,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Por otro, los distintos elementos que componen el patrimonio de una empresa reciben el nombre de elementos patrimoniales.»",
+      "opciones": {
+        "A": "La actividad económica y el ciclo económico",
+        "B": "El patrimonio de la empresa",
+        "C": "La contabilidad: clases y objetivos",
+        "D": "Elementos y masas patrimoniales"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 1.3, «El patrimonio de la empresa», página 11."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-06",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5 Activo, pasivo y patrimonio neto",
+      "pagina_manual": 15,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «El activo se estructura dentro del balance de menor a mayor liquidez, mientras que el pasivo y el patrimonio neto se disponen de menor a mayor exigibilidad.»",
+      "opciones": {
+        "A": "La actividad económica y el ciclo económico",
+        "B": "Equilibrio patrimonial",
+        "C": "Activo, pasivo y patrimonio neto",
+        "D": "La contabilidad: clases y objetivos"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 1.5, «Activo, pasivo y patrimonio neto», página 15."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-07",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.3 El patrimonio de la empresa",
+      "pagina_manual": 11,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «El patrimonio de la empresa»?",
+      "opciones": {
+        "A": "Algunas de las actividades que incluye son la consultoría, las tecnologías de la información o la investigación y el desarrollo.",
+        "B": "Desequilibrio financiero: en esta situación patrimonial, el total de la financiación ajena (PNC y PC) es superior a las inversiones a corto plazo (AC).",
+        "C": "El Plan General Contable o Plan General de Contabilidad (PGC) es la norma básica por la que se rige la contabilidad.",
+        "D": "Derechos: se compone de los derechos o deudas de cobro pendientes que tiene la empresa con terceros."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 1.3: «El patrimonio de la empresa» (página 11 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-08",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.2 La contabilidad: clases y objetivos",
+      "pagina_manual": 8,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «La contabilidad es la ciencia que estudia y analiza las técnicas y procedimientos para registrar la actividad económica de una empresa u organización.»",
+      "opciones": {
+        "A": "La contabilidad: clases y objetivos",
+        "B": "Elementos y masas patrimoniales",
+        "C": "Equilibrio patrimonial",
+        "D": "Activo, pasivo y patrimonio neto"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 1.2, «La contabilidad: clases y objetivos», página 8."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-09",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.2 La contabilidad: clases y objetivos",
+      "pagina_manual": 8,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «La contabilidad: clases y objetivos»?",
+      "opciones": {
+        "A": "Por otra parte, la estructura financiera se compone de los recursos propios y ajenos que tiene la empresa y que le permiten adquirir todos aquellos elementos que son necesarios para la misma, es decir, la financiación.",
+        "B": "Asimismo, existen diferentes tipos de contabilidad que se pueden clasificar con base en distintos criterios.",
+        "C": "Los bienes y derechos componen el activo de la empresa, mientras que las obligaciones de pago constituyen los pasivos.",
+        "D": "Pasivo no corriente: todas las obligaciones de pago a las que la empresa tiene que hacer frente en un periodo superior a un ejercicio económico."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 1.2: «La contabilidad: clases y objetivos» (página 8 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-10",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 13,
+      "pregunta": "Un equipo informático destinado a utilizarse durante varios ejercicios se clasifica normalmente como:",
+      "opciones": {
+        "A": "Pasivo corriente",
+        "B": "Ingreso de explotación",
+        "C": "Activo no corriente",
+        "D": "Existencias"
+      },
+      "correcta": "C",
+      "explicacion": "La permanencia superior a un año corresponde a activo no corriente."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-11",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.6 Equilibrio patrimonial",
+      "pagina_manual": 18,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Cuando esta se cumple, significa que la empresa se encuentra en situación de equilibrio patrimonial, es decir, la estructura económica y la estructura financiera coinciden por completo.»",
+      "opciones": {
+        "A": "La actividad económica y el ciclo económico",
+        "B": "El patrimonio de la empresa",
+        "C": "Elementos y masas patrimoniales",
+        "D": "Equilibrio patrimonial"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 1.6, «Equilibrio patrimonial», página 18."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-12",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.6 Equilibrio patrimonial",
+      "pagina_manual": 18,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Periódicamente, las empresas deben realizar un análisis patrimonial con el fin de estudiar el patrimonio y comprobar que se cumple la ecuación fundamental del patrimonio.»",
+      "opciones": {
+        "A": "Equilibrio patrimonial",
+        "B": "El patrimonio de la empresa",
+        "C": "La actividad económica y el ciclo económico",
+        "D": "Activo, pasivo y patrimonio neto"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 1.6, «Equilibrio patrimonial», página 18."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-13",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 13,
+      "pregunta": "¿Dónde se registran las deudas con proveedores que vencen en seis meses?",
+      "opciones": {
+        "A": "Activo corriente",
+        "B": "Pasivo corriente",
+        "C": "Patrimonio neto",
+        "D": "Activo no corriente"
+      },
+      "correcta": "B",
+      "explicacion": "Las obligaciones exigibles en menos de un año se incluyen en el pasivo corriente."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-14",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.4 Elementos y masas patrimoniales",
+      "pagina_manual": 12,
+      "pregunta": "En el apartado «Elementos y masas patrimoniales», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Las variaciones de la economía durante determinados periodos de tiempo es lo que se denomina ciclo económico.",
+        "B": "– Todas las inversiones realizadas a largo plazo deben estar financiadas por recursos financieros a largo plazo.",
+        "C": "Las masas patrimoniales se dividen en submasas, que agrupan aquellos elementos que tienen características homogéneas.",
+        "D": "Proveedores Proveedores, efectos comerciales a pagar Acreedores Deudas a corto plazo Deudas a largo plazo"
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 1.4: «Elementos y masas patrimoniales» (página 12 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-15",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.4 Elementos y masas patrimoniales",
+      "pagina_manual": 12,
+      "pregunta": "En el apartado «Elementos y masas patrimoniales», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Pasivo corriente: todas aquellas obligaciones de pago que la empresa debe enfrentar en menos de un ejercicio económico.",
+        "B": "De hecho, a este sector se lo conoce también como el sector del conocimiento, la organización o el intelecto.",
+        "C": "Oportuna: los registros contables se deben hacer en el periodo que se corresponda, pues son fundamentales para la toma de decisiones.",
+        "D": "Las masas patrimoniales, por otro lado, son las agrupaciones de elementos patrimoniales de la misma naturaleza."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 1.4: «Elementos y masas patrimoniales» (página 12 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-16",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1 La actividad económica y el ciclo económico",
+      "pagina_manual": 7,
+      "pregunta": "En el apartado «La actividad económica y el ciclo económico», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "La actividad económica comprende todos los procesos destinados a obtener productos, bienes o servicios para cubrir necesidades.",
+        "B": "Oportuna: los registros contables se deben hacer en el periodo que se corresponda, pues son fundamentales para la toma de decisiones.",
+        "C": "Periódicamente, las empresas deben realizar un análisis patrimonial con el fin de estudiar el patrimonio y comprobar que se cumple la ecuación fundamental del patrimonio.",
+        "D": "Aquí se engloba lo que se le debe a la compañía (facturas pendientes de cobro de nuestros clientes, préstamos concedidos por la empresa, etcétera)."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.1: «La actividad económica y el ciclo económico» (página 7 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-17",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.6 Equilibrio patrimonial",
+      "pagina_manual": 18,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Equilibrio patrimonial»?",
+      "opciones": {
+        "A": "Los bienes y derechos componen el activo de la empresa, mientras que las obligaciones de pago constituyen los pasivos.",
+        "B": "Cabe destacar que las masas patrimoniales varían constantemente, por lo que es posible que se produzcan diferentes situaciones con relación al equilibrio patrimonial de la empresa.",
+        "C": "Proveedores Proveedores, efectos comerciales a pagar Acreedores Deudas a corto plazo Deudas a largo plazo",
+        "D": "Como se ha explicado en el epígrafe anterior, el activo está compuesto por los bienes y derechos que posee la empresa, mientras que el pasivo lo integran sus obligaciones de pago."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 1.6: «Equilibrio patrimonial» (página 18 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-18",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1 La actividad económica y el ciclo económico",
+      "pagina_manual": 7,
+      "pregunta": "En el apartado «La actividad económica y el ciclo económico», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Oportuna: los registros contables se deben hacer en el periodo que se corresponda, pues son fundamentales para la toma de decisiones.",
+        "B": "Derechos: se compone de los derechos o deudas de cobro pendientes que tiene la empresa con terceros.",
+        "C": "Pueden ser productos de consumo inmediato (como, por ejemplo, la comida) o bienes de producción necesarios para la actividad productiva de otras empresas (como pueden ser la maquinaria o los cementos).",
+        "D": "Es una situación poco sostenible a lo largo del tiempo, ya que difícilmente tendrá liquidez suficiente para hacer frente a los pagos de las deudas."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 1.1: «La actividad económica y el ciclo económico» (página 7 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-19",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1 La actividad económica y el ciclo económico",
+      "pagina_manual": 7,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Las variaciones de la economía durante determinados periodos de tiempo es lo que se denomina ciclo económico.»",
+      "opciones": {
+        "A": "La contabilidad: clases y objetivos",
+        "B": "El patrimonio de la empresa",
+        "C": "Equilibrio patrimonial",
+        "D": "La actividad económica y el ciclo económico"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 1.1, «La actividad económica y el ciclo económico», página 7."
+    },
+    {
+      "id": "PIAC-T1-NORMAL-20",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5 Activo, pasivo y patrimonio neto",
+      "pagina_manual": 15,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «En el balance, como se ha visto, los elementos de activo irán a la izquierda y los de pasivo y neto a la derecha.»",
+      "opciones": {
+        "A": "Activo, pasivo y patrimonio neto",
+        "B": "La actividad económica y el ciclo económico",
+        "C": "Equilibrio patrimonial",
+        "D": "La contabilidad: clases y objetivos"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 1.5, «Activo, pasivo y patrimonio neto», página 15."
+    }
+  ]
+}

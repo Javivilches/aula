@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 4,
+  "test": "Tema 4 · Test difícil",
+  "preguntas": [
+    {
+      "id": "OFI-T4-DIFICIL-01",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.1 Introducción a las hojas de cálculo",
+      "pagina_manual": 91,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Introducción a las hojas de cálculo»?",
+      "opciones": {
+        "A": "Crear, guardar y compartir documentos Google Sheets permite trabajar de manera eficiente con hojas de cálculo al ofrecer un sistema integrado para crear, guardar y compartir documentos.",
+        "B": "Formato y diseño de hojas El formato y diseño en Google Sheets no solo mejora la apariencia de una hoja de cálculo, sino que también facilita su comprensión.",
+        "C": "Acceso desde cualquier dispositivo: permite trabajar en las hojas de cálculo desde cualquier lugar con conexión a internet.",
+        "D": "Elaboración de documentos y plantillas mediante hojas de cálculo Usando la función SUMA: – Escribir =SUMA y seleccionar (arrastrando) el intervalo de celdas deseadas."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 4.1: «Introducción a las hojas de cálculo» (página 91 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-02",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.3 Formato y diseño de hojas",
+      "pagina_manual": 108,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Copiar estilos Copiar formato es una herramienta que permite duplicar el estilo de una celda o rango y aplicarlo en otro lugar.»",
+      "opciones": {
+        "A": "Gestión de datos",
+        "B": "Formato y diseño de hojas",
+        "C": "Introducción a las hojas de cálculo",
+        "D": "Apéndice de hojas de cálculo"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 4.3, «Formato y diseño de hojas», página 108."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-03",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.7 Funciones avanzadas y automatización",
+      "pagina_manual": 162,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Introducción a QUERY y fórmulas matriciales Las funciones QUERY y las fórmulas matriciales son herramientas avanzadas de Google Sheets que permiten analizar grandes conjuntos de datos de manera eficiente.»",
+      "opciones": {
+        "A": "Colaboración en tiempo real e integración con Google",
+        "B": "Fórmulas y funciones básicas",
+        "C": "Funciones avanzadas y automatización",
+        "D": "Formato y diseño de hojas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 4.7, «Funciones avanzadas y automatización», página 162."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-04",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.7 Funciones avanzadas y automatización",
+      "pagina_manual": 157,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Funciones avanzadas y automatización»?",
+      "opciones": {
+        "A": "Formato condicional avanzado Google Sheets permite usar fórmulas personalizadas para crear reglas avanzadas.",
+        "B": "Dominar las operaciones básicas es esencial para realizar cálculos rápidos y precisos en Google Sheets, sentando las bases para el uso de funciones más avanzadas.",
+        "C": "La opción Ayuda permite buscar funciones específicas o solucionar dudas directamente desde la aplicación.",
+        "D": "Uso combinado de funciones Las funciones avanzadas pueden combinarse para resolver problemas complejos."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 4.7: «Funciones avanzadas y automatización» (página 157 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-05",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.3 Formato y diseño de hojas",
+      "pagina_manual": 108,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Elaboración de documentos y plantillas mediante hojas de cálculo que aparece, se pueden modificar distintos elementos para crear un diseño basado en reglas o aplicar estilos rápidos.»",
+      "opciones": {
+        "A": "Formato y diseño de hojas",
+        "B": "Introducción a las hojas de cálculo",
+        "C": "Fórmulas y funciones básicas",
+        "D": "Apéndice de hojas de cálculo"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 4.3, «Formato y diseño de hojas», página 108."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-06",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.1 Introducción a las hojas de cálculo",
+      "pagina_manual": 87,
+      "pregunta": "En el apartado «Introducción a las hojas de cálculo», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Elaboración de documentos y plantillas mediante hojas de cálculo Usando la función SUMA: – Escribir =SUMA y seleccionar (arrastrando) el intervalo de celdas deseadas.",
+        "B": "Su objetivo principal es permitir la introducción de información y realizar cálculos automáticos a partir de fórmulas.",
+        "C": "Elaboración de documentos y plantillas mediante hojas de cálculo Funciones y fórmulas F2: editar una celda activa sin sobrescribir el contenido.",
+        "D": "Elaboración de documentos y plantillas mediante hojas de cálculo que aparece, se pueden modificar distintos elementos para crear un diseño basado en reglas o aplicar estilos rápidos."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 4.1: «Introducción a las hojas de cálculo» (página 87 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-07",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.8 Apéndice de hojas de cálculo",
+      "pagina_manual": 165,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Apéndice de hojas de cálculo»?",
+      "opciones": {
+        "A": "Uso de temas y diseño personalizado Google Sheets permite personalizar el diseño de las hojas de cálculo para que sean más atractivas y profesionales.",
+        "B": "Crear, guardar y compartir documentos Google Sheets permite trabajar de manera eficiente con hojas de cálculo al ofrecer un sistema integrado para crear, guardar y compartir documentos.",
+        "C": "Atajos de teclado en Google Sheets Los atajos de teclado optimizan el uso de Google Sheets, permitiendo realizar tareas comunes de manera más rápida y eficiente.",
+        "D": "Acceso desde cualquier dispositivo: permite trabajar en las hojas de cálculo desde cualquier lugar con conexión a internet."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 4.8: «Apéndice de hojas de cálculo» (página 165 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-08",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.3 Formato y diseño de hojas",
+      "pagina_manual": 109,
+      "pregunta": "En el apartado «Formato y diseño de hojas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Revisar regularmente las reglas de formato condicional para asegurarse de que sigan siendo relevantes.",
+        "B": "También incluye iconos para realizar acciones rápidas, como insertar gráficos, aplicar formato condicional o introducir funciones.",
+        "C": "Formato condicional: herramienta que aplica estilos a las celdas en base a reglas predefinidas.",
+        "D": "El formato condicional consiste en aplicar automáticamente cambios de color, fuente o bordes a las celdas según reglas predefinidas."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 4.3: «Formato y diseño de hojas» (página 109 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-09",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "Se registran los importes 77, 7, 52, 6 en C1:C4. ¿Qué muestra =MAX(C1:C4)?",
+      "opciones": {
+        "A": "77",
+        "B": "6",
+        "C": "142",
+        "D": "35.5"
+      },
+      "correcta": "A",
+      "explicacion": "MAX selecciona el mayor valor del rango: 77."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-10",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.4 Fórmulas y funciones básicas",
+      "pagina_manual": 129,
+      "pregunta": "En el apartado «Fórmulas y funciones básicas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Introducción a QUERY y fórmulas matriciales Las funciones QUERY y las fórmulas matriciales son herramientas avanzadas de Google Sheets que permiten analizar grandes conjuntos de datos de manera eficiente.",
+        "B": "Dominar estas funciones básicas permite realizar análisis rápidos y sentar las bases para trabajar con herramientas más avanzadas en Google Sheets.",
+        "C": "Elaboración de documentos y plantillas mediante hojas de cálculo Funciones y fórmulas F2: editar una celda activa sin sobrescribir el contenido.",
+        "D": "Fórmulas: expresiones que comienzan con un signo igual (=) y permiten realizar cálculos automáticos o aplicar funciones específicas."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 4.4: «Fórmulas y funciones básicas» (página 129 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-11",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 132,
+      "pregunta": "Una empresa quiere mostrar cómo evolucionaron sus ventas a lo largo de doce meses. ¿Qué representación sería especialmente adecuada?",
+      "opciones": {
+        "A": "Una contraseña numérica",
+        "B": "Una firma de correo",
+        "C": "Gráfico de líneas",
+        "D": "Un archivo comprimido vacío"
+      },
+      "correcta": "C",
+      "explicacion": "Las líneas ayudan a visualizar tendencias en una serie temporal."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-12",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 105,
+      "pregunta": "¿Qué herramienta permite destacar automáticamente importes negativos con otro formato?",
+      "opciones": {
+        "A": "Exportación de una imagen",
+        "B": "Impresión apaisada",
+        "C": "Protección física del teclado",
+        "D": "Formato condicional"
+      },
+      "correcta": "D",
+      "explicacion": "El formato condicional cambia la apariencia de celdas según criterios."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-13",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 95,
+      "pregunta": "¿Qué evita que se introduzcan valores fuera de un conjunto permitido en una columna?",
+      "opciones": {
+        "A": "Validación de datos",
+        "B": "Ocultar la barra de fórmulas",
+        "C": "Aumentar el ancho de la columna",
+        "D": "Cambiar de tipografía"
+      },
+      "correcta": "A",
+      "explicacion": "La validación de datos define criterios admisibles en la entrada."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-14",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "En Google Sheets, A1:A4 contiene 13, 19, 40, 6. ¿Qué devuelve =SUMA(A1:A4)?",
+      "opciones": {
+        "A": "40",
+        "B": "78",
+        "C": "74",
+        "D": "80"
+      },
+      "correcta": "B",
+      "explicacion": "SUMA agrega las cuatro celdas: 13 + 19 + 40 + 6 = 78."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-15",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 156,
+      "pregunta": "¿Qué recurso es útil para resumir registros por categorías y agregar importes?",
+      "opciones": {
+        "A": "La orientación vertical de la pantalla",
+        "B": "Un salto de página manual",
+        "C": "Una tabla dinámica",
+        "D": "Un icono del escritorio"
+      },
+      "correcta": "C",
+      "explicacion": "Las tablas dinámicas agrupan y sintetizan conjuntos de datos."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-16",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "La columna de ventas contiene 15, 9, 10, 18. ¿Cuál es el resultado de =PROMEDIO(B1:B4)?",
+      "opciones": {
+        "A": "52",
+        "B": "18",
+        "C": "9",
+        "D": "13"
+      },
+      "correcta": "D",
+      "explicacion": "PROMEDIO = (15 + 9 + 10 + 18) / 4 = 13."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-17",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.2 Gestión de datos",
+      "pagina_manual": 96,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Fórmulas: expresiones que comienzan con un signo igual (=) y permiten realizar cálculos automáticos o aplicar funciones específicas.»",
+      "opciones": {
+        "A": "Gestión de datos",
+        "B": "Fórmulas y funciones básicas",
+        "C": "Introducción a las hojas de cálculo",
+        "D": "Funciones avanzadas y automatización"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 4.2, «Gestión de datos», página 96."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-18",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "En una hoja, B2=17 y C2=8. ¿Qué valor calcula la fórmula =B2*C2?",
+      "opciones": {
+        "A": "144",
+        "B": "136",
+        "C": "153",
+        "D": "25"
+      },
+      "correcta": "B",
+      "explicacion": "El operador * multiplica ambos valores: 17 × 8 = 136."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-19",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.5 Visualización y análisis de datos",
+      "pagina_manual": 132,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Modificar el diseño del gráfico En la pestaña Personalizar se pueden ajustar los siguientes aspectos: Títulos: – Cambiar el título principal y los subtítulos. – Ajustar el tamaño, color y fuente del texto.»",
+      "opciones": {
+        "A": "Introducción a las hojas de cálculo",
+        "B": "Funciones avanzadas y automatización",
+        "C": "Visualización y análisis de datos",
+        "D": "Fórmulas y funciones básicas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 4.5, «Visualización y análisis de datos», página 132."
+    },
+    {
+      "id": "OFI-T4-DIFICIL-20",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4.2 Gestión de datos",
+      "pagina_manual": 96,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «También se pueden realizar cambios de forma masiva utilizando las opciones de Copiar y Pegar desde el menú o mediante los atajos Ctrl + C y Ctrl + V, respectivamente.»",
+      "opciones": {
+        "A": "Introducción a las hojas de cálculo",
+        "B": "Colaboración en tiempo real e integración con Google",
+        "C": "Funciones avanzadas y automatización",
+        "D": "Gestión de datos"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 4.2, «Gestión de datos», página 96."
+    }
+  ]
+}

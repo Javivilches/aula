@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 7,
+  "test": "Tema 7 · Test normal",
+  "preguntas": [
+    {
+      "id": "OFI-T7-NORMAL-01",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.6 Gestión de archivos y registros",
+      "pagina_manual": 338,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Gestión de archivos y registros»?",
+      "opciones": {
+        "A": "Resumen de la información para que pueda ser empleada por las personas encargadas de tomar las decisiones dentro de la organización.",
+        "B": "No es posible guardar una base de datos de Access como un archivo de hoja de cálculo ni a la inversa.",
+        "C": "Incrustado: un archivo se puede incluir dentro de un documento, pero serán ficheros diferentes.",
+        "D": "Gestión de archivos y registros La gestión administrativa se caracteriza por su carácter documental, ya que toda su actividad queda reflejada en documentos y archivos."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 7.6: «Gestión de archivos y registros» (página 338 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T7-NORMAL-02",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.1 Importación y exportación entre aplicaciones",
+      "pagina_manual": 333,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Una de las funcionalidades más útiles de Access es su capacidad para interactuar con datos de otros programas.»",
+      "opciones": {
+        "A": "Importación y exportación entre aplicaciones",
+        "B": "Gestión de personal",
+        "C": "Gestión de archivos y registros",
+        "D": "Integración en tareas administrativas"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 7.1, «Importación y exportación entre aplicaciones», página 333."
+    },
+    {
+      "id": "OFI-T7-NORMAL-03",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.10 Control de versiones y actualización",
+      "pagina_manual": 341,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Actualización: en ocasiones, el documento se queda obsoleto porque le falta información nueva.»",
+      "opciones": {
+        "A": "Integración en tareas administrativas",
+        "B": "Control de versiones y actualización",
+        "C": "Gestión de personal",
+        "D": "Gestión de archivos y registros"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 7.10, «Control de versiones y actualización», página 341."
+    },
+    {
+      "id": "OFI-T7-NORMAL-04",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.4 Gestión de personal",
+      "pagina_manual": 337,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Gestión de personal»?",
+      "opciones": {
+        "A": "Enganchado: el elemento se inserta literalmente en el documento, de tal manera que no queda vinculado ni conectado a ningún fichero externo.",
+        "B": "Una de las funcionalidades más útiles de Access es su capacidad para interactuar con datos de otros programas.",
+        "C": "Para hacer una buena gestión de personal, hay que motivar, liderar, organizar y coordinar los equipos que forman parte de la empresa.",
+        "D": "Consiste en unificar los esfuerzos organizacionales. sería EGA Futura, disponible en una edición 5."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 7.4: «Gestión de personal» (página 337 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T7-NORMAL-05",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.7 Documentos vinculados e incrustados",
+      "pagina_manual": 340,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Por tanto, es importante, si tenemos documentos incrustados o vinculados, mantener su ruta o actualizar los enlaces en el documento que los contiene.»",
+      "opciones": {
+        "A": "Gestión de personal",
+        "B": "Control de versiones y actualización",
+        "C": "Integración en tareas administrativas",
+        "D": "Documentos vinculados e incrustados"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 7.7, «Documentos vinculados e incrustados», página 340."
+    },
+    {
+      "id": "OFI-T7-NORMAL-06",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 339,
+      "pregunta": "¿Qué modalidad inserta una copia de un objeto dentro de otro documento?",
+      "opciones": {
+        "A": "Incrustación",
+        "B": "Una copia de seguridad del sistema",
+        "C": "Un mensaje de error",
+        "D": "Una consulta DNS"
+      },
+      "correcta": "A",
+      "explicacion": "Un objeto incrustado se incluye en el documento destino, a diferencia de un vínculo."
+    },
+    {
+      "id": "OFI-T7-NORMAL-07",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.4 Gestión de personal",
+      "pagina_manual": 336,
+      "pregunta": "En el apartado «Gestión de personal», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Contribuir al impacto social de la empresa en el entorno en que desarrolla sus actividades.",
+        "B": "Gestión de personal La gestión de personal es una de las tareas más complejas dentro de la empresa.",
+        "C": "Las nuevas tecnologías y el uso de internet han revolucionado la manera como se intercambian datos entre organizaciones o con las Administraciones públicas.",
+        "D": "En estos casos, deberemos realizar una re- La obsolescencia se produce visión y modificación del archivo."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 7.4: «Gestión de personal» (página 336 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T7-NORMAL-08",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.2 Integración en tareas administrativas",
+      "pagina_manual": 335,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «En ella se definen las metas, se fijan las estrategias para alcanzarlas y se trazan planes para integrar y coordinar las distintas actividades.»",
+      "opciones": {
+        "A": "Gestión de archivos y registros",
+        "B": "Control de versiones y actualización",
+        "C": "Integración en tareas administrativas",
+        "D": "Importación y exportación entre aplicaciones"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 7.2, «Integración en tareas administrativas», página 335."
+    },
+    {
+      "id": "OFI-T7-NORMAL-09",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.2 Integración en tareas administrativas",
+      "pagina_manual": 335,
+      "pregunta": "En el apartado «Integración en tareas administrativas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Gestión de archivos y registros La gestión administrativa se caracteriza por su carácter documental, ya que toda su actividad queda reflejada en documentos y archivos.",
+        "B": "En estos casos, deberemos realizar una re- La obsolescencia se produce visión y modificación del archivo.",
+        "C": "En los siguientes apartados vamos a ver cómo integrar documentos en diferentes aplicaciones ofimáticas.",
+        "D": "La Teoría de Fayol (Administración Positiva) define por primera vez las cinco funciones principales de la administración: planificación, organización, dirección, coordinación y control."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 7.2: «Integración en tareas administrativas» (página 335 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T7-NORMAL-10",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.9 Inserción en otros medios o documentos",
+      "pagina_manual": 341,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Inserción en otros medios o documentos Algunos ficheros pueden insertarse dentro de otros documentos.»",
+      "opciones": {
+        "A": "Inserción en otros medios o documentos",
+        "B": "Gestión de archivos y registros",
+        "C": "Gestión de registros contables",
+        "D": "Documentos vinculados e incrustados"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 7.9, «Inserción en otros medios o documentos», página 341."
+    },
+    {
+      "id": "OFI-T7-NORMAL-11",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 341,
+      "pregunta": "Antes de sobrescribir una versión compartida, ¿qué medida permite rastrear los cambios?",
+      "opciones": {
+        "A": "Desactivar nombres de archivo",
+        "B": "Control de versiones",
+        "C": "Cambiar todas las extensiones a TXT",
+        "D": "Un documento vinculado"
+      },
+      "correcta": "B",
+      "explicacion": "El control de versiones documenta revisiones y responsables."
+    },
+    {
+      "id": "OFI-T7-NORMAL-12",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.9 Inserción en otros medios o documentos",
+      "pagina_manual": 341,
+      "pregunta": "En el apartado «Inserción en otros medios o documentos», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Beneficios de la integración de aplicaciones La integración efectiva de aplicaciones puede ofrecer a la empresa: Más eficiencia y menor coste.",
+        "B": "Gestión de registros contables La gestión contable permite mantener un registro y un control de las operaciones financieras que se llevan a cabo en una organización.",
+        "C": "Google Drive permite importar documentos de Microsoft Office y, además, los puede convertir a su formato.",
+        "D": "Las imágenes también pueden ser convertidas a PDF mediante Adobe Acrobat Pro, ya que la versión Reader solo permite la visualización, no la conversión."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 7.9: «Inserción en otros medios o documentos» (página 341 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T7-NORMAL-13",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 340,
+      "pregunta": "Una empresa quiere distribuir documentos con aspecto uniforme entre plataformas. ¿Qué formato puede utilizar?",
+      "opciones": {
+        "A": "Configuración de memoria RAM",
+        "B": "Archivo ejecutable sin firma",
+        "C": "Etiqueta de red",
+        "D": "PDF"
+      },
+      "correcta": "D",
+      "explicacion": "La conversión a PDF facilita la conservación del diseño."
+    },
+    {
+      "id": "OFI-T7-NORMAL-14",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.3 Gestión de existencias",
+      "pagina_manual": 336,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Gestión de existencias La gestión y el control de existencias permite tomar decisiones sobre la cantidad a pedir de un producto, cuándo debe realizarse un pedido o cómo reducir los costes de almacenamiento, entre otras.»",
+      "opciones": {
+        "A": "Gestión de existencias",
+        "B": "Importación y exportación entre aplicaciones",
+        "C": "Documentos vinculados e incrustados",
+        "D": "Control de versiones y actualización"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 7.3, «Gestión de existencias», página 336."
+    },
+    {
+      "id": "OFI-T7-NORMAL-15",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.1 Importación y exportación entre aplicaciones",
+      "pagina_manual": 333,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Importación y exportación entre aplicaciones»?",
+      "opciones": {
+        "A": "En estos casos, deberemos realizar una re- La obsolescencia se produce visión y modificación del archivo.",
+        "B": "En los siguientes apartados vamos a ver cómo integrar documentos en diferentes aplicaciones ofimáticas.",
+        "C": "Resumen de la información para que pueda ser empleada por las personas encargadas de tomar las decisiones dentro de la organización.",
+        "D": "Por ejemplo, los valores de una celda de Excel pueden quedar vinculados a los de una base de datos, de tal manera que siempre que editemos dicho valor se modificará en la base de datos."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 7.1: «Importación y exportación entre aplicaciones» (página 333 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T7-NORMAL-16",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 339,
+      "pregunta": "Al crear un informe que obtiene datos de una hoja y se actualiza con el origen, ¿qué modalidad describe mejor la relación?",
+      "opciones": {
+        "A": "Una fotografía impresa",
+        "B": "Un archivo de audio desconectado",
+        "C": "Un documento vinculado",
+        "D": "Un texto sin relación con el origen"
+      },
+      "correcta": "C",
+      "explicacion": "La vinculación mantiene una referencia al origen de datos."
+    },
+    {
+      "id": "OFI-T7-NORMAL-17",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.6 Gestión de archivos y registros",
+      "pagina_manual": 338,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Podemos clasificar el software de gestión documental en función de su complejidad.»",
+      "opciones": {
+        "A": "Documentos vinculados e incrustados",
+        "B": "Conversión de documentos a PDF",
+        "C": "Integración en tareas administrativas",
+        "D": "Gestión de archivos y registros"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 7.6, «Gestión de archivos y registros», página 338."
+    },
+    {
+      "id": "OFI-T7-NORMAL-18",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.8 Conversión de documentos a PDF",
+      "pagina_manual": 340,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Conversión de documentos a PDF»?",
+      "opciones": {
+        "A": "Conversión de documentos a PDF Convertir documentos al formato PDF se realiza, como hemos explicado anteriormente, mediante la opción de Guardar como, donde escogeremos el tipo de archivo PDF.",
+        "B": "Beneficios de la integración de aplicaciones La integración efectiva de aplicaciones puede ofrecer a la empresa: Más eficiencia y menor coste.",
+        "C": "Integración de aplicaciones ofimáticas Una forma rápida de conocer los formatos de datos que Access puede importar o exportar es explorando la ficha Datos externos, tanto el grupo Importar y vincular como el de Exportar.",
+        "D": "En el mercado existen una gran variedad de software para la gestión contable de una compañía."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 7.8: «Conversión de documentos a PDF» (página 340 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T7-NORMAL-19",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.7 Documentos vinculados e incrustados",
+      "pagina_manual": 339,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Documentos con vinculación e incrustados Existen tres formas fundamentales de integrar archivos en las diversas aplicaciones ofimáticas: Vinculado: los datos quedan conectados entre dos documentos.»",
+      "opciones": {
+        "A": "Gestión de existencias",
+        "B": "Documentos vinculados e incrustados",
+        "C": "Gestión de personal",
+        "D": "Conversión de documentos a PDF"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 7.7, «Documentos vinculados e incrustados», página 339."
+    },
+    {
+      "id": "OFI-T7-NORMAL-20",
+      "tema": 7,
+      "nivel": "normal",
+      "apartado": "7.5 Gestión de registros contables",
+      "pagina_manual": 337,
+      "pregunta": "En el apartado «Gestión de registros contables», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Google Drive permite importar documentos de Microsoft Office y, además, los puede convertir a su formato.",
+        "B": "Beneficios de la integración de aplicaciones La integración efectiva de aplicaciones puede ofrecer a la empresa: Más eficiencia y menor coste.",
+        "C": "Gestión de registros contables La gestión contable permite mantener un registro y un control de las operaciones financieras que se llevan a cabo en una organización.",
+        "D": "Las nuevas tecnologías y el uso de internet han revolucionado la manera como se intercambian datos entre organizaciones o con las Administraciones públicas."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 7.5: «Gestión de registros contables» (página 337 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}

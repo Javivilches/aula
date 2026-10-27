@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 4,
+  "test": "Tema 4 · Test normal",
+  "preguntas": [
+    {
+      "id": "OFI-T4-NORMAL-01",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 124,
+      "pregunta": "¿Qué referencia permanece fija al arrastrar una fórmula a otra celda?",
+      "opciones": {
+        "A": "$B$2",
+        "B": "=SUMA(A1:A5)",
+        "C": "B$",
+        "D": "2B"
+      },
+      "correcta": "A",
+      "explicacion": "El signo $ delante de columna y fila crea una referencia absoluta."
+    },
+    {
+      "id": "OFI-T4-NORMAL-02",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 124,
+      "pregunta": "En una hoja de cálculo, ¿qué expresión realiza correctamente la suma del rango A1:A5 en configuración española?",
+      "opciones": {
+        "A": "Eliminación de datos sin autorización",
+        "B": "=SUMA(A1:A5)",
+        "C": "=A1/A5",
+        "D": "Desactivar las funciones principales"
+      },
+      "correcta": "B",
+      "explicacion": "SUMA calcula la suma de un rango continuo; las fórmulas empiezan por =."
+    },
+    {
+      "id": "OFI-T4-NORMAL-03",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.1 Introducción a las hojas de cálculo",
+      "pagina_manual": 87,
+      "pregunta": "En el apartado «Introducción a las hojas de cálculo», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "También se pueden realizar cambios de forma masiva utilizando las opciones de Copiar y Pegar desde el menú o mediante los atajos Ctrl + C y Ctrl + V, respectivamente.",
+        "B": "Apéndice El apéndice complementa el contenido del libro proporcionando herramientas adicionales, definiciones clave y recursos para profundizar en el uso de Google Sheets.",
+        "C": "Introducción a las hojas de cálculo Las hojas de cálculo son una herramienta esencial en el mundo digital.",
+        "D": "Formato condicional avanzado Google Sheets permite usar fórmulas personalizadas para crear reglas avanzadas."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 4.1: «Introducción a las hojas de cálculo» (página 87 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-NORMAL-04",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.5 Visualización y análisis de datos",
+      "pagina_manual": 132,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Visualización y análisis de datos»?",
+      "opciones": {
+        "A": "Colaboración: facilita el trabajo en equipo al permitir ediciones simultáneas en todas las herramientas.",
+        "B": "B1:B10) En este caso, si “ProductoX” se encuentra en A5, la función devolverá el valor correspondiente en B5.",
+        "C": "Gestión de datos El manejo eficiente de los datos es el núcleo del trabajo en una hoja de cálculo.",
+        "D": "Personalización avanzada de gráficos Google Sheets permite personalizar gráficos para adaptarlos a las necesidades específicas de presentación y análisis."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 4.5: «Visualización y análisis de datos» (página 132 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-NORMAL-05",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.6 Colaboración en tiempo real e integración con Google",
+      "pagina_manual": 151,
+      "pregunta": "En el apartado «Colaboración en tiempo real e integración con Google», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "El uso combinado de comentarios, notas y edición en tiempo real hace que Google Sheets sea una herramienta poderosa para la colaboración efectiva.",
+        "B": "Operación de multiplicación La multiplicación se realiza utilizando el símbolo del asterisco (*): 1.",
+        "C": "IZQUIERDA, DERECHA y EXTRAE Estas funciones permiten extraer partes específicas de un texto: IZQUIERDA: devuelve un número especificado de caracteres desde el inicio del texto.",
+        "D": "Series automáticas Las series automáticas permiten generar rápidamente listas de valores relacionados, como números consecutivos, días de la semana, meses o cualquier secuencia personalizada."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 4.6: «Colaboración en tiempo real e integración con Google» (página 151 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-NORMAL-06",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.6 Colaboración en tiempo real e integración con Google",
+      "pagina_manual": 148,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Colaboración en tiempo real e integración con Google»?",
+      "opciones": {
+        "A": "Aplicar formatos adecuados es esencial para garantizar la claridad y la coherencia en una hoja de cálculo.",
+        "B": "Comentarios, notas y edición en tiempo real Google Sheets facilita la colaboración mediante herramientas como comentarios, notas y edición simultánea.",
+        "C": "También incluye iconos para realizar acciones rápidas, como insertar gráficos, aplicar formato condicional o introducir funciones.",
+        "D": "Modificar el diseño del gráfico En la pestaña Personalizar se pueden ajustar los siguientes aspectos: Títulos: – Cambiar el título principal y los subtítulos. – Ajustar el tamaño, color y fuente del texto."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 4.6: «Colaboración en tiempo real e integración con Google» (página 148 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-NORMAL-07",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.7 Funciones avanzadas y automatización",
+      "pagina_manual": 156,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Funciones condicionales: SI, CONTAR.SI, BUSCAR Las funciones condicionales son herramientas avanzadas que permiten realizar cálculos o devolver resultados basados en condiciones específicas.»",
+      "opciones": {
+        "A": "Colaboración en tiempo real e integración con Google",
+        "B": "Gestión de datos",
+        "C": "Funciones avanzadas y automatización",
+        "D": "Formato y diseño de hojas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 4.7, «Funciones avanzadas y automatización», página 156."
+    },
+    {
+      "id": "OFI-T4-NORMAL-08",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 124,
+      "pregunta": "¿Qué función resume el promedio aritmético de varios importes?",
+      "opciones": {
+        "A": "CONTAR",
+        "B": "MAX",
+        "C": "SUMA",
+        "D": "PROMEDIO"
+      },
+      "correcta": "D",
+      "explicacion": "PROMEDIO suma los valores y los divide entre su cantidad."
+    },
+    {
+      "id": "OFI-T4-NORMAL-09",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 95,
+      "pregunta": "Una tabla necesita mostrar solo clientes de una provincia sin eliminar datos. ¿Qué recurso usarías?",
+      "opciones": {
+        "A": "Un filtro",
+        "B": "Borrar las filas de otras provincias",
+        "C": "Cambiar el nombre de la hoja",
+        "D": "Cerrar el libro"
+      },
+      "correcta": "A",
+      "explicacion": "Los filtros ocultan temporalmente registros que no cumplen las condiciones."
+    },
+    {
+      "id": "OFI-T4-NORMAL-10",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.3 Formato y diseño de hojas",
+      "pagina_manual": 119,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Uso de temas y diseño personalizado Google Sheets permite personalizar el diseño de las hojas de cálculo para que sean más atractivas y profesionales.»",
+      "opciones": {
+        "A": "Introducción a las hojas de cálculo",
+        "B": "Formato y diseño de hojas",
+        "C": "Gestión de datos",
+        "D": "Visualización y análisis de datos"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 4.3, «Formato y diseño de hojas», página 119."
+    },
+    {
+      "id": "OFI-T4-NORMAL-11",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.2 Gestión de datos",
+      "pagina_manual": 95,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Gestión de datos»?",
+      "opciones": {
+        "A": "Cada usuario está identificado con un color específico, facilitando el seguimiento de quién realiza cada modificación.",
+        "B": "Para personalizarla: Ajustar su posición (arriba, abajo, izquierda, derecha o dentro del gráfico).",
+        "C": "Gestión de datos El manejo eficiente de los datos es el núcleo del trabajo en una hoja de cálculo.",
+        "D": "Protección de celdas y pestañas Google Sheets permite proteger datos sensibles mediante permisos: 1."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 4.2: «Gestión de datos» (página 95 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-NORMAL-12",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.5 Visualización y análisis de datos",
+      "pagina_manual": 132,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Visualización y análisis de datos La capacidad de visualizar y analizar datos en Google Sheets permite identificar patrones, comunicar información de manera efectiva y tomar decisiones basadas en los datos.»",
+      "opciones": {
+        "A": "Gestión de datos",
+        "B": "Introducción a las hojas de cálculo",
+        "C": "Fórmulas y funciones básicas",
+        "D": "Visualización y análisis de datos"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 4.5, «Visualización y análisis de datos», página 132."
+    },
+    {
+      "id": "OFI-T4-NORMAL-13",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.2 Gestión de datos",
+      "pagina_manual": 95,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Este proceso se realiza directamente en las celdas, que forman la cuadrícula principal de la hoja de cálculo.»",
+      "opciones": {
+        "A": "Gestión de datos",
+        "B": "Formato y diseño de hojas",
+        "C": "Fórmulas y funciones básicas",
+        "D": "Visualización y análisis de datos"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 4.2, «Gestión de datos», página 95."
+    },
+    {
+      "id": "OFI-T4-NORMAL-14",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.6 Colaboración en tiempo real e integración con Google",
+      "pagina_manual": 148,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Colaboración en tiempo real e integración con Google»?",
+      "opciones": {
+        "A": "Esto facilita el trabajo en equipo y permite resolver dudas en el momento mediante el uso de comentarios o el chat integrado.",
+        "B": "Elaboración de documentos y plantillas mediante hojas de cálculo Beneficios de la colaboración en tiempo real Los cambios realizados por cualquier usuario se reflejan automáticamente para todos los demás.",
+        "C": "Personalización de series También es posible crear series personalizadas para datos específicos: 1.",
+        "D": "Combinar barras de progreso con gráficos de barras para comparar resultados visuales y numéricos."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 4.6: «Colaboración en tiempo real e integración con Google» (página 148 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-NORMAL-15",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.4 Fórmulas y funciones básicas",
+      "pagina_manual": 127,
+      "pregunta": "En el apartado «Fórmulas y funciones básicas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "En caso de que existan múltiples reglas aplicadas al mismo rango: Abrir el menú Formato condicional para ver todas las reglas activas.",
+        "B": "Revisar regularmente las reglas de formato condicional para asegurarse de que sigan siendo relevantes.",
+        "C": "Dominar las operaciones básicas es esencial para realizar cálculos rápidos y precisos en Google Sheets, sentando las bases para el uso de funciones más avanzadas.",
+        "D": "Función SI La función SI evalúa una condición y devuelve un resultado dependiendo de si esta es verdadera o falsa."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 4.4: «Fórmulas y funciones básicas» (página 127 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-NORMAL-16",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.8 Apéndice de hojas de cálculo",
+      "pagina_manual": 166,
+      "pregunta": "En el apartado «Apéndice de hojas de cálculo», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "En caso de que existan múltiples reglas aplicadas al mismo rango: Abrir el menú Formato condicional para ver todas las reglas activas.",
+        "B": "B1:B10) En este caso, si “ProductoX” se encuentra en A5, la función devolverá el valor correspondiente en B5.",
+        "C": "Comentarios Los comentarios son una herramienta para discutir ideas, señalar errores o asignar tareas dentro de un archivo de Google Sheets.",
+        "D": "Elaboración de documentos y plantillas mediante hojas de cálculo Funciones y fórmulas F2: editar una celda activa sin sobrescribir el contenido."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 4.8: «Apéndice de hojas de cálculo» (página 166 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-NORMAL-17",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.3 Formato y diseño de hojas",
+      "pagina_manual": 105,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Formato y diseño de hojas El formato y diseño en Google Sheets no solo mejora la apariencia de una hoja de cálculo, sino que también facilita su comprensión.»",
+      "opciones": {
+        "A": "Formato y diseño de hojas",
+        "B": "Gestión de datos",
+        "C": "Introducción a las hojas de cálculo",
+        "D": "Visualización y análisis de datos"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 4.3, «Formato y diseño de hojas», página 105."
+    },
+    {
+      "id": "OFI-T4-NORMAL-18",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.1 Introducción a las hojas de cálculo",
+      "pagina_manual": 88,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Elaboración de documentos y plantillas mediante hojas de cálculo En el análisis de datos, permiten transformar grandes cantidades de información en gráficos o tablas que simplifican la toma de decisiones.»",
+      "opciones": {
+        "A": "Visualización y análisis de datos",
+        "B": "Introducción a las hojas de cálculo",
+        "C": "Funciones avanzadas y automatización",
+        "D": "Fórmulas y funciones básicas"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 4.1, «Introducción a las hojas de cálculo», página 88."
+    },
+    {
+      "id": "OFI-T4-NORMAL-19",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.7 Funciones avanzadas y automatización",
+      "pagina_manual": 156,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Funciones avanzadas y automatización Google Sheets ofrece funciones avanzadas y herramientas de automatización que permiten optimizar procesos, analizar datos complejos y reducir tareas repetitivas.»",
+      "opciones": {
+        "A": "Gestión de datos",
+        "B": "Colaboración en tiempo real e integración con Google",
+        "C": "Funciones avanzadas y automatización",
+        "D": "Visualización y análisis de datos"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 4.7, «Funciones avanzadas y automatización», página 156."
+    },
+    {
+      "id": "OFI-T4-NORMAL-20",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4.4 Fórmulas y funciones básicas",
+      "pagina_manual": 124,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Fórmulas y funciones básicas Las fórmulas y funciones son el corazón de cualquier hoja de cálculo.»",
+      "opciones": {
+        "A": "Funciones avanzadas y automatización",
+        "B": "Gestión de datos",
+        "C": "Colaboración en tiempo real e integración con Google",
+        "D": "Fórmulas y funciones básicas"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 4.4, «Fórmulas y funciones básicas», página 124."
+    }
+  ]
+}

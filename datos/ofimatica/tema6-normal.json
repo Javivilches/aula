@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 6,
+  "test": "Tema 6 · Test normal",
+  "preguntas": [
+    {
+      "id": "OFI-T6-NORMAL-01",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.7 Seguridad y buenas prácticas",
+      "pagina_manual": 324,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Buenas prácticas para copias de seguridad Establecer un cronograma de exportaciones: realizar respaldos regularmente, como diario, semanal o mensual, dependiendo del volumen de datos.»",
+      "opciones": {
+        "A": "Automatización de flujos de trabajo",
+        "B": "Primeros pasos con AppSheet",
+        "C": "Seguridad y buenas prácticas",
+        "D": "Aplicaciones prácticas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 6.7, «Seguridad y buenas prácticas», página 324."
+    },
+    {
+      "id": "OFI-T6-NORMAL-02",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.5 Automatización de flujos de trabajo",
+      "pagina_manual": 299,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Automatización de flujos de trabajo»?",
+      "opciones": {
+        "A": "Introducción a las aplicaciones no-code Las plataformas no-code permiten a los usuarios crear aplicaciones funcionales basadas en datos sin escribir código.",
+        "B": "Resultado esperado Una aplicación que permite a los usuarios ver y actualizar sus tareas, recibir recordatorios y visualizar el progreso general del equipo.",
+        "C": "Vistas de formulario Descripción: permiten a los usuarios introducir o editar datos mediante campos interactivos.",
+        "D": "Automatización de flujos de trabajo La automatización de flujos de trabajo es una de las características más potentes de AppSheet."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 6.5: «Automatización de flujos de trabajo» (página 299 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-NORMAL-03",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.8 Aplicaciones prácticas",
+      "pagina_manual": 330,
+      "pregunta": "En el apartado «Aplicaciones prácticas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Las aplicaciones prácticas demuestran cómo AppSheet puede integrarse en diferentes contextos para resolver problemas de manera eficiente y accesible.",
+        "B": "En la pestaña Security (Seguridad), activar la opción Require user sign-in (Requerir inicio de sesión).",
+        "C": "Bases de datos Consejos para elegir el tipo de vista Usar vistas de tabla para proporcionar una visión general de los datos.",
+        "D": "Consejos para garantizar la escalabilidad Realizar pruebas regulares con un volumen creciente de datos para evaluar el rendimiento."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 6.8: «Aplicaciones prácticas» (página 330 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-NORMAL-04",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.3 Diseño de la estructura de datos",
+      "pagina_manual": 278,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Diseño de la estructura de datos El diseño de la estructura de datos es uno de los pasos más importantes al crear una aplicación con AppSheet.»",
+      "opciones": {
+        "A": "Automatización de flujos de trabajo",
+        "B": "Diseño de la estructura de datos",
+        "C": "Seguridad y buenas prácticas",
+        "D": "Aplicaciones prácticas"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 6.3, «Diseño de la estructura de datos», página 278."
+    },
+    {
+      "id": "OFI-T6-NORMAL-05",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 289,
+      "pregunta": "¿Qué recurso de AppSheet muestra los registros de manera distinta según su función?",
+      "opciones": {
+        "A": "La fuente del sistema operativo",
+        "B": "Los marcadores del navegador",
+        "C": "Las vistas de la aplicación",
+        "D": "Los cables del ordenador"
+      },
+      "correcta": "C",
+      "explicacion": "Las vistas permiten mostrar registros como tablas, formularios y otras presentaciones."
+    },
+    {
+      "id": "OFI-T6-NORMAL-06",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.1 Introducción a la gestión de datos y AppSheet",
+      "pagina_manual": 261,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Introducción a la gestión de datos y AppSheet»?",
+      "opciones": {
+        "A": "Configuración de filtros en vistas Los filtros se utilizan para mostrar solo los datos que cumplen ciertas condiciones.",
+        "B": "Probar en entornos reales: evaluar cómo los usuarios interactúan con la aplicación y ajustar las configuraciones en consecuencia.",
+        "C": "Supervisión de pedidos modificados Supongamos que un administrador desea supervisar los cambios realizados en los pedidos: 1.",
+        "D": "Introducción a la gestión de datos las páginas y AppSheet En el mundo actual, la gestión de datos es fundamental para optimizar Para profundizar en el uso de Microsoft Access, procesos y tomar decisiones basadas en información precisa."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 6.1: «Introducción a la gestión de datos y AppSheet» (página 261 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-NORMAL-07",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.3 Diseño de la estructura de datos",
+      "pagina_manual": 281,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Diseño de la estructura de datos»?",
+      "opciones": {
+        "A": "Un diseño bien planificado asegura que los datos estén organizados de forma eficiente y permite a AppSheet generar aplicaciones funcionales sin complicaciones.",
+        "B": "Bases de datos Optimizar columnas y tablas Eliminar columnas innecesarias en las tablas conectadas para reducir la cantidad de datos procesados.",
+        "C": "Configurar las tablas: – Crear una tabla llamada «Productos» con columnas como: ◦ID Producto (clave primaria) ◦Nombre del producto ◦Categoría ◦Cantidad ◦Precio unitario 2.",
+        "D": "Bases de datos Consejos para implementar notificaciones Evitar notificaciones excesivas: configurar condiciones claras para enviar alertas solo cuando sea realmente necesario."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 6.3: «Diseño de la estructura de datos» (página 281 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-NORMAL-08",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.5 Automatización de flujos de trabajo",
+      "pagina_manual": 304,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «La automatización de notificaciones y alertas en AppSheet permite mantener informados a los usuarios y garantizar que las tareas importantes se realicen a tiempo, mejorando la comunicación y la eficiencia.»",
+      "opciones": {
+        "A": "Funciones avanzadas y optimización",
+        "B": "Automatización de flujos de trabajo",
+        "C": "Diseño de la estructura de datos",
+        "D": "Creación y personalización de vistas"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 6.5, «Automatización de flujos de trabajo», página 304."
+    },
+    {
+      "id": "OFI-T6-NORMAL-09",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.2 Primeros pasos con AppSheet",
+      "pagina_manual": 269,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Este capítulo es una guía de los pasos iniciales para empezar a trabajar con AppSheet, desde el acceso hasta la creación de la primera aplicación básica.»",
+      "opciones": {
+        "A": "Diseño de la estructura de datos",
+        "B": "Aplicaciones prácticas",
+        "C": "Primeros pasos con AppSheet",
+        "D": "Automatización de flujos de trabajo"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 6.2, «Primeros pasos con AppSheet», página 269."
+    },
+    {
+      "id": "OFI-T6-NORMAL-10",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.7 Seguridad y buenas prácticas",
+      "pagina_manual": 318,
+      "pregunta": "En el apartado «Seguridad y buenas prácticas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Consejos generales para optimización Priorizar la simplicidad: evitar configuraciones excesivamente complejas que puedan afectar el rendimiento.",
+        "B": "Un diseño bien planificado asegura que los datos estén organizados de forma eficiente y permite a AppSheet generar aplicaciones funcionales sin complicaciones.",
+        "C": "Consejos para usar el panel de control Familiarizarse con cada pestaña del editor para aprovechar todas las funcionalidades de AppSheet.",
+        "D": "Seguridad y buenas prácticas La seguridad es un aspecto fundamental en cualquier aplicación que maneje datos sensibles o confidenciales."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 6.7: «Seguridad y buenas prácticas» (página 318 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-NORMAL-11",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 318,
+      "pregunta": "Un administrador necesita limitar quién puede consultar datos de clientes. ¿Qué aspecto debe configurar?",
+      "opciones": {
+        "A": "Acceso y permisos de seguridad",
+        "B": "El color del icono",
+        "C": "La longitud del título",
+        "D": "El orden alfabético de los dispositivos"
+      },
+      "correcta": "A",
+      "explicacion": "Una aplicación de empresa debe restringir accesos según las responsabilidades."
+    },
+    {
+      "id": "OFI-T6-NORMAL-12",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.4 Creación y personalización de vistas",
+      "pagina_manual": 292,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Vistas de formulario Descripción: permiten a los usuarios introducir o editar datos mediante campos interactivos.»",
+      "opciones": {
+        "A": "Primeros pasos con AppSheet",
+        "B": "Creación y personalización de vistas",
+        "C": "Seguridad y buenas prácticas",
+        "D": "Automatización de flujos de trabajo"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 6.4, «Creación y personalización de vistas», página 292."
+    },
+    {
+      "id": "OFI-T6-NORMAL-13",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 261,
+      "pregunta": "La empresa quiere que una modificación de la hoja de datos se refleje en su aplicación. ¿Qué concepto es fundamental?",
+      "opciones": {
+        "A": "Crear tablas sin campos",
+        "B": "Copiar registros en un archivo impreso",
+        "C": "Vinculación entre origen de datos y aplicación",
+        "D": "Desconectar permanentemente la aplicación"
+      },
+      "correcta": "C",
+      "explicacion": "AppSheet trabaja sobre un origen de datos organizado que debe mantenerse consistente."
+    },
+    {
+      "id": "OFI-T6-NORMAL-14",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.6 Funciones avanzadas y optimización",
+      "pagina_manual": 309,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Uso de expresiones avanzadas en AppSheet Las expresiones en AppSheet son herramientas que permiten realizar cálculos, establecer condiciones y manipular datos dinámicamente dentro de la aplicación.»",
+      "opciones": {
+        "A": "Seguridad y buenas prácticas",
+        "B": "Diseño de la estructura de datos",
+        "C": "Creación y personalización de vistas",
+        "D": "Funciones avanzadas y optimización"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 6.6, «Funciones avanzadas y optimización», página 309."
+    },
+    {
+      "id": "OFI-T6-NORMAL-15",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.1 Introducción a la gestión de datos y AppSheet",
+      "pagina_manual": 261,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Este capítulo introduce los conceptos bá- Anexo sicos sobre bases de datos y establece el marco teórico necesario para trabajar con AppSheet.»",
+      "opciones": {
+        "A": "Introducción a la gestión de datos y AppSheet",
+        "B": "Funciones avanzadas y optimización",
+        "C": "Aplicaciones prácticas",
+        "D": "Seguridad y buenas prácticas"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 6.1, «Introducción a la gestión de datos y AppSheet», página 261."
+    },
+    {
+      "id": "OFI-T6-NORMAL-16",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.4 Creación y personalización de vistas",
+      "pagina_manual": 289,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Creación y personalización de vistas»?",
+      "opciones": {
+        "A": "Configurar automatizaciones: – Enviar una notificación cuando una tarea esté próxima a vencer ([Fecha límite] <= TODAY() + 2). – Cambiar automáticamente el estado a «Completada» cuando se registre una fecha de finalización.",
+        "B": "Creación y personalización de vistas Las vistas son la forma en que los datos se presentan en una aplicación de AppSheet.",
+        "C": "Este capítulo se centra en cómo configurar la seguridad de las aplicaciones y adoptar buenas prácticas para mantener la integridad y confidencialidad de la información.",
+        "D": "Probar las relaciones configuradas utilizando la función de previsualización para asegurarse de que funcionan como se espera."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 6.4: «Creación y personalización de vistas» (página 289 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-NORMAL-17",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.6 Funciones avanzadas y optimización",
+      "pagina_manual": 309,
+      "pregunta": "En el apartado «Funciones avanzadas y optimización», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Configurar las tablas: – Crear una tabla «Tareas» con columnas como: ◦ID Tarea (clave primaria) ◦Descripción ◦Responsable ◦Fecha límite ◦Estado 2.",
+        "B": "Vistas de gráficos Descripción: presentan los datos de manera visual en gráficos de barras, líneas, circulares o combinados.",
+        "C": "Funciones avanzadas y optimización A medida que las aplicaciones creadas con AppSheet se vuelven más complejas, es necesario aprovechar funcionalidades avanzadas para mejorar su eficiencia y personalización.",
+        "D": "Clave externa: una clave externa es un campo que conecta una tabla con otra mediante una relación."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 6.6: «Funciones avanzadas y optimización» (página 309 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-NORMAL-18",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.2 Primeros pasos con AppSheet",
+      "pagina_manual": 269,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Primeros pasos con AppSheet Antes de empezar a desarrollar aplicaciones en AppSheet, es importante entender cómo acceder a la plataforma, qué requisitos se necesitan y cómo configurar las primeras conexiones con los datos.»",
+      "opciones": {
+        "A": "Diseño de la estructura de datos",
+        "B": "Aplicaciones prácticas",
+        "C": "Funciones avanzadas y optimización",
+        "D": "Primeros pasos con AppSheet"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 6.2, «Primeros pasos con AppSheet», página 269."
+    },
+    {
+      "id": "OFI-T6-NORMAL-19",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 278,
+      "pregunta": "Una aplicación en AppSheet identifica cada registro de una tabla. ¿Qué elemento conviene definir correctamente?",
+      "opciones": {
+        "A": "Una columna clave única",
+        "B": "Una imagen con la fecha",
+        "C": "Un fondo de pantalla",
+        "D": "Una tipografía distinta por fila"
+      },
+      "correcta": "A",
+      "explicacion": "La clave distingue de forma estable los registros."
+    },
+    {
+      "id": "OFI-T6-NORMAL-20",
+      "tema": 6,
+      "nivel": "normal",
+      "apartado": "6.3 Diseño de la estructura de datos",
+      "pagina_manual": 284,
+      "pregunta": "En el apartado «Diseño de la estructura de datos», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Usar Security Filters (Filtros de seguridad) para limitar los datos descargados al dispositivo del usuario.",
+        "B": "Mejora la escalabilidad: permite añadir nuevas funcionalidades o tablas sin alterar la estructura existente.",
+        "C": "Tipos de vistas en AppSheet Vistas de tabla Descripción: muestran los datos en un formato tabular con filas y columnas, similar a una hoja de cálculo.",
+        "D": "Esta funcionalidad es ideal para enviar reportes periódicos, compartir datos con equipos o realizar copias de seguridad."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 6.3: «Diseño de la estructura de datos» (página 284 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}

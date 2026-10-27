@@ -16,20 +16,22 @@
     {name:'Programación del seguimiento y control de las variables del aprovisionamiento', short:'Recepción, KPI y control documental'},
     {name:'Fases y operaciones de la cadena logística', short:'Cadena logística, costes y devoluciones'}
   ];
+  const TOPICS_OFIMATICA = [{"name": "Mantenimiento básico de equipos, aplicaciones y redes", "short": "Hardware, software, redes y seguridad"}, {"name": "Escritura de textos según la técnica mecanográfica", "short": "Ergonomía y mecanografía práctica"}, {"name": "Herramientas de internet para la empresa", "short": "Internet, búsquedas y herramientas colaborativas"}, {"name": "Elaboración de documentos y plantillas mediante hojas de cálculo", "short": "Hojas de cálculo y Google Sheets"}, {"name": "Elaboración de documentos y plantillas mediante procesadores de texto", "short": "Documentos y Google Docs"}, {"name": "Bases de datos", "short": "Datos, AppSheet y automatización"}, {"name": "Integración de aplicaciones ofimáticas", "short": "Integración, importación y versiones"}, {"name": "El correo electrónico y la agenda electrónica", "short": "Correo, agenda y seguridad"}, {"name": "Elaboración de presentaciones", "short": "Presentaciones de Google y anexo de bases de datos"}];
+  const TOPICS_CONTABILIDAD = [{"name": "Determinación de los elementos patrimoniales de la empresa", "short": "Patrimonio, balance y equilibrio"}, {"name": "Integración de la contabilidad y metodología contable", "short": "Cuentas, partida doble y ciclo contable"}, {"name": "Supervisión, documentación y registro contable de la actividad comercial", "short": "Asientos, operaciones comerciales e impuestos"}];
   const SUBJECTS = [
     {id:'rrhh',name:'Recursos Humanos y Responsabilidad Social Corporativa',short:'Recursos Humanos y RSC',topics:TOPICS_RRHH,number:'01'},
     {id:'logistica',name:'Gestión Logística y Comercial',short:'Gestión Logística y Comercial',topics:TOPICS_LOGISTICA,number:'02'},
-    ...Array.from({length:4},(_,i)=>({id:`asignatura-${i+1}`,name:`Asignatura ${i+3}`,short:`Asignatura ${i+3}`,topics:[],number:String(i+3).padStart(2,'0')}))
+    {id:'ofimatica',name:'Ofimática y Proceso de la Información',short:'Ofimática y Proceso de la Información',topics:TOPICS_OFIMATICA,number:'03'},
+    {id:'contabilidad',name:'Proceso Integral de la Actividad Comercial - A',short:'Proceso Integral de la Actividad Comercial - A',topics:TOPICS_CONTABILIDAD,number:'04'},
+    ...Array.from({length:2},(_,i)=>({id:`asignatura-${i+5}`,name:`Asignatura ${i+5}`,short:`Asignatura ${i+5}`,topics:[],number:String(i+5).padStart(2,'0')}))
   ];
   const SUBJECT_BY_ID = Object.fromEntries(SUBJECTS.map(s=>[s.id,s]));
   const TESTS = {};
-  for(const [subject,folder] of [['rrhh','recursos-humanos'],['logistica','gestion-logistica']]){
-    for(let n=1;n<=5;n++){
-      for(const level of ['normal','dificil']) TESTS[`${subject}-${n}-${level}`]=`datos/${folder}/tema${n}-${level}.json`;
-      TESTS[`${subject}-final${n}`]=`datos/${folder}/final${n}.json`;
-    }
+  for(const [subject,folder,ntopics] of [['rrhh','recursos-humanos',5],['logistica','gestion-logistica',5],['ofimatica','ofimatica',9],['contabilidad','proceso-comercial-a',3]]){
+    for(let n=1;n<=ntopics;n++)for(const level of ['normal','dificil'])TESTS[`${subject}-${n}-${level}`]=`datos/${folder}/tema${n}-${level}.json`;
+    for(let n=1;n<=5;n++)TESTS[`${subject}-final${n}`]=`datos/${folder}/final${n}.json`;
   }
-  const SUMMARY_PATH = {rrhh:'resumenes/recursos-humanos/',logistica:'resumenes/gestion-logistica/'};
+  const SUMMARY_PATH = {rrhh:'resumenes/recursos-humanos/',logistica:'resumenes/gestion-logistica/',ofimatica:'resumenes/ofimatica/',contabilidad:'resumenes/proceso-comercial-a/'};
   let currentSubject = 'rrhh';
   let TOPICS = TOPICS_RRHH;
   const LS_PREFIX = 'mi-aula:v3:';
@@ -63,16 +65,16 @@
       <div><span class="eyebrow on-dark">${ic('sparkle')} Tu espacio personal de estudio</span>
         <h1 class="page-title">Un paso más cerca<br>de tu <span style="color:var(--gold)">objetivo.</span></h1>
         <p class="page-subtitle">Todo lo que necesitas para preparar tus exámenes, bien organizado y a tu ritmo. Estudia los resúmenes y demuestra lo que sabes con cada test.</p>
-        <div class="hero-bottom"><span class="hero-chip">${ic('book')} 10 temas disponibles</span><span class="hero-chip">${ic('target')} ${total} test para practicar</span></div>
+        <div class="hero-bottom"><span class="hero-chip">${ic('book')} ${SUBJECTS.filter(s=>s.topics.length).reduce((n,s)=>n+s.topics.length,0)} temas disponibles</span><span class="hero-chip">${ic('target')} ${total} test para practicar</span></div>
       </div>
       <div class="hero-art" aria-hidden="true"><div class="hero-art-card">${ic('book')}</div></div>
     </section>
     <div class="section-head"><div><span class="eyebrow">Biblioteca de asignaturas</span><h2>¿Qué vamos a estudiar hoy?</h2></div><span class="section-note">${completed} de ${total} test completados</span></div>
     <section class="subjects-grid" aria-label="Asignaturas">${SUBJECTS.map((subject,i)=>{
-      const available=i<2;
+      const available=i<4;
       return `<button type="button" class="subject-card ${available?'':'disabled'}" ${available?`data-action="open-subject" data-subject="${subject.id}"`:`disabled aria-label="${html(subject.name)}, próximamente"`}>
       <span class="subject-top"><span class="subject-icon">${ic(available?'book':'lock')}</span><span class="subject-index">${String(i+1).padStart(2,'0')} / 06</span></span>
-      <span class="subject-title">${html(subject.short)}</span><span class="subject-desc">${available?'5 temas · 10 resúmenes · 15 test':'Próximamente'}</span>
+      <span class="subject-title">${html(subject.short)}</span><span class="subject-desc">${available?`${subject.topics.length} temas · ${subject.topics.length*2} resúmenes · ${subject.topics.length*2+5} test`:'Próximamente'}</span>
       <span class="subject-bottom"><span>${available?'Explorar asignatura':'En preparación'}</span>${ic(available?'arrow-right':'lock')}</span></button>`;}).join('')}</section>`;
   }
 
@@ -99,9 +101,9 @@
     <section class="subject-hero"><div><span class="eyebrow on-dark course-kicker">${ic('book')} ASIGNATURA ${subject.number}</span><h1 class="page-title">${html(subject.name)}</h1>
       <p class="page-subtitle">Tus resúmenes y test, organizados por temas. Empieza por comprender, practica y después comprueba tus conocimientos.</p></div>
       <div class="subject-side-icon" aria-hidden="true">${ic('book')}</div></section>
-      <div class="quick-stats"><div class="stat-mini">${ic('book')}<span><strong>5</strong> <small>temas</small></span></div>
-        <div class="stat-mini">${ic('file')}<span><strong>10</strong> <small>resúmenes</small></span></div>
-        <div class="stat-mini">${ic('target')}<span><strong>${subjectCompleted}/15</strong> <small>test completados</small></span></div></div>
+      <div class="quick-stats"><div class="stat-mini">${ic('book')}<span><strong>${TOPICS.length}</strong> <small>temas</small></span></div>
+        <div class="stat-mini">${ic('file')}<span><strong>${TOPICS.length*2}</strong> <small>resúmenes</small></span></div>
+        <div class="stat-mini">${ic('target')}<span><strong>${subjectCompleted}/${TOPICS.length*2+5}</strong> <small>test completados</small></span></div></div>
       <div class="section-head"><div><span class="eyebrow">Tu temario</span><h2>Elige un tema para empezar</h2></div><span class="section-note">Pulsa para desplegar los materiales</span></div>
       <div class="topic-list">${TOPICS.map((t,i)=>{const n=i+1;const open=openedTopic===i;return `<section class="topic ${open?'is-open':''}" id="tema-${n}">
         <button type="button" class="topic-toggle" data-action="toggle" data-topic="${i}" aria-expanded="${open}" aria-controls="topic-body-${n}">
@@ -109,8 +111,8 @@
           <span class="topic-state"><small>2 resúmenes · 2 test</small><span class="topic-chevron">${ic('chevron-down')}</span></span></button>
         ${open?`<div class="topic-content" id="topic-body-${n}"><div class="resource-grid">${resourcePDF(n,'basico')}${resourcePDF(n,'ampliado')}${resourceTest(n,'normal')}${resourceTest(n,'dificil')}</div></div>`:''}</section>`}).join('')}</div>
       <section class="finals"><div class="final-head"><span class="eyebrow on-dark">${ic('award')} El gran repaso</span><span class="badge-later available">5 simulacros disponibles</span></div>
-      <h2>Test finales</h2><p>150 preguntas adicionales y los 5 temas mezclados. ${currentSubject==='rrhh'?'Seis preguntas de cada tema por simulacro':'Distribuidos según la extensión y dificultad de cada tema'} y dificultad progresiva. Ideal para preparar el examen real.</p>
-      <div class="final-grid">${['Normal','Normal-alto','Difícil','Muy difícil','Desafío final'].map((label,i)=>{const id=`${currentSubject}-final${i+1}`;const prev=progressFor(id);const status=prev?.done?'Terminado':(prev?.answers&&Object.keys(prev.answers).length?'En curso':'');return `<button type="button" class="final-card final-launch" data-action="test" data-key="${id}" aria-label="Abrir simulacro final ${i+1}: ${label}"><span class="final-count">SIMULACRO ${String(i+1).padStart(2,'0')}</span><strong>${label}</strong><small>30 preguntas · 5 temas</small><span class="final-enter">${status || 'Comenzar'} ${ic('arrow-right')}</span></button>`;}).join('')}</div></section></div>`;
+      <h2>Test finales</h2><p>150 preguntas adicionales y los ${TOPICS.length} temas mezclados. ${currentSubject==='rrhh'?'Seis preguntas de cada tema por simulacro':'Distribución adaptada a la extensión y dificultad de cada tema'} y dificultad progresiva. Ideal para preparar el examen real.</p>
+      <div class="final-grid">${['Normal','Normal-alto','Difícil','Muy difícil','Desafío final'].map((label,i)=>{const id=`${currentSubject}-final${i+1}`;const prev=progressFor(id);const status=prev?.done?'Terminado':(prev?.answers&&Object.keys(prev.answers).length?'En curso':'');return `<button type="button" class="final-card final-launch" data-action="test" data-key="${id}" aria-label="Abrir simulacro final ${i+1}: ${label}"><span class="final-count">SIMULACRO ${String(i+1).padStart(2,'0')}</span><strong>${label}</strong><small>30 preguntas · ${TOPICS.length} temas</small><span class="final-enter">${status || 'Comenzar'} ${ic('arrow-right')}</span></button>`;}).join('')}</div></section></div>`;
   }
 
   function validData(data){return data && Array.isArray(data.preguntas)&&data.preguntas.length>0 && data.preguntas.every(q=>q.id&&q.pregunta&&q.opciones&&LETTERS.every(x=>typeof q.opciones[x]==='string')&&LETTERS.includes(q.correcta));}
@@ -123,7 +125,7 @@
   function saveQuiz(){if(quizKey&&quizState)safeSet(keyFor(quizKey),quizState);}
   async function openTest(id){
     const path=TESTS[id];if(!path){return showError('Este test no está disponible','Todavía no hemos añadido las preguntas de este examen.');}
-    currentSubject=id.startsWith('logistica-')?'logistica':'rrhh';TOPICS=SUBJECT_BY_ID[currentSubject].topics;
+    currentSubject=id.split('-')[0];TOPICS=SUBJECT_BY_ID[currentSubject].topics;
     const token=++loadToken;quizKey=id;quiz=null;quizState=null;onlyErrors=false;
     app.innerHTML=`<div class="loading-box"><div class="loading-spinner" aria-hidden="true"></div><p>Cargando preguntas...</p></div>`;
     try{
@@ -177,10 +179,10 @@
     const optionOrder=quizState.options[idx];
     const chosen=quizState.answers[q?.id];
     const done=quizState.done;
-    const isFinal=/^(rrhh|logistica)-final[1-5]$/.test(quizKey);
+    const isFinal=/-final[1-5]$/.test(quizKey);
     const subtitle=isFinal?quiz.test:(quizKey.endsWith('dificil')?'Test difícil':'Test normal');
     const topicN=Number(q?.tema)||Number(quizKey.split('-')[1])||1;
-    const badge=isFinal?`Simulacro final <span aria-hidden="true">·</span> Los 5 temas`:`Tema ${topicN} <span aria-hidden="true">·</span> ${subtitle}`;
+    const badge=isFinal?`Simulacro final <span aria-hidden="true">·</span> Los ${TOPICS.length} temas`:`Tema ${topicN} <span aria-hidden="true">·</span> ${subtitle}`;
     const sigScore=(right/total*10).toFixed(1).replace('.',',');
     let card='';
     if(!q){card=`<div class="question-card"><h2>¡Todo correcto!</h2><p class="muted">No tienes preguntas falladas ni sin responder.</p><button class="button button-primary" data-action="review-all">Ver todas las preguntas</button></div>`;}
@@ -252,10 +254,10 @@
   function readRoute(){
     loadToken++;
     const path=decodeURIComponent(location.hash.replace(/^#\/?/,'')).replace(/^\/+/, '');
-    const match=path.match(/^test\/((?:rrhh|logistica)-(?:[1-5]-(?:normal|dificil)|final[1-5]))$/);
+    const match=path.match(/^test\/((?:rrhh|logistica|ofimatica|contabilidad)-(?:[1-9]-(?:normal|dificil)|final[1-5]))$/);
     if(match){route='test';openTest(match[1]);return;}
     quiz=null;quizState=null;
-    const subjectMatch=path.match(/^asignatura\/(rrhh|logistica)$/);
+    const subjectMatch=path.match(/^asignatura\/(rrhh|logistica|ofimatica|contabilidad)$/);
     if(subjectMatch){currentSubject=subjectMatch[1];TOPICS=SUBJECT_BY_ID[currentSubject].topics;openedTopic=0;route='subject';subjectView();scrollTop();return;}
     route='home';homeView();scrollTop();
   }

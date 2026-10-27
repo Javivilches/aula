@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 9,
+  "test": "Tema 9 · Test difícil",
+  "preguntas": [
+    {
+      "id": "OFI-T9-DIFICIL-01",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.5 Contenido multimedia y elementos avanzados",
+      "pagina_manual": 396,
+      "pregunta": "En el apartado «Contenido multimedia y elementos avanzados», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Similitudes Ambas permiten crear diapositivas con texto, imágenes, gráficos y contenido multimedia.",
+        "B": "Incrustar contenido externo: vídeos, audio, hipervínculos y recursos web La integración de contenido externo en una presentación aumenta su dinamismo y permite enriquecer el mensaje.",
+        "C": "Animaciones y transiciones Las animaciones y transiciones aportan dinamismo a una presentación, ayudando a guiar la atención del público y a reforzar el impacto visual del contenido.",
+        "D": "Ajustes avanzados: usar formas, líneas y otros elementos gráficos para crear diseños originales."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 9.5: «Contenido multimedia y elementos avanzados» (página 396 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-02",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 436,
+      "pregunta": "En una base de datos, ¿qué recurso se utiliza para introducir información de forma cómoda?",
+      "opciones": {
+        "A": "Una gráfica sin datos",
+        "B": "Una transición de color",
+        "C": "Un formulario",
+        "D": "Un lector de correo"
+      },
+      "correcta": "C",
+      "explicacion": "Los formularios facilitan la edición y alta de registros."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-03",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.1 Introducción a Presentaciones de Google",
+      "pagina_manual": 367,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Introducción a Presentaciones de Google»?",
+      "opciones": {
+        "A": "El historial de versiones y la capacidad de recuperación de cambios hacen de Presentaciones de Google una herramienta confiable para trabajar en equipo y gestionar proyectos de manera organizada.",
+        "B": "Importar presentaciones Importar una presentación permite trabajar con archivos creados en otras herramientas, como PowerPoint, directamente en Presentaciones de Google.",
+        "C": "En Presentaciones de Google se pueden incrustar vídeos, añadir hipervínculos y vincular recursos web para complementar la información.",
+        "D": "Interfaz principal: menús, paneles y vistas Para trabajar de manera eficiente en Presentaciones de Google, es fundamental conocer los elementos principales de su interfaz."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 9.1: «Introducción a Presentaciones de Google» (página 367 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-04",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "Presentaciones y anexo · caso",
+      "pagina_manual": 402,
+      "pregunta": "En el trabajo con presentaciones y su anexo se necesita hacer aparecer un gráfico en varios pasos dentro de la diapositiva. ¿Qué recurso conviene usar?",
+      "opciones": {
+        "A": "Animación",
+        "B": "Reordenar diapositivas",
+        "C": "Historial de versiones",
+        "D": "Tema"
+      },
+      "correcta": "A",
+      "explicacion": "El recurso «Animación» se corresponde con el objetivo concreto del enunciado."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-05",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "Presentaciones y anexo · caso",
+      "pagina_manual": 402,
+      "pregunta": "En el trabajo con presentaciones y su anexo se necesita pasar de una diapositiva a la siguiente con un efecto visual. ¿Qué recurso conviene usar?",
+      "opciones": {
+        "A": "Diapositivas ordenadas",
+        "B": "Transición",
+        "C": "Editar elemento de diapositiva",
+        "D": "Contenido multimedia"
+      },
+      "correcta": "B",
+      "explicacion": "El recurso «Transición» se corresponde con el objetivo concreto del enunciado."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-06",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.12 Anexo: creación de bases de datos",
+      "pagina_manual": 425,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Creación y utilización de tablas Una tabla constituye la estructura básica de un sistema de bases de datos relacionales.»",
+      "opciones": {
+        "A": "Anexo: consultas",
+        "B": "Anexo: formularios",
+        "C": "Anexo: creación de bases de datos",
+        "D": "Anexo: informes"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 9.12, «Anexo: creación de bases de datos», página 425."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-07",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "Presentaciones y anexo · caso",
+      "pagina_manual": 417,
+      "pregunta": "En el trabajo con presentaciones y su anexo se necesita apoyarse en información no visible al público. ¿Qué recurso conviene usar?",
+      "opciones": {
+        "A": "Duplicar diapositiva",
+        "B": "Formas",
+        "C": "Animación",
+        "D": "Notas del presentador"
+      },
+      "correcta": "D",
+      "explicacion": "El recurso «Notas del presentador» se corresponde con el objetivo concreto del enunciado."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-08",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.13 Anexo: tablas y asistentes",
+      "pagina_manual": 429,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Un formulario consiste en una especie de ficha cuya función es, entre otras, le gestión de tablas con diferentes posibilidades de presentación.»",
+      "opciones": {
+        "A": "Anexo: tablas y asistentes",
+        "B": "Software y dispositivos de introducción",
+        "C": "Contenido multimedia y elementos avanzados",
+        "D": "Anexo: bases de datos relacionales"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 9.13, «Anexo: tablas y asistentes», página 429."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-09",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.2 Crear y gestionar presentaciones",
+      "pagina_manual": 371,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Crear y gestionar presentaciones»?",
+      "opciones": {
+        "A": "Presentaciones de Google ofrece opciones rápidas y sencillas para gestionar diapositivas según las necesidades.",
+        "B": "Crear una presentación desde cero o con plantillas Presentaciones de Google permite crear diapositivas de manera sencilla, ya sea empezando desde una página en blanco o a partir de una plantilla predefinida.",
+        "C": "El historial de versiones y la capacidad de recuperación de cambios hacen de Presentaciones de Google una herramienta confiable para trabajar en equipo y gestionar proyectos de manera organizada.",
+        "D": "Crear presentaciones interactivas Una presentación interactiva permite al público o al presentador navegar de manera no lineal a través de las diapositivas o interactuar con el contenido."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 9.2: «Crear y gestionar presentaciones» (página 371 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-10",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 433,
+      "pregunta": "En un anexo sobre bases de datos relacionales, ¿qué objeto permite recuperar registros que cumplen determinados criterios?",
+      "opciones": {
+        "A": "Un pie de diapositiva",
+        "B": "Una transición",
+        "C": "Una consulta",
+        "D": "Una firma digital de correo"
+      },
+      "correcta": "C",
+      "explicacion": "Las consultas seleccionan o procesan información de tablas según criterios."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-11",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "Presentaciones y anexo · caso",
+      "pagina_manual": 378,
+      "pregunta": "En el trabajo con presentaciones y su anexo se necesita crear un esquema de las etapas de una explicación. ¿Qué recurso conviene usar?",
+      "opciones": {
+        "A": "Reordenar diapositivas",
+        "B": "Editar elemento de diapositiva",
+        "C": "Formas",
+        "D": "Diapositivas ordenadas"
+      },
+      "correcta": "D",
+      "explicacion": "El recurso «Diapositivas ordenadas» se corresponde con el objetivo concreto del enunciado."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-12",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.21 Anexo: relación con otras aplicaciones",
+      "pagina_manual": 447,
+      "pregunta": "En el apartado «Anexo: relación con otras aplicaciones», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Por ejemplo, podemos copiar el texto de un Word hacia una tabla de Access, pero no guardará el formato enriquecido.",
+        "B": "Por ejemplo, podemos copiar y pegar en Access una diapositiva de PowerPoint como si fuera una imagen, pero tiene que ser en la vista de diseño de los elementos nombrados.",
+        "C": "Anexo Entendemos por base de datos (BD) el conjunto de datos que están organizados y guardados en tablas.",
+        "D": "Añadir tablas en la ventana Relaciones En el caso de que ya hayamos creado una relación y queramos crear otra, pero no se dispone de la tabla, tenemos que añadir la tabla en la ventana Relaciones."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 9.21: «Anexo: relación con otras aplicaciones» (página 447 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-13",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.6 Animaciones y transiciones",
+      "pagina_manual": 402,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Animaciones de objetos: tipos y personalización Las animaciones permiten aplicar efectos de movimiento a los elementos de las diapositivas, como texto, imágenes, gráficos y formas.»",
+      "opciones": {
+        "A": "Introducción a Presentaciones de Google",
+        "B": "Animaciones y transiciones",
+        "C": "Trabajo con diapositivas",
+        "D": "Texto, imágenes y formas"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 9.6, «Animaciones y transiciones», página 402."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-14",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.19 Anexo: importar y exportar",
+      "pagina_manual": 445,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Importar y exportar información Access provee unas herramientas para la importación de datos hacia las tablas.»",
+      "opciones": {
+        "A": "Anexo: macros",
+        "B": "Crear y gestionar presentaciones",
+        "C": "Anexo: importar y exportar",
+        "D": "Introducción a Presentaciones de Google"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 9.19, «Anexo: importar y exportar», página 445."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-15",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.8 Preparación de la presentación",
+      "pagina_manual": 417,
+      "pregunta": "En el apartado «Preparación de la presentación», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Elaboración de presentaciones Eliminar diapositivas Eliminar diapositivas innecesarias ayuda a mantener la presentación limpia y bien estructurada.",
+        "B": "Configurar los permisos: – Editor: permite realizar cambios en el contenido. – Comentarista: permite añadir comentarios, pero no editar el contenido. – Lector: solo permite visualizar la presentación.",
+        "C": "Crear presentaciones interactivas Una presentación interactiva permite al público o al presentador navegar de manera no lineal a través de las diapositivas o interactuar con el contenido.",
+        "D": "Configurar el modo de presentación El modo de presentación permite mostrar las diapositivas a pantalla completa, facilitando una experiencia fluida y profesional para el público."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 9.8: «Preparación de la presentación» (página 417 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-16",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.11 Anexo: tipos de bases de datos",
+      "pagina_manual": 424,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Anexo: tipos de bases de datos»?",
+      "opciones": {
+        "A": "Tipos de bases de datos: relacionales, no relacionales y documentales Existen diferentes tipos de bases de datos.",
+        "B": "Para empresas, Base proporciona controladores para una gama de motores de bases de datos multiusuario: MySQL, Adabas D, Microsoft Access y PostgreSQL.",
+        "C": "Creación y utilización de tablas Una tabla constituye la estructura básica de un sistema de bases de datos relacionales.",
+        "D": "Apache OpenOffice: es un sistema gestor de bases de datos incluido en el paquete informático gratuito y libre Apache OpenOffice."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 9.11: «Anexo: tipos de bases de datos» (página 424 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-17",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "Presentaciones y anexo · caso",
+      "pagina_manual": 370,
+      "pregunta": "En el trabajo con presentaciones y su anexo se necesita aplicar estilos coherentes a toda la presentación. ¿Qué recurso conviene usar?",
+      "opciones": {
+        "A": "Consulta",
+        "B": "Tema o plantilla",
+        "C": "Tema",
+        "D": "Relación entre tablas"
+      },
+      "correcta": "B",
+      "explicacion": "El recurso «Tema o plantilla» se corresponde con el objetivo concreto del enunciado."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-18",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.17 Anexo: búsquedas y filtros",
+      "pagina_manual": 442,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Buscar y reemplazar: es parecida a la acción anterior, pero, cuando encuentra el valor buscado, permite cambiarlo por otro.»",
+      "opciones": {
+        "A": "Anexo: informes",
+        "B": "Software y dispositivos de introducción",
+        "C": "Anexo: búsquedas y filtros",
+        "D": "Anexo: bases de datos relacionales"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 9.17, «Anexo: búsquedas y filtros», página 442."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-19",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 438,
+      "pregunta": "¿Qué objeto organiza la información para imprimirla o presentarla con una maquetación definida?",
+      "opciones": {
+        "A": "Un puntero de ratón",
+        "B": "Un filtro de spam",
+        "C": "Un cortafuegos",
+        "D": "Un informe"
+      },
+      "correcta": "D",
+      "explicacion": "Los informes presentan de manera estructurada los datos almacenados."
+    },
+    {
+      "id": "OFI-T9-DIFICIL-20",
+      "tema": 9,
+      "nivel": "dificil",
+      "apartado": "9.7 Colaboración en equipo",
+      "pagina_manual": 410,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Este capítulo explora cómo compartir presentaciones, gestionar permisos y trabajar de manera simultánea con otros usuarios para maximizar la productividad en equipo.»",
+      "opciones": {
+        "A": "Colaboración en equipo",
+        "B": "Introducción a Presentaciones de Google",
+        "C": "Anexo: relación con otras aplicaciones",
+        "D": "Crear y gestionar presentaciones"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 9.7, «Colaboración en equipo», página 410."
+    }
+  ]
+}

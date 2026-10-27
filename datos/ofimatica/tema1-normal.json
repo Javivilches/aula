@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 1,
+  "test": "Tema 1 · Test normal",
+  "preguntas": [
+    {
+      "id": "OFI-T1-NORMAL-01",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 27,
+      "pregunta": "Una organización conecta las oficinas de dos ciudades distantes. ¿Qué tipo de red describe mejor esta extensión?",
+      "opciones": {
+        "A": "Una red personal Bluetooth",
+        "B": "WAN",
+        "C": "Una red de periféricos USB",
+        "D": "LAN de un solo edificio"
+      },
+      "correcta": "B",
+      "explicacion": "Una WAN conecta ubicaciones a gran distancia."
+    },
+    {
+      "id": "OFI-T1-NORMAL-02",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1 Organización de los sistemas informáticos de la empresa",
+      "pagina_manual": 9,
+      "pregunta": "En el apartado «Organización de los sistemas informáticos de la empresa», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Sin embargo, al no estar garantizados por los fabricantes, pueden provocar situaciones problemáticas al ser utilizados.",
+        "B": "Por tanto, en toda red debe existir un protocolo, y este debe ser el mismo para todos los equipos.",
+        "C": "Todo sistema informático se compone de tres partes: Hardware: los componentes electrónicos, también conocidos como la parte física del ordenador.",
+        "D": "Se dedica a pescar datos de usuarios, contraseñas, números de tarjetas de crédito, etcétera, a 36"
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 1.1: «Organización de los sistemas informáticos de la empresa» (página 9 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-NORMAL-03",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.7 Empresas de servicios informáticos y garantías",
+      "pagina_manual": 39,
+      "pregunta": "En el apartado «Empresas de servicios informáticos y garantías», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Muchas veces, esta información la traspasaremos a papel como medio de intercambio, otras, realizaremos el proceso mediante el envío y recepción de ficheros.",
+        "B": "Existen diferentes formas por las que se pueden clasificar los sistemas operativos.",
+        "C": "Esto permite a la empresa configurar las herramientas que se encontrarán en un primer plano, generalmente, las más usadas.",
+        "D": "Por ejemplo, una empresa que ofrece servicios informáticos y también de gestión de alojamiento web, dominios y contenidos desde un mismo lugar."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 1.7: «Empresas de servicios informáticos y garantías» (página 39 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-NORMAL-04",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5 Seguridad informática",
+      "pagina_manual": 33,
+      "pregunta": "En el apartado «Seguridad informática», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Seguridad informática Hoy en día, debido a todas las acciones que se pueden realizar por la red, el usuario comparte gran parte de su información con otros clientes, la cual se almacena en servidores cuya localización desconocemos.",
+        "B": "En cuanto a la optimización del espacio de almacenamiento, una de las primeras medidas que se pueden tomar es la conexión de espacios de almacenamiento extra.",
+        "C": "Tiene las siguientes funciones: Controlar los componentes físicos del ordenador, el proceso de almacenamiento de datos y todo tipo de aplicaciones.",
+        "D": "Servicios: suelen tener un margen de tres meses e incluyen, por ejemplo, reparaciones de productos o componentes."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.5: «Seguridad informática» (página 33 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-NORMAL-05",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5 Seguridad informática",
+      "pagina_manual": 33,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Realización de copias de seguridad del sistema informático de la empresa y de copias de imagen fija del sistema Los sistemas informáticos permiten procesar y generar una gran cantidad de información.»",
+      "opciones": {
+        "A": "Organización de los sistemas informáticos de la empresa",
+        "B": "Seguridad informática",
+        "C": "Documentación de las incidencias y resolución de problemas",
+        "D": "Redes"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 1.5, «Seguridad informática», página 33."
+    },
+    {
+      "id": "OFI-T1-NORMAL-06",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.2 Documentación de las incidencias y resolución de problemas",
+      "pagina_manual": 23,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «En cualquiera de los casos, a la hora de resolver incidencias, debemos seguir un protocolo de actuación que conste de: Recepción y documentación de la incidencia.»",
+      "opciones": {
+        "A": "Redes",
+        "B": "Seguridad informática",
+        "C": "Documentación de las incidencias y resolución de problemas",
+        "D": "Empresas de servicios informáticos y garantías"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 1.2, «Documentación de las incidencias y resolución de problemas», página 23."
+    },
+    {
+      "id": "OFI-T1-NORMAL-07",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.7 Empresas de servicios informáticos y garantías",
+      "pagina_manual": 39,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Por otra parte, las empresas de servicios informáticos pueden tener diferentes niveles de centralización: Centralizadas: ofrecen varios servicios desde un mismo panel de control.»",
+      "opciones": {
+        "A": "Redes",
+        "B": "Seguridad informática",
+        "C": "Organización de los sistemas informáticos de la empresa",
+        "D": "Empresas de servicios informáticos y garantías"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 1.7, «Empresas de servicios informáticos y garantías», página 39."
+    },
+    {
+      "id": "OFI-T1-NORMAL-08",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1 Organización de los sistemas informáticos de la empresa",
+      "pagina_manual": 10,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Organización de los sistemas informáticos de la empresa»?",
+      "opciones": {
+        "A": "También se utilizan mucho las aplicaciones ofimáticas en la nube, las cuales permiten trabajar sobre un mismo documento desde diferentes equipos informáticos.",
+        "B": "Muchas veces, esta información la traspasaremos a papel como medio de intercambio, otras, realizaremos el proceso mediante el envío y recepción de ficheros.",
+        "C": "Dispone de herramientas de seguridad y de administración de redes muy avanzadas.",
+        "D": "Deben poseer un centro de atención al usuario (CAU) para llevar un orden y poder atender las consultas de los usuarios (dispone de herramientas físicas y lógicas)."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.1: «Organización de los sistemas informáticos de la empresa» (página 10 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-NORMAL-09",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 34,
+      "pregunta": "¿Qué tecnología permite recuperar los programas instalados y la configuración de un equipo averiado, además de sus archivos?",
+      "opciones": {
+        "A": "Una lista de contraseñas",
+        "B": "Una imagen del sistema",
+        "C": "Una copia solo de fotografías",
+        "D": "Un registro de incidencias vacío"
+      },
+      "correcta": "B",
+      "explicacion": "Una imagen del sistema reproduce el contenido del disco, incluidos sistema y aplicaciones."
+    },
+    {
+      "id": "OFI-T1-NORMAL-10",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Redes»?",
+      "opciones": {
+        "A": "Por eso, las contraseñas, los datos personales, los pagos bancarios o las fotos personales son datos sensibles a los que deberíamos aplicar una serie de medidas de seguridad.",
+        "B": "Administrador: es un usuario especial con derechos para crear o b) Multitarea. eliminar otros usuarios, dar o quitar permisos a estos usuarios e c) Varitarea. instalar o desinstalar programas.",
+        "C": "WAN Wide Area Network Redes geográficas MAN Metropolitan Area Network Redes metropolitanas LAN Local Area Network Redes locales 27",
+        "D": "Un procesador que trabaja a 4 GHz es capaz de realizar 4 x 109 operaciones por segundo (cuatro mil millones de operaciones en un segundo)."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 1.4: «Redes» (página 27 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-NORMAL-11",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 11,
+      "pregunta": "Un empleado abre muchos programas y observa que el equipo se ralentiza. ¿Qué componente conviene revisar inicialmente?",
+      "opciones": {
+        "A": "El ratón",
+        "B": "La fuente de alimentación del edificio",
+        "C": "El monitor",
+        "D": "La memoria RAM"
+      },
+      "correcta": "D",
+      "explicacion": "La RAM aloja los programas y datos en uso; disponer de memoria suficiente favorece la multitarea."
+    },
+    {
+      "id": "OFI-T1-NORMAL-12",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.5 Seguridad informática",
+      "pagina_manual": 33,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Seguridad informática»?",
+      "opciones": {
+        "A": "Por tanto, en este proceso elegiremos los datos que queremos guardar y descartaremos los que no son necesarios.",
+        "B": "Es una red de computadoras interconectadas capaz de compartir información y que permite comunicar a usuarios sin importar su ubicación geográfica.",
+        "C": "De esta manera podremos redactar los documentos más básicos, generar datos, realizar operaciones o presentar los informes de una manera más dinámica, entre otras acciones.",
+        "D": "Software: empresas encargadas de desarrollar y mantener programas para los diferentes sistemas operativos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.5: «Seguridad informática» (página 33 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-NORMAL-13",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1 Organización de los sistemas informáticos de la empresa",
+      "pagina_manual": 9,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «En este sentido, un sistema informático es aquel conjunto de elementos necesarios para utilizar aplicaciones informáticas.»",
+      "opciones": {
+        "A": "Sistemas operativos, permisos, usuarios y configuración",
+        "B": "Organización de los sistemas informáticos de la empresa",
+        "C": "Documentación de las incidencias y resolución de problemas",
+        "D": "Redes"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 1.1, «Organización de los sistemas informáticos de la empresa», página 9."
+    },
+    {
+      "id": "OFI-T1-NORMAL-14",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.6 Manuales técnicos y protocolos de incidencias",
+      "pagina_manual": 38,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Los protocolos de actuación nos ayudan, en caso de error, a resolver incidencias cuando no contamos con la experiencia necesaria.»",
+      "opciones": {
+        "A": "Redes",
+        "B": "Empresas de servicios informáticos y garantías",
+        "C": "Manuales técnicos y protocolos de incidencias",
+        "D": "Seguridad informática"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 1.6, «Manuales técnicos y protocolos de incidencias», página 38."
+    },
+    {
+      "id": "OFI-T1-NORMAL-15",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.3 Sistemas operativos, permisos, usuarios y configuración",
+      "pagina_manual": 25,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Multiusuario: varios usuarios trabajan de manera simultánea, como en la mayoría de los sistemas operativos actuales.»",
+      "opciones": {
+        "A": "Empresas de servicios informáticos y garantías",
+        "B": "Redes",
+        "C": "Seguridad informática",
+        "D": "Sistemas operativos, permisos, usuarios y configuración"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 1.3, «Sistemas operativos, permisos, usuarios y configuración», página 25."
+    },
+    {
+      "id": "OFI-T1-NORMAL-16",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.3 Sistemas operativos, permisos, usuarios y configuración",
+      "pagina_manual": 24,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Sistemas operativos: tipos, permisos, usuarios y configuración Entendemos por sistema operativo el software encargado de poner en marcha un ordenador garantizando su correcto funcionamiento.»",
+      "opciones": {
+        "A": "Sistemas operativos, permisos, usuarios y configuración",
+        "B": "Redes",
+        "C": "Organización de los sistemas informáticos de la empresa",
+        "D": "Seguridad informática"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 1.3, «Sistemas operativos, permisos, usuarios y configuración», página 24."
+    },
+    {
+      "id": "OFI-T1-NORMAL-17",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 36,
+      "pregunta": "Al recibir un correo que imita al banco y solicita credenciales, ¿qué ataque resulta más probable?",
+      "opciones": {
+        "A": "Actualización de controladores",
+        "B": "Phishing",
+        "C": "Compresión de ficheros",
+        "D": "Fragmentación del disco"
+      },
+      "correcta": "B",
+      "explicacion": "El phishing suplanta identidades para obtener contraseñas u otros datos sensibles."
+    },
+    {
+      "id": "OFI-T1-NORMAL-18",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.2 Documentación de las incidencias y resolución de problemas",
+      "pagina_manual": 23,
+      "pregunta": "En el apartado «Documentación de las incidencias y resolución de problemas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Dispone de herramientas de seguridad y de administración de redes muy avanzadas.",
+        "B": "Licencias semilibres: permiten uso, copia o cualquier operación, pero siempre sin ánimo de lucro.",
+        "C": "Es conveniente que esta fase de mantenimiento la realicen los propios departamentos específicos para la resolución de incidencias de aquellas empresas desarrolladoras de software.",
+        "D": "Sincronización: consiste en la capacidad de dos elementos de estar conectados al mismo tiempo y compartir la misma información."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 1.2: «Documentación de las incidencias y resolución de problemas» (página 23 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-NORMAL-19",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.1 Organización de los sistemas informáticos de la empresa",
+      "pagina_manual": 9,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Organización de los sistemas informáticos de la empresa Según la RAE, un sistema es «un conjunto de cosas que, relacionadas entre sí ordenadamente, contribuyen a un determinado objeto».»",
+      "opciones": {
+        "A": "Manuales técnicos y protocolos de incidencias",
+        "B": "Documentación de las incidencias y resolución de problemas",
+        "C": "Seguridad informática",
+        "D": "Organización de los sistemas informáticos de la empresa"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 1.1, «Organización de los sistemas informáticos de la empresa», página 9."
+    },
+    {
+      "id": "OFI-T1-NORMAL-20",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 26,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Redes»?",
+      "opciones": {
+        "A": "Ordenadores clientes y ordenadores servidores Para que una red pueda funcionar, se necesita de, al menos, dos ordenadores: uno que cumpla la función de servidor y otro la de cliente.",
+        "B": "En ocasiones, con seguir unos sencillos pasos es suficiente para solucionar los problemas.",
+        "C": "Servicios: suelen tener un margen de tres meses e incluyen, por ejemplo, reparaciones de productos o componentes.",
+        "D": "Por ejemplo, en un programa de nóminas exportaremos todos los datos a un fichero, pero no copiaremos el programa en sí."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.4: «Redes» (página 26 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}

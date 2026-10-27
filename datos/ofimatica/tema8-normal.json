@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 8,
+  "test": "Tema 8 · Test normal",
+  "preguntas": [
+    {
+      "id": "OFI-T8-NORMAL-01",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 349,
+      "pregunta": "Si se reciben correos similares de un remitente y se desea clasificarlos de forma automática, ¿qué se configura?",
+      "opciones": {
+        "A": "Un filtro o regla",
+        "B": "Una clave primaria de base de datos",
+        "C": "Un tipo de letra",
+        "D": "Un modo de presentación"
+      },
+      "correcta": "A",
+      "explicacion": "Los filtros permiten aplicar acciones automáticas a mensajes que cumplen criterios."
+    },
+    {
+      "id": "OFI-T8-NORMAL-02",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 344,
+      "pregunta": "¿Qué protocolo se utiliza normalmente para enviar mensajes desde un cliente de correo?",
+      "opciones": {
+        "A": "Eliminación de datos sin autorización",
+        "B": "SMTP",
+        "C": "FTP como gestor de mensajes",
+        "D": "HTTP como protocolo postal"
+      },
+      "correcta": "B",
+      "explicacion": "SMTP se usa para el envío del correo."
+    },
+    {
+      "id": "OFI-T8-NORMAL-03",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 344,
+      "pregunta": "Una empleada consulta su correo en el ordenador y en el móvil y desea mantener las carpetas sincronizadas. ¿Qué protocolo resulta especialmente apropiado?",
+      "opciones": {
+        "A": "USB para el correo remoto",
+        "B": "Desactivar las funciones principales",
+        "C": "IMAP",
+        "D": "Eliminación de datos sin autorización"
+      },
+      "correcta": "C",
+      "explicacion": "IMAP mantiene el estado de los mensajes en el servidor y permite sincronización."
+    },
+    {
+      "id": "OFI-T8-NORMAL-04",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.5 Sindicación de noticias RSS",
+      "pagina_manual": 346,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Se diferencian, sin embargo, en que las News no están basadas en el correo electrónico: no es necesario suscribirse y los mensajes no se distribuyen a los buzones personales de los usuarios.»",
+      "opciones": {
+        "A": "Seguridad del correo y filtros",
+        "B": "Proveedores, servidores, dominios y protocolos",
+        "C": "Clasificación y archivo de mensajes",
+        "D": "Sindicación de noticias RSS"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 8.5, «Sindicación de noticias RSS», página 346."
+    },
+    {
+      "id": "OFI-T8-NORMAL-05",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.12 Seguridad del correo y filtros",
+      "pagina_manual": 358,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Muestra todos los mensajes que tengan Subject: las palabras especificadas en el asunto del Subject: reunión correo.»",
+      "opciones": {
+        "A": "Seguridad del correo y filtros",
+        "B": "Configuración y personalización",
+        "C": "Gestión y seguridad de archivos y agenda",
+        "D": "Sincronización con dispositivos móviles"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 8.12, «Seguridad del correo y filtros», página 358."
+    },
+    {
+      "id": "OFI-T8-NORMAL-06",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.3 Tipos de cuentas de correo electrónico",
+      "pagina_manual": 345,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Tipos de cuentas de correo electrónico»?",
+      "opciones": {
+        "A": "Cuando se haya decidido el criterio a seguir, se pulsará sobre el botón Buscar.",
+        "B": "El servidor SMTP administra el correo electrónico sa- a) SMTP. liente y se utiliza en combinación con un servidor POP3 o IMAP de b) POP3. correo electrónico entrante. c) IMAP.",
+        "C": "Normalmente, son correos con fines publicitarios que pueden representar un gran volumen diario y que molestan por no ser deseados, utilizando parte de nuestro tiempo para eliminarlos.",
+        "D": "CCO (copia de carbón oculta): variante del CC en la que los usuarios que se insertan en este campo reciben el mensaje, pero no aparecen en ninguna lista, no es visible para ningún destinatario."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 8.3: «Tipos de cuentas de correo electrónico» (página 345 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-NORMAL-07",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.2 Proveedores, servidores, dominios y protocolos",
+      "pagina_manual": 344,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Para lograrlo, se definen una serie de protocolos, cada uno con una finalidad concreta (POP, IMAP, SMTP).»",
+      "opciones": {
+        "A": "Tipos de cuentas de correo electrónico",
+        "B": "Agenda electrónica, avisos y tareas",
+        "C": "Proveedores, servidores, dominios y protocolos",
+        "D": "Clasificación y archivo de mensajes"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 8.2, «Proveedores, servidores, dominios y protocolos», página 344."
+    },
+    {
+      "id": "OFI-T8-NORMAL-08",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.8 Opciones del correo electrónico",
+      "pagina_manual": 352,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Opciones del correo electrónico»?",
+      "opciones": {
+        "A": "Plantillas y firmas corporativas Es frecuente utilizar plantillas para enviar correos corporativos, si bien en el ámbito privado no suelen emplearse.",
+        "B": "Para ello, debemos ir a la configuración de la cuenta de Gmail y elegir la pestaña Filtros y direcciones bloqueadas.",
+        "C": "Esta herramienta es conocida también con el nombre de Usenet News o simplemente Usenet, porque la aplicación tuvo su origen en la red Usenet, que une centros de investigación y universidades de todo el mundo.",
+        "D": "Otra de las ventajas que ofrecen las aplicaciones de correo electrónico es la navegación a través del asunto de un mismo mensaje o la respuesta a un correo recibido, agrupándolos y facilitando su gestión."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 8.8: «Opciones del correo electrónico» (página 352 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-NORMAL-09",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.9 Configuración y personalización",
+      "pagina_manual": 353,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Configuración y personalización»?",
+      "opciones": {
+        "A": "Entorno de trabajo: configuración y personalización La mayoría de los gestores de correo POP3 se pueden descargar de su portal web e instalarlos siguiendo los pasos del asistente de instalación.",
+        "B": "A la hora de elegir un lector RSS, existen muchas e innumerables opciones: Lectores RSS que se instalan directamente: son programas que se instalan en cada ordenador.",
+        "C": "Muestra todos los mensajes que estén In:sent In: contenidos dentro de una carpeta específica. (carpeta de enviados) Is:read Muestra todos los mensajes que estén leídos Is:read Is:unread o no leídos.",
+        "D": "Tener especial cuidado a la hora de abrir correos de los que no se sepa su procedencia, ya que pueden contener archivos que infectan el ordenador o intenten estafar o engañar para robar datos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 8.9: «Configuración y personalización» (página 353 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-NORMAL-10",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.13 Gestión y seguridad de archivos y agenda",
+      "pagina_manual": 361,
+      "pregunta": "En el apartado «Gestión y seguridad de archivos y agenda», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Lectores RSS online: cumplen la misma función que los programas que se instalan en el ordenador, aunque en estos se hace todo a través de una página web.",
+        "B": "En caso de necesitar descargar archivos de un adjunto, siempre es recomendable realizar un análisis con el antivirus a dicho fichero.",
+        "C": "Por ejemplo, si se activa Aplicar la etiqueta automáticamente, a todo correo que cumpla las condiciones se le añadirá de forma automática una etiqueta.",
+        "D": "Podemos encontrar estos programas para los diferentes sistemas operativos utilizados, como Windows Phone, iOS o Android, y su instalación es muy sencilla."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 8.13: «Gestión y seguridad de archivos y agenda» (página 361 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-NORMAL-11",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.11 Sincronización con dispositivos móviles",
+      "pagina_manual": 356,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Sincronización de agendas electrónicas con los dispositivos móviles Cuando estamos trabajando con un ordenador, podemos tener acceso a todos los eventos y tareas que tengamos programados en nuestra agenda.»",
+      "opciones": {
+        "A": "Borradores, copias y operaciones de correo",
+        "B": "Clasificación y archivo de mensajes",
+        "C": "Sincronización con dispositivos móviles",
+        "D": "Sindicación de noticias RSS"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 8.11, «Sincronización con dispositivos móviles», página 356."
+    },
+    {
+      "id": "OFI-T8-NORMAL-12",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.10 Agenda electrónica, avisos y tareas",
+      "pagina_manual": 355,
+      "pregunta": "En el apartado «Agenda electrónica, avisos y tareas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Se diferencian, sin embargo, en que las News no están basadas en el correo electrónico: no es necesario suscribirse y los mensajes no se distribuyen a los buzones personales de los usuarios.",
+        "B": "En este caso, se puede obtener rápidamente el histórico e identificar todos los mensajes asociados a un mismo asunto, lo que permite tener acceso inmediato a las respuestas y contestaciones de estos.",
+        "C": "Generalmente, cada gestor de correo electrónico dispone de su propia documentación que nos guiará en los pasos para realizar la migración.",
+        "D": "Agenda electrónica, necesidades básicas, avisos, tareas, configuración y utilización, opciones, entre otros Una agenda personal nos permite recordar y planificar los diversos eventos previstos para nuestro tiempo de ocio o ejercicio profesional y los asuntos pendientes de hacer."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 8.10: «Agenda electrónica, avisos y tareas» (página 355 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-NORMAL-13",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 343,
+      "pregunta": "Un empleado envía un mensaje a varios destinatarios sin mostrar unas direcciones a los demás. ¿Qué campo conviene utilizar?",
+      "opciones": {
+        "A": "CCO (copia oculta)",
+        "B": "Asunto",
+        "C": "Para con todos los destinatarios",
+        "D": "Firma automática"
+      },
+      "correcta": "A",
+      "explicacion": "CCO evita mostrar a los demás destinatarios las direcciones incluidas en ese campo."
+    },
+    {
+      "id": "OFI-T8-NORMAL-14",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.6 Clasificación y archivo de mensajes",
+      "pagina_manual": 349,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Clasificación y archivo de los mensajes de correo electrónico A la hora de gestionar un correo electrónico, es muy habitual que nos encontremos con una cantidad desmesurada de mensajes.»",
+      "opciones": {
+        "A": "Proveedores, servidores, dominios y protocolos",
+        "B": "Clasificación y archivo de mensajes",
+        "C": "Sindicación de noticias RSS",
+        "D": "Gestión y seguridad de archivos y agenda"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 8.6, «Clasificación y archivo de mensajes», página 349."
+    },
+    {
+      "id": "OFI-T8-NORMAL-15",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.12 Seguridad del correo y filtros",
+      "pagina_manual": 358,
+      "pregunta": "En el apartado «Seguridad del correo y filtros», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Pero, cuando no estamos trabajando con nuestro equipo informático, también es posible tener toda esa información en tiempo real gracias a los móviles tipo smartphone.",
+        "B": "Se definen el tipo de letra y sus atributos, márgenes, idioma, gráficos, logotipos o fotografías y demás elementos que se deseen incorporar.",
+        "C": "Para ello, debemos ir a la configuración de la cuenta de Gmail y elegir la pestaña Filtros y direcciones bloqueadas.",
+        "D": "Es decir, si creamos la etiqueta Importantes, esta puede actuar como etiqueta o como carpeta."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 8.12: «Seguridad del correo y filtros» (página 358 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-NORMAL-16",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.1 Elementos del correo electrónico",
+      "pagina_manual": 343,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Elementos del correo electrónico»?",
+      "opciones": {
+        "A": "En España, el servidor de News de Rediris propone para la denominación de sus grupos un nombre en el que se antepone a estas categorías la palabra es.",
+        "B": "Las tareas c) Sello digital. no tienen por qué depender de una fecha determinada y no aparecen en el calendario.",
+        "C": "Operador Descripción Ejemplo Muestra todos los mensajes procedentes de From: From: Marina Ortega un usuario, nombre o apellido.",
+        "D": "Para conocer los elementos que componen un gestor de correos, podemos coger de ejemplo cualquiera de ellos: Outlook, Gmail, Hotmail…, o incluso un gestor de correo propio."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 8.1: «Elementos del correo electrónico» (página 343 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-NORMAL-17",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.5 Sindicación de noticias RSS",
+      "pagina_manual": 347,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Las siglas RSS provienen de la expresión en inglés really simple sindication, es decir, sindicación realmente simple.»",
+      "opciones": {
+        "A": "Sindicación de noticias RSS",
+        "B": "Gestión y seguridad de archivos y agenda",
+        "C": "Clasificación y archivo de mensajes",
+        "D": "Configuración y personalización"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 8.5, «Sindicación de noticias RSS», página 347."
+    },
+    {
+      "id": "OFI-T8-NORMAL-18",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.4 Plantillas y firmas corporativas",
+      "pagina_manual": 346,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Plantillas y firmas corporativas Es frecuente utilizar plantillas para enviar correos corporativos, si bien en el ámbito privado no suelen emplearse.»",
+      "opciones": {
+        "A": "Seguridad del correo y filtros",
+        "B": "Plantillas y firmas corporativas",
+        "C": "Clasificación y archivo de mensajes",
+        "D": "Agenda electrónica, avisos y tareas"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 8.4, «Plantillas y firmas corporativas», página 346."
+    },
+    {
+      "id": "OFI-T8-NORMAL-19",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.7 Borradores, copias y operaciones de correo",
+      "pagina_manual": 350,
+      "pregunta": "En el apartado «Borradores, copias y operaciones de correo», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Estas aplicaciones están agrupadas por categorías y pueden ser de pago o gratuitas.",
+        "B": "Los certificados pueden residir en una tarjeta criptográfica, o bien en el navegador del usuario (soporte software).",
+        "C": "El destinatario del mensaje se especifica escribiendo su dirección de correo en el campo denominado Para o Destinatario de la interfaz.",
+        "D": "Con ella podemos realizar las mismas funciones que con una agenda, pero además nos ofrece funcionalidades superiores, ya que es capaz de gestionar avisos mediante texto y sonido y puede abarcar periodos superiores a un año."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 8.7: «Borradores, copias y operaciones de correo» (página 350 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-NORMAL-20",
+      "tema": 8,
+      "nivel": "normal",
+      "apartado": "8.9 Configuración y personalización",
+      "pagina_manual": 353,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Certificados digitales Son archivos que nos permiten identificar la fuente de la información enviada.»",
+      "opciones": {
+        "A": "Sindicación de noticias RSS",
+        "B": "Tipos de cuentas de correo electrónico",
+        "C": "Proveedores, servidores, dominios y protocolos",
+        "D": "Configuración y personalización"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 8.9, «Configuración y personalización», página 353."
+    }
+  ]
+}

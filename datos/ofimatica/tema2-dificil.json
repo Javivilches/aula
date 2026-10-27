@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 2,
+  "test": "Tema 2 · Test difícil",
+  "preguntas": [
+    {
+      "id": "OFI-T2-DIFICIL-01",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 299 pulsaciones en 3 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "74.8 pulsaciones/minuto",
+        "B": "897 pulsaciones/minuto",
+        "C": "99,7 pulsaciones/minuto",
+        "D": "299 pulsaciones/minuto"
+      },
+      "correcta": "C",
+      "explicacion": "Promedio = 299 / 3 = 99,7 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-02",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 51,
+      "pregunta": "¿Qué conviene priorizar al empezar una sesión de escritura al tacto?",
+      "opciones": {
+        "A": "Alcanzar la velocidad máxima sin revisión",
+        "B": "Mirar continuamente todas las teclas",
+        "C": "No utilizar los dedos de referencia",
+        "D": "Mantener una ejecución correcta antes de acelerar"
+      },
+      "correcta": "D",
+      "explicacion": "El entrenamiento progresivo debe consolidar precisión y postura."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-03",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.12 Corrección de errores y correctores automáticos",
+      "pagina_manual": 61,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Además, la utilización de estas aplicaciones no solo permite rectificar los errores ortográficos, sino que también se encarga de gestionar los errores gramaticales, que a veces son difíciles de detectar.»",
+      "opciones": {
+        "A": "Corrección de errores y correctores automáticos",
+        "B": "Palabras de dificultad progresiva",
+        "C": "Velocidad controlada en varias lenguas",
+        "D": "Desarrollo de destreza mecanográfica"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 2.12, «Corrección de errores y correctores automáticos», página 61."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-04",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.7 Desarrollo de destreza mecanográfica",
+      "pagina_manual": 51,
+      "pregunta": "En el apartado «Desarrollo de destreza mecanográfica», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Escritura de textos según la técnica mecanográfica – Evitar trabajar con documentos contenidos en fundas de plástico para evitar reflejos. – Limpiar periódicamente la pantalla para evitar distorsiones de la imagen.",
+        "B": "Este proceso requiere paciencia, pero es necesario que cada dedo funcione de forma independiente y con el piloto automático activado (escribir sin necesidad de pensar la posición de cada tecla).",
+        "C": "Escritura de textos según la técnica mecanográfica Falta de adaptabilidad: el equipo no permite regular la pantalla ni en altura ni en profundidad.",
+        "D": "Escritura de textos según la técnica mecanográfica ortográficos para verificar palabras que no estamos seguros de cómo se escriben en un idioma determinado."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 2.7: «Desarrollo de destreza mecanográfica» (página 51 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-05",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 220 pulsaciones en 2 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "220 pulsaciones/minuto",
+        "B": "440 pulsaciones/minuto",
+        "C": "110 pulsaciones/minuto",
+        "D": "73.3 pulsaciones/minuto"
+      },
+      "correcta": "C",
+      "explicacion": "Promedio = 220 / 2 = 110 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-06",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.13 Reglas gramaticales y abreviaturas",
+      "pagina_manual": 63,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Por ejemplo: no salí a la calle porque estaba lloviendo. – Por qué: se utiliza en oraciones interrogativas, sean directas o indirectas.»",
+      "opciones": {
+        "A": "Composición del equipo informático",
+        "B": "Desarrollo de destreza mecanográfica",
+        "C": "Corrección de errores y correctores automáticos",
+        "D": "Reglas gramaticales y abreviaturas"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 2.13, «Reglas gramaticales y abreviaturas», página 63."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-07",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.5 Colocación de dedos",
+      "pagina_manual": 50,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Utilizando esta técnica, se minimiza la distancia entre los dedos y cada una de las teclas, así que, con un mínimo esfuerzo y práctica, podremos ser capaces de escribir realmente rápido.»",
+      "opciones": {
+        "A": "Colocación de dedos",
+        "B": "Escritura de palabras simples",
+        "C": "Desarrollo de destreza mecanográfica",
+        "D": "Teclado QWERTY y otros"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 2.5, «Colocación de dedos», página 50."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-08",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 340 pulsaciones en 4 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "340 pulsaciones/minuto",
+        "B": "85 pulsaciones/minuto",
+        "C": "68.0 pulsaciones/minuto",
+        "D": "1360 pulsaciones/minuto"
+      },
+      "correcta": "B",
+      "explicacion": "Promedio = 340 / 4 = 85 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-09",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.2 Composición del equipo informático",
+      "pagina_manual": 44,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Composición del equipo informático»?",
+      "opciones": {
+        "A": "Teclas numéricas: están situadas a la derecha del bloque de edición, y se activa al presionar la tecla Bloq Num.",
+        "B": "Escritura de textos según la técnica mecanográfica Falta de adaptabilidad: el equipo no permite regular la pantalla ni en altura ni en profundidad.",
+        "C": "Que no requiera ejercer una presión grande sobre las teclas que se pulsan. – Que no provoque ningún ruido.",
+        "D": "Los acentos y la diéresis están localizados en estas dos teclas: Los acentos agudos y graves se teclean directamente y a continuación la siguiente letra."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 2.2: «Composición del equipo informático» (página 44 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-10",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.10 Mayúsculas, numeración y puntuación",
+      "pagina_manual": 58,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Signos de puntuación Principalmente, nos encontramos con acentos, diéresis y otros signos de puntuación.»",
+      "opciones": {
+        "A": "Reglas gramaticales y abreviaturas",
+        "B": "Palabras de dificultad progresiva",
+        "C": "Desarrollo de destreza mecanográfica",
+        "D": "Mayúsculas, numeración y puntuación"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 2.10, «Mayúsculas, numeración y puntuación», página 58."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-11",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 558 pulsaciones en 5 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "111,6 pulsaciones/minuto",
+        "B": "558 pulsaciones/minuto",
+        "C": "93.0 pulsaciones/minuto",
+        "D": "2790 pulsaciones/minuto"
+      },
+      "correcta": "A",
+      "explicacion": "Promedio = 558 / 5 = 111,6 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-12",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 491 pulsaciones en 3 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "122.8 pulsaciones/minuto",
+        "B": "163,7 pulsaciones/minuto",
+        "C": "491 pulsaciones/minuto",
+        "D": "1473 pulsaciones/minuto"
+      },
+      "correcta": "B",
+      "explicacion": "Promedio = 491 / 3 = 163,7 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-13",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.1 Actitud corporal y ergonomía",
+      "pagina_manual": 41,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Actitud corporal delante de un equipo informático El trabajo intenso y continuado mediante un teclado puede provocar lesiones tanto musculares como esqueléticas, molestias en el cuello, espalda y dedos, trastornos visuales, entre otras.»",
+      "opciones": {
+        "A": "Teclado QWERTY y otros",
+        "B": "Composición del equipo informático",
+        "C": "Actitud corporal y ergonomía",
+        "D": "Colocación de dedos"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.1, «Actitud corporal y ergonomía», página 41."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-14",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 311 pulsaciones en 2 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "103.7 pulsaciones/minuto",
+        "B": "311 pulsaciones/minuto",
+        "C": "622 pulsaciones/minuto",
+        "D": "155,5 pulsaciones/minuto"
+      },
+      "correcta": "D",
+      "explicacion": "Promedio = 311 / 2 = 155,5 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-15",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.8 Escritura de palabras simples",
+      "pagina_manual": 54,
+      "pregunta": "En el apartado «Escritura de palabras simples», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Es necesario practicar, sobre todo, con aquellos dedos que al principio parezcan más difíciles o más perezosos para conseguir que tengan una habilidad similar.",
+        "B": "Escritura de textos según la técnica mecanográfica ortográficos para verificar palabras que no estamos seguros de cómo se escriben en un idioma determinado.",
+        "C": "Cuando ya se ha alcanzado un cierto nivel en la escritura de palabras simples, sin errores y con una velocidad considerable, ya se puede intentar aumentar de nivel y empezar a escribir palabras y frases de mayor dificultad.",
+        "D": "Escritura de textos según la técnica mecanográfica No mezclar diferentes tonos de lenguaje: cuando escribimos debemos mantener siempre una coherencia en el tono que estamos utilizando."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 2.8: «Escritura de palabras simples» (página 54 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-16",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.3 Teclado QWERTY y otros",
+      "pagina_manual": 45,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Teclado QWERTY y otros»?",
+      "opciones": {
+        "A": "Existe una técnica para saber si los dedos están bien colocados sin mirar el teclado: las teclas F y J tienen unas pequeñas marcas.",
+        "B": "DVORAK Los usuarios del teclado Dvorak afirman que usan menos movimientos de dedos, incrementan la velocidad de tecleo y reducen los errores en comparación con el teclado estándar QWERTY.",
+        "C": "Dimensiones reducidas: el teclado es más pequeño y las teclas están más juntas, provocando que los movimientos de la mano y antebrazo estén más forzados.",
+        "D": "Antes de empezar a escribir, conviene tener presente que: – Las pulsaciones deben ser suaves y precisas, pues el teclado de los PC es muy sensible. – La utilización de la barra espaciadora está reservada a los dedos pulgares."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 2.3: «Teclado QWERTY y otros» (página 45 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-17",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.10 Mayúsculas, numeración y puntuación",
+      "pagina_manual": 56,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Para poner las mayúsculas mantendremos pulsada la tecla Shift con el dedo meñique de la mano contraria de la que se utilizará para pulsar la tecla.»",
+      "opciones": {
+        "A": "Reglas gramaticales y abreviaturas",
+        "B": "Palabras de dificultad progresiva",
+        "C": "Mayúsculas, numeración y puntuación",
+        "D": "Desarrollo de destreza mecanográfica"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.10, «Mayúsculas, numeración y puntuación», página 56."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-18",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.6 Tipología de teclados",
+      "pagina_manual": 51,
+      "pregunta": "En el apartado «Tipología de teclados», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Cada vez existen en el mercado más componentes que corrigen esto, como los teclados ergonómicos, que permiten un acceso a las teclas en línea recta respecto del antebrazo, por lo que la postura que se adopta es más natural.",
+        "B": "En la mayoría de los teclados suele tener un tamaño superior a una tecla normal, ya que de esta manera se facilita su uso, reduciendo el tiempo de rectificado.",
+        "C": "Para algunos idiomas, se han desarrollado teclados que pretenden ser más cómodos que el QWERTY, por ejemplo, el teclado Dvorak.",
+        "D": "Para ordenadores MAC, existen dos tipos: – El teclado normal. – El teclado con extensión numérica."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 2.6: «Tipología de teclados» (página 51 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-19",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 264 pulsaciones en 5 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "52,8 pulsaciones/minuto",
+        "B": "264 pulsaciones/minuto",
+        "C": "44.0 pulsaciones/minuto",
+        "D": "1320 pulsaciones/minuto"
+      },
+      "correcta": "A",
+      "explicacion": "Promedio = 264 / 5 = 52,8 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T2-DIFICIL-20",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2.11 Velocidad controlada en varias lenguas",
+      "pagina_manual": 59,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Velocidad controlada en varias lenguas»?",
+      "opciones": {
+        "A": "Con la técnica mecanográfica, aparte de velocidad, desarrollamos precisión, que es la perfección en cuanto a inexistencia de errores.",
+        "B": "Pero de poco sirve tener mucha velocidad si los errores cometidos también son grandes.",
+        "C": "Cuando ya se ha alcanzado un cierto nivel en la escritura de palabras simples, sin errores y con una velocidad considerable, ya se puede intentar aumentar de nivel y empezar a escribir palabras y frases de mayor dificultad.",
+        "D": "DVORAK Los usuarios del teclado Dvorak afirman que usan menos movimientos de dedos, incrementan la velocidad de tecleo y reducen los errores en comparación con el teclado estándar QWERTY."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 2.11: «Velocidad controlada en varias lenguas» (página 59 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}

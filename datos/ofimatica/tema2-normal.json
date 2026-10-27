@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 2,
+  "test": "Tema 2 · Test normal",
+  "preguntas": [
+    {
+      "id": "OFI-T2-NORMAL-01",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.6 Tipología de teclados",
+      "pagina_manual": 51,
+      "pregunta": "En el apartado «Tipología de teclados», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Uso de días de la semana y de meses en mayúsculas: un error bastante habitual es escribir los días de la semana y meses con la 62",
+        "B": "Activando la opción Corregir mientras se escribe: se aplica a una lista de palabras de uso común y que tienen definida la corrección.",
+        "C": "Tipología de teclados Si nos referimos a los teclados de los ordenadores, podemos encontrar tres teclados diferentes: Teclado XT de 83 teclas: se usaba en el PC XT (8086/88).",
+        "D": "También puede ser útil ir diciendo las letras mentalmente o en voz alta al tiempo que se van pulsando."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 2.6: «Tipología de teclados» (página 51 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-NORMAL-02",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.13 Reglas gramaticales y abreviaturas",
+      "pagina_manual": 62,
+      "pregunta": "En el apartado «Reglas gramaticales y abreviaturas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Signos de puntuación Principalmente, nos encontramos con acentos, diéresis y otros signos de puntuación.",
+        "B": "Que no requiera ejercer una presión grande sobre las teclas que se pulsan. – Que no provoque ningún ruido.",
+        "C": "Correctores automatizados Otra diferencia importante entre utilizar una máquina de escribir o un procesador de textos es que en la primera los errores se deben corregir manualmente.",
+        "D": "Escritura incorrecta de expresiones: existen ciertas expresiones que se utilizan frecuentemente; sin embargo, no están bien escritas como deberían."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 2.13: «Reglas gramaticales y abreviaturas» (página 62 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-NORMAL-03",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 41,
+      "pregunta": "Al escribir con el teclado durante varias horas, ¿qué hábito protege mejor la ergonomía?",
+      "opciones": {
+        "A": "Mantener postura estable y muñecas sin tensión",
+        "B": "Girar continuamente el tronco",
+        "C": "Situar la pantalla muy por debajo de la mesa",
+        "D": "Apoyar todo el peso en las muñecas"
+      },
+      "correcta": "A",
+      "explicacion": "Una postura equilibrada y una colocación adecuada del equipo reducen la fatiga."
+    },
+    {
+      "id": "OFI-T2-NORMAL-04",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1 Actitud corporal y ergonomía",
+      "pagina_manual": 41,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «De esto se encarga la ergonomía (estudio de las condiciones de adaptación de un lugar de trabajo, una máquina, un vehículo, etcétera, a las características físicas y psicológicas del trabajador o el usuario).»",
+      "opciones": {
+        "A": "Mayúsculas, numeración y puntuación",
+        "B": "Actitud corporal y ergonomía",
+        "C": "Reglas gramaticales y abreviaturas",
+        "D": "Colocación de dedos"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 2.1, «Actitud corporal y ergonomía», página 41."
+    },
+    {
+      "id": "OFI-T2-NORMAL-05",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.13 Reglas gramaticales y abreviaturas",
+      "pagina_manual": 62,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Siglas y abreviaturas A la hora de escribir textos mecanográficos es fundamental conocer las diferentes reglas gramaticales y ortográficas de la lengua.»",
+      "opciones": {
+        "A": "Mayúsculas, numeración y puntuación",
+        "B": "Actitud corporal y ergonomía",
+        "C": "Reglas gramaticales y abreviaturas",
+        "D": "Escritura de palabras simples"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.13, «Reglas gramaticales y abreviaturas», página 62."
+    },
+    {
+      "id": "OFI-T2-NORMAL-06",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.7 Desarrollo de destreza mecanográfica",
+      "pagina_manual": 51,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Desarrollo de destreza mecanográfica»?",
+      "opciones": {
+        "A": "Las máquinas HCESAR se han convertido en curiosas y buscadas piezas de coleccionista.",
+        "B": "Deben situarse algo curvados sobre el teclado, rozando ligeramente las teclas y sin apoyar las manos.",
+        "C": "Dimensiones reducidas: el teclado es más pequeño y las teclas están más juntas, provocando que los movimientos de la mano y antebrazo estén más forzados.",
+        "D": "Desarrollo de la destreza mecanográfica Para aprender mecanografía, existen varios métodos, si bien la base del éxito reside en la práctica diaria."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 2.7: «Desarrollo de destreza mecanográfica» (página 51 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-NORMAL-07",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3 Teclado QWERTY y otros",
+      "pagina_manual": 45,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Teclado QWERTY y otros»?",
+      "opciones": {
+        "A": "Para algunos idiomas, se han desarrollado teclados que pretenden ser más cómodos que el QWERTY, por ejemplo, el teclado Dvorak.",
+        "B": "Para escribir el resto de los números, lo haremos mediante un desplazamiento vertical hacia arriba o hacia abajo.",
+        "C": "Correctores automatizados Otra diferencia importante entre utilizar una máquina de escribir o un procesador de textos es que en la primera los errores se deben corregir manualmente.",
+        "D": "No debemos preocuparnos de la velocidad, ya que vendrá por sí sola, sin darnos cuenta de ello."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 2.3: «Teclado QWERTY y otros» (página 45 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-NORMAL-08",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.5 Colocación de dedos",
+      "pagina_manual": 50,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Colocación de dedos Uno de los principales objetivos al trabajar con un ordenador es aumentar la productividad y el rendimiento.»",
+      "opciones": {
+        "A": "Teclas de escritura, numeración, edición y función",
+        "B": "Colocación de dedos",
+        "C": "Actitud corporal y ergonomía",
+        "D": "Mayúsculas, numeración y puntuación"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 2.5, «Colocación de dedos», página 50."
+    },
+    {
+      "id": "OFI-T2-NORMAL-09",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 56,
+      "pregunta": "Para obtener una mayúscula aislada sin activar continuamente las letras mayúsculas, ¿qué tecla se combina con la letra?",
+      "opciones": {
+        "A": "Alt+F4",
+        "B": "Impr Pant",
+        "C": "Mayús (Shift)",
+        "D": "Bloq Num"
+      },
+      "correcta": "C",
+      "explicacion": "La tecla Mayús permite introducir mayúsculas de forma puntual."
+    },
+    {
+      "id": "OFI-T2-NORMAL-10",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.12 Corrección de errores y correctores automáticos",
+      "pagina_manual": 60,
+      "pregunta": "En el apartado «Corrección de errores y correctores automáticos», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Composición de un equipo informático El equipo básico que se utiliza en los trabajos de mecanografía está formado por una pantalla, un teclado y un ratón.",
+        "B": "Para ordenadores MAC, existen dos tipos: – El teclado normal. – El teclado con extensión numérica.",
+        "C": "Dimensiones reducidas: el teclado es más pequeño y las teclas están más juntas, provocando que los movimientos de la mano y antebrazo estén más forzados.",
+        "D": "Los errores tenían máxima importancia cuando se utilizaba la máquina de escribir, puesto que significaba que cada error, después de ser corregido, quedaba plasmado en el documento."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 2.12: «Corrección de errores y correctores automáticos» (página 60 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-NORMAL-11",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.11 Velocidad controlada en varias lenguas",
+      "pagina_manual": 59,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Velocidad controlada en varias lenguas»?",
+      "opciones": {
+        "A": "Tanto la velocidad de escritura como los errores cometidos son datos interesantes de calcular, y deberían ser inversamente proporcionales, es decir, mucha velocidad con pocos errores.",
+        "B": "Se pretende de esta forma que, al ver la letra que hay que escribir, se mueva el dedo correspondiente de manera automática y sin mirar el teclado.",
+        "C": "Colocación de dedos Uno de los principales objetivos al trabajar con un ordenador es aumentar la productividad y el rendimiento.",
+        "D": "Por ejemplo: no salí a la calle porque estaba lloviendo. – Por qué: se utiliza en oraciones interrogativas, sean directas o indirectas."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 2.11: «Velocidad controlada en varias lenguas» (página 59 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-NORMAL-12",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2 Composición del equipo informático",
+      "pagina_manual": 43,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Composición de un equipo informático El equipo básico que se utiliza en los trabajos de mecanografía está formado por una pantalla, un teclado y un ratón.»",
+      "opciones": {
+        "A": "Corrección de errores y correctores automáticos",
+        "B": "Composición del equipo informático",
+        "C": "Escritura de palabras simples",
+        "D": "Desarrollo de destreza mecanográfica"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 2.2, «Composición del equipo informático», página 43."
+    },
+    {
+      "id": "OFI-T2-NORMAL-13",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 52,
+      "pregunta": "Al entrenar mecanografía, ¿qué indicador se debe mejorar sin aumentar los errores?",
+      "opciones": {
+        "A": "Número de atajos desconocidos",
+        "B": "Cantidad de pantallas conectadas",
+        "C": "Velocidad de escritura con precisión",
+        "D": "Nivel de brillo de la pantalla"
+      },
+      "correcta": "C",
+      "explicacion": "La habilidad mecanográfica exige velocidad y un índice bajo de errores."
+    },
+    {
+      "id": "OFI-T2-NORMAL-14",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.7 Desarrollo de destreza mecanográfica",
+      "pagina_manual": 51,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Desarrollo de destreza mecanográfica»?",
+      "opciones": {
+        "A": "Iremos incorporando los acentos y caracteres especiales (diéresis, etcétera), y también iremos confeccionando frases con los correspondientes signos de puntuación.",
+        "B": "Los dedos de las manos no son iguales ni tienen la misma fuerza, y tampoco son iguales los dedos de la mano derecha que los de la mano izquierda.",
+        "C": "En la actualidad, los portugueses usan el teclado QWERTY adaptado a su idioma.",
+        "D": "Estos ejercicios prácticos deben realizarse por orden y no debemos pasar al siguiente hasta completar el ejercicio al 100% y sin errores."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 2.7: «Desarrollo de destreza mecanográfica» (página 51 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-NORMAL-15",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.9 Palabras de dificultad progresiva",
+      "pagina_manual": 55,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Escritura de palabras de dificultad progresiva El aprendizaje de las técnicas mecanográficas es progresivo.»",
+      "opciones": {
+        "A": "Palabras de dificultad progresiva",
+        "B": "Reglas gramaticales y abreviaturas",
+        "C": "Mayúsculas, numeración y puntuación",
+        "D": "Escritura de palabras simples"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 2.9, «Palabras de dificultad progresiva», página 55."
+    },
+    {
+      "id": "OFI-T2-NORMAL-16",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.8 Escritura de palabras simples",
+      "pagina_manual": 54,
+      "pregunta": "En el apartado «Escritura de palabras simples», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Siglas y abreviaturas A la hora de escribir textos mecanográficos es fundamental conocer las diferentes reglas gramaticales y ortográficas de la lengua.",
+        "B": "Escritura de palabras simples Cuando llegamos a esta fase, significa que hemos practicado sobre las tres hileras todos y cada uno de los ejercicios con éxito.",
+        "C": "Para escribir el resto de los números, lo haremos mediante un desplazamiento vertical hacia arriba o hacia abajo.",
+        "D": "Correctores automatizados Otra diferencia importante entre utilizar una máquina de escribir o un procesador de textos es que en la primera los errores se deben corregir manualmente."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 2.8: «Escritura de palabras simples» (página 54 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T2-NORMAL-17",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.4 Teclas de escritura, numeración, edición y función",
+      "pagina_manual": 49,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Su función a) Bloque de función. dependerá del programa que se esté utilizando, ya que son teclas b) Bloque numérico. programables.»",
+      "opciones": {
+        "A": "Corrección de errores y correctores automáticos",
+        "B": "Composición del equipo informático",
+        "C": "Teclas de escritura, numeración, edición y función",
+        "D": "Velocidad controlada en varias lenguas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.4, «Teclas de escritura, numeración, edición y función», página 49."
+    },
+    {
+      "id": "OFI-T2-NORMAL-18",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.10 Mayúsculas, numeración y puntuación",
+      "pagina_manual": 56,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Mayúsculas, numeración y signos de puntuación Ha llegado el momento de utilizar otras teclas que sirven para completar la escritura de un texto, como son las mayúsculas, la numeración y los signos de puntación.»",
+      "opciones": {
+        "A": "Corrección de errores y correctores automáticos",
+        "B": "Teclado QWERTY y otros",
+        "C": "Colocación de dedos",
+        "D": "Mayúsculas, numeración y puntuación"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 2.10, «Mayúsculas, numeración y puntuación», página 56."
+    },
+    {
+      "id": "OFI-T2-NORMAL-19",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.12 Corrección de errores y correctores automáticos",
+      "pagina_manual": 61,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Correctores automatizados Otra diferencia importante entre utilizar una máquina de escribir o un procesador de textos es que en la primera los errores se deben corregir manualmente.»",
+      "opciones": {
+        "A": "Corrección de errores y correctores automáticos",
+        "B": "Colocación de dedos",
+        "C": "Reglas gramaticales y abreviaturas",
+        "D": "Desarrollo de destreza mecanográfica"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 2.12, «Corrección de errores y correctores automáticos», página 61."
+    },
+    {
+      "id": "OFI-T2-NORMAL-20",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 50,
+      "pregunta": "¿Qué objetivo tiene aprender la colocación de los dedos en el teclado?",
+      "opciones": {
+        "A": "Eliminar la necesidad de corregir",
+        "B": "Escribir con menos desplazamientos y mayor precisión",
+        "C": "Evitar leer el texto en pantalla",
+        "D": "Utilizar solo dos dedos a máxima velocidad"
+      },
+      "correcta": "B",
+      "explicacion": "La mecanografía busca automatizar el movimiento de los dedos y mejorar exactitud y velocidad."
+    }
+  ]
+}

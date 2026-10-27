@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 8,
+  "test": "Tema 8 · Test difícil",
+  "preguntas": [
+    {
+      "id": "OFI-T8-DIFICIL-01",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 344,
+      "pregunta": "Un departamento administrativo quiere enviar un mensaje desde el cliente de correo. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "SMTP",
+        "B": "Clasificación del correo",
+        "C": "Calendario colaborativo",
+        "D": "Copia de seguridad"
+      },
+      "correcta": "A",
+      "explicacion": "La necesidad indicada se atiende con «SMTP», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-02",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 349,
+      "pregunta": "Un departamento administrativo quiere clasificar automáticamente mensajes con una condición. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "Verificar origen y contenido",
+        "B": "Regla o filtro",
+        "C": "Agenda electrónica",
+        "D": "Calendario colaborativo"
+      },
+      "correcta": "B",
+      "explicacion": "La necesidad indicada se atiende con «Regla o filtro», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-03",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 344,
+      "pregunta": "Un departamento administrativo quiere mantener carpetas y estados sincronizados entre dispositivos. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "Calendario colaborativo",
+        "B": "CC",
+        "C": "IMAP",
+        "D": "Agenda electrónica"
+      },
+      "correcta": "C",
+      "explicacion": "La necesidad indicada se atiende con «IMAP», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-04",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.10 Agenda electrónica, avisos y tareas",
+      "pagina_manual": 356,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «El correo electrónico y la agenda electrónica Para cada cita es necesario especificar día y hora.»",
+      "opciones": {
+        "A": "Sindicación de noticias RSS",
+        "B": "Seguridad del correo y filtros",
+        "C": "Configuración y personalización",
+        "D": "Agenda electrónica, avisos y tareas"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 8.10, «Agenda electrónica, avisos y tareas», página 356."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-05",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.2 Proveedores, servidores, dominios y protocolos",
+      "pagina_manual": 344,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Proveedores, servidores, dominios y protocolos»?",
+      "opciones": {
+        "A": "Dominios y protocolos Para que alguien pueda enviar un correo a otra persona, ambos tienen que tener una dirección de correo electrónico.",
+        "B": "Esta es una opción que suelen tener los gestores de correo electrónico para poder crear mensajes sin necesidad de tenerlos que enviar, ya sea para editarlos posteriormente, revisarlos, etcétera.",
+        "C": "La mayoría de los servidores de correo se encargan de gestionarlos de una forma automática.",
+        "D": "El correo electrónico y la agenda electrónica Borradores: en esta zona tendremos los correos que hemos empezado a escribir pero no hemos llegado a enviar."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 8.2: «Proveedores, servidores, dominios y protocolos» (página 344 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-06",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 344,
+      "pregunta": "Un departamento administrativo quiere descargar mensajes mediante el sistema clásico de recuperación. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "Un filtro o regla",
+        "B": "POP3",
+        "C": "CC",
+        "D": "RSS"
+      },
+      "correcta": "B",
+      "explicacion": "La necesidad indicada se atiende con «POP3», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-07",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.11 Sincronización con dispositivos móviles",
+      "pagina_manual": 356,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Pero, cuando no estamos trabajando con nuestro equipo informático, también es posible tener toda esa información en tiempo real gracias a los móviles tipo smartphone.»",
+      "opciones": {
+        "A": "Configuración y personalización",
+        "B": "Agenda electrónica, avisos y tareas",
+        "C": "Sincronización con dispositivos móviles",
+        "D": "Borradores, copias y operaciones de correo"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 8.11, «Sincronización con dispositivos móviles», página 356."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-08",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 343,
+      "pregunta": "Un departamento administrativo quiere ocultar las direcciones de copia ante otros destinatarios. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "CC",
+        "B": "Regla o filtro",
+        "C": "Un filtro o regla",
+        "D": "CCO"
+      },
+      "correcta": "D",
+      "explicacion": "La necesidad indicada se atiende con «CCO», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-09",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.12 Seguridad del correo y filtros",
+      "pagina_manual": 359,
+      "pregunta": "En el apartado «Seguridad del correo y filtros», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Por ejemplo, en De se puede asignar un correo electrónico, y en Asunto se puede especificar el texto que debe contener un asunto para ser filtrado.",
+        "B": "El correo electrónico y la agenda electrónica Para cada cita es necesario especificar día y hora.",
+        "C": "Otra de las ventajas que ofrecen las aplicaciones de correo electrónico es la navegación a través del asunto de un mismo mensaje o la respuesta a un correo recibido, agrupándolos y facilitando su gestión.",
+        "D": "Mensaje nuevo Destinatarios Asunto Enviar También suele estar disponible la opción de añadir archivos adjuntos al mensaje, permitiendo traspasar todo tipo de datos informáticos a través del correo electrónico."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 8.12: «Seguridad del correo y filtros» (página 359 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-10",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.1 Elementos del correo electrónico",
+      "pagina_manual": 344,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Elementos del correo electrónico»?",
+      "opciones": {
+        "A": "El correo electrónico y la agenda electrónica Aquí es donde se decidirá qué se debe hacer con los correos que se reciban y que cumplan con los criterios establecidos.",
+        "B": "El correo electrónico y la agenda electrónica Borradores: en esta zona tendremos los correos que hemos empezado a escribir pero no hemos llegado a enviar.",
+        "C": "El correo electrónico y la agenda electrónica una empresa reconocida en internet.",
+        "D": "El correo electrónico y la agenda electrónica acceder a los titulares, noticias o actualizaciones de las páginas web que desean recibir a través de su lector de RSS."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 8.1: «Elementos del correo electrónico» (página 344 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-11",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 356,
+      "pregunta": "¿Qué facilita que un aviso de reunión aparezca en varios dispositivos?",
+      "opciones": {
+        "A": "Crear un documento sin calendario",
+        "B": "Eliminar las notificaciones",
+        "C": "Sincronizar la agenda electrónica",
+        "D": "Anotarlo solo en un papel sin copia"
+      },
+      "correcta": "C",
+      "explicacion": "Las agendas sincronizadas reflejan citas y tareas en diferentes dispositivos."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-12",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 358,
+      "pregunta": "¿Qué práctica es correcta ante un archivo adjunto inesperado que solicita activar macros?",
+      "opciones": {
+        "A": "Compartir la contraseña por respuesta",
+        "B": "Reenviarlo a todos los compañeros",
+        "C": "Abrirlo siempre con privilegios administrativos",
+        "D": "Verificar el remitente y no habilitar contenido inseguro"
+      },
+      "correcta": "D",
+      "explicacion": "Los adjuntos maliciosos son un vector frecuente de infección y fraude."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-13",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.4 Plantillas y firmas corporativas",
+      "pagina_manual": 346,
+      "pregunta": "En el apartado «Plantillas y firmas corporativas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Se definen el tipo de letra y sus atributos, márgenes, idioma, gráficos, logotipos o fotografías y demás elementos que se deseen incorporar.",
+        "B": "En el caso de utilizar, además, la agenda electrónica, es importante mantener todas estas recomendaciones al pie de la letra, ya que pueden contener datos personales de otras personas, como teléfonos, direcciones, etc.",
+        "C": "Para lograrlo, se definen una serie de protocolos, cada uno con una finalidad concreta (POP, IMAP, SMTP).",
+        "D": "Para conocer los elementos que componen un gestor de correos, podemos coger de ejemplo cualquiera de ellos: Outlook, Gmail, Hotmail…, o incluso un gestor de correo propio."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 8.4: «Plantillas y firmas corporativas» (página 346 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-14",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.7 Borradores, copias y operaciones de correo",
+      "pagina_manual": 350,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Asunto: una descripción corta del mensaje que enviamos que verá el destinatario antes de abrir el correo.»",
+      "opciones": {
+        "A": "Opciones del correo electrónico",
+        "B": "Borradores, copias y operaciones de correo",
+        "C": "Elementos del correo electrónico",
+        "D": "Seguridad del correo y filtros"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 8.7, «Borradores, copias y operaciones de correo», página 350."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-15",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 343,
+      "pregunta": "Un departamento administrativo quiere mostrar de forma visible los destinatarios secundarios. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "Copia de seguridad",
+        "B": "Plantilla de correo",
+        "C": "CC",
+        "D": "Filtro antispam"
+      },
+      "correcta": "C",
+      "explicacion": "La necesidad indicada se atiende con «CC», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-16",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.6 Clasificación y archivo de mensajes",
+      "pagina_manual": 349,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Para estos casos, debemos recurrir a la clasificación y archivo de los mensajes.»",
+      "opciones": {
+        "A": "Sindicación de noticias RSS",
+        "B": "Seguridad del correo y filtros",
+        "C": "Opciones del correo electrónico",
+        "D": "Clasificación y archivo de mensajes"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 8.6, «Clasificación y archivo de mensajes», página 349."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-17",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.8 Opciones del correo electrónico",
+      "pagina_manual": 352,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Opciones del correo electrónico»?",
+      "opciones": {
+        "A": "Opciones del correo electrónico Es importante saber gestionar los correos electrónicos, ya que no estamos todo el día delante del ordenador y podemos encontrarnos cientos de ellos en nuestra bandeja de entrada.",
+        "B": "El correo electrónico y la agenda electrónica Aquí es donde se decidirá qué se debe hacer con los correos que se reciban y que cumplan con los criterios establecidos.",
+        "C": "Algunos ejemplos de estos entornos son: Mozilla Thunderbird: permite tener diversas cuentas de correo electrónico y podemos escoger con cuál queremos trabajar.",
+        "D": "A todo esto se le llama firma corporativa, la cual podemos hacer que se repita mediante las opciones de configuración cada vez que escribamos un correo electrónico y, de esta forma, ahorrar tiempo."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 8.8: «Opciones del correo electrónico» (página 352 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-18",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.13 Gestión y seguridad de archivos y agenda",
+      "pagina_manual": 360,
+      "pregunta": "En el apartado «Gestión y seguridad de archivos y agenda», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "El correo electrónico y la agenda electrónica acceder a los titulares, noticias o actualizaciones de las páginas web que desean recibir a través de su lector de RSS.",
+        "B": "Por ello, es importante seguir una serie de recomendaciones de seguridad: Se debe cambiar cada mes o, al menos, cada tres meses de contraseña.",
+        "C": "La localización depende del proveedor y será necesaria conocerla en caso de que queramos realizar una copia de seguridad.",
+        "D": "Por tanto, será necesario leer, contestar, borrar y mover nuestros correos con el fin de conseguir una buena gestión."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 8.13: «Gestión y seguridad de archivos y agenda» (página 360 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-19",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.5 Sindicación de noticias RSS",
+      "pagina_manual": 347,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «En España, el servidor de News de Rediris propone para la denominación de sus grupos un nombre en el que se antepone a estas categorías la palabra es.»",
+      "opciones": {
+        "A": "Borradores, copias y operaciones de correo",
+        "B": "Clasificación y archivo de mensajes",
+        "C": "Sindicación de noticias RSS",
+        "D": "Tipos de cuentas de correo electrónico"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 8.5, «Sindicación de noticias RSS», página 347."
+    },
+    {
+      "id": "OFI-T8-DIFICIL-20",
+      "tema": 8,
+      "nivel": "dificil",
+      "apartado": "8.9 Configuración y personalización",
+      "pagina_manual": 353,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Generalmente, cada gestor de correo electrónico dispone de su propia documentación que nos guiará en los pasos para realizar la migración.»",
+      "opciones": {
+        "A": "Elementos del correo electrónico",
+        "B": "Plantillas y firmas corporativas",
+        "C": "Seguridad del correo y filtros",
+        "D": "Configuración y personalización"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 8.9, «Configuración y personalización», página 353."
+    }
+  ]
+}

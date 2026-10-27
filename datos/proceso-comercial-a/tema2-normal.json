@@ -1,0 +1,327 @@
+{
+  "asignatura": "Proceso Integral de la Actividad Comercial - A",
+  "tema": 2,
+  "test": "Tema 2 · Test normal",
+  "preguntas": [
+    {
+      "id": "PIAC-T2-NORMAL-01",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2 El ciclo contable",
+      "pagina_manual": 32,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «El ciclo contable se compone de una serie de operaciones que se producen a lo largo del ejercicio.»",
+      "opciones": {
+        "A": "Normalización: Plan General de Contabilidad para pymes",
+        "B": "Herramientas informáticas específicas",
+        "C": "El ciclo contable",
+        "D": "Operaciones mercantiles y teoría de las cuentas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.2, «El ciclo contable», página 32."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-02",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2 El ciclo contable",
+      "pagina_manual": 32,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «El ciclo contable»?",
+      "opciones": {
+        "A": "Las cuentas patrimoniales o de balance son aquellas que representan los recursos y obligaciones que tiene la empresa.",
+        "B": "Valor actual: valor a recibir o a pagar en función del tiempo y la actualización de un descuento adecuado.",
+        "C": "Existen muchas alternativas entre de los programas de contabilidad que las empresas pueden utilizar.",
+        "D": "En ese caso, su ciclo contable iría desde el día de apertura hasta el día de cierre definitivo de ese año."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 2.2: «El ciclo contable» (página 32 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-03",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2 El ciclo contable",
+      "pagina_manual": 38,
+      "pregunta": "En el apartado «El ciclo contable», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Consiste en calcular las sumas y saldos de cada una de las cuentas y sirve para comprobar el estado contable de la empresa y subsanar, si los hubiera, errores contables.",
+        "B": "Existen muchas alternativas entre de los programas de contabilidad que las empresas pueden utilizar.",
+        "C": "La misma empresa del ejemplo anterior paga una prima de seguro por 80 € y, a la vez, recibe 250 € por haber realizado servicios ajenos a su actividad principal.",
+        "D": "Los planes de contabilidad se dividen en cinco partes que cuentan, cada una de ellas, con una introducción explicativa de sus características."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 2.2: «El ciclo contable» (página 38 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-04",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2 El ciclo contable",
+      "pagina_manual": 31,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «El ciclo contable es el conjunto de las operaciones que lleva a cabo la empresa durante un ejercicio económico.»",
+      "opciones": {
+        "A": "Operaciones mercantiles y teoría de las cuentas",
+        "B": "El ciclo contable",
+        "C": "Normalización: Plan General de Contabilidad para pymes",
+        "D": "Herramientas informáticas específicas"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 2.2, «El ciclo contable», página 31."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-05",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.4 Herramientas informáticas específicas",
+      "pagina_manual": 55,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «En una empresa, la tecnología solo se utiliza en el departamento de producción.»",
+      "opciones": {
+        "A": "Normalización: Plan General de Contabilidad para pymes",
+        "B": "El ciclo contable",
+        "C": "Herramientas informáticas específicas",
+        "D": "Operaciones mercantiles y teoría de las cuentas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.4, «Herramientas informáticas específicas», página 55."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-06",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3 Normalización: Plan General de Contabilidad para pymes",
+      "pagina_manual": 49,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Normalización: Plan General de Contabilidad para pymes»?",
+      "opciones": {
+        "A": "Con esto se asegura la imputación de gastos e ingresos correspondientes a cada ciclo económico.",
+        "B": "Las operaciones mercantiles contables son todas las operaciones que las empresas llevan a cabo en el desarrollo de su actividad comercial y que son lo suficientemente relevantes como para registrarlas contablemente.",
+        "C": "La tecnología está presente en todos los ámbitos de la sociedad, incluso en las empresas.",
+        "D": "El Plan General Contable (PGC) es un texto que tiene como función principal la regulación de la contabilidad de las empresas españolas"
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 2.3: «Normalización: Plan General de Contabilidad para pymes» (página 49 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-07",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2 El ciclo contable",
+      "pagina_manual": 37,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Asiento de apertura: su función es la de iniciar la actividad contable y sirve para poner en movimiento el patrimonio empresarial.»",
+      "opciones": {
+        "A": "El ciclo contable",
+        "B": "Operaciones mercantiles y teoría de las cuentas",
+        "C": "Herramientas informáticas específicas",
+        "D": "Normalización: Plan General de Contabilidad para pymes"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 2.2, «El ciclo contable», página 37."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-08",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 29,
+      "pregunta": "¿Dónde se registran con carácter general los gastos cuando aumentan?",
+      "opciones": {
+        "A": "Solo en el balance inicial",
+        "B": "En el Debe",
+        "C": "Solo en el libro de inventarios",
+        "D": "En el Haber exclusivamente"
+      },
+      "correcta": "B",
+      "explicacion": "Las cuentas de gastos se cargan (Debe)."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-09",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3 Normalización: Plan General de Contabilidad para pymes",
+      "pagina_manual": 49,
+      "pregunta": "En el apartado «Normalización: Plan General de Contabilidad para pymes», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Uno de los más usados es ContaSol, que ofrece la posibilidad de realizar todas las operativas fiscales y contables de manera gratuita y sencilla.",
+        "B": "Con esto se asegura la imputación de gastos e ingresos correspondientes a cada ciclo económico.",
+        "C": "De hecho, si cada empresa estableciese un sistema particular de registro de contabilidad, sería casi imposible comparar los datos de las organizaciones y establecer la legalidad de sus operaciones.",
+        "D": "Las cuentas de una empresa se pueden clasificar en cuentas patrimoniales o de balance y cuentas de resultados, como se plasma en el siguiente esquema."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 2.3: «Normalización: Plan General de Contabilidad para pymes» (página 49 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-10",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1 Operaciones mercantiles y teoría de las cuentas",
+      "pagina_manual": 29,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Cuentas de resultado: son aquellas que permiten cuantificar los beneficios o pérdidas de una empresa.»",
+      "opciones": {
+        "A": "Normalización: Plan General de Contabilidad para pymes",
+        "B": "El ciclo contable",
+        "C": "Herramientas informáticas específicas",
+        "D": "Operaciones mercantiles y teoría de las cuentas"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 2.1, «Operaciones mercantiles y teoría de las cuentas», página 29."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-11",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1 Operaciones mercantiles y teoría de las cuentas",
+      "pagina_manual": 23,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Para llevarla a cabo es necesario conocer una serie de conceptos fundamentales, como las cuentas, los cargos o los abonos.»",
+      "opciones": {
+        "A": "Operaciones mercantiles y teoría de las cuentas",
+        "B": "El ciclo contable",
+        "C": "Herramientas informáticas específicas",
+        "D": "Normalización: Plan General de Contabilidad para pymes"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 2.1, «Operaciones mercantiles y teoría de las cuentas», página 23."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-12",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 28,
+      "pregunta": "La empresa deposita en su banco 300 € procedentes de caja. ¿Qué asiento representa la operación?",
+      "opciones": {
+        "A": "Debe (700) Ventas 300; Haber (572) Bancos 300",
+        "B": "Debe (572) Bancos 300; Haber (570) Caja 300",
+        "C": "Debe (600) Compras 300; Haber (400) Proveedores 300",
+        "D": "Debe (570) Caja 300; Haber (572) Bancos 300"
+      },
+      "correcta": "B",
+      "explicacion": "Aumenta bancos (activo, Debe) y disminuye caja (activo, Haber)."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-13",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1 Operaciones mercantiles y teoría de las cuentas",
+      "pagina_manual": 23,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Todas las cuentas están numeradas y se encuentran englobadas en diferentes grupos y subgrupos.»",
+      "opciones": {
+        "A": "Normalización: Plan General de Contabilidad para pymes",
+        "B": "El ciclo contable",
+        "C": "Operaciones mercantiles y teoría de las cuentas",
+        "D": "Herramientas informáticas específicas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.1, «Operaciones mercantiles y teoría de las cuentas», página 23."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-14",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 25,
+      "pregunta": "Se anotan 1.000 € en el Debe y 950 € en el Haber de una cuenta. ¿Qué saldo tiene?",
+      "opciones": {
+        "A": "Saldo acreedor de 50 €",
+        "B": "Saldo deudor de 1.950 €",
+        "C": "Saldo nulo",
+        "D": "Saldo deudor de 50 €"
+      },
+      "correcta": "D",
+      "explicacion": "Debe - Haber = 1.000 - 950 = 50 €, deudor."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-15",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.4 Herramientas informáticas específicas",
+      "pagina_manual": 55,
+      "pregunta": "En el apartado «Herramientas informáticas específicas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Uno de los más usados es ContaSol, que ofrece la posibilidad de realizar todas las operativas fiscales y contables de manera gratuita y sencilla.",
+        "B": "Para llevarla a cabo es necesario conocer una serie de conceptos fundamentales, como las cuentas, los cargos o los abonos.",
+        "C": "Asiento de apertura: su función es la de iniciar la actividad contable y sirve para poner en movimiento el patrimonio empresarial.",
+        "D": "Valor actual: valor a recibir o a pagar en función del tiempo y la actualización de un descuento adecuado."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 2.4: «Herramientas informáticas específicas» (página 55 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-16",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.1 Operaciones mercantiles y teoría de las cuentas",
+      "pagina_manual": 24,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Operaciones mercantiles y teoría de las cuentas»?",
+      "opciones": {
+        "A": "El PGC expone todas las reglas referentes a la contabilidad para que todas las empresas utilicen los mismos criterios, principios y normas.",
+        "B": "A la hora de trabajar con cuentas, es necesario conocer una serie de conceptos básicos para poder contabilizar la información correctamente.",
+        "C": "El objetivo principal de la regularización contable es el cálculo del resultado obtenido por la empresa.",
+        "D": "En una empresa, la tecnología solo se utiliza en el departamento de producción."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 2.1: «Operaciones mercantiles y teoría de las cuentas» (página 24 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-17",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3 Normalización: Plan General de Contabilidad para pymes",
+      "pagina_manual": 49,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «El PGC expone todas las reglas referentes a la contabilidad para que todas las empresas utilicen los mismos criterios, principios y normas.»",
+      "opciones": {
+        "A": "El ciclo contable",
+        "B": "Operaciones mercantiles y teoría de las cuentas",
+        "C": "Normalización: Plan General de Contabilidad para pymes",
+        "D": "Herramientas informáticas específicas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.3, «Normalización: Plan General de Contabilidad para pymes», página 49."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-18",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 29,
+      "pregunta": "¿Dónde se registran con carácter general los ingresos cuando aumentan?",
+      "opciones": {
+        "A": "En el Debe exclusivamente",
+        "B": "En la columna de existencias",
+        "C": "En la hoja de notas",
+        "D": "En el Haber"
+      },
+      "correcta": "D",
+      "explicacion": "Los ingresos se abonan (Haber)."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-19",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.3 Normalización: Plan General de Contabilidad para pymes",
+      "pagina_manual": 49,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Normalización: Plan General de Contabilidad para pymes»?",
+      "opciones": {
+        "A": "Se trata de una norma de carácter superior a las órdenes ministeriales y a otras normas del ICAC, pero que, a su vez, se encuentra por debajo del Código de Comercio y de la Ley de Sociedades de Capital.",
+        "B": "Libro diario: es un registro cronológico de todas las operaciones realizadas por la empresa en su día a día.",
+        "C": "Los grupos se numeran solamente con un dígito, los subgrupos con dos, las cuentas con tres y las subcuentas con cuatro o más.",
+        "D": "De hecho, no solo se aplica y se materializa durante el proceso de producción, sino que también ocupa un lugar fundamental en el resto de los departamentos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 2.3: «Normalización: Plan General de Contabilidad para pymes» (página 49 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-NORMAL-20",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2.2 El ciclo contable",
+      "pagina_manual": 31,
+      "pregunta": "En el apartado «El ciclo contable», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "La tecnología está presente en todos los ámbitos de la sociedad, incluso en las empresas.",
+        "B": "Empresas que inician su actividad durante el año natural: en ese caso, su ciclo contable comenzaría el día de inicio de la actividad y terminaría el 31 de diciembre.",
+        "C": "Así pues, las tres primeras partes del PGC de pymes tienen carácter obligatorio.",
+        "D": "Los grupos se numeran solamente con un dígito, los subgrupos con dos, las cuentas con tres y las subcuentas con cuatro o más."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 2.2: «El ciclo contable» (página 31 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}

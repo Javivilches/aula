@@ -1,0 +1,487 @@
+{
+  "asignatura": "Proceso Integral de la Actividad Comercial - A",
+  "tema": "Todos",
+  "test": "Simulacro final 5 · Desafío final",
+  "preguntas": [
+    {
+      "id": "PIAC-T3-FINAL5-01",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.6 Operaciones relacionadas con personal",
+      "pagina_manual": 121,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «(460) Anticipo de remuneraciones: son entregas con cargo a las remuneraciones que se le concede al personal antes de pagarles la nómina.»",
+      "opciones": {
+        "A": "Otros ingresos y gastos de gestión",
+        "B": "Operaciones relacionadas con personal",
+        "C": "Compra de mercaderías y operaciones relacionadas",
+        "D": "Operaciones con fondos propios"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.6, «Operaciones relacionadas con personal», página 121."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-02",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.2 Ventas",
+      "pagina_manual": 72,
+      "pregunta": "Una factura por mercaderías tiene base imponible de 9750 € e IVA del 21 %. ¿Cuál es el importe total?",
+      "opciones": {
+        "A": "9750 €",
+        "B": "2047 €",
+        "C": "11797 €",
+        "D": "7703 €"
+      },
+      "correcta": "C",
+      "explicacion": "Cuota IVA = 9750 × 21/100 = 2047 €; total = 9750 + 2047 = 11797 €."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-03",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.5 Cobros y pagos",
+      "pagina_manual": 102,
+      "pregunta": "El saldo de clientes asciende a 4100 € y se recibe un cobro de 1500 €. ¿Qué importe queda pendiente, sin otras operaciones?",
+      "opciones": {
+        "A": "5600 €",
+        "B": "4100 €",
+        "C": "1500 €",
+        "D": "2600 €"
+      },
+      "correcta": "D",
+      "explicacion": "Pendiente = 4100 - 1500 = 2600 €."
+    },
+    {
+      "id": "PIAC-T2-FINAL5-04",
+      "tema": 2,
+      "nivel": "final5",
+      "apartado": "2.1 Teoría de cuentas",
+      "pagina_manual": 25,
+      "pregunta": "En una cuenta T figuran 1740 € en el Debe y 680 € en el Haber. ¿Qué saldo resulta?",
+      "opciones": {
+        "A": "Deudor, 1060 €",
+        "B": "Saldo nulo",
+        "C": "Deudor, 2420 €",
+        "D": "Acreedor, 1060 €"
+      },
+      "correcta": "A",
+      "explicacion": "1740 - 680 = 1060; como Debe supera a Haber, el saldo es deudor."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-05",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.13 Declaraciones y liquidaciones de IVA, IRPF e IS",
+      "pagina_manual": 181,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «En este sentido, el ciclo contable consiste en el desarrollo de todas las actividades y operaciones que suceden durante un ejercicio contable.»",
+      "opciones": {
+        "A": "Operaciones relacionadas con personal",
+        "B": "Declaraciones y liquidaciones de IVA, IRPF e IS",
+        "C": "Operaciones de financiación",
+        "D": "Desarrollo del ciclo contable"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.13, «Declaraciones y liquidaciones de IVA, IRPF e IS», página 181."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-06",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.1 Compras y descuentos",
+      "pagina_manual": 58,
+      "pregunta": "El precio de compra es 1000 € y el proveedor aplica un descuento comercial del 10 %. ¿Qué base queda tras el descuento, antes de IVA?",
+      "opciones": {
+        "A": "100 €",
+        "B": "1000 €",
+        "C": "900 €",
+        "D": "1100 €"
+      },
+      "correcta": "C",
+      "explicacion": "Descuento = 1000 × 10/100 = 100 €; precio neto = 1000 - 100 = 900 €."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-07",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.13 Liquidación IVA",
+      "pagina_manual": 173,
+      "pregunta": "En una liquidación simplificada del IVA se computan 950 € de IVA repercutido y 400 € de IVA soportado deducible. ¿Cuál es el importe a ingresar?",
+      "opciones": {
+        "A": "1350 €",
+        "B": "400 €",
+        "C": "950 €",
+        "D": "550 €"
+      },
+      "correcta": "D",
+      "explicacion": "IVA a ingresar = IVA repercutido - soportado deducible = 950 - 400 = 550 €."
+    },
+    {
+      "id": "PIAC-T2-FINAL5-08",
+      "tema": 2,
+      "nivel": "final5",
+      "apartado": "2.1 Teoría de cuentas",
+      "pagina_manual": 25,
+      "pregunta": "En una cuenta T figuran 410 € en el Debe y 1420 € en el Haber. ¿Qué saldo resulta?",
+      "opciones": {
+        "A": "Acreedor, 1010 €",
+        "B": "Saldo nulo",
+        "C": "Deudor, 1010 €",
+        "D": "Acreedor, 1830 €"
+      },
+      "correcta": "A",
+      "explicacion": "1420 - 410 = 1010; como Haber supera a Debe, el saldo es acreedor."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-09",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.10 Provisiones por insolvencias",
+      "pagina_manual": 148,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Provisiones por insolvencias»?",
+      "opciones": {
+        "A": "Al realizar el cierre del ejercicio, será necesario dotar las correspondientes provisiones o los deterioros del valor del activo.",
+        "B": "– El importe de la dotación es igual al del gasto final: no se tendría que realizar ningún otro asiento.",
+        "C": "Para contabilizarlos, no será necesario realizar ningún asiento determinado, solo habrá que descontarlos del precio de venta para que aparezcan, por tanto, como un menor valor de la cuenta (700) Venta de mercaderías.",
+        "D": "Balance de situación final: con los datos del asiento de cierre, y como último paso del proceso, se realiza el balance de situación final."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 3.10: «Provisiones por insolvencias» (página 148 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-10",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.7 Inversiones financieras",
+      "pagina_manual": 128,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «(533) Intereses a corto plazo de inversiones financieras en partes vinculadas: son los intereses a cobrar de valores representativos de deuda a partes vinculadas.»",
+      "opciones": {
+        "A": "Provisiones por insolvencias",
+        "B": "Operaciones de financiación",
+        "C": "Inversiones financieras",
+        "D": "Operaciones relacionadas con personal"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 3.7, «Inversiones financieras», página 128."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-11",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.12 Inmovilizado y amortizaciones",
+      "pagina_manual": 169,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Inmovilizado y amortizaciones»?",
+      "opciones": {
+        "A": "Para registrar la operativa de compraventa de mercaderías, es necesario tener la factura que acredite la existencia de dicha operación.",
+        "B": "Generalmente, las aportaciones de los socios se realizan en efectivo, pero en algunos casos las llevan a cabo mediante aportaciones de otros elementos, sobre todo inmovilizado.",
+        "C": "En este módulo se hará hincapié en los subgrupos (20) Inmovilizado intangible y (21) Inmovilizado material.",
+        "D": "Contabilizar la operación de venta: una vez realizados los pasos anteriores, es necesario registrar la operación contablemente, dando de baja tanto el inmovilizado como la cuenta de amortización acumulada."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 3.12: «Inmovilizado y amortizaciones» (página 169 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-FINAL5-12",
+      "tema": 2,
+      "nivel": "final5",
+      "apartado": "2.1 Operaciones mercantiles y teoría de las cuentas",
+      "pagina_manual": 28,
+      "pregunta": "En el apartado «Operaciones mercantiles y teoría de las cuentas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "El saldo inicial de estas cuentas se coloca en el Haber, al igual que los aumentos de valor, pero si se produce una disminución, se deberá anotar en el Debe.",
+        "B": "Su función es la de cerrar las cuentas de activo y pasivo para pasar su saldo al ejercicio siguiente.",
+        "C": "– Memoria: documento que completa la información recogida en los otros documentos de cuentas anuales.",
+        "D": "De hecho, no solo se aplica y se materializa durante el proceso de producción, sino que también ocupa un lugar fundamental en el resto de los departamentos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 2.1: «Operaciones mercantiles y teoría de las cuentas» (página 28 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-13",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.5 Cobros y pagos",
+      "pagina_manual": 102,
+      "pregunta": "El saldo de clientes asciende a 9600 € y se recibe un cobro de 1600 €. ¿Qué importe queda pendiente, sin otras operaciones?",
+      "opciones": {
+        "A": "1600 €",
+        "B": "8000 €",
+        "C": "11200 €",
+        "D": "9600 €"
+      },
+      "correcta": "B",
+      "explicacion": "Pendiente = 9600 - 1600 = 8000 €."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-14",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.2 Ventas",
+      "pagina_manual": 72,
+      "pregunta": "Una factura por mercaderías tiene base imponible de 11150 € e IVA del 21 %. ¿Cuál es el importe total?",
+      "opciones": {
+        "A": "11150 €",
+        "B": "2341 €",
+        "C": "13491 €",
+        "D": "8809 €"
+      },
+      "correcta": "C",
+      "explicacion": "Cuota IVA = 11150 × 21/100 = 2341 €; total = 11150 + 2341 = 13491 €."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-15",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.1 Compras",
+      "pagina_manual": 58,
+      "pregunta": "Una factura por mercaderías tiene base imponible de 1400 € e IVA del 21 %. ¿Cuál es el importe total?",
+      "opciones": {
+        "A": "294 €",
+        "B": "1400 €",
+        "C": "1106 €",
+        "D": "1694 €"
+      },
+      "correcta": "D",
+      "explicacion": "Cuota IVA = 1400 × 21/100 = 294 €; total = 1400 + 294 = 1694 €."
+    },
+    {
+      "id": "PIAC-T2-FINAL5-16",
+      "tema": 2,
+      "nivel": "final5",
+      "apartado": "2.1 Teoría de cuentas",
+      "pagina_manual": 25,
+      "pregunta": "En una cuenta T figuran 1240 € en el Debe y 560 € en el Haber. ¿Qué saldo resulta?",
+      "opciones": {
+        "A": "Deudor, 680 €",
+        "B": "Saldo nulo",
+        "C": "Acreedor, 680 €",
+        "D": "Deudor, 1800 €"
+      },
+      "correcta": "A",
+      "explicacion": "1240 - 560 = 680; como Debe supera a Haber, el saldo es deudor."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-17",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.12 Amortización",
+      "pagina_manual": 160,
+      "pregunta": "Una máquina cuesta 21000 € y tiene vida útil estimada de 6 años, sin valor residual. ¿Cuál es la amortización lineal anual?",
+      "opciones": {
+        "A": "7000 €",
+        "B": "3500 €",
+        "C": "4100 €",
+        "D": "21000 €"
+      },
+      "correcta": "B",
+      "explicacion": "La cuota lineal es 21000 / 6 = 3500 € cada año."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-18",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.2 Venta de mercaderías y operaciones relacionadas",
+      "pagina_manual": 74,
+      "pregunta": "En el apartado «Venta de mercaderías y operaciones relacionadas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Una de las operaciones más habituales e importantes de las empresas son las relacionadas con el movimiento de las mercaderías.",
+        "B": "Para registrarlo, primero se contabiliza la venta con cargo a clientes, después se realiza un cambio de cuentas de la (430) a la (431) y, finalmente, se lleva a cabo el asiento de cobro.",
+        "C": "A crédito: el importe de la venta no se cobra al momento, sino que se permite a los clientes que lo paguen un tiempo después.",
+        "D": "Las operaciones relacionadas con el personal más habituales se dividen en cuentas de gastos, de pasivos y de activos."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 3.2: «Venta de mercaderías y operaciones relacionadas» (página 74 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-19",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.12 Amortización",
+      "pagina_manual": 160,
+      "pregunta": "Una máquina cuesta 6000 € y tiene vida útil estimada de 3 años, sin valor residual. ¿Cuál es la amortización lineal anual?",
+      "opciones": {
+        "A": "4000 €",
+        "B": "6000 €",
+        "C": "2300 €",
+        "D": "2000 €"
+      },
+      "correcta": "D",
+      "explicacion": "La cuota lineal es 6000 / 3 = 2000 € cada año."
+    },
+    {
+      "id": "PIAC-T1-FINAL5-20",
+      "tema": 1,
+      "nivel": "final5",
+      "apartado": "1.6 Equilibrio patrimonial",
+      "pagina_manual": 19,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Equilibrio patrimonial»?",
+      "opciones": {
+        "A": "– Todas las inversiones realizadas a corto plazo deben estar financiadas por recursos financieros a corto y largo plazo.",
+        "B": "Periódicamente, las empresas deben realizar un análisis patrimonial con el fin de estudiar el patrimonio y comprobar que se cumple la ecuación fundamental del patrimonio.",
+        "C": "Proveedores Proveedores, efectos comerciales a pagar Acreedores Deudas a corto plazo Deudas a largo plazo",
+        "D": "Generalmente, los ejercicios económicos suelen coincidir con el año natural, por lo que se suele entender que el corto plazo hace referencia a un periodo inferior a un año y el largo plazo a uno superior."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.6: «Equilibrio patrimonial» (página 19 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-FINAL5-21",
+      "tema": 1,
+      "nivel": "final5",
+      "apartado": "1.4 Elementos y masas patrimoniales",
+      "pagina_manual": 12,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Estos se agrupan en activos, pasivos y patrimonio neto y pueden ser, entre otros, la maquinaria, el mobiliario, las deudas a largo plazo con entidades de crédito, etcétera.»",
+      "opciones": {
+        "A": "La contabilidad: clases y objetivos",
+        "B": "Elementos y masas patrimoniales",
+        "C": "Equilibrio patrimonial",
+        "D": "El patrimonio de la empresa"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 1.4, «Elementos y masas patrimoniales», página 12."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-22",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.13 Liquidación IVA",
+      "pagina_manual": 173,
+      "pregunta": "En una liquidación simplificada del IVA se computan 1350 € de IVA repercutido y 150 € de IVA soportado deducible. ¿Cuál es el importe a ingresar?",
+      "opciones": {
+        "A": "1500 €",
+        "B": "1350 €",
+        "C": "1200 €",
+        "D": "150 €"
+      },
+      "correcta": "C",
+      "explicacion": "IVA a ingresar = IVA repercutido - soportado deducible = 1350 - 150 = 1200 €."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-23",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.1 Compras",
+      "pagina_manual": 58,
+      "pregunta": "Una factura por mercaderías tiene base imponible de 450 € e IVA del 21 %. ¿Cuál es el importe total?",
+      "opciones": {
+        "A": "450 €",
+        "B": "94 €",
+        "C": "356 €",
+        "D": "544 €"
+      },
+      "correcta": "D",
+      "explicacion": "Cuota IVA = 450 × 21/100 = 94 €; total = 450 + 94 = 544 €."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-24",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.8 Operaciones de financiación",
+      "pagina_manual": 136,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Se obtiene a través de las fuentes de financiación, que son los medios que utiliza la propia compañía para afrontar sus necesidades de efectivo.»",
+      "opciones": {
+        "A": "Operaciones de financiación",
+        "B": "Inversiones financieras",
+        "C": "Operaciones relacionadas con personal",
+        "D": "Operaciones con fondos propios"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 3.8, «Operaciones de financiación», página 136."
+    },
+    {
+      "id": "PIAC-T2-FINAL5-25",
+      "tema": 2,
+      "nivel": "final5",
+      "apartado": "2.2 El ciclo contable",
+      "pagina_manual": 41,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «El ciclo contable»?",
+      "opciones": {
+        "A": "Uno de los más usados es ContaSol, que ofrece la posibilidad de realizar todas las operativas fiscales y contables de manera gratuita y sencilla.",
+        "B": "Con esto se asegura la imputación de gastos e ingresos correspondientes a cada ciclo económico.",
+        "C": "El Plan General Contable (PGC) es un texto que tiene como función principal la regulación de la contabilidad de las empresas españolas",
+        "D": "El ciclo contable es el conjunto de las operaciones que lleva a cabo la empresa durante un ejercicio económico."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 2.2: «El ciclo contable» (página 41 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-FINAL5-26",
+      "tema": 1,
+      "nivel": "final5",
+      "apartado": "Equilibrio y ecuación patrimonial",
+      "pagina_manual": 19,
+      "pregunta": "El activo corriente de una sociedad es 77.000 € y el pasivo corriente 8.000 €. ¿Qué fondo de maniobra obtiene?",
+      "opciones": {
+        "A": "8.000 €",
+        "B": "85.000 €",
+        "C": "69.000 €",
+        "D": "77.000 €"
+      },
+      "correcta": "C",
+      "explicacion": "Fondo de maniobra = activo corriente - pasivo corriente = 77.000 - 8.000 = 69.000 €."
+    },
+    {
+      "id": "PIAC-T1-FINAL5-27",
+      "tema": 1,
+      "nivel": "final5",
+      "apartado": "Equilibrio y ecuación patrimonial",
+      "pagina_manual": 11,
+      "pregunta": "Una empresa presenta activo total de 98.000 € y pasivo de 24.000 €. ¿Qué patrimonio neto tiene?",
+      "opciones": {
+        "A": "24.000 €",
+        "B": "122.000 €",
+        "C": "98.000 €",
+        "D": "74.000 €"
+      },
+      "correcta": "D",
+      "explicacion": "Patrimonio neto = activo - pasivo = 98.000 - 24.000 = 74.000 €."
+    },
+    {
+      "id": "PIAC-T2-FINAL5-28",
+      "tema": 2,
+      "nivel": "final5",
+      "apartado": "2.1 Teoría de cuentas",
+      "pagina_manual": 25,
+      "pregunta": "En una cuenta T figuran 640 € en el Debe y 1530 € en el Haber. ¿Qué saldo resulta?",
+      "opciones": {
+        "A": "Acreedor, 890 €",
+        "B": "Saldo nulo",
+        "C": "Deudor, 890 €",
+        "D": "Acreedor, 2170 €"
+      },
+      "correcta": "A",
+      "explicacion": "1530 - 640 = 890; como Haber supera a Debe, el saldo es acreedor."
+    },
+    {
+      "id": "PIAC-T3-FINAL5-29",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.11 Periodificación contable",
+      "pagina_manual": 160,
+      "pregunta": "En el apartado «Periodificación contable», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "En este sentido, el ciclo contable consiste en el desarrollo de todas las actividades y operaciones que suceden durante un ejercicio contable.",
+        "B": "(568) Intereses cobrados por anticipado (cuenta de pasivo): se utiliza en los casos en los que la empresa cobra anticipadamente los intereses de un crédito que ha concedido pero que aún no se ha generado.",
+        "C": "– Precio de venta < valor contable = pérdida, contabilizado en la cuenta (671) Pérdidas procedentes del inmovilizado.",
+        "D": "Las características de los paquetes de software contable son la flexibilidad, facilidad de manejo, compatibilidad, uniformidad y seguridad."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 3.11: «Periodificación contable» (página 160 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T2-FINAL5-30",
+      "tema": 2,
+      "nivel": "final5",
+      "apartado": "2.2 El ciclo contable",
+      "pagina_manual": 38,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Balance de comprobación de sumas y saldos: se realiza, como mínimo, cada tres meses, para verificar la información del libro mayor y del libro diario.»",
+      "opciones": {
+        "A": "Operaciones mercantiles y teoría de las cuentas",
+        "B": "Herramientas informáticas específicas",
+        "C": "El ciclo contable",
+        "D": "Normalización: Plan General de Contabilidad para pymes"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 2.2, «El ciclo contable», página 38."
+    }
+  ]
+}

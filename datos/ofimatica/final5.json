@@ -1,0 +1,487 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": "Todos",
+  "test": "Simulacro final 5 · Desafío final",
+  "preguntas": [
+    {
+      "id": "OFI-T5-FINAL5-01",
+      "tema": 5,
+      "nivel": "final5",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 239,
+      "pregunta": "Caso de Google Docs: varias personas deben organizar tareas dentro de un documento. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Plantilla",
+        "B": "Lista de verificación",
+        "C": "Historial de versiones",
+        "D": "Editor"
+      },
+      "correcta": "B",
+      "explicacion": "Lista de verificación: facilita marcar tareas realizadas."
+    },
+    {
+      "id": "OFI-T4-FINAL5-02",
+      "tema": 4,
+      "nivel": "final5",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "La columna de ventas contiene 17, 15, 19, 4. ¿Cuál es el resultado de =PROMEDIO(B1:B4)?",
+      "opciones": {
+        "A": "55",
+        "B": "4",
+        "C": "13,75",
+        "D": "19"
+      },
+      "correcta": "C",
+      "explicacion": "PROMEDIO = (17 + 15 + 19 + 4) / 4 = 13,75."
+    },
+    {
+      "id": "OFI-T4-FINAL5-03",
+      "tema": 4,
+      "nivel": "final5",
+      "apartado": "4.1 Introducción a las hojas de cálculo",
+      "pagina_manual": 87,
+      "pregunta": "En el apartado «Introducción a las hojas de cálculo», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Elaboración de documentos y plantillas mediante hojas de cálculo Funciones y fórmulas F2: editar una celda activa sin sobrescribir el contenido.",
+        "B": "Uso de temas y diseño personalizado Google Sheets permite personalizar el diseño de las hojas de cálculo para que sean más atractivas y profesionales.",
+        "C": "Elaboración de documentos y plantillas mediante hojas de cálculo Beneficios de la colaboración en tiempo real Los cambios realizados por cualquier usuario se reflejan automáticamente para todos los demás.",
+        "D": "Las hojas de cálculo tienen aplicaciones muy diversas: En el ámbito financiero, se usan para presupuestos, proyecciones y análisis contable."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 4.1: «Introducción a las hojas de cálculo» (página 87 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-FINAL5-04",
+      "tema": 5,
+      "nivel": "final5",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 190,
+      "pregunta": "Caso de Google Docs: el lector necesita una lista numerada de pasos. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Lista numerada",
+        "B": "Ajuste de imagen",
+        "C": "Encabezado o pie de página",
+        "D": "Tabla"
+      },
+      "correcta": "A",
+      "explicacion": "Lista numerada: organiza una secuencia."
+    },
+    {
+      "id": "OFI-T6-FINAL5-05",
+      "tema": 6,
+      "nivel": "final5",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 328,
+      "pregunta": "Una pyme configura en AppSheet una aplicación con duplicados. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "Vinculación entre origen de datos y aplicación",
+        "B": "definir criterios de unicidad",
+        "C": "restringir visibilidad mediante permisos y filtros",
+        "D": "configurar una vista de formulario"
+      },
+      "correcta": "B",
+      "explicacion": "Para una aplicación con duplicados conviene definir criterios de unicidad; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T5-FINAL5-06",
+      "tema": 5,
+      "nivel": "final5",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 256,
+      "pregunta": "Caso de Google Docs: se quiere insertar una URL clicable en un informe. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Salto de página",
+        "B": "Lector",
+        "C": "Enlace",
+        "D": "Comentario"
+      },
+      "correcta": "C",
+      "explicacion": "Enlace: vincula texto a una dirección."
+    },
+    {
+      "id": "OFI-T4-FINAL5-07",
+      "tema": 4,
+      "nivel": "final5",
+      "apartado": "4.7 Funciones avanzadas y automatización",
+      "pagina_manual": 158,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Funciones avanzadas y automatización»?",
+      "opciones": {
+        "A": "Formato condicional avanzado Google Sheets permite usar fórmulas personalizadas para crear reglas avanzadas.",
+        "B": "Recuperación de versiones anteriores Una de las funciones más útiles de Google Sheets es la capacidad de recuperar versiones anteriores de un archivo.",
+        "C": "Dominar estas funciones básicas permite realizar análisis rápidos y sentar las bases para trabajar con herramientas más avanzadas en Google Sheets.",
+        "D": "Funciones de texto y fechas Las funciones de texto y fechas en Google Sheets permiten manipular y analizar datos alfanuméricos y temporales."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 4.7: «Funciones avanzadas y automatización» (página 158 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-FINAL5-08",
+      "tema": 6,
+      "nivel": "final5",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 309,
+      "pregunta": "Una pyme configura en AppSheet una edición errónea de varios registros. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "verificar reglas y probar con un conjunto de ejemplo",
+        "B": "homogeneizar el tipo de dato",
+        "C": "restringir visibilidad mediante permisos y filtros",
+        "D": "configurar una vista de formulario"
+      },
+      "correcta": "A",
+      "explicacion": "Para una edición errónea de varios registros conviene verificar reglas y probar con un conjunto de ejemplo; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T6-FINAL5-09",
+      "tema": 6,
+      "nivel": "final5",
+      "apartado": "6.3 Diseño de la estructura de datos",
+      "pagina_manual": 281,
+      "pregunta": "En el apartado «Diseño de la estructura de datos», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Bases de datos Verificar la importación de datos Una vez conectada la hoja de cálculo, se pueden revisar los datos desde la pestaña Data (Datos) en el editor de AppSheet.",
+        "B": "Revisar la configuración automática de los campos realizada por AppSheet y ajustarla si es necesario.",
+        "C": "Este capítulo aborda cómo configurar y personalizar diferentes tipos de vistas, adaptando su diseño y comportamiento a las necesidades específicas del proyecto.",
+        "D": "Este capítulo introduce los conceptos bá- Anexo sicos sobre bases de datos y establece el marco teórico necesario para trabajar con AppSheet."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 6.3: «Diseño de la estructura de datos» (página 281 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-FINAL5-10",
+      "tema": 5,
+      "nivel": "final5",
+      "apartado": "5.9 Funciones y herramientas avanzadas",
+      "pagina_manual": 240,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Opciones avanzadas de recuento de palabras La ventana de recuento de palabras también permite ver las estadísticas de una sección específica del texto: Seleccionar el texto que se desea analizar y luego abrir la herramienta de recuento de palabras.»",
+      "opciones": {
+        "A": "Tablas y listas de verificación",
+        "B": "Formato de texto",
+        "C": "Funciones y herramientas avanzadas",
+        "D": "Introducción al procesador de texto"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 5.9, «Funciones y herramientas avanzadas», página 240."
+    },
+    {
+      "id": "OFI-T5-FINAL5-11",
+      "tema": 5,
+      "nivel": "final5",
+      "apartado": "5.3 Formato de texto",
+      "pagina_manual": 182,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Formato de texto»?",
+      "opciones": {
+        "A": "Si se desea aplicar el formato a todo el documento, en ese caso, basta con asegurarse de que no haya texto seleccionado.",
+        "B": "Elaboración de documentos y plantillas mediante procesadores de texto Configuración de colaboración y permisos: Google Docs facilita la colaboración mediante la opción de compartir documentos.",
+        "C": "Elaboración de documentos y plantillas mediante procesadores de texto Ajuste de opciones de impresión 1.",
+        "D": "Elaboración de documentos y plantillas mediante procesadores de texto Manuscritas y decorativas: imitan la escritura manual o tienen un diseño decorativo, como Pacifico o Lobster."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 5.3: «Formato de texto» (página 182 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T1-FINAL5-12",
+      "tema": 1,
+      "nivel": "final5",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "Una entidad necesita conectar delegaciones situadas en varios continentes. ¿Qué red elegirías por su alcance geográfico?",
+      "opciones": {
+        "A": "WAN",
+        "B": "MAN",
+        "C": "PAN",
+        "D": "LAN"
+      },
+      "correcta": "A",
+      "explicacion": "WAN: red de gran extensión geográfica."
+    },
+    {
+      "id": "OFI-T4-FINAL5-13",
+      "tema": 4,
+      "nivel": "final5",
+      "apartado": "4.2 Gestión de datos",
+      "pagina_manual": 97,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Copiar y pegar celdas Copiar y pegar permite duplicar datos sin modificar el contenido original.»",
+      "opciones": {
+        "A": "Formato y diseño de hojas",
+        "B": "Gestión de datos",
+        "C": "Introducción a las hojas de cálculo",
+        "D": "Colaboración en tiempo real e integración con Google"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 4.2, «Gestión de datos», página 97."
+    },
+    {
+      "id": "OFI-T5-FINAL5-14",
+      "tema": 5,
+      "nivel": "final5",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 169,
+      "pregunta": "Caso de Google Docs: un párrafo debe empezar en una página nueva. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Modificar un estilo de título",
+        "B": "Edición colaborativa",
+        "C": "Salto de página",
+        "D": "Historial de versiones"
+      },
+      "correcta": "C",
+      "explicacion": "Salto de página: controla la paginación."
+    },
+    {
+      "id": "OFI-T2-FINAL5-15",
+      "tema": 2,
+      "nivel": "final5",
+      "apartado": "2.5 Colocación de dedos",
+      "pagina_manual": 50,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «La fila donde los dedos deben descansar se conoce con el nombre de fila guía.»",
+      "opciones": {
+        "A": "Escritura de palabras simples",
+        "B": "Desarrollo de destreza mecanográfica",
+        "C": "Teclado QWERTY y otros",
+        "D": "Colocación de dedos"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 2.5, «Colocación de dedos», página 50."
+    },
+    {
+      "id": "OFI-T7-FINAL5-16",
+      "tema": 7,
+      "nivel": "final5",
+      "apartado": "Integración de aplicaciones",
+      "pagina_manual": 335,
+      "pregunta": "La oficina necesita preparar un documento para imprimirlo desde distintos equipos. ¿Cuál es la operación más apropiada?",
+      "opciones": {
+        "A": "Exportar a PDF",
+        "B": "Exportar al formato requerido",
+        "C": "Un documento vinculado",
+        "D": "Importar y exportar"
+      },
+      "correcta": "A",
+      "explicacion": "La finalidad descrita corresponde a exportar a pdf; comprueba que se conserve el formato y la trazabilidad cuando proceda."
+    },
+    {
+      "id": "OFI-T8-FINAL5-17",
+      "tema": 8,
+      "nivel": "final5",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 358,
+      "pregunta": "Un departamento administrativo quiere evitar abrir un adjunto inesperado de un remitente desconocido. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "Filtro antispam",
+        "B": "Verificar origen y contenido",
+        "C": "Borrador",
+        "D": "Agenda electrónica"
+      },
+      "correcta": "B",
+      "explicacion": "La necesidad indicada se atiende con «Verificar origen y contenido», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T1-FINAL5-18",
+      "tema": 1,
+      "nivel": "final5",
+      "apartado": "1.5 Seguridad informática",
+      "pagina_manual": 33,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Por ejemplo, utilizar contraseñas fuertes o seguras, actualizar el antivirus, utilizar usuarios que no sean administradores, crear copias de seguridad, entre otras.»",
+      "opciones": {
+        "A": "Documentación de las incidencias y resolución de problemas",
+        "B": "Organización de los sistemas informáticos de la empresa",
+        "C": "Seguridad informática",
+        "D": "Sistemas operativos, permisos, usuarios y configuración"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 1.5, «Seguridad informática», página 33."
+    },
+    {
+      "id": "OFI-T6-FINAL5-19",
+      "tema": 6,
+      "nivel": "final5",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 318,
+      "pregunta": "Una pyme configura en AppSheet una tabla con fechas mezcladas como texto. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "crear un flujo automático condicionado al evento",
+        "B": "definir una expresión adecuada",
+        "C": "establecer validaciones y trazabilidad",
+        "D": "homogeneizar el tipo de dato"
+      },
+      "correcta": "D",
+      "explicacion": "Para una tabla con fechas mezcladas como texto conviene homogeneizar el tipo de dato; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T3-FINAL5-20",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.4 Técnicas de archivo",
+      "pagina_manual": 72,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Las herramientas fundamentales que utiliza son las de Agregar y Comprimir, por un lado, y Extraer por otro.»",
+      "opciones": {
+        "A": "Técnicas de archivo",
+        "B": "Bases de datos temáticas",
+        "C": "Estrategias de búsqueda de información en red",
+        "D": "Herramientas colaborativas y redes sociales"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 3.4, «Técnicas de archivo», página 72."
+    },
+    {
+      "id": "OFI-T9-FINAL5-21",
+      "tema": 9,
+      "nivel": "final5",
+      "apartado": "Presentaciones y anexo · caso",
+      "pagina_manual": 393,
+      "pregunta": "En el trabajo con presentaciones y su anexo se necesita organizar un resumen en filas y columnas. ¿Qué recurso conviene usar?",
+      "opciones": {
+        "A": "Historial de versiones",
+        "B": "Tabla",
+        "C": "Tema",
+        "D": "Notas del presentador"
+      },
+      "correcta": "B",
+      "explicacion": "El recurso «Tabla» se corresponde con el objetivo concreto del enunciado."
+    },
+    {
+      "id": "OFI-T6-FINAL5-22",
+      "tema": 6,
+      "nivel": "final5",
+      "apartado": "6.4 Creación y personalización de vistas",
+      "pagina_manual": 289,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Diseñar vistas atractivas, claras y funcionales mejora la experiencia del usuario y facilita la interacción con la aplicación.»",
+      "opciones": {
+        "A": "Introducción a la gestión de datos y AppSheet",
+        "B": "Primeros pasos con AppSheet",
+        "C": "Creación y personalización de vistas",
+        "D": "Aplicaciones prácticas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 6.4, «Creación y personalización de vistas», página 289."
+    },
+    {
+      "id": "OFI-T4-FINAL5-23",
+      "tema": 4,
+      "nivel": "final5",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "Se registran los importes 35, 90, 43, 50 en C1:C4. ¿Qué muestra =MAX(C1:C4)?",
+      "opciones": {
+        "A": "218",
+        "B": "35",
+        "C": "54.5",
+        "D": "90"
+      },
+      "correcta": "D",
+      "explicacion": "MAX selecciona el mayor valor del rango: 90."
+    },
+    {
+      "id": "OFI-T4-FINAL5-24",
+      "tema": 4,
+      "nivel": "final5",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "En Google Sheets, A1:A4 contiene 76, 74, 95, 3. ¿Qué devuelve =SUMA(A1:A4)?",
+      "opciones": {
+        "A": "248",
+        "B": "95",
+        "C": "240",
+        "D": "251"
+      },
+      "correcta": "A",
+      "explicacion": "SUMA agrega las cuatro celdas: 76 + 74 + 95 + 3 = 248."
+    },
+    {
+      "id": "OFI-T5-FINAL5-25",
+      "tema": 5,
+      "nivel": "final5",
+      "apartado": "5.6 Imágenes y gráficos en el documento",
+      "pagina_manual": 215,
+      "pregunta": "En el apartado «Imágenes y gráficos en el documento», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Inserción de recursos visuales y multimedia: además de texto, estos programas permiten agregar imágenes, tablas, y gráficos, integrándolos de manera coherente para apoyar o enriquecer la información presentada.",
+        "B": "Google Docs ofrece varias herramientas para insertar y editar imágenes dentro de un documento, permitiendo que el contenido visual se integre de manera fluida con el texto.",
+        "C": "Insertar datos de Google Sheets y vincularlos La opción de insertar datos de Google Sheets en un documento de Google Docs permite integrar tablas, gráficos y otros datos generados en hojas de cálculo.",
+        "D": "Tamaño del archivo y resolución: en archivos con imágenes o gráficos grandes, es posible que el tamaño del documento exportado sea mayor que el original en Google Docs."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 5.6: «Imágenes y gráficos en el documento» (página 215 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-FINAL5-26",
+      "tema": 8,
+      "nivel": "final5",
+      "apartado": "8.10 Agenda electrónica, avisos y tareas",
+      "pagina_manual": 355,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Con ella podemos realizar las mismas funciones que con una agenda, pero además nos ofrece funcionalidades superiores, ya que es capaz de gestionar avisos mediante texto y sonido y puede abarcar periodos superiores a un año.»",
+      "opciones": {
+        "A": "Gestión y seguridad de archivos y agenda",
+        "B": "Sincronización con dispositivos móviles",
+        "C": "Agenda electrónica, avisos y tareas",
+        "D": "Elementos del correo electrónico"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 8.10, «Agenda electrónica, avisos y tareas», página 355."
+    },
+    {
+      "id": "OFI-T3-FINAL5-27",
+      "tema": 3,
+      "nivel": "final5",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 83,
+      "pregunta": "En una empresa se necesita encontrar páginas relacionadas con un criterio concreto. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "emplear un protocolo de transferencia de archivos",
+        "B": "Combinar filtros de dominio y tipo de archivo en la búsqueda",
+        "C": "contrastar fuentes primarias",
+        "D": "refinar la consulta de búsqueda"
+      },
+      "correcta": "D",
+      "explicacion": "La actuación «refinar la consulta de búsqueda» responde directamente a la necesidad de encontrar páginas relacionadas con un criterio concreto; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T9-FINAL5-28",
+      "tema": 9,
+      "nivel": "final5",
+      "apartado": "9.10 Anexo: bases de datos relacionales",
+      "pagina_manual": 423,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Además, podremos diseñarlas y añadir todos los campos que sean necesarios, así como configurar sus propiedades.»",
+      "opciones": {
+        "A": "Anexo: bases de datos relacionales",
+        "B": "Software y dispositivos de introducción",
+        "C": "Anexo: creación de bases de datos",
+        "D": "Anexo: tipos de bases de datos"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 9.10, «Anexo: bases de datos relacionales», página 423."
+    },
+    {
+      "id": "OFI-T2-FINAL5-29",
+      "tema": 2,
+      "nivel": "final5",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 378 pulsaciones en 5 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "378 pulsaciones/minuto",
+        "B": "75,6 pulsaciones/minuto",
+        "C": "63.0 pulsaciones/minuto",
+        "D": "1890 pulsaciones/minuto"
+      },
+      "correcta": "B",
+      "explicacion": "Promedio = 378 / 5 = 75,6 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T7-FINAL5-30",
+      "tema": 7,
+      "nivel": "final5",
+      "apartado": "7.4 Gestión de personal",
+      "pagina_manual": 337,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Si el rendimiento de las personas no es el adecuado, será muy complicado alcanzar las metas establecidas.»",
+      "opciones": {
+        "A": "Gestión de registros contables",
+        "B": "Importación y exportación entre aplicaciones",
+        "C": "Gestión de personal",
+        "D": "Gestión de existencias"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 7.4, «Gestión de personal», página 337."
+    }
+  ]
+}

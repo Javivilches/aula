@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 6,
+  "test": "Tema 6 · Test difícil",
+  "preguntas": [
+    {
+      "id": "OFI-T6-DIFICIL-01",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 299,
+      "pregunta": "Al registrar pedidos en una app, se quiere ejecutar un aviso al producirse una condición. ¿Qué herramienta estudia el manual?",
+      "opciones": {
+        "A": "Formato del papel",
+        "B": "Escáner plano",
+        "C": "Automatización de flujos de trabajo",
+        "D": "Barra espaciadora"
+      },
+      "correcta": "C",
+      "explicacion": "Las automatizaciones desencadenan acciones ante eventos o condiciones."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-02",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 289,
+      "pregunta": "Una pyme configura en AppSheet una tabla de clientes. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "configurar una vista de formulario",
+        "B": "configurar una vista de tabla",
+        "C": "relacionar los registros mediante un campo clave",
+        "D": "separar nombre, correo y teléfono en campos"
+      },
+      "correcta": "D",
+      "explicacion": "Para una tabla de clientes conviene separar nombre, correo y teléfono en campos; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-03",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.8 Aplicaciones prácticas",
+      "pagina_manual": 330,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Aplicaciones prácticas»?",
+      "opciones": {
+        "A": "Buenas prácticas para aplicaciones prácticas Adaptar los ejemplos a necesidades específicas: personalizar las tablas, vistas y automatizaciones según el caso particular.",
+        "B": "Los botones y acciones interactivas son una herramienta poderosa para hacer que las aplicaciones sean más dinámicas y fáciles de usar, permitiendo a los usuarios realizar tareas específicas con un solo clic.",
+        "C": "Este capítulo se centra en cómo configurar la seguridad de las aplicaciones y adoptar buenas prácticas para mantener la integridad y confidencialidad de la información.",
+        "D": "Relacionar tablas en AppSheet permite conectar diferentes conjuntos de datos de manera eficiente, creando aplicaciones más completas y funcionales."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 6.8: «Aplicaciones prácticas» (página 330 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-04",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.1 Introducción a la gestión de datos y AppSheet",
+      "pagina_manual": 263,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Introducción a las aplicaciones no-code Las plataformas no-code permiten a los usuarios crear aplicaciones funcionales basadas en datos sin escribir código.»",
+      "opciones": {
+        "A": "Aplicaciones prácticas",
+        "B": "Introducción a la gestión de datos y AppSheet",
+        "C": "Diseño de la estructura de datos",
+        "D": "Primeros pasos con AppSheet"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 6.1, «Introducción a la gestión de datos y AppSheet», página 263."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-05",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.3 Diseño de la estructura de datos",
+      "pagina_manual": 278,
+      "pregunta": "En el apartado «Diseño de la estructura de datos», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Este capítulo aborda cómo configurar y personalizar diferentes tipos de vistas, adaptando su diseño y comportamiento a las necesidades específicas del proyecto.",
+        "B": "Buenas prácticas para aplicaciones prácticas Adaptar los ejemplos a necesidades específicas: personalizar las tablas, vistas y automatizaciones según el caso particular.",
+        "C": "Planificación y diseño de tablas y campos Antes de importar datos a AppSheet, es fundamental planificar cómo se estructurarán las tablas y los campos para reflejar las necesidades específicas del proyecto.",
+        "D": "AppSheet permite configurarlos basándose en el correo electrónico del usuario o en valores almacenados en tablas."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 6.3: «Diseño de la estructura de datos» (página 278 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-06",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 328,
+      "pregunta": "¿Cuál es una buena práctica al construir una aplicación empresarial?",
+      "opciones": {
+        "A": "Utilizar una columna diferente para cada día sin planificación",
+        "B": "Eliminar validaciones y controles",
+        "C": "Dar acceso total a todos los usuarios",
+        "D": "Comenzar con datos bien estructurados y probar cada cambio"
+      },
+      "correcta": "D",
+      "explicacion": "Un modelo de datos claro y pruebas sucesivas reducen errores."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-07",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 299,
+      "pregunta": "Una pyme configura en AppSheet una tabla de productos. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "asignar tipo numérico al precio",
+        "B": "crear un flujo automático condicionado al evento",
+        "C": "separar nombre, correo y teléfono en campos",
+        "D": "configurar una vista de tabla"
+      },
+      "correcta": "A",
+      "explicacion": "Para una tabla de productos conviene asignar tipo numérico al precio; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-08",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.4 Creación y personalización de vistas",
+      "pagina_manual": 294,
+      "pregunta": "En el apartado «Creación y personalización de vistas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Funciones avanzadas y optimización A medida que las aplicaciones creadas con AppSheet se vuelven más complejas, es necesario aprovechar funcionalidades avanzadas para mejorar su eficiencia y personalización.",
+        "B": "Configuración de filtros en vistas Los filtros se utilizan para mostrar solo los datos que cumplen ciertas condiciones.",
+        "C": "Diseñar las vistas: – Vista de tabla para listar los productos y su cantidad. – Formulario para añadir o editar productos. – Vista de gráficos para mostrar las categorías con más o menos productos.",
+        "D": "Este capítulo es una guía de los pasos iniciales para empezar a trabajar con AppSheet, desde el acceso hasta la creación de la primera aplicación básica."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 6.4: «Creación y personalización de vistas» (página 294 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-09",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.5 Automatización de flujos de trabajo",
+      "pagina_manual": 299,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Automatización de flujos de trabajo»?",
+      "opciones": {
+        "A": "Bases de datos Automatización: permite configurar flujos de trabajo, acciones y notificaciones para facilitar tareas repetitivas o en tiempo real.",
+        "B": "Acciones múltiples o secuenciales AppSheet permite combinar varias acciones en un solo botón, creando flujos de trabajo más complejos.",
+        "C": "Los bots en AppSheet son herramientas automatizadas que realizan acciones basadas en reglas o eventos predefinidos.",
+        "D": "Aplicaciones prácticas El capítulo de aplicaciones prácticas tiene como objetivo mostrar cómo implementar AppSheet en situaciones reales para resolver problemas específicos de gestión, automatización y organización."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 6.5: «Automatización de flujos de trabajo» (página 299 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-10",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.2 Primeros pasos con AppSheet",
+      "pagina_manual": 271,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Otros servicios compatibles Además de Google Workspace, AppSheet permite conectar datos desde: Microsoft Excel: hojas almacenadas en OneDrive o Dropbox.»",
+      "opciones": {
+        "A": "Introducción a la gestión de datos y AppSheet",
+        "B": "Diseño de la estructura de datos",
+        "C": "Automatización de flujos de trabajo",
+        "D": "Primeros pasos con AppSheet"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 6.2, «Primeros pasos con AppSheet», página 271."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-11",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 278,
+      "pregunta": "Una pyme configura en AppSheet una tabla de pedidos. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "definir una clave única para cada pedido",
+        "B": "homogeneizar el tipo de dato",
+        "C": "definir opciones permitidas para ese campo",
+        "D": "configurar automatización de eventos"
+      },
+      "correcta": "A",
+      "explicacion": "Para una tabla de pedidos conviene definir una clave única para cada pedido; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-12",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.6 Funciones avanzadas y optimización",
+      "pagina_manual": 309,
+      "pregunta": "En el apartado «Funciones avanzadas y optimización», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Limitaciones de AppSheet Dependencia de la nube La mayoría de las funciones dependen de una conexión a Internet.",
+        "B": "Estas expresiones se utilizan en fórmulas para automatizar tareas, filtrar datos y crear funcionalidades personalizadas.",
+        "C": "Uso combinado con otras herramientas de Google: AppSheet puede interactuar con Google Calendar, Maps y Apps Script para añadir funcionalidades avanzadas.",
+        "D": "Bases de datos Expresiones para búsquedas personalizadas Las expresiones permiten definir condiciones más avanzadas para filtrar o buscar datos."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 6.6: «Funciones avanzadas y optimización» (página 309 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-13",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.2 Primeros pasos con AppSheet",
+      "pagina_manual": 273,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Primeros pasos con AppSheet»?",
+      "opciones": {
+        "A": "Diseño de la estructura de datos El diseño de la estructura de datos es uno de los pasos más importantes al crear una aplicación con AppSheet.",
+        "B": "CRMs y ERPs AppSheet puede sincronizar datos con herramientas empresariales como Salesforce o Zoho, permitiendo que los registros creados en la aplicación se reflejen en el sistema principal.",
+        "C": "Barra de herramientas principal En la parte superior del editor de AppSheet se encuentran herramientas clave: Previsualización: permite probar la aplicación en tiempo real para verificar su funcionamiento.",
+        "D": "Uso de expresiones avanzadas en AppSheet Las expresiones en AppSheet son herramientas que permiten realizar cálculos, establecer condiciones y manipular datos dinámicamente dentro de la aplicación."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 6.2: «Primeros pasos con AppSheet» (página 273 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-14",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.1 Introducción a la gestión de datos y AppSheet",
+      "pagina_manual": 264,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «AppSheet es una plataforma que permite crear aplicaciones personalizadas basadas en datos estructurados.»",
+      "opciones": {
+        "A": "Diseño de la estructura de datos",
+        "B": "Primeros pasos con AppSheet",
+        "C": "Aplicaciones prácticas",
+        "D": "Introducción a la gestión de datos y AppSheet"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 6.1, «Introducción a la gestión de datos y AppSheet», página 264."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-15",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.7 Seguridad y buenas prácticas",
+      "pagina_manual": 320,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Bases de datos Buenas prácticas para la gestión de roles y permisos Limitar el acceso por defecto: diseñar la aplicación con la premisa de que los usuarios solo puedan ver y hacer lo estrictamente necesario.»",
+      "opciones": {
+        "A": "Seguridad y buenas prácticas",
+        "B": "Automatización de flujos de trabajo",
+        "C": "Aplicaciones prácticas",
+        "D": "Funciones avanzadas y optimización"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 6.7, «Seguridad y buenas prácticas», página 320."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-16",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.7 Seguridad y buenas prácticas",
+      "pagina_manual": 318,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Este capítulo se centra en cómo configurar la seguridad de las aplicaciones y adoptar buenas prácticas para mantener la integridad y confidencialidad de la información.»",
+      "opciones": {
+        "A": "Primeros pasos con AppSheet",
+        "B": "Seguridad y buenas prácticas",
+        "C": "Aplicaciones prácticas",
+        "D": "Automatización de flujos de trabajo"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 6.7, «Seguridad y buenas prácticas», página 318."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-17",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 328,
+      "pregunta": "Una pyme configura en AppSheet una lista de pedidos. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "restringir visibilidad mediante permisos y filtros",
+        "B": "Una columna clave única",
+        "C": "configurar una vista de tabla",
+        "D": "registrar estado como campo controlado"
+      },
+      "correcta": "C",
+      "explicacion": "Para una lista de pedidos conviene configurar una vista de tabla; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-18",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "6.6 Funciones avanzadas y optimización",
+      "pagina_manual": 311,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «El uso de expresiones avanzadas en AppSheet permite personalizar y automatizar tareas dentro de la aplicación, maximizando su funcionalidad y adaptabilidad.»",
+      "opciones": {
+        "A": "Creación y personalización de vistas",
+        "B": "Primeros pasos con AppSheet",
+        "C": "Introducción a la gestión de datos y AppSheet",
+        "D": "Funciones avanzadas y optimización"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 6.6, «Funciones avanzadas y optimización», página 311."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-19",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 318,
+      "pregunta": "Una pyme configura en AppSheet formularios de altas. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "configurar una vista de formulario",
+        "B": "definir una expresión adecuada",
+        "C": "registrar estado como campo controlado",
+        "D": "usar una vista adecuada a coordenadas"
+      },
+      "correcta": "A",
+      "explicacion": "Para formularios de altas conviene configurar una vista de formulario; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T6-DIFICIL-20",
+      "tema": 6,
+      "nivel": "dificil",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 309,
+      "pregunta": "Una pyme configura en AppSheet una tabla de incidencias. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "establecer un identificador estable",
+        "B": "registrar estado como campo controlado",
+        "C": "configurar una vista de formulario",
+        "D": "asignar tipo numérico al precio"
+      },
+      "correcta": "B",
+      "explicacion": "Para una tabla de incidencias conviene registrar estado como campo controlado; es una decisión de diseño, calidad o seguridad del modelo."
+    }
+  ]
+}

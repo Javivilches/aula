@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 3,
+  "test": "Tema 3 · Test normal",
+  "preguntas": [
+    {
+      "id": "OFI-T3-NORMAL-01",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 78,
+      "pregunta": "¿Qué práctica mejora la fiabilidad de una búsqueda empresarial?",
+      "opciones": {
+        "A": "Evitar comparar varias fuentes",
+        "B": "Escoger siempre el primer resultado patrocinado",
+        "C": "Tomar cualquier publicación anónima como oficial",
+        "D": "Contrastar autoría, fecha y procedencia de las fuentes"
+      },
+      "correcta": "D",
+      "explicacion": "Conviene evaluar la calidad de las fuentes antes de utilizarlas en decisiones profesionales."
+    },
+    {
+      "id": "OFI-T3-NORMAL-02",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.4 Técnicas de archivo",
+      "pagina_manual": 71,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Técnicas de archivo»?",
+      "opciones": {
+        "A": "Técnicas de archivo El archivado de información en las empresas se realiza por diversos motivos: Tener toda la documentación organizada para poder acceder en cualquier momento a ella.",
+        "B": "Por eso, para no pegar golpes al aire, es recomendable apartar un rato los bocetos de los creativos y definir primero qué acciones se espera que cumplan los usuarios de cada página web.",
+        "C": "El periodismo se vuelve digital cuando empieza a hacerse un hueco en el ciberespacio.",
+        "D": "Cliente FTP Un cliente FTP es un programa que se instala en el ordenador del usuario y que emplea el protocolo FTP para conectarse a un servidor FTP y transferir archivos, ya sea para descargarlos o para subirlos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 3.4: «Técnicas de archivo» (página 71 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-NORMAL-03",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.6 Formatos de conexión",
+      "pagina_manual": 77,
+      "pregunta": "En el apartado «Formatos de conexión», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Su función es permitir el intercambio de datos entre diferentes servidores u ordenadores.",
+        "B": "Vía satélite: el sistema de conexión que generalmente se emplea es un híbrido de satélite y teléfono.",
+        "C": "Técnicas de archivo El archivado de información en las empresas se realiza por diversos motivos: Tener toda la documentación organizada para poder acceder en cualquier momento a ella.",
+        "D": "Por lo general, permiten realizar búsquedas avanzadas a través de filtros, palabras clave o categorías específicas, lo que facilita encontrar datos relevantes con rapidez."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 3.6: «Formatos de conexión» (página 77 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-NORMAL-04",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.9 Prensa digital",
+      "pagina_manual": 82,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «El periodismo se vuelve digital cuando empieza a hacerse un hueco en el ciberespacio.»",
+      "opciones": {
+        "A": "Bases de datos temáticas",
+        "B": "Navegadores: descripción y funciones",
+        "C": "Prensa digital",
+        "D": "Técnicas de archivo"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 3.9, «Prensa digital», página 82."
+    },
+    {
+      "id": "OFI-T3-NORMAL-05",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.10 Protocolos de transferencia de archivos",
+      "pagina_manual": 83,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Desde un equipo cliente, es posible conectarse a un servidor para descargar archivos desde él o para enviarle archivos, independientemente del sistema operativo utilizado en cada equipo.»",
+      "opciones": {
+        "A": "Navegadores: descripción y funciones",
+        "B": "Técnicas de archivo",
+        "C": "Historia, orígenes y evolución de internet",
+        "D": "Protocolos de transferencia de archivos"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 3.10, «Protocolos de transferencia de archivos», página 83."
+    },
+    {
+      "id": "OFI-T3-NORMAL-06",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.7 Estrategias de búsqueda de información en red",
+      "pagina_manual": 78,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Estrategias de búsqueda de información en red»?",
+      "opciones": {
+        "A": "Estrategia y técnicas de búsqueda de la información en la red En función de los dos tipos de buscadores que hemos mencionado anteriormente, las estrategias de búsqueda pueden variar.",
+        "B": "Redes inalámbricas (WIFI): las redes inalámbricas o wireless son una tecnología normalizada por el IEEE que permite montar redes locales sin emplear ningún tipo de cableado, utilizando infrarrojos u ondas de radio.",
+        "C": "El funcionamiento del programa es muy intuitivo: solo hay que escribir la URL de la página que queremos visualizar en la barra de direcciones y pulsar la tecla Intro.",
+        "D": "Servidor FTP Un servidor FTP es un programa especial que se ejecuta en un equipo servidor normalmente conectado a internet (aunque puede estar conectado a otros tipos de redes, LAN, MAN, etcétera)."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 3.7: «Estrategias de búsqueda de información en red» (página 78 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-NORMAL-07",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.1 Historia, orígenes y evolución de internet",
+      "pagina_manual": 67,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Un tipo de modelo social inédito en la historia de la humanidad donde conviven culturas, lenguas, razas e ideologías de todo tipo.»",
+      "opciones": {
+        "A": "Formatos de conexión",
+        "B": "Historia, orígenes y evolución de internet",
+        "C": "Bases de datos temáticas",
+        "D": "Herramientas colaborativas y redes sociales"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.1, «Historia, orígenes y evolución de internet», página 67."
+    },
+    {
+      "id": "OFI-T3-NORMAL-08",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 75,
+      "pregunta": "Si una compañía comparte documentos editables con varias sedes, ¿qué tipo de solución favorece la cooperación?",
+      "opciones": {
+        "A": "Un documento impreso único",
+        "B": "Un teclado sin conexión",
+        "C": "Herramientas colaborativas en línea",
+        "D": "Un disco externo desconectado"
+      },
+      "correcta": "C",
+      "explicacion": "Las herramientas colaborativas permiten compartir y trabajar información en equipo."
+    },
+    {
+      "id": "OFI-T3-NORMAL-09",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.10 Protocolos de transferencia de archivos",
+      "pagina_manual": 84,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Protocolos de transferencia de archivos»?",
+      "opciones": {
+        "A": "Esto es, al lector le llegan mensajes publicitarios como alternativa a la información que le interesa, en un segundo plano, por lo que no es necesario detener la noticia para prestar atención al aviso publicitario.",
+        "B": "El acceso a internet puede hacerse desde: XTC: la Red Telefónica Conmutada (RTC), también llamada Red Telefónica Básica (RTB), es la red original y habitual de teléfono.",
+        "C": "A partir de aquí, y hasta que se nos cargue la página, la barra de estado informa de todo el proceso: Buscando sitio, Sitio web encontrado, esperando respuesta o Listo.",
+        "D": "Para ello, existen protocolos de comunicación FTP para que los datos se transmitan cifrados, como el SFTP (secure file transfer protocol)."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 3.10: «Protocolos de transferencia de archivos» (página 84 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-NORMAL-10",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.4 Técnicas de archivo",
+      "pagina_manual": 71,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «En caso de estar seguros de que ya no se necesita conservar más tiempo, se puede proceder a la destrucción del archivo.»",
+      "opciones": {
+        "A": "Técnicas de archivo",
+        "B": "Prensa digital",
+        "C": "Buscadores y tipos",
+        "D": "Protocolos de transferencia de archivos"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 3.4, «Técnicas de archivo», página 71."
+    },
+    {
+      "id": "OFI-T3-NORMAL-11",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.8 Bases de datos temáticas",
+      "pagina_manual": 80,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Una de las principales ventajas de las bases de datos temáticas disponibles en línea es su accesibilidad.»",
+      "opciones": {
+        "A": "Técnicas de archivo",
+        "B": "Bases de datos temáticas",
+        "C": "Navegadores: descripción y funciones",
+        "D": "Protocolos de transferencia de archivos"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.8, «Bases de datos temáticas», página 80."
+    },
+    {
+      "id": "OFI-T3-NORMAL-12",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 69,
+      "pregunta": "¿Qué diferencia principal hay entre navegador y buscador?",
+      "opciones": {
+        "A": "El navegador solo gestiona impresoras",
+        "B": "El buscador es siempre un sistema operativo",
+        "C": "El navegador abre recursos web; el buscador localiza información",
+        "D": "Ambos son dispositivos físicos"
+      },
+      "correcta": "C",
+      "explicacion": "Los navegadores permiten acceder a la web y los buscadores indexan recursos para localizarlos."
+    },
+    {
+      "id": "OFI-T3-NORMAL-13",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.6 Formatos de conexión",
+      "pagina_manual": 77,
+      "pregunta": "En el apartado «Formatos de conexión», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Esto amplía enormemente su impacto, permitiendo que investigadores de países con menos recursos puedan acceder a información de calidad para sus proyectos.",
+        "B": "Que los datos se encuentren en una ubicación centralizada supone agilizar las búsquedas y mejorar el ritmo de trabajo.",
+        "C": "Por eso, para no pegar golpes al aire, es recomendable apartar un rato los bocetos de los creativos y definir primero qué acciones se espera que cumplan los usuarios de cada página web.",
+        "D": "Cable: se utiliza el cable coaxial, que alcanza tasas elevadas de transmisión, utilizando una tecnología completamente diferente."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 3.6: «Formatos de conexión» (página 77 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-NORMAL-14",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.3 Buscadores y tipos",
+      "pagina_manual": 70,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Buscadores y tipos»?",
+      "opciones": {
+        "A": "Buscadores hay de muchos tipos, pero podemos clasificarlos básicamente en dos categorías: Los catálogos organizan la información en árboles temáticos.",
+        "B": "A partir de aquí, y hasta que se nos cargue la página, la barra de estado informa de todo el proceso: Buscando sitio, Sitio web encontrado, esperando respuesta o Listo.",
+        "C": "Por ejemplo, para introducir una consulta en Google, simplemente se escriben algunas palabras descriptivas y se presiona la tecla Intro (o clicamos en el botón de Buscar con Google) para ver la lista de resultados relevantes.",
+        "D": "El periodismo se vuelve digital cuando empieza a hacerse un hueco en el ciberespacio."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 3.3: «Buscadores y tipos» (página 70 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-NORMAL-15",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.9 Prensa digital",
+      "pagina_manual": 82,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Prensa digital Cuando hablamos de prensa digital, nos referimos al medio de comunicación social que distribuye información periodística en formato digital, usualmente mediante internet.»",
+      "opciones": {
+        "A": "Formatos de conexión",
+        "B": "Prensa digital",
+        "C": "Bases de datos temáticas",
+        "D": "Técnicas de archivo"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.9, «Prensa digital», página 82."
+    },
+    {
+      "id": "OFI-T3-NORMAL-16",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 78,
+      "pregunta": "Una empresa necesita buscar documentos PDF de un dominio concreto. ¿Qué técnica resulta más apropiada?",
+      "opciones": {
+        "A": "Buscar solo por colores",
+        "B": "Abrir enlaces al azar",
+        "C": "Combinar filtros de dominio y tipo de archivo en la búsqueda",
+        "D": "Desactivar el navegador"
+      },
+      "correcta": "C",
+      "explicacion": "Los filtros de búsqueda permiten acotar resultados según sitio y formato."
+    },
+    {
+      "id": "OFI-T3-NORMAL-17",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.2 Navegadores: descripción y funciones",
+      "pagina_manual": 69,
+      "pregunta": "En el apartado «Navegadores: descripción y funciones», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Por el contrario, en los medios digitales, la publicidad se emplaza de modo silencioso al margen de los artículos o de los archivos de vídeo o audio sin interrumpir directamente el contenido.",
+        "B": "Vía satélite: el sistema de conexión que generalmente se emplea es un híbrido de satélite y teléfono.",
+        "C": "Como en todas las sociedades incipientes, se van creando día a día las pautas de convivencia y las estructuras básicas de organización.",
+        "D": "Descripción y funciones Actualmente hay varias empresas que se disputan el mercado de programas cliente de web: Microsoft con el navegador Internet Explorer, Firefox con Mozilla, etcétera."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 3.2: «Navegadores: descripción y funciones» (página 69 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-NORMAL-18",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.1 Historia, orígenes y evolución de internet",
+      "pagina_manual": 67,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Lo que hoy conocemos como internet tiene sus orígenes en una red de comunicaciones militar norteamericana llamada ARPANET (Advanced Research Projects Agency NET), creada en 1969 en plena guerra fría.»",
+      "opciones": {
+        "A": "Historia, orígenes y evolución de internet",
+        "B": "Técnicas de archivo",
+        "C": "Herramientas colaborativas y redes sociales",
+        "D": "Estrategias de búsqueda de información en red"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 3.1, «Historia, orígenes y evolución de internet», página 67."
+    },
+    {
+      "id": "OFI-T3-NORMAL-19",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.5 Herramientas colaborativas y redes sociales",
+      "pagina_manual": 75,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Herramientas colaborativas: blogs, wikis, servicios de alojamiento de vídeos, sonidos e imágenes y redes sociales, entre otros Internet no nació para informar, sino para interactuar.»",
+      "opciones": {
+        "A": "Estrategias de búsqueda de información en red",
+        "B": "Herramientas colaborativas y redes sociales",
+        "C": "Protocolos de transferencia de archivos",
+        "D": "Prensa digital"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.5, «Herramientas colaborativas y redes sociales», página 75."
+    },
+    {
+      "id": "OFI-T3-NORMAL-20",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3.8 Bases de datos temáticas",
+      "pagina_manual": 79,
+      "pregunta": "En el apartado «Bases de datos temáticas», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Lo que hoy conocemos como internet tiene sus orígenes en una red de comunicaciones militar norteamericana llamada ARPANET (Advanced Research Projects Agency NET), creada en 1969 en plena guerra fría.",
+        "B": "Para buscar una serie de palabras sin que contengan otras, ponemos un guion: “Mossos-esquadra”.",
+        "C": "Bases de datos temáticas Las bases de datos temáticas disponibles en la red se han convertido en una herramienta esencial para el acceso rápido y eficiente a información especializada.",
+        "D": "Cuando este cambia de forma, significa que ese texto o aquella imagen contienen un enlace hacia otra página."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 3.8: «Bases de datos temáticas» (página 79 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}

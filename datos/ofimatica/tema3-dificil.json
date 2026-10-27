@@ -1,0 +1,327 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": 3,
+  "test": "Tema 3 · Test difícil",
+  "preguntas": [
+    {
+      "id": "OFI-T3-DIFICIL-01",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 83,
+      "pregunta": "Se deben transferir ficheros a un servidor. ¿Qué clase de protocolo aborda esa tarea?",
+      "opciones": {
+        "A": "Una plantilla de presentación",
+        "B": "Un protocolo de mecanografía",
+        "C": "Un modelo de inventario físico",
+        "D": "Un protocolo de transferencia de archivos"
+      },
+      "correcta": "D",
+      "explicacion": "El apartado de protocolos describe el intercambio de archivos a través de la red."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-02",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 75,
+      "pregunta": "En una empresa se necesita hallar datos oficiales para un informe tributario. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "consultar un organismo oficial",
+        "B": "comprobar la procedencia antes de citarla",
+        "C": "Combinar filtros de dominio y tipo de archivo en la búsqueda",
+        "D": "buscar en repositorios y bases temáticas"
+      },
+      "correcta": "A",
+      "explicacion": "La actuación «consultar un organismo oficial» responde directamente a la necesidad de hallar datos oficiales para un informe tributario; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-03",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 79,
+      "pregunta": "En una empresa se necesita evitar compartir una noticia antigua como si fuera actual. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "refinar la consulta de búsqueda",
+        "B": "comprobar la fecha y el contexto",
+        "C": "centralizar y organizar el archivo",
+        "D": "revisar los permisos de acceso"
+      },
+      "correcta": "B",
+      "explicacion": "La actuación «comprobar la fecha y el contexto» responde directamente a la necesidad de evitar compartir una noticia antigua como si fuera actual; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-04",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 69,
+      "pregunta": "En una empresa se necesita trabajar varias personas sobre documentación de un proyecto. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "centralizar y organizar el archivo",
+        "B": "refinar la consulta de búsqueda",
+        "C": "utilizar una herramienta colaborativa",
+        "D": "buscar en repositorios y bases temáticas"
+      },
+      "correcta": "C",
+      "explicacion": "La actuación «utilizar una herramienta colaborativa» responde directamente a la necesidad de trabajar varias personas sobre documentación de un proyecto; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-05",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.7 Estrategias de búsqueda de información en red",
+      "pagina_manual": 78,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Cada resultado de búsqueda contiene uno o más fragmentos de la página web que nos muestra cómo se utilizan los términos introducidos en el contexto de esa página.»",
+      "opciones": {
+        "A": "Bases de datos temáticas",
+        "B": "Técnicas de archivo",
+        "C": "Herramientas colaborativas y redes sociales",
+        "D": "Estrategias de búsqueda de información en red"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 3.7, «Estrategias de búsqueda de información en red», página 78."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-06",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 78,
+      "pregunta": "En una empresa se necesita comparar dos versiones contradictorias de una estadística. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "contrastar fuentes primarias",
+        "B": "Combinar filtros de dominio y tipo de archivo en la búsqueda",
+        "C": "refinar la consulta de búsqueda",
+        "D": "utilizar una herramienta colaborativa"
+      },
+      "correcta": "A",
+      "explicacion": "La actuación «contrastar fuentes primarias» responde directamente a la necesidad de comparar dos versiones contradictorias de una estadística; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-07",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.4 Técnicas de archivo",
+      "pagina_manual": 72,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Es decir, creamos un nuevo archivo a partir de otros archivos y contiene toda la información de estos.»",
+      "opciones": {
+        "A": "Herramientas colaborativas y redes sociales",
+        "B": "Técnicas de archivo",
+        "C": "Estrategias de búsqueda de información en red",
+        "D": "Historia, orígenes y evolución de internet"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.4, «Técnicas de archivo», página 72."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-08",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.8 Bases de datos temáticas",
+      "pagina_manual": 79,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Bases de datos temáticas»?",
+      "opciones": {
+        "A": "Cable: se utiliza el cable coaxial, que alcanza tasas elevadas de transmisión, utilizando una tecnología completamente diferente.",
+        "B": "Por lo general, los programas servidores FTP no suelen encontrarse en los ordenadores personales, por lo que un usuario normalmente utilizará el FTP para conectarse remotamente a uno y así intercambiar información con él.",
+        "C": "Estas bases suelen centrarse en áreas de conocimiento específicas, como la salud, las ciencias sociales, la tecnología o las artes.",
+        "D": "Más aún, podemos proponernos que sigan de manera constante la actividad online de nuestra organización, afiliándose a nuestros espacios en las redes sociales y suscribiéndose a las actualizaciones de nuestros sitios web."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 3.8: «Bases de datos temáticas» (página 79 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-09",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 78,
+      "pregunta": "En una empresa se necesita descartar enlaces aparentemente fraudulentos. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "comprobar la fecha y el contexto",
+        "B": "utilizar una herramienta colaborativa",
+        "C": "comprobar la procedencia antes de citarla",
+        "D": "comprobar remitente, dominio y fiabilidad"
+      },
+      "correcta": "D",
+      "explicacion": "La actuación «comprobar remitente, dominio y fiabilidad» responde directamente a la necesidad de descartar enlaces aparentemente fraudulentos; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-10",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.10 Protocolos de transferencia de archivos",
+      "pagina_manual": 83,
+      "pregunta": "En el apartado «Protocolos de transferencia de archivos», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Su función es permitir el intercambio de datos entre diferentes servidores u ordenadores.",
+        "B": "Estrategia y técnicas de búsqueda de la información en la red En función de los dos tipos de buscadores que hemos mencionado anteriormente, las estrategias de búsqueda pueden variar.",
+        "C": "Por el contrario, en los medios digitales, la publicidad se emplaza de modo silencioso al margen de los artículos o de los archivos de vídeo o audio sin interrumpir directamente el contenido.",
+        "D": "Control de acceso: es importante que se realice un control de acceso a los diferentes directorios y archivos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 3.10: «Protocolos de transferencia de archivos» (página 83 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-11",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.4 Técnicas de archivo",
+      "pagina_manual": 71,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Compresión y descompresión de archivos WinRAR es una utilidad empleada para comprimir archivos, no en el sentido de reducir su tamaño, que también, sino en el de reunir información en un solo archivo.»",
+      "opciones": {
+        "A": "Bases de datos temáticas",
+        "B": "Técnicas de archivo",
+        "C": "Historia, orígenes y evolución de internet",
+        "D": "Estrategias de búsqueda de información en red"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 3.4, «Técnicas de archivo», página 71."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-12",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 75,
+      "pregunta": "En una empresa se necesita localizar estudios especializados sobre un sector. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "mantener nombres y clasificación documental coherentes",
+        "B": "comprobar la fecha y el contexto",
+        "C": "consultar una base de datos temática",
+        "D": "comprobar remitente, dominio y fiabilidad"
+      },
+      "correcta": "C",
+      "explicacion": "La actuación «consultar una base de datos temática» responde directamente a la necesidad de localizar estudios especializados sobre un sector; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-13",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 78,
+      "pregunta": "En una empresa se necesita identificar quién publicó un informe y cuándo. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "consultar una base de datos temática",
+        "B": "contrastar fuentes primarias",
+        "C": "mantener nombres y clasificación documental coherentes",
+        "D": "verificar autoría y fecha"
+      },
+      "correcta": "D",
+      "explicacion": "La actuación «verificar autoría y fecha» responde directamente a la necesidad de identificar quién publicó un informe y cuándo; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-14",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.8 Bases de datos temáticas",
+      "pagina_manual": 80,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Bases de datos temáticas»?",
+      "opciones": {
+        "A": "Herramientas de internet para la empresa Algunos ejemplos de bases de datos temáticas en la red son los siguientes: PubMed: una de las bases de datos más conocidas en el ámbito de la medicina y las ciencias biológicas.",
+        "B": "Esta página de inicio y otras opciones del programa las encontramos en Herramientas > Opciones de internet.",
+        "C": "Herramientas de internet para la empresa Es posible ayudarse de la escalera de objetivos de la comunicación online, en orden ascendente: Información.",
+        "D": "Además, el periódico de papel se compra de forma directa, pagando el usuario cada ejemplar adquirido, mientras que en internet casi todo el mundo puede entrar a leer sin pagar, o al menos así es entendido por algunos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 3.8: «Bases de datos temáticas» (página 80 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-15",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.5 Herramientas colaborativas y redes sociales",
+      "pagina_manual": 76,
+      "pregunta": "En el apartado «Herramientas colaborativas y redes sociales», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Herramientas de internet para la empresa En 1992, el investigador Tim Berners-Lee desarrolla en el CERN (Centro Europeo para la Investigación Nuclear) un formato hipertextual e hipergráfico para publicar documentos en la red.",
+        "B": "Herramientas de internet para la empresa Es posible ayudarse de la escalera de objetivos de la comunicación online, en orden ascendente: Información.",
+        "C": "Herramientas de internet para la empresa Algunos ejemplos de bases de datos temáticas en la red son los siguientes: PubMed: una de las bases de datos más conocidas en el ámbito de la medicina y las ciencias biológicas.",
+        "D": "Esta página de inicio y otras opciones del programa las encontramos en Herramientas > Opciones de internet."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 3.5: «Herramientas colaborativas y redes sociales» (página 76 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-16",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.2 Navegadores: descripción y funciones",
+      "pagina_manual": 69,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «También se pueden encontrar en Inicio > Configuración > Panel de control > Opciones de internet.»",
+      "opciones": {
+        "A": "Técnicas de archivo",
+        "B": "Protocolos de transferencia de archivos",
+        "C": "Navegadores: descripción y funciones",
+        "D": "Formatos de conexión"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 3.2, «Navegadores: descripción y funciones», página 69."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-17",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.6 Formatos de conexión",
+      "pagina_manual": 76,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «La señal del ordenador, que es digital, se convierte en analógica mediante el módem y se transmite por la línea telefónica.»",
+      "opciones": {
+        "A": "Bases de datos temáticas",
+        "B": "Historia, orígenes y evolución de internet",
+        "C": "Protocolos de transferencia de archivos",
+        "D": "Formatos de conexión"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 3.6, «Formatos de conexión», página 76."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-18",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.3 Buscadores y tipos",
+      "pagina_manual": 70,
+      "pregunta": "En el apartado «Buscadores y tipos», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Basta con introducir las palabras clave sobre las que free-text. queremos encontrar información y el servidor nos devolverá una c) Buscadores temáticos y en lista de direcciones que contienen estas palabras.",
+        "B": "Por lo general, permiten realizar búsquedas avanzadas a través de filtros, palabras clave o categorías específicas, lo que facilita encontrar datos relevantes con rapidez.",
+        "C": "El funcionamiento del programa es muy intuitivo: solo hay que escribir la URL de la página que queremos visualizar en la barra de direcciones y pulsar la tecla Intro.",
+        "D": "Estrategia y técnicas de búsqueda de la información en la red En función de los dos tipos de buscadores que hemos mencionado anteriormente, las estrategias de búsqueda pueden variar."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 3.3: «Buscadores y tipos» (página 70 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-19",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.1 Historia, orígenes y evolución de internet",
+      "pagina_manual": 67,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Historia, orígenes y evolución de internet»?",
+      "opciones": {
+        "A": "Además, el periódico de papel se compra de forma directa, pagando el usuario cada ejemplar adquirido, mientras que en internet casi todo el mundo puede entrar a leer sin pagar, o al menos así es entendido por algunos.",
+        "B": "Desde el punto de vista tecnológico, internet es una red de comunicaciones que conecta millones de sistemas informáticos distribuidos por todo el planeta.",
+        "C": "Servidor FTP Un servidor FTP es un programa especial que se ejecuta en un equipo servidor normalmente conectado a internet (aunque puede estar conectado a otros tipos de redes, LAN, MAN, etcétera).",
+        "D": "También se pueden encontrar en Inicio > Configuración > Panel de control > Opciones de internet."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 3.1: «Historia, orígenes y evolución de internet» (página 67 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-DIFICIL-20",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3.2 Navegadores: descripción y funciones",
+      "pagina_manual": 69,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Todos los navegadores pueden encontrarse en sus respectivas webs, donde se pueden descargar gratuitamente las versiones más recientes.»",
+      "opciones": {
+        "A": "Buscadores y tipos",
+        "B": "Protocolos de transferencia de archivos",
+        "C": "Navegadores: descripción y funciones",
+        "D": "Técnicas de archivo"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 3.2, «Navegadores: descripción y funciones», página 69."
+    }
+  ]
+}

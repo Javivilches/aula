@@ -1,0 +1,487 @@
+{
+  "asignatura": "Ofimática y Proceso de la Información",
+  "tema": "Todos",
+  "test": "Simulacro final 2 · Normal-alto",
+  "preguntas": [
+    {
+      "id": "OFI-T5-FINAL2-01",
+      "tema": 5,
+      "nivel": "final2",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 215,
+      "pregunta": "Caso de Google Docs: el informe tiene numeración y título en todas las páginas. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Comentario",
+        "B": "Plantilla",
+        "C": "Encabezado o pie de página",
+        "D": "Permiso de lector"
+      },
+      "correcta": "C",
+      "explicacion": "Encabezado o pie de página: repiten elementos del documento."
+    },
+    {
+      "id": "OFI-T6-FINAL2-02",
+      "tema": 6,
+      "nivel": "final2",
+      "apartado": "6.7 Seguridad y buenas prácticas",
+      "pagina_manual": 321,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Seguridad y buenas prácticas»?",
+      "opciones": {
+        "A": "Esta funcionalidad es ideal para enviar reportes periódicos, compartir datos con equipos o realizar copias de seguridad.",
+        "B": "Buenas prácticas para aplicaciones prácticas Adaptar los ejemplos a necesidades específicas: personalizar las tablas, vistas y automatizaciones según el caso particular.",
+        "C": "Uso de expresiones avanzadas en AppSheet Las expresiones en AppSheet son herramientas que permiten realizar cálculos, establecer condiciones y manipular datos dinámicamente dentro de la aplicación.",
+        "D": "Buenas prácticas para control de acceso y auditorías Establecer permisos claros: definir qué usuarios tienen acceso a cada sección o dato de la aplicación."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 6.7: «Seguridad y buenas prácticas» (página 321 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-FINAL2-03",
+      "tema": 5,
+      "nivel": "final2",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 208,
+      "pregunta": "Caso de Google Docs: una persona debe ubicar una fotografía con texto alrededor. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Ajuste de imagen",
+        "B": "Comentarista",
+        "C": "Tabla",
+        "D": "Lista de verificación"
+      },
+      "correcta": "A",
+      "explicacion": "Ajuste de imagen: controla disposición del texto."
+    },
+    {
+      "id": "OFI-T4-FINAL2-04",
+      "tema": 4,
+      "nivel": "final2",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "En una hoja, B2=52 y C2=10. ¿Qué valor calcula la fórmula =B2*C2?",
+      "opciones": {
+        "A": "62",
+        "B": "520",
+        "C": "530",
+        "D": "572"
+      },
+      "correcta": "B",
+      "explicacion": "El operador * multiplica ambos valores: 52 × 10 = 520."
+    },
+    {
+      "id": "OFI-T4-FINAL2-05",
+      "tema": 4,
+      "nivel": "final2",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "La columna de ventas contiene 4, 10, 8, 13. ¿Cuál es el resultado de =PROMEDIO(B1:B4)?",
+      "opciones": {
+        "A": "35",
+        "B": "4",
+        "C": "8,75",
+        "D": "13"
+      },
+      "correcta": "C",
+      "explicacion": "PROMEDIO = (4 + 10 + 8 + 13) / 4 = 8,75."
+    },
+    {
+      "id": "OFI-T6-FINAL2-06",
+      "tema": 6,
+      "nivel": "final2",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 309,
+      "pregunta": "Una pyme configura en AppSheet un aviso cuando se crea un pedido. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "verificar reglas y probar con un conjunto de ejemplo",
+        "B": "asignar tipo numérico al precio",
+        "C": "revisar autorización y seguridad de acceso",
+        "D": "crear un flujo automático condicionado al evento"
+      },
+      "correcta": "D",
+      "explicacion": "Para un aviso cuando se crea un pedido conviene crear un flujo automático condicionado al evento; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T5-FINAL2-07",
+      "tema": 5,
+      "nivel": "final2",
+      "apartado": "5.10 Integración con otras herramientas de Google",
+      "pagina_manual": 253,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Primero, se debe abrir el documento de Google Docs que servirá como referencia principal para la comparación.»",
+      "opciones": {
+        "A": "Integración con otras herramientas de Google",
+        "B": "Imágenes y gráficos en el documento",
+        "C": "Enlaces, comentarios y colaboración",
+        "D": "Funciones y herramientas avanzadas"
+      },
+      "correcta": "A",
+      "explicacion": "Esta idea pertenece al apartado 5.10, «Integración con otras herramientas de Google», página 253."
+    },
+    {
+      "id": "OFI-T5-FINAL2-08",
+      "tema": 5,
+      "nivel": "final2",
+      "apartado": "5.5 Tablas y listas de verificación",
+      "pagina_manual": 213,
+      "pregunta": "En el apartado «Tablas y listas de verificación», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Insertar datos de Google Sheets y vincularlos La opción de insertar datos de Google Sheets en un documento de Google Docs permite integrar tablas, gráficos y otros datos generados en hojas de cálculo.",
+        "B": "Personalización de listas de verificación Google Docs permite personalizar las listas de verificación de forma básica para adaptarse al estilo del documento y destacar ciertos elementos.",
+        "C": "Configuración básica Google Docs permite realizar ajustes básicos que personalizan el documento según las necesidades del usuario.",
+        "D": "A diferencia de las listas numeradas, las viñetas permiten presentar cada ítem como parte de un grupo sin una secuencia específica."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 5.5: «Tablas y listas de verificación» (página 213 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-FINAL2-09",
+      "tema": 5,
+      "nivel": "final2",
+      "apartado": "5.6 Imágenes y gráficos en el documento",
+      "pagina_manual": 215,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Imágenes y gráficos en el documento»?",
+      "opciones": {
+        "A": "Insertar datos de Google Sheets y vincularlos La opción de insertar datos de Google Sheets en un documento de Google Docs permite integrar tablas, gráficos y otros datos generados en hojas de cálculo.",
+        "B": "Inserción de recursos visuales y multimedia: además de texto, estos programas permiten agregar imágenes, tablas, y gráficos, integrándolos de manera coherente para apoyar o enriquecer la información presentada.",
+        "C": "Buscar en la web: ofrece la opción de buscar imágenes directamente a través de Google Imágenes sin salir del documento.",
+        "D": "Tamaño del archivo y resolución: en archivos con imágenes o gráficos grandes, es posible que el tamaño del documento exportado sea mayor que el original en Google Docs."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 5.6: «Imágenes y gráficos en el documento» (página 215 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T3-FINAL2-10",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.7 Estrategias de búsqueda de información en red",
+      "pagina_manual": 78,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Estrategias de búsqueda de información en red»?",
+      "opciones": {
+        "A": "Es una herramienta indispensable para economistas, analistas y responsables de políticas públicas que buscan información sobre desarrollo y finanzas globales.",
+        "B": "Técnicas de archivo El archivado de información en las empresas se realiza por diversos motivos: Tener toda la documentación organizada para poder acceder en cualquier momento a ella.",
+        "C": "Hasta entonces, las redes telemáticas estaban basadas en un ordenador central que recibía y distribuía toda la información.",
+        "D": "No se utilizan búsquedas parciales ni realiza búsquedas con comodines como * o ? (“ojo” no buscará “ojos”)."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 3.7: «Estrategias de búsqueda de información en red» (página 78 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T7-FINAL2-11",
+      "tema": 7,
+      "nivel": "final2",
+      "apartado": "Integración de aplicaciones",
+      "pagina_manual": 340,
+      "pregunta": "La oficina necesita evitar utilizar una tabla obsoleta. ¿Cuál es la operación más apropiada?",
+      "opciones": {
+        "A": "Revisar la fecha y versión",
+        "B": "Incrustación",
+        "C": "Importar",
+        "D": "Vincular"
+      },
+      "correcta": "A",
+      "explicacion": "La finalidad descrita corresponde a revisar la fecha y versión; comprueba que se conserve el formato y la trazabilidad cuando proceda."
+    },
+    {
+      "id": "OFI-T4-FINAL2-12",
+      "tema": 4,
+      "nivel": "final2",
+      "apartado": "4.2 Gestión de datos",
+      "pagina_manual": 96,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Gestión de datos»?",
+      "opciones": {
+        "A": "Dominar estas funciones es esencial para el análisis avanzado y la gestión eficiente de datos en Google Sheets.",
+        "B": "Selección, copia, corte y pegado de celdas Trabajar con datos en Google Sheets requiere realizar operaciones básicas como seleccionar, copiar, cortar y pegar información.",
+        "C": "La integración con otras aplicaciones de Google convierte a Sheets en una pieza central para la gestión y análisis de datos en proyectos colaborativos.",
+        "D": "Dominar estas funciones básicas permite realizar análisis rápidos y sentar las bases para trabajar con herramientas más avanzadas en Google Sheets."
+      },
+      "correcta": "B",
+      "explicacion": "El enunciado describe un contenido del apartado 4.2: «Gestión de datos» (página 96 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-FINAL2-13",
+      "tema": 6,
+      "nivel": "final2",
+      "apartado": "6.6 Funciones avanzadas y optimización",
+      "pagina_manual": 309,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Tipos de expresiones en AppSheet Cálculos básicos: permiten realizar operaciones matemáticas, como sumar o multiplicar valores.»",
+      "opciones": {
+        "A": "Primeros pasos con AppSheet",
+        "B": "Introducción a la gestión de datos y AppSheet",
+        "C": "Funciones avanzadas y optimización",
+        "D": "Creación y personalización de vistas"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 6.6, «Funciones avanzadas y optimización», página 309."
+    },
+    {
+      "id": "OFI-T4-FINAL2-14",
+      "tema": 4,
+      "nivel": "final2",
+      "apartado": "4.4 Fórmulas y funciones básicas",
+      "pagina_manual": 124,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Aprender a utilizar fórmulas y funciones de forma adecuada no solo agiliza el trabajo, sino que también garantiza la precisión en los resultados.»",
+      "opciones": {
+        "A": "Gestión de datos",
+        "B": "Apéndice de hojas de cálculo",
+        "C": "Funciones avanzadas y automatización",
+        "D": "Fórmulas y funciones básicas"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 4.4, «Fórmulas y funciones básicas», página 124."
+    },
+    {
+      "id": "OFI-T1-FINAL2-15",
+      "tema": 1,
+      "nivel": "final2",
+      "apartado": "1.3 Sistemas operativos, permisos, usuarios y configuración",
+      "pagina_manual": 25,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Sistemas operativos, permisos, usuarios y configuración»?",
+      "opciones": {
+        "A": "Administrador: es un usuario especial con derechos para crear o b) Multitarea. eliminar otros usuarios, dar o quitar permisos a estos usuarios e c) Varitarea. instalar o desinstalar programas.",
+        "B": "Deben poseer un centro de atención al usuario (CAU) para llevar un orden y poder atender las consultas de los usuarios (dispone de herramientas físicas y lógicas).",
+        "C": "Por ejemplo, utilizar contraseñas fuertes o seguras, actualizar el antivirus, utilizar usuarios que no sean administradores, crear copias de seguridad, entre otras.",
+        "D": "Software de aplicación: son los programas que permiten realizar a los usuarios diferentes trabajos como redactar escritos, hacer cálculos, mostrar vídeos, etcétera."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.3: «Sistemas operativos, permisos, usuarios y configuración» (página 25 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T5-FINAL2-16",
+      "tema": 5,
+      "nivel": "final2",
+      "apartado": "5.3 Formato de texto",
+      "pagina_manual": 182,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Google Docs permite añadir más fuentes desde su menú de Fuentes, donde se pueden buscar y seleccionar estilos adicionales para adaptarlos al propósito del documento.»",
+      "opciones": {
+        "A": "Primeros pasos con Google Docs",
+        "B": "Formato de texto",
+        "C": "Formato de párrafos y estilos avanzados",
+        "D": "Tablas y listas de verificación"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 5.3, «Formato de texto», página 182."
+    },
+    {
+      "id": "OFI-T2-FINAL2-17",
+      "tema": 2,
+      "nivel": "final2",
+      "apartado": "2.3 Teclado QWERTY y otros",
+      "pagina_manual": 46,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Teclado QWERTY y otros»?",
+      "opciones": {
+        "A": "Mayúsculas Disponemos de dos teclas para generar mayúsculas, una a cada lado del teclado, en la hilera inferior.",
+        "B": "Composición de un equipo informático El equipo básico que se utiliza en los trabajos de mecanografía está formado por una pantalla, un teclado y un ratón.",
+        "C": "AZERTY El teclado AZERTY es una distribución de teclado que se utiliza principalmente en algunos países francófonos (Francia, Bélgica y países africanos).",
+        "D": "Existe una técnica para saber si los dedos están bien colocados sin mirar el teclado: las teclas F y J tienen unas pequeñas marcas."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 2.3: «Teclado QWERTY y otros» (página 46 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T9-FINAL2-18",
+      "tema": 9,
+      "nivel": "final2",
+      "apartado": "9.16 Anexo: informes",
+      "pagina_manual": 440,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Anexo: informes»?",
+      "opciones": {
+        "A": "Creación y utilización de informes Un informe muestra los registros de una tabla o una consulta en un formato listo para ser impreso.",
+        "B": "Diseño y creación de macros Las macros nos ayudan a ejecutar acciones asociadas a botones, movimientos, cambios de los formularios, de los informes y del propio programa.",
+        "C": "Informes: es una versión imprimible de los datos en la que estos no pueden ni modificarse ni añadirse otros nuevos.",
+        "D": "Entonces aparece desplegada la lista de campos de la tabla o la consulta sobre la que se realiza el informe."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 9.16: «Anexo: informes» (página 440 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T8-FINAL2-19",
+      "tema": 8,
+      "nivel": "final2",
+      "apartado": "Correo y agenda · supuesto",
+      "pagina_manual": 346,
+      "pregunta": "Un departamento administrativo quiere poner al final del correo nombre y puesto de empresa. ¿Qué campo, protocolo o herramienta debe escoger?",
+      "opciones": {
+        "A": "Firma corporativa",
+        "B": "POP3",
+        "C": "Un filtro o regla",
+        "D": "Verificar origen y contenido"
+      },
+      "correcta": "A",
+      "explicacion": "La necesidad indicada se atiende con «Firma corporativa», según la función del correo o la agenda."
+    },
+    {
+      "id": "OFI-T9-FINAL2-20",
+      "tema": 9,
+      "nivel": "final2",
+      "apartado": "Presentaciones y anexo · caso",
+      "pagina_manual": 393,
+      "pregunta": "En el trabajo con presentaciones y su anexo se necesita insertar un vídeo explicativo. ¿Qué recurso conviene usar?",
+      "opciones": {
+        "A": "Diapositivas ordenadas",
+        "B": "Contenido multimedia",
+        "C": "Macro",
+        "D": "Tabla"
+      },
+      "correcta": "B",
+      "explicacion": "El recurso «Contenido multimedia» se corresponde con el objetivo concreto del enunciado."
+    },
+    {
+      "id": "OFI-T8-FINAL2-21",
+      "tema": 8,
+      "nivel": "final2",
+      "apartado": "8.7 Borradores, copias y operaciones de correo",
+      "pagina_manual": 350,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Borradores, copias y operaciones de correo»?",
+      "opciones": {
+        "A": "Lectores RSS en el navegador web o programa de correo electrónico: también se pueden recibir las actualizaciones de las páginas web a través del navegador web o del programa de correo electrónico.",
+        "B": "Otra de las ventajas que ofrecen las aplicaciones de correo electrónico es la navegación a través del asunto de un mismo mensaje o la respuesta a un correo recibido, agrupándolos y facilitando su gestión.",
+        "C": "Enviar, crear borradores, guardar, mover y hacer copias de seguridad, entre otros Para escribir un correo electrónico, nuestro programa (o correo web) nos pedirá, como mínimo, tres cosas: Destinatario: una (o varias) direcciones de correo que han de recibir el mensaje.",
+        "D": "El correo electrónico y la agenda electrónica Borradores: en esta zona tendremos los correos que hemos empezado a escribir pero no hemos llegado a enviar."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 8.7: «Borradores, copias y operaciones de correo» (página 350 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T6-FINAL2-22",
+      "tema": 6,
+      "nivel": "final2",
+      "apartado": "6.1 Introducción a la gestión de datos y AppSheet",
+      "pagina_manual": 264,
+      "pregunta": "En el apartado «Introducción a la gestión de datos y AppSheet», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Aplicaciones prácticas El capítulo de aplicaciones prácticas tiene como objetivo mostrar cómo implementar AppSheet en situaciones reales para resolver problemas específicos de gestión, automatización y organización.",
+        "B": "Integración con herramientas externas mediante API AppSheet permite ampliar sus capacidades al integrarse con herramientas externas mediante API (Interfaz de Programación de Aplicaciones).",
+        "C": "Las copias de seguridad automáticas con Google Drive aseguran que los datos y archivos generados en AppSheet estén protegidos y sean accesibles en caso de necesidad.",
+        "D": "Introducción a AppSheet y sus aplicaciones AppSheet, una herramienta de Google basada en la filosofía no-code, permite a los usuarios transformar datos en aplicaciones dinámicas sin necesidad de conocimientos de programación."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 6.1: «Introducción a la gestión de datos y AppSheet» (página 264 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "OFI-T4-FINAL2-23",
+      "tema": 4,
+      "nivel": "final2",
+      "apartado": "4.4 Fórmulas y funciones",
+      "pagina_manual": 124,
+      "pregunta": "Se registran los importes 35, 68, 19, 47 en C1:C4. ¿Qué muestra =MAX(C1:C4)?",
+      "opciones": {
+        "A": "68",
+        "B": "169",
+        "C": "19",
+        "D": "42.25"
+      },
+      "correcta": "A",
+      "explicacion": "MAX selecciona el mayor valor del rango: 68."
+    },
+    {
+      "id": "OFI-T1-FINAL2-24",
+      "tema": 1,
+      "nivel": "final2",
+      "apartado": "1.4 Redes",
+      "pagina_manual": 27,
+      "pregunta": "Una entidad necesita conectar distintas instalaciones municipales de un mismo municipio. ¿Qué red elegirías por su alcance geográfico?",
+      "opciones": {
+        "A": "PAN",
+        "B": "MAN",
+        "C": "LAN",
+        "D": "WAN"
+      },
+      "correcta": "B",
+      "explicacion": "MAN: red metropolitana."
+    },
+    {
+      "id": "OFI-T6-FINAL2-25",
+      "tema": 6,
+      "nivel": "final2",
+      "apartado": "AppSheet · caso",
+      "pagina_manual": 299,
+      "pregunta": "Una pyme configura en AppSheet un empleado que solo puede consultar sus propios registros. ¿Qué medida resuelve mejor su necesidad?",
+      "opciones": {
+        "A": "Una columna clave única",
+        "B": "definir una expresión adecuada",
+        "C": "restringir visibilidad mediante permisos y filtros",
+        "D": "simplificar y optimizar el modelo de datos"
+      },
+      "correcta": "C",
+      "explicacion": "Para un empleado que solo puede consultar sus propios registros conviene restringir visibilidad mediante permisos y filtros; es una decisión de diseño, calidad o seguridad del modelo."
+    },
+    {
+      "id": "OFI-T3-FINAL2-26",
+      "tema": 3,
+      "nivel": "final2",
+      "apartado": "3.7 Búsqueda y colaboración",
+      "pagina_manual": 69,
+      "pregunta": "En una empresa se necesita encontrar un fichero entre cientos de documentos. ¿Qué estrategia resulta más conveniente?",
+      "opciones": {
+        "A": "utilizar una herramienta colaborativa",
+        "B": "refinar la consulta de búsqueda",
+        "C": "Combinar filtros de dominio y tipo de archivo en la búsqueda",
+        "D": "mantener nombres y clasificación documental coherentes"
+      },
+      "correcta": "D",
+      "explicacion": "La actuación «mantener nombres y clasificación documental coherentes» responde directamente a la necesidad de encontrar un fichero entre cientos de documentos; otras acciones atienden fines distintos."
+    },
+    {
+      "id": "OFI-T5-FINAL2-27",
+      "tema": 5,
+      "nivel": "final2",
+      "apartado": "Google Docs · aplicación",
+      "pagina_manual": 233,
+      "pregunta": "Caso de Google Docs: una carta institucional necesita una identidad homogénea. ¿Qué función o permiso es el más adecuado?",
+      "opciones": {
+        "A": "Plantilla",
+        "B": "Lector",
+        "C": "PDF",
+        "D": "Comentarista"
+      },
+      "correcta": "A",
+      "explicacion": "Plantilla: establece estructura y estilos de partida."
+    },
+    {
+      "id": "OFI-T4-FINAL2-28",
+      "tema": 4,
+      "nivel": "final2",
+      "apartado": "4.6 Colaboración en tiempo real e integración con Google",
+      "pagina_manual": 155,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Google Presentaciones: incorporación de gráficos dinámicos Google Sheets permite insertar gráficos en Google Presentaciones de manera dinámica, ideal para crear reportes o presentaciones actualizadas en tiempo real: 1.»",
+      "opciones": {
+        "A": "Formato y diseño de hojas",
+        "B": "Colaboración en tiempo real e integración con Google",
+        "C": "Introducción a las hojas de cálculo",
+        "D": "Visualización y análisis de datos"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 4.6, «Colaboración en tiempo real e integración con Google», página 155."
+    },
+    {
+      "id": "OFI-T2-FINAL2-29",
+      "tema": 2,
+      "nivel": "final2",
+      "apartado": "2.7 Velocidad",
+      "pagina_manual": 52,
+      "pregunta": "En una prueba de mecanografía se realizan 445 pulsaciones en 3 minutos. ¿Cuál es el promedio de pulsaciones por minuto?",
+      "opciones": {
+        "A": "445 pulsaciones/minuto",
+        "B": "111.2 pulsaciones/minuto",
+        "C": "148,3 pulsaciones/minuto",
+        "D": "1335 pulsaciones/minuto"
+      },
+      "correcta": "C",
+      "explicacion": "Promedio = 445 / 3 = 148,3 pulsaciones por minuto."
+    },
+    {
+      "id": "OFI-T7-FINAL2-30",
+      "tema": 7,
+      "nivel": "final2",
+      "apartado": "7.7 Documentos vinculados e incrustados",
+      "pagina_manual": 339,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Documentos vinculados e incrustados»?",
+      "opciones": {
+        "A": "Inserción en otros medios o documentos Algunos ficheros pueden insertarse dentro de otros documentos.",
+        "B": "Obsolescencia y actualización: Cuando dos datos quedan revisión, modificación y conectados entre dos docueliminación de los documentos mentos diferentes (por ejemplo, entre un documento digitales de la empresa.",
+        "C": "Lo más habitual es que estos ficheros sean hojas de cálculo, bases de datos o documentos de texto.",
+        "D": "Incrustado: un archivo se puede incluir dentro de un documento, pero serán ficheros diferentes."
+      },
+      "correcta": "D",
+      "explicacion": "El enunciado describe un contenido del apartado 7.7: «Documentos vinculados e incrustados» (página 339 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}

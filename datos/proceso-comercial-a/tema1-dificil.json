@@ -1,0 +1,327 @@
+{
+  "asignatura": "Proceso Integral de la Actividad Comercial - A",
+  "tema": 1,
+  "test": "Tema 1 · Test difícil",
+  "preguntas": [
+    {
+      "id": "PIAC-T1-DIFICIL-01",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Equilibrio y ecuación patrimonial",
+      "pagina_manual": 11,
+      "pregunta": "Una empresa presenta activo total de 210.000 € y pasivo de 15.000 €. ¿Qué patrimonio neto tiene?",
+      "opciones": {
+        "A": "210.000 €",
+        "B": "195.000 €",
+        "C": "225.000 €",
+        "D": "15.000 €"
+      },
+      "correcta": "B",
+      "explicacion": "Patrimonio neto = activo - pasivo = 210.000 - 15.000 = 195.000 €."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-02",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.5 Activo, pasivo y patrimonio neto",
+      "pagina_manual": 14,
+      "pregunta": "En el apartado «Activo, pasivo y patrimonio neto», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Es decir, el activo no corriente (ANC) estará cubierto por el patrimonio neto (PN) y el pasivo no corriente (PNC).",
+        "B": "Por otra parte, el patrimonio neto lo forman, entre otros, las aportaciones que hacen los socios; es la financiación propia, es decir, la que genera la propia compañía.",
+        "C": "Los cinco documentos que forman las cuentas anuales de la empresa son: el balance, la cuenta de pérdidas y ganancias, el estado de cambios de patrimonio neto, el flujo de efectivo y la memoria.",
+        "D": "Se reflejan en el balance y en el inventario y son el activo, el pasivo y el patrimonio neto."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 1.5: «Activo, pasivo y patrimonio neto» (página 14 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-03",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Equilibrio y ecuación patrimonial",
+      "pagina_manual": 19,
+      "pregunta": "El activo corriente de una sociedad es 66.000 € y el pasivo corriente 8.000 €. ¿Qué fondo de maniobra obtiene?",
+      "opciones": {
+        "A": "66.000 €",
+        "B": "8.000 €",
+        "C": "74.000 €",
+        "D": "58.000 €"
+      },
+      "correcta": "D",
+      "explicacion": "Fondo de maniobra = activo corriente - pasivo corriente = 66.000 - 8.000 = 58.000 €."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-04",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 11,
+      "pregunta": "¿Cuál de estos elementos es normalmente un derecho de cobro?",
+      "opciones": {
+        "A": "Clientes pendientes de pago",
+        "B": "Proveedores pendientes de pago",
+        "C": "La aportación de capital social",
+        "D": "Un préstamo recibido"
+      },
+      "correcta": "A",
+      "explicacion": "Los clientes deudores constituyen derechos de cobro del activo."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-05",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.4 Elementos y masas patrimoniales",
+      "pagina_manual": 12,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Terrenos Construcciones Maquinaria Mobiliario Equipos informáticos Elementos de transporte Aplicaciones informáticas Tesorería Bancos Existencias»",
+      "opciones": {
+        "A": "Equilibrio patrimonial",
+        "B": "Elementos y masas patrimoniales",
+        "C": "La contabilidad: clases y objetivos",
+        "D": "El patrimonio de la empresa"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 1.4, «Elementos y masas patrimoniales», página 12."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-06",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Equilibrio y ecuación patrimonial",
+      "pagina_manual": 11,
+      "pregunta": "Una empresa presenta activo total de 319.000 € y pasivo de 26.000 €. ¿Qué patrimonio neto tiene?",
+      "opciones": {
+        "A": "345.000 €",
+        "B": "26.000 €",
+        "C": "293.000 €",
+        "D": "319.000 €"
+      },
+      "correcta": "C",
+      "explicacion": "Patrimonio neto = activo - pasivo = 319.000 - 26.000 = 293.000 €."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-07",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.2 La contabilidad: clases y objetivos",
+      "pagina_manual": 9,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Fiable: la información que refleje tiene que ser comprobable y verificable para cumplir el objetivo final de la contabilidad.»",
+      "opciones": {
+        "A": "La actividad económica y el ciclo económico",
+        "B": "Elementos y masas patrimoniales",
+        "C": "Equilibrio patrimonial",
+        "D": "La contabilidad: clases y objetivos"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 1.2, «La contabilidad: clases y objetivos», página 9."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-08",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.3 El patrimonio de la empresa",
+      "pagina_manual": 12,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «El patrimonio de la empresa»?",
+      "opciones": {
+        "A": "Los elementos patrimoniales son los distintos componentes del patrimonio empresarial, los cuales son representados en cuentas.",
+        "B": "La principal función que tiene el balance de situación es informar sobre la estructura económica y financiera de la empresa, recogiendo los elementos de activo, pasivo y patrimonio neto.",
+        "C": "Por otro, los distintos elementos que componen el patrimonio de una empresa reciben el nombre de elementos patrimoniales.",
+        "D": "La empresa no tiene patrimonio neto porque ha ido acumulando pérdidas a lo largo de los distintos ejercicios económicos."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.3: «El patrimonio de la empresa» (página 12 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-09",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.5 Activo, pasivo y patrimonio neto",
+      "pagina_manual": 13,
+      "pregunta": "¿Qué concepto o procedimiento se relaciona con esta idea? «Por otra parte, el patrimonio neto lo forman, entre otros, las aportaciones que hacen los socios; es la financiación propia, es decir, la que genera la propia compañía.»",
+      "opciones": {
+        "A": "Equilibrio patrimonial",
+        "B": "Activo, pasivo y patrimonio neto",
+        "C": "El patrimonio de la empresa",
+        "D": "Elementos y masas patrimoniales"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 1.5, «Activo, pasivo y patrimonio neto», página 13."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-10",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.3 El patrimonio de la empresa",
+      "pagina_manual": 12,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Las masas patrimoniales, por otro lado, son las agrupaciones de elementos patrimoniales de la misma naturaleza.»",
+      "opciones": {
+        "A": "Activo, pasivo y patrimonio neto",
+        "B": "Elementos y masas patrimoniales",
+        "C": "El patrimonio de la empresa",
+        "D": "La contabilidad: clases y objetivos"
+      },
+      "correcta": "C",
+      "explicacion": "Esta idea pertenece al apartado 1.3, «El patrimonio de la empresa», página 12."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-11",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Equilibrio y ecuación patrimonial",
+      "pagina_manual": 19,
+      "pregunta": "El activo corriente de una sociedad es 85.000 € y el pasivo corriente 6.000 €. ¿Qué fondo de maniobra obtiene?",
+      "opciones": {
+        "A": "6.000 €",
+        "B": "85.000 €",
+        "C": "91.000 €",
+        "D": "79.000 €"
+      },
+      "correcta": "D",
+      "explicacion": "Fondo de maniobra = activo corriente - pasivo corriente = 85.000 - 6.000 = 79.000 €."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-12",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.1 La actividad económica y el ciclo económico",
+      "pagina_manual": 8,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «La actividad económica y el ciclo económico»?",
+      "opciones": {
+        "A": "La actividad económica se constituye en tres fases: la producción, la distribución y el consumo.",
+        "B": "Cuando esta se cumple, significa que la empresa se encuentra en situación de equilibrio patrimonial, es decir, la estructura económica y la estructura financiera coinciden por completo.",
+        "C": "La contabilidad es la ciencia que estudia y analiza las técnicas y procedimientos para registrar la actividad económica de una empresa u organización.",
+        "D": "La principal función que tiene el balance de situación es informar sobre la estructura económica y financiera de la empresa, recogiendo los elementos de activo, pasivo y patrimonio neto."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.1: «La actividad económica y el ciclo económico» (página 8 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-13",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 18,
+      "pregunta": "Si el activo de una entidad se financia exclusivamente con fondos propios, ¿qué situación describe el manual?",
+      "opciones": {
+        "A": "Quiebra técnica",
+        "B": "Equilibrio total o máxima estabilidad financiera",
+        "C": "Amortización acumulada",
+        "D": "Insuficiencia de inventario"
+      },
+      "correcta": "B",
+      "explicacion": "Cuando activo = patrimonio neto y no hay financiación ajena se habla de equilibrio total."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-14",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.5 Activo, pasivo y patrimonio neto",
+      "pagina_manual": 13,
+      "pregunta": "En el apartado «Activo, pasivo y patrimonio neto», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Los bienes y derechos componen el activo de la empresa, mientras que las obligaciones de pago constituyen los pasivos.",
+        "B": "Se reflejan en el balance y en el inventario y son el activo, el pasivo y el patrimonio neto.",
+        "C": "Como se ha explicado en el epígrafe anterior, el activo está compuesto por los bienes y derechos que posee la empresa, mientras que el pasivo lo integran sus obligaciones de pago.",
+        "D": "Es decir, el activo no corriente (ANC) estará cubierto por el patrimonio neto (PN) y el pasivo no corriente (PNC)."
+      },
+      "correcta": "C",
+      "explicacion": "El enunciado describe un contenido del apartado 1.5: «Activo, pasivo y patrimonio neto» (página 13 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-15",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.1 La actividad económica y el ciclo económico",
+      "pagina_manual": 8,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «La contabilidad es la ciencia que estudia y analiza las técnicas y procedimientos para registrar la actividad económica de una empresa u organización.»",
+      "opciones": {
+        "A": "Equilibrio patrimonial",
+        "B": "Activo, pasivo y patrimonio neto",
+        "C": "La contabilidad: clases y objetivos",
+        "D": "La actividad económica y el ciclo económico"
+      },
+      "correcta": "D",
+      "explicacion": "Esta idea pertenece al apartado 1.1, «La actividad económica y el ciclo económico», página 8."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-16",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.4 Elementos y masas patrimoniales",
+      "pagina_manual": 12,
+      "pregunta": "¿Qué explicación corresponde específicamente al contenido de «Elementos y masas patrimoniales»?",
+      "opciones": {
+        "A": "Los elementos patrimoniales son los distintos componentes del patrimonio empresarial, los cuales son representados en cuentas.",
+        "B": "Cabe destacar que las masas patrimoniales varían constantemente, por lo que es posible que se produzcan diferentes situaciones con relación al equilibrio patrimonial de la empresa.",
+        "C": "Por otro, los distintos elementos que componen el patrimonio de una empresa reciben el nombre de elementos patrimoniales.",
+        "D": "Las masas patrimoniales se dividen en submasas, que agrupan aquellos elementos que tienen características homogéneas."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.4: «Elementos y masas patrimoniales» (página 12 del manual). Las otras opciones remiten a contenidos distintos."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-17",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.2 La contabilidad: clases y objetivos",
+      "pagina_manual": 9,
+      "pregunta": "Identifica el concepto de la asignatura que mejor corresponde a la afirmación: «Este documento establece las pautas a seguir a la hora de elaborarla, así como los objetivos, finalidades y composición que debe tener.»",
+      "opciones": {
+        "A": "Activo, pasivo y patrimonio neto",
+        "B": "La contabilidad: clases y objetivos",
+        "C": "Equilibrio patrimonial",
+        "D": "La actividad económica y el ciclo económico"
+      },
+      "correcta": "B",
+      "explicacion": "Esta idea pertenece al apartado 1.2, «La contabilidad: clases y objetivos», página 9."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-18",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Equilibrio y ecuación patrimonial",
+      "pagina_manual": 11,
+      "pregunta": "Una empresa presenta activo total de 98.000 € y pasivo de 21.000 €. ¿Qué patrimonio neto tiene?",
+      "opciones": {
+        "A": "98.000 €",
+        "B": "21.000 €",
+        "C": "77.000 €",
+        "D": "119.000 €"
+      },
+      "correcta": "C",
+      "explicacion": "Patrimonio neto = activo - pasivo = 98.000 - 21.000 = 77.000 €."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-19",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "Aplicación práctica",
+      "pagina_manual": 15,
+      "pregunta": "¿Qué documento ofrece una relación detallada y valorada de todos los elementos patrimoniales?",
+      "opciones": {
+        "A": "Solo la cuenta de ventas",
+        "B": "El calendario laboral",
+        "C": "Una orden de transporte",
+        "D": "El inventario"
+      },
+      "correcta": "D",
+      "explicacion": "El inventario desglosa los elementos patrimoniales; el balance presenta las masas agregadas."
+    },
+    {
+      "id": "PIAC-T1-DIFICIL-20",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1.6 Equilibrio patrimonial",
+      "pagina_manual": 18,
+      "pregunta": "En el apartado «Equilibrio patrimonial», ¿qué afirmación es la más adecuada?",
+      "opciones": {
+        "A": "Equilibrio total o máxima estabilidad financiera: sucede cuando la empresa está financiada, íntegramente, por recursos propios.",
+        "B": "Sector primario o agropecuario: sector cuyas actividades se encaminan a obtener recursos de la naturaleza.",
+        "C": "Devengo: las operaciones se registran en el momento en que sucede el hecho contable, con independencia de cuándo se produzca el cobro o el pago.",
+        "D": "Periódicamente, las empresas deben realizar un análisis patrimonial con el fin de estudiar el patrimonio y comprobar que se cumple la ecuación fundamental del patrimonio."
+      },
+      "correcta": "A",
+      "explicacion": "El enunciado describe un contenido del apartado 1.6: «Equilibrio patrimonial» (página 18 del manual). Las otras opciones remiten a contenidos distintos."
+    }
+  ]
+}
