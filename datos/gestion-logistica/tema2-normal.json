@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 2,
+  "test": "Tema 2 · Test normal",
+  "preguntas": [
+    {
+      "id": "GLC-T2-N-01",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 49,
+      "pregunta": "¿Qué es un proveedor de bienes?",
+      "opciones": {
+        "A": "Un transportista que siempre fabrica los artículos",
+        "B": "Un consumidor que adquiere para uso doméstico",
+        "C": "Una empresa que suministra materiales, productos o equipos a otra",
+        "D": "Una entidad que concede únicamente financiación"
+      },
+      "correcta": "C",
+      "explicacion": "Una empresa que suministra materiales, productos o equipos a otra. El proveedor aporta bienes, servicios o financiación; seleccionarlo exige identificar qué necesita realmente la empresa. No debe confundirse con «Una entidad que concede únicamente financiación». Referencia: manual, pág. 49."
+    },
+    {
+      "id": "GLC-T2-N-02",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 49,
+      "pregunta": "¿En qué se diferencia un proveedor externo de uno interno?",
+      "opciones": {
+        "A": "El externo es siempre un distribuidor público",
+        "B": "No existe ninguna diferencia organizativa",
+        "C": "El externo pertenece a otra empresa; el interno es un área de la misma organización",
+        "D": "El interno solo presta servicios financieros"
+      },
+      "correcta": "C",
+      "explicacion": "El externo pertenece a otra empresa; el interno es un área de la misma organización. El proveedor aporta bienes, servicios o financiación; seleccionarlo exige identificar qué necesita realmente la empresa. No debe confundirse con «El externo es siempre un distribuidor público». Referencia: manual, pág. 49."
+    },
+    {
+      "id": "GLC-T2-N-03",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 50,
+      "pregunta": "¿Qué diferencia al fabricante del distribuidor?",
+      "opciones": {
+        "A": "Ambos se limitan a financiar compras",
+        "B": "El fabricante produce bienes; el distribuidor revende productos adquiridos",
+        "C": "El distribuidor siempre produce materias primas",
+        "D": "El fabricante únicamente transporta"
+      },
+      "correcta": "B",
+      "explicacion": "El fabricante produce bienes; el distribuidor revende productos adquiridos. El proveedor aporta bienes, servicios o financiación; seleccionarlo exige identificar qué necesita realmente la empresa. No debe confundirse con «El distribuidor siempre produce materias primas». Referencia: manual, pág. 50."
+    },
+    {
+      "id": "GLC-T2-N-04",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 50,
+      "pregunta": "¿Qué caracteriza a un proveedor de grado I en la clasificación del manual?",
+      "opciones": {
+        "A": "Carece de homologación y genera dudas",
+        "B": "Solo opera de forma ocasional sin controles",
+        "C": "Cumple requisitos y dispone de certificaciones de calidad",
+        "D": "No puede entregar productos con regularidad"
+      },
+      "correcta": "C",
+      "explicacion": "Cumple requisitos y dispone de certificaciones de calidad. El proveedor aporta bienes, servicios o financiación; seleccionarlo exige identificar qué necesita realmente la empresa. No debe confundirse con «Carece de homologación y genera dudas». Referencia: manual, pág. 50."
+    },
+    {
+      "id": "GLC-T2-N-05",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 51,
+      "pregunta": "¿Qué fuente interna secundaria sirve para localizar proveedores conocidos?",
+      "opciones": {
+        "A": "El registro de pedidos de competidores",
+        "B": "Una encuesta a clientes anónimos",
+        "C": "Las noticias de televisión sin registros",
+        "D": "El archivo y fichero de proveedores y la contabilidad de compras"
+      },
+      "correcta": "D",
+      "explicacion": "El archivo y fichero de proveedores y la contabilidad de compras. El proveedor aporta bienes, servicios o financiación; seleccionarlo exige identificar qué necesita realmente la empresa. No debe confundirse con «Las noticias de televisión sin registros». Referencia: manual, pág. 51."
+    },
+    {
+      "id": "GLC-T2-N-06",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 52,
+      "pregunta": "¿Qué es un e-marketplace en la búsqueda de proveedores?",
+      "opciones": {
+        "A": "Un mercado virtual que facilita contactos y operaciones entre empresas",
+        "B": "Una nómina electrónica",
+        "C": "Un almacén de existencias caducadas",
+        "D": "Un medio de transporte multimodal"
+      },
+      "correcta": "A",
+      "explicacion": "Un mercado virtual que facilita contactos y operaciones entre empresas. La selección comienza con candidatos preliminares y continúa descartando los que incumplen requisitos indispensables. No debe confundirse con «Un almacén de existencias caducadas». Referencia: manual, pág. 52."
+    },
+    {
+      "id": "GLC-T2-N-07",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 53,
+      "pregunta": "¿Para qué sirve el listado preliminar de proveedores?",
+      "opciones": {
+        "A": "Reunir candidatos y sus datos antes de filtrar requisitos mínimos",
+        "B": "Publicar información reservada de clientes",
+        "C": "Incluir únicamente al elegido tras contratar",
+        "D": "Registrar de forma exclusiva las facturas abonadas"
+      },
+      "correcta": "A",
+      "explicacion": "Reunir candidatos y sus datos antes de filtrar requisitos mínimos. La selección comienza con candidatos preliminares y continúa descartando los que incumplen requisitos indispensables. No debe confundirse con «Incluir únicamente al elegido tras contratar». Referencia: manual, pág. 53."
+    },
+    {
+      "id": "GLC-T2-N-08",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 53,
+      "pregunta": "¿Qué caracteriza al listado depurado?",
+      "opciones": {
+        "A": "Incluye únicamente proveedores que cumplen los criterios mínimos exigidos",
+        "B": "Es una relación de mercancías devueltas",
+        "C": "Solo registra empresas descartadas",
+        "D": "Contiene a todos sin evaluación previa"
+      },
+      "correcta": "A",
+      "explicacion": "Incluye únicamente proveedores que cumplen los criterios mínimos exigidos. La selección comienza con candidatos preliminares y continúa descartando los que incumplen requisitos indispensables. No debe confundirse con «Contiene a todos sin evaluación previa». Referencia: manual, pág. 53."
+    },
+    {
+      "id": "GLC-T2-N-09",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 52,
+      "pregunta": "¿Qué tipo de requisitos puede ser excluyente en la preselección de proveedores?",
+      "opciones": {
+        "A": "Número de anuncios en televisión",
+        "B": "Cumplimiento legal, laboral, de calidad y seguridad exigidos",
+        "C": "Antigüedad del nombre comercial exclusivamente",
+        "D": "Color del logotipo sin justificación"
+      },
+      "correcta": "B",
+      "explicacion": "Cumplimiento legal, laboral, de calidad y seguridad exigidos. La selección comienza con candidatos preliminares y continúa descartando los que incumplen requisitos indispensables. No debe confundirse con «Color del logotipo sin justificación». Referencia: manual, pág. 52."
+    },
+    {
+      "id": "GLC-T2-N-10",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 54,
+      "pregunta": "¿Por qué no conviene elegir proveedores solo por el precio?",
+      "opciones": {
+        "A": "También importan calidad, plazos, solvencia, riesgo y servicio posventa",
+        "B": "Porque los plazos de pago están prohibidos",
+        "C": "Porque todos los suministradores ofrecen la misma calidad",
+        "D": "Porque el precio nunca afecta a los costes"
+      },
+      "correcta": "A",
+      "explicacion": "También importan calidad, plazos, solvencia, riesgo y servicio posventa. El mejor proveedor no tiene por qué ser el de menor precio nominal. No debe confundirse con «Porque el precio nunca afecta a los costes». Referencia: manual, pág. 54."
+    },
+    {
+      "id": "GLC-T2-N-11",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 59,
+      "pregunta": "¿Qué incluye un criterio económico de evaluación de ofertas?",
+      "opciones": {
+        "A": "Exclusivamente la ubicación de la fábrica",
+        "B": "Solo el diseño del logotipo",
+        "C": "Únicamente el soporte técnico",
+        "D": "Precio unitario, descuentos, transporte y condiciones de pago"
+      },
+      "correcta": "D",
+      "explicacion": "Precio unitario, descuentos, transporte y condiciones de pago. Una tabla de baremación permite asignar peso a cada criterio y comparar ofertas de manera transparente. No debe confundirse con «Solo el diseño del logotipo». Referencia: manual, pág. 59."
+    },
+    {
+      "id": "GLC-T2-N-12",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 59,
+      "pregunta": "¿Qué se considera un criterio de servicio al evaluar proveedores?",
+      "opciones": {
+        "A": "Solo el valor del IVA",
+        "B": "Plazo de entrega, asistencia técnica y atención posventa",
+        "C": "Únicamente el coste de materias primas",
+        "D": "El número de cajas vacías del almacén"
+      },
+      "correcta": "B",
+      "explicacion": "Plazo de entrega, asistencia técnica y atención posventa. Una tabla de baremación permite asignar peso a cada criterio y comparar ofertas de manera transparente. No debe confundirse con «Solo el valor del IVA». Referencia: manual, pág. 59."
+    },
+    {
+      "id": "GLC-T2-N-13",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 58,
+      "pregunta": "¿Qué finalidad tiene un cuadro comparativo de ofertas?",
+      "opciones": {
+        "A": "Sustituir la evaluación por una selección aleatoria",
+        "B": "Garantizar que siempre gane el más caro",
+        "C": "Contrastar condiciones de varios proveedores bajo los mismos criterios",
+        "D": "Registrar únicamente pagos a trabajadores"
+      },
+      "correcta": "C",
+      "explicacion": "Contrastar condiciones de varios proveedores bajo los mismos criterios. Una tabla de baremación permite asignar peso a cada criterio y comparar ofertas de manera transparente. No debe confundirse con «Registrar únicamente pagos a trabajadores». Referencia: manual, pág. 58."
+    },
+    {
+      "id": "GLC-T2-N-14",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 58,
+      "pregunta": "¿Para qué sirve la puntuación ponderada de proveedores?",
+      "opciones": {
+        "A": "Combinar valoraciones según la importancia asignada a cada criterio",
+        "B": "Elegir siempre por orden alfabético",
+        "C": "Eliminar la comparación de características",
+        "D": "Hacer que todos los criterios tengan necesariamente peso cero"
+      },
+      "correcta": "A",
+      "explicacion": "Combinar valoraciones según la importancia asignada a cada criterio. Una tabla de baremación permite asignar peso a cada criterio y comparar ofertas de manera transparente. No debe confundirse con «Elegir siempre por orden alfabético». Referencia: manual, pág. 58."
+    },
+    {
+      "id": "GLC-T2-N-15",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 65,
+      "pregunta": "¿Qué permite una matriz de comparación de proveedores?",
+      "opciones": {
+        "A": "Excluir la calidad del análisis",
+        "B": "Valorar solo la publicidad de cada proveedor",
+        "C": "Elegir sin examinar condiciones",
+        "D": "Analizar objetivamente ofertas atendiendo a criterios económicos, técnicos y empresariales"
+      },
+      "correcta": "D",
+      "explicacion": "Analizar objetivamente ofertas atendiendo a criterios económicos, técnicos y empresariales. La relación con el proveedor persigue valor, servicio y continuidad, no solo una operación aislada. No debe confundirse con «Elegir sin examinar condiciones». Referencia: manual, pág. 65."
+    },
+    {
+      "id": "GLC-T2-N-16",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 56,
+      "pregunta": "¿Qué mide el ratio de entregas a tiempo?",
+      "opciones": {
+        "A": "La distancia media a la sede del proveedor",
+        "B": "El stock máximo del comprador",
+        "C": "La proporción de pedidos recibidos dentro del plazo pactado",
+        "D": "El porcentaje de facturas pagadas en efectivo"
+      },
+      "correcta": "C",
+      "explicacion": "La proporción de pedidos recibidos dentro del plazo pactado. Los KPI cuantifican la calidad y eficiencia del suministro y permiten comparar proveedores y periodos. No debe confundirse con «El porcentaje de facturas pagadas en efectivo». Referencia: manual, pág. 56."
+    },
+    {
+      "id": "GLC-T2-N-17",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 56,
+      "pregunta": "¿Qué mide el ratio de entregas completas?",
+      "opciones": {
+        "A": "La rentabilidad financiera del almacén",
+        "B": "La proporción de pedidos recibidos íntegros y sin errores",
+        "C": "El número de nuevos clientes de la empresa",
+        "D": "Los pedidos que el proveedor rechaza"
+      },
+      "correcta": "B",
+      "explicacion": "La proporción de pedidos recibidos íntegros y sin errores. Los KPI cuantifican la calidad y eficiencia del suministro y permiten comparar proveedores y periodos. No debe confundirse con «El número de nuevos clientes de la empresa». Referencia: manual, pág. 56."
+    },
+    {
+      "id": "GLC-T2-N-18",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 56,
+      "pregunta": "¿Qué expresa el ratio de entregas con incidencias?",
+      "opciones": {
+        "A": "La fracción de pedidos perfectamente recibidos",
+        "B": "La parte de ventas pagadas al contado",
+        "C": "La proporción de compras nacionales",
+        "D": "La fracción de pedidos con algún problema respecto del total"
+      },
+      "correcta": "D",
+      "explicacion": "La fracción de pedidos con algún problema respecto del total. Los KPI cuantifican la calidad y eficiencia del suministro y permiten comparar proveedores y periodos. No debe confundirse con «La fracción de pedidos perfectamente recibidos». Referencia: manual, pág. 56."
+    },
+    {
+      "id": "GLC-T2-N-19",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 62,
+      "pregunta": "¿Para qué se utiliza un sistema SRM?",
+      "opciones": {
+        "A": "Preparar exclusivamente declaraciones de renta personales",
+        "B": "Gestionar y mejorar la relación y los procesos con proveedores",
+        "C": "Organizar solo horarios de transporte público",
+        "D": "Realizar controles médicos del personal"
+      },
+      "correcta": "B",
+      "explicacion": "Gestionar y mejorar la relación y los procesos con proveedores. Los sistemas SRM y los ficheros actualizados ayudan a mejorar las relaciones de suministro. No debe confundirse con «Preparar exclusivamente declaraciones de renta personales». Referencia: manual, pág. 62."
+    },
+    {
+      "id": "GLC-T2-N-20",
+      "tema": 2,
+      "nivel": "normal",
+      "apartado": "2. Temario",
+      "pagina_manual": 63,
+      "pregunta": "¿Qué se registra en la base de datos de un proveedor?",
+      "opciones": {
+        "A": "Solo el nombre comercial sin condiciones",
+        "B": "Datos privados de sus empleados ajenos al suministro",
+        "C": "Únicamente el número de visitas a la web",
+        "D": "Datos identificativos, artículos, precios, garantías, plazos y pagos"
+      },
+      "correcta": "D",
+      "explicacion": "Datos identificativos, artículos, precios, garantías, plazos y pagos. Los sistemas SRM y los ficheros actualizados ayudan a mejorar las relaciones de suministro. No debe confundirse con «Solo el nombre comercial sin condiciones». Referencia: manual, pág. 63."
+    }
+  ]
+}

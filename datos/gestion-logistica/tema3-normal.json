@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 3,
+  "test": "Tema 3 · Test normal",
+  "preguntas": [
+    {
+      "id": "GLC-T3-N-01",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 70,
+      "pregunta": "¿Qué aporta la homologación por historial de proveedores?",
+      "opciones": {
+        "A": "Sustituye toda información de calidad por publicidad",
+        "B": "Permite evaluar su comportamiento real en suministros previos",
+        "C": "Hace innecesario controlar las entregas futuras",
+        "D": "Evita conocer incumplimientos anteriores"
+      },
+      "correcta": "B",
+      "explicacion": "Permite evaluar su comportamiento real en suministros previos. La relación comercial mejora cuando la elección inicial se complementa con evaluación del desempeño histórico. No debe confundirse con «Evita conocer incumplimientos anteriores». Referencia: manual, pág. 70."
+    },
+    {
+      "id": "GLC-T3-N-02",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 71,
+      "pregunta": "¿Qué es una orden de compra?",
+      "opciones": {
+        "A": "Informe anual de resultados de la empresa",
+        "B": "Certificado de devolución del IVA",
+        "C": "Documento de despido del transportista",
+        "D": "Documento del comprador que indica artículos solicitados y condiciones de la operación"
+      },
+      "correcta": "D",
+      "explicacion": "Documento del comprador que indica artículos solicitados y condiciones de la operación. La documentación de aprovisionamiento describe qué se solicita, qué se envía y qué se recibe. No debe confundirse con «Documento de despido del transportista». Referencia: manual, pág. 71."
+    },
+    {
+      "id": "GLC-T3-N-03",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 72,
+      "pregunta": "¿Qué utilidad tiene un programa de entregas en firme?",
+      "opciones": {
+        "A": "Registrar exclusivamente devoluciones",
+        "B": "Anular automáticamente todas las órdenes previas",
+        "C": "Calcular únicamente la amortización del almacén",
+        "D": "Concretar suministros comprometidos en fechas y cantidades acordadas"
+      },
+      "correcta": "D",
+      "explicacion": "Concretar suministros comprometidos en fechas y cantidades acordadas. La documentación de aprovisionamiento describe qué se solicita, qué se envía y qué se recibe. No debe confundirse con «Anular automáticamente todas las órdenes previas». Referencia: manual, pág. 72."
+    },
+    {
+      "id": "GLC-T3-N-04",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 73,
+      "pregunta": "¿Qué diferencia un aviso de envío de un aviso de recepción?",
+      "opciones": {
+        "A": "El segundo sustituye toda inspección física",
+        "B": "El primero informa de la expedición y el segundo confirma la llegada o recepción",
+        "C": "Ambos son siempre una factura",
+        "D": "El primero solo se emite después de cobrar"
+      },
+      "correcta": "B",
+      "explicacion": "El primero informa de la expedición y el segundo confirma la llegada o recepción. La documentación de aprovisionamiento describe qué se solicita, qué se envía y qué se recibe. No debe confundirse con «Ambos son siempre una factura». Referencia: manual, pág. 73."
+    },
+    {
+      "id": "GLC-T3-N-05",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 74,
+      "pregunta": "¿Quién suele emitir el albarán de entrega?",
+      "opciones": {
+        "A": "La Agencia Tributaria",
+        "B": "El banco del comprador",
+        "C": "El trabajador que recibe su nómina",
+        "D": "El vendedor o expedidor de la mercancía"
+      },
+      "correcta": "D",
+      "explicacion": "El vendedor o expedidor de la mercancía. La documentación de aprovisionamiento describe qué se solicita, qué se envía y qué se recibe. No debe confundirse con «El banco del comprador». Referencia: manual, pág. 74."
+    },
+    {
+      "id": "GLC-T3-N-06",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 75,
+      "pregunta": "¿Qué prueba una firma de conformidad en el albarán tras comprobar el pedido?",
+      "opciones": {
+        "A": "Que no habrá que emitir factura",
+        "B": "Que el producto quedará exento de garantía",
+        "C": "Que el proveedor nunca podrá recibir reclamaciones",
+        "D": "La recepción aceptada de las mercancías consignadas"
+      },
+      "correcta": "D",
+      "explicacion": "La recepción aceptada de las mercancías consignadas. La documentación de aprovisionamiento describe qué se solicita, qué se envía y qué se recibe. No debe confundirse con «Que el producto quedará exento de garantía». Referencia: manual, pág. 75."
+    },
+    {
+      "id": "GLC-T3-N-07",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 76,
+      "pregunta": "¿Qué documento refleja formalmente la operación de compraventa y su importe?",
+      "opciones": {
+        "A": "El organigrama",
+        "B": "La tarjeta Kanban",
+        "C": "La factura",
+        "D": "El inventario ABC"
+      },
+      "correcta": "C",
+      "explicacion": "La factura. La factura expresa y documenta importes, descuentos, gastos y tributos asociados a una operación. No debe confundirse con «La tarjeta Kanban». Referencia: manual, pág. 76."
+    },
+    {
+      "id": "GLC-T3-N-08",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 78,
+      "pregunta": "¿Qué constituye la base imponible de una factura en el esquema del manual?",
+      "opciones": {
+        "A": "Importe bruto menos descuentos más gastos facturables",
+        "B": "Número de unidades por plazo de entrega",
+        "C": "Total con IVA más descuento dos veces",
+        "D": "Únicamente el importe del IVA"
+      },
+      "correcta": "A",
+      "explicacion": "Importe bruto menos descuentos más gastos facturables. Los medios documentales de pago cumplen funciones diferentes y requieren identificar quién ordena, promete o garantiza pagar. No debe confundirse con «Total con IVA más descuento dos veces». Referencia: manual, pág. 78."
+    },
+    {
+      "id": "GLC-T3-N-09",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 78,
+      "pregunta": "¿Qué es la cuota de IVA en una factura?",
+      "opciones": {
+        "A": "La cantidad total sin impuestos",
+        "B": "El stock de seguridad multiplicado por su precio",
+        "C": "El coste fijo anual de almacén",
+        "D": "El resultado de aplicar el tipo impositivo sobre la base imponible"
+      },
+      "correcta": "D",
+      "explicacion": "El resultado de aplicar el tipo impositivo sobre la base imponible. Los medios documentales de pago cumplen funciones diferentes y requieren identificar quién ordena, promete o garantiza pagar. No debe confundirse con «El coste fijo anual de almacén». Referencia: manual, pág. 78."
+    },
+    {
+      "id": "GLC-T3-N-10",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 82,
+      "pregunta": "¿Qué distingue el cheque de la letra de cambio?",
+      "opciones": {
+        "A": "El cheque ordena al banco pagar a la vista; la letra contiene una orden cambiaria de pago conforme al título",
+        "B": "La letra nunca interviene en operaciones mercantiles",
+        "C": "El cheque es siempre una promesa futura del firmante",
+        "D": "Ambos son simples albaranes de recepción"
+      },
+      "correcta": "A",
+      "explicacion": "El cheque ordena al banco pagar a la vista; la letra contiene una orden cambiaria de pago conforme al título. Los medios documentales de pago cumplen funciones diferentes y requieren identificar quién ordena, promete o garantiza pagar. No debe confundirse con «El cheque es siempre una promesa futura del firmante». Referencia: manual, pág. 82."
+    },
+    {
+      "id": "GLC-T3-N-11",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 85,
+      "pregunta": "¿Qué expresa un pagaré?",
+      "opciones": {
+        "A": "La recepción física de cajas en el almacén",
+        "B": "Una declaración de inventario obsoleto",
+        "C": "Una promesa de pago del firmante al beneficiario bajo las condiciones del título",
+        "D": "Una orden de expedición de mercancías"
+      },
+      "correcta": "C",
+      "explicacion": "Una promesa de pago del firmante al beneficiario bajo las condiciones del título. Los medios documentales de pago cumplen funciones diferentes y requieren identificar quién ordena, promete o garantiza pagar. No debe confundirse con «La recepción física de cajas en el almacén». Referencia: manual, pág. 85."
+    },
+    {
+      "id": "GLC-T3-N-12",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 81,
+      "pregunta": "¿Quién es el librador de una letra de cambio?",
+      "opciones": {
+        "A": "La persona que necesariamente almacena la mercancía",
+        "B": "El transportista del suministro",
+        "C": "Quien emite la orden de pago contenida en la letra",
+        "D": "El técnico que audita el stock"
+      },
+      "correcta": "C",
+      "explicacion": "Quien emite la orden de pago contenida en la letra. Los medios documentales de pago cumplen funciones diferentes y requieren identificar quién ordena, promete o garantiza pagar. No debe confundirse con «La persona que necesariamente almacena la mercancía». Referencia: manual, pág. 81."
+    },
+    {
+      "id": "GLC-T3-N-13",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 82,
+      "pregunta": "¿Qué representa el avalista en los efectos mercantiles?",
+      "opciones": {
+        "A": "El proveedor que rechaza la operación",
+        "B": "La persona que garantiza el pago de un obligado",
+        "C": "El encargado de etiquetar bultos",
+        "D": "El beneficiario de un descuento comercial"
+      },
+      "correcta": "B",
+      "explicacion": "La persona que garantiza el pago de un obligado. Los medios documentales de pago cumplen funciones diferentes y requieren identificar quién ordena, promete o garantiza pagar. No debe confundirse con «El beneficiario de un descuento comercial». Referencia: manual, pág. 82."
+    },
+    {
+      "id": "GLC-T3-N-14",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 94,
+      "pregunta": "¿Qué ventaja puede tener el pago aplazado para el comprador?",
+      "opciones": {
+        "A": "Conservar liquidez durante el plazo de financiación concedido",
+        "B": "Impedir que haya factura",
+        "C": "Eliminar los intereses de cualquier préstamo bancario",
+        "D": "Convertir automáticamente la compra en gratuita"
+      },
+      "correcta": "A",
+      "explicacion": "Conservar liquidez durante el plazo de financiación concedido. Precio efectivo, descuentos y financiación forman parte de la negociación de aprovisionamiento. No debe confundirse con «Convertir automáticamente la compra en gratuita». Referencia: manual, pág. 94."
+    },
+    {
+      "id": "GLC-T3-N-15",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 93,
+      "pregunta": "¿Qué es el descuento por pronto pago?",
+      "opciones": {
+        "A": "Un recargo por retraso en entrega",
+        "B": "Una bonificación exclusiva por peso de embalaje",
+        "C": "Una reducción vinculada a pagar dentro del plazo anticipado pactado",
+        "D": "Una tasa pública del transporte"
+      },
+      "correcta": "C",
+      "explicacion": "Una reducción vinculada a pagar dentro del plazo anticipado pactado. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «Un recargo por retraso en entrega». Referencia: manual, pág. 93."
+    },
+    {
+      "id": "GLC-T3-N-16",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 93,
+      "pregunta": "¿Qué es el descuento comercial?",
+      "opciones": {
+        "A": "Un coste fijo del almacén",
+        "B": "Una rebaja porcentual aplicada sobre los precios de catálogo o lista",
+        "C": "Un tipo de seguro de transporte",
+        "D": "Una penalización financiera por demora del proveedor"
+      },
+      "correcta": "B",
+      "explicacion": "Una rebaja porcentual aplicada sobre los precios de catálogo o lista. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «Un tipo de seguro de transporte». Referencia: manual, pág. 93."
+    },
+    {
+      "id": "GLC-T3-N-17",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 93,
+      "pregunta": "¿Qué concepto define mejor el rappel?",
+      "opciones": {
+        "A": "Descuento vinculado normalmente al volumen de compras acordado",
+        "B": "Aplazamiento obligatorio del IVA",
+        "C": "Cargo por rotura de stock",
+        "D": "Documento que acredita una entrega"
+      },
+      "correcta": "A",
+      "explicacion": "Descuento vinculado normalmente al volumen de compras acordado. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «Aplazamiento obligatorio del IVA». Referencia: manual, pág. 93."
+    },
+    {
+      "id": "GLC-T3-N-18",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 90,
+      "pregunta": "¿En qué fase de la negociación se presentan argumentos y se atienden objeciones?",
+      "opciones": {
+        "A": "Cierre contable del ejercicio",
+        "B": "Recepción física de mercancías",
+        "C": "Desarrollo de la negociación",
+        "D": "Emisión del albarán"
+      },
+      "correcta": "C",
+      "explicacion": "Desarrollo de la negociación. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «Emisión del albarán». Referencia: manual, pág. 90."
+    },
+    {
+      "id": "GLC-T3-N-19",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 92,
+      "pregunta": "¿En qué fase de la negociación se formaliza el acuerdo alcanzado?",
+      "opciones": {
+        "A": "Pronóstico de ventas",
+        "B": "Cierre de la negociación",
+        "C": "Búsqueda inicial de información exclusivamente",
+        "D": "Puesta en marcha del SGA"
+      },
+      "correcta": "B",
+      "explicacion": "Cierre de la negociación. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «Búsqueda inicial de información exclusivamente». Referencia: manual, pág. 92."
+    },
+    {
+      "id": "GLC-T3-N-20",
+      "tema": 3,
+      "nivel": "normal",
+      "apartado": "3. Temario",
+      "pagina_manual": 91,
+      "pregunta": "¿Qué diferencia una objeción real de una excusa durante una negociación?",
+      "opciones": {
+        "A": "La objeción real plantea una dificultad concreta; la excusa puede esconder desinterés",
+        "B": "Una objeción real es necesariamente ilegal",
+        "C": "No existe ninguna diferencia en su análisis",
+        "D": "La excusa siempre detalla una dificultad técnica medible"
+      },
+      "correcta": "A",
+      "explicacion": "La objeción real plantea una dificultad concreta; la excusa puede esconder desinterés. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «La excusa siempre detalla una dificultad técnica medible». Referencia: manual, pág. 91."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+MI AULA — CONTROL DE CALIDAD: GESTIÓN LOGÍSTICA Y COMERCIAL
+Fecha de preparación: 27/10/2026
+Manual de referencia: ILERNA, Gestión logística y comercial, 3.ª edición, marzo de 2022 (146 páginas).
+
+INVENTARIO VERIFICADO
+10 PDF: 5 básicos, 5 ampliados.
+10 test por temas de 20 preguntas: 200 preguntas.
+5 simulacros finales de 30 preguntas: 150 preguntas.
+TOTAL: 350 preguntas NUEVAS de esta asignatura.
+Corrección: cuatro opciones por pregunta, una correcta y explicación incluida.
+Todos los ítems incluyen tema, apartado y página del manual de referencia.
+
+DISTRIBUCIÓN POR SIMULACRO: T1=8, T2=5, T3=6, T4=4, T5=7. Orden mezclado y navegación aleatorizada.
+
+PRUEBAS AUTOMÁTICAS EFECTUADAS
+- 15 archivos JSON válidos; 350 IDs únicos y 350 enunciados distintos.
+- Todos los tests: cuatro opciones diferentes y clave válida.
+- Distribución equilibrada de claves A/B/C/D por archivo.
+- Revisión de distractores numéricos equivalentes.
+- 10 PDF legibles: páginas no vacías y ausencia de bloques de texto fuera de página.
+- JavaScript validado con node --check.
+- 30 rutas de examen abiertas mediante navegador automatizado; corrección validada.
+- Visualización responsive comprobada a 1440, 390 y 320 píxeles.
+
+ADVERTENCIAS DE RIGOR
+1. Manual 2022, pág. 35: 640+624+615=1879 y 1879/3=626,33; la impresión incluye otros resultados (623,33 y 625,33). Se documentó la discrepancia.
+2. Manual pág. 27: el glosario inmediato del punto de pedido mezcla las definiciones de d y ss. Se utilizó la interpretación del ejemplo de la pág. 28: d=plazo habitual, ss=stock de seguridad.
+3. Las preguntas son una ayuda no oficial. Los exámenes reales, normativa y criterios de calificación pueden variar.
+
+PÁGINAS DE LOS PDF:
+  tema1-ampliado: 8
+  tema1-basico: 4
+  tema2-ampliado: 7
+  tema2-basico: 4
+  tema3-ampliado: 6
+  tema3-basico: 4
+  tema4-ampliado: 5
+  tema4-basico: 3
+  tema5-ampliado: 7
+  tema5-basico: 4
+
+CUENTA DE RESPUESTAS CORRECTAS EN 350 PREGUNTAS: {'B': 90, 'A': 90, 'C': 85, 'D': 85}
+
+RESULTADO: COMPROBACIONES TÉCNICAS SUPERADAS.

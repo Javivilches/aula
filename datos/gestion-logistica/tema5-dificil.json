@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 5,
+  "test": "Tema 5 · Test difícil",
+  "preguntas": [
+    {
+      "id": "GLC-T5-D-01",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 137,
+      "pregunta": "¿Cuál es la función de un sistema de depósito, devolución y retorno (SDDR)?",
+      "opciones": {
+        "A": "Calcular impuestos de una nómina",
+        "B": "Impedir la reutilización de materiales",
+        "C": "Cobrar depósito que se reembolsa cuando el envase se devuelve",
+        "D": "Destruir todos los envases antes de vender"
+      },
+      "correcta": "C",
+      "explicacion": "Cobrar depósito que se reembolsa cuando el envase se devuelve. La logística inversa gestiona flujos de retorno y decisiones sobre reparación, reutilización, reciclaje o eliminación. No debe confundirse con «Destruir todos los envases antes de vender». Referencia: manual, pág. 137."
+    },
+    {
+      "id": "GLC-T5-D-02",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 137,
+      "pregunta": "¿A qué se refiere un SIG en el manual?",
+      "opciones": {
+        "A": "A una modalidad de factura rectificativa",
+        "B": "A un almacén donde se guardan únicamente facturas",
+        "C": "A un indicador salarial general",
+        "D": "A un sistema integrado autorizado para gestionar residuos de envases y embalajes"
+      },
+      "correcta": "D",
+      "explicacion": "A un sistema integrado autorizado para gestionar residuos de envases y embalajes. La logística inversa gestiona flujos de retorno y decisiones sobre reparación, reutilización, reciclaje o eliminación. No debe confundirse con «A un almacén donde se guardan únicamente facturas». Referencia: manual, pág. 137."
+    },
+    {
+      "id": "GLC-T5-D-03",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 138,
+      "pregunta": "¿Qué elementos forman el servicio al cliente en logística?",
+      "opciones": {
+        "A": "Actuaciones antes, durante y después de la venta",
+        "B": "Solo las garantías legales sin transporte",
+        "C": "Únicamente la publicidad previa",
+        "D": "Solo la entrega física en el día de la venta"
+      },
+      "correcta": "A",
+      "explicacion": "Actuaciones antes, durante y después de la venta. El servicio logístico debe atender las fases de preventa, venta y posventa, integrando compromisos sociales y ambientales. No debe confundirse con «Solo la entrega física en el día de la venta». Referencia: manual, pág. 138."
+    },
+    {
+      "id": "GLC-T5-D-04",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 139,
+      "pregunta": "¿Por qué es importante el servicio posventa?",
+      "opciones": {
+        "A": "No afecta a la percepción del cliente",
+        "B": "Solo provoca costes y nunca ingresos indirectos",
+        "C": "Influye en satisfacción, fidelización y ventaja competitiva",
+        "D": "No guarda relación con la distribución"
+      },
+      "correcta": "C",
+      "explicacion": "Influye en satisfacción, fidelización y ventaja competitiva. El servicio logístico debe atender las fases de preventa, venta y posventa, integrando compromisos sociales y ambientales. No debe confundirse con «Solo provoca costes y nunca ingresos indirectos». Referencia: manual, pág. 139."
+    },
+    {
+      "id": "GLC-T5-D-05",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 140,
+      "pregunta": "¿Qué beneficio ambiental puede aportar la logística inversa?",
+      "opciones": {
+        "A": "Evitar toda reparación",
+        "B": "Reutilizar materiales y reducir residuos e impacto ambiental",
+        "C": "Aumentar siempre embalajes de un solo uso",
+        "D": "Prohibir el reciclaje de envases"
+      },
+      "correcta": "B",
+      "explicacion": "Reutilizar materiales y reducir residuos e impacto ambiental. El servicio logístico debe atender las fases de preventa, venta y posventa, integrando compromisos sociales y ambientales. No debe confundirse con «Aumentar siempre embalajes de un solo uso». Referencia: manual, pág. 140."
+    },
+    {
+      "id": "GLC-T5-D-06",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 142,
+      "pregunta": "¿Qué implica RSC en la cadena logística?",
+      "opciones": {
+        "A": "Limitarse a incrementar kilómetros recorridos",
+        "B": "Reducir la transparencia de procesos",
+        "C": "Evitar verificar condiciones de proveedores",
+        "D": "Considerar impactos laborales, sociales, legales y ambientales del suministro"
+      },
+      "correcta": "D",
+      "explicacion": "Considerar impactos laborales, sociales, legales y ambientales del suministro. El servicio logístico debe atender las fases de preventa, venta y posventa, integrando compromisos sociales y ambientales. No debe confundirse con «Limitarse a incrementar kilómetros recorridos». Referencia: manual, pág. 142."
+    },
+    {
+      "id": "GLC-T5-D-07",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 133,
+      "pregunta": "¿Qué es un coste oculto en logística?",
+      "opciones": {
+        "A": "Un precio escrito en la factura",
+        "B": "Un tipo obligatorio de IVA",
+        "C": "Un descuento financiero cobrado",
+        "D": "Un gasto o pérdida difícil de detectar en el control ordinario"
+      },
+      "correcta": "D",
+      "explicacion": "Un gasto o pérdida difícil de detectar en el control ordinario. El transporte supone coste de personal y vehículos o tarifas externas, y debe analizarse junto con el servicio de entrega. No debe confundirse con «Un precio escrito en la factura». Referencia: manual, pág. 133."
+    },
+    {
+      "id": "GLC-T5-D-08",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 140,
+      "pregunta": "¿Qué objetivo persigue la optimización del coste y el servicio?",
+      "opciones": {
+        "A": "Equilibrar eficiencia económica con satisfacción y nivel de servicio al cliente",
+        "B": "Eliminar por completo la relación con clientes",
+        "C": "Mantener el máximo inventario sin evaluación",
+        "D": "Reducir costes a costa de incumplir todos los plazos"
+      },
+      "correcta": "A",
+      "explicacion": "Equilibrar eficiencia económica con satisfacción y nivel de servicio al cliente. El servicio logístico debe atender las fases de preventa, venta y posventa, integrando compromisos sociales y ambientales. No debe confundirse con «Reducir costes a costa de incumplir todos los plazos». Referencia: manual, pág. 140."
+    },
+    {
+      "id": "GLC-T5-D-09",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 132,
+      "pregunta": "¿Qué ventaja tiene un transporte con rutas planificadas?",
+      "opciones": {
+        "A": "Reducir recorridos improductivos y mejorar el uso de vehículos",
+        "B": "Hacer innecesario controlar incidencias",
+        "C": "Duplicar necesariamente el combustible",
+        "D": "Asegurar todas las entregas independientemente del tráfico"
+      },
+      "correcta": "A",
+      "explicacion": "Reducir recorridos improductivos y mejorar el uso de vehículos. El transporte supone coste de personal y vehículos o tarifas externas, y debe analizarse junto con el servicio de entrega. No debe confundirse con «Duplicar necesariamente el combustible». Referencia: manual, pág. 132."
+    },
+    {
+      "id": "GLC-T5-D-10",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 116,
+      "pregunta": "¿Qué diferencia un centro de distribución de un punto de venta?",
+      "opciones": {
+        "A": "El centro de distribución emite nóminas de clientes",
+        "B": "El punto de venta nunca recibe mercancía",
+        "C": "El primero organiza almacenamiento y expedición; el segundo entrega o comercializa al consumidor final",
+        "D": "Ambos realizan siempre la misma actividad industrial"
+      },
+      "correcta": "C",
+      "explicacion": "El primero organiza almacenamiento y expedición; el segundo entrega o comercializa al consumidor final. La logística coordina materiales, productos, servicios e información desde el origen hasta el consumidor. No debe confundirse con «Ambos realizan siempre la misma actividad industrial». Referencia: manual, pág. 116."
+    },
+    {
+      "id": "GLC-T5-D-11",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 124,
+      "pregunta": "¿Qué aporta mantener inventario en almacenes regionales?",
+      "opciones": {
+        "A": "Rapidez de atención próxima al mercado a cambio de más puntos que gestionar",
+        "B": "Garantizar que ninguna unidad quede obsoleta",
+        "C": "Impedir el control de existencias",
+        "D": "Eliminar siempre todos los costes de espacio"
+      },
+      "correcta": "A",
+      "explicacion": "Rapidez de atención próxima al mercado a cambio de más puntos que gestionar. Las redes logísticas se diseñan para equilibrar control central, cercanía a clientes y gastos de servicio. No debe confundirse con «Eliminar siempre todos los costes de espacio». Referencia: manual, pág. 124."
+    },
+    {
+      "id": "GLC-T5-D-12",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 118,
+      "pregunta": "¿Cuál es el riesgo de distribuir mercancía sin identificación trazable?",
+      "opciones": {
+        "A": "Aumento garantizado del margen comercial",
+        "B": "Dificultad para localizar lotes e investigar errores o retiradas",
+        "C": "Simplificación de cualquier reclamación",
+        "D": "Reducción automática de los plazos"
+      },
+      "correcta": "B",
+      "explicacion": "Dificultad para localizar lotes e investigar errores o retiradas. La trazabilidad permite conocer origen, ubicación, movimientos y destino de los artículos o lotes. No debe confundirse con «Aumento garantizado del margen comercial». Referencia: manual, pág. 118."
+    },
+    {
+      "id": "GLC-T5-D-13",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 120,
+      "pregunta": "¿Qué constituye un indicador de puntualidad logística?",
+      "opciones": {
+        "A": "Número de almacenes por trabajador",
+        "B": "Entregas dentro del plazo acordado dividido entre entregas totales",
+        "C": "Importe de devoluciones menos ingresos",
+        "D": "Tiempo de vida útil del vehículo"
+      },
+      "correcta": "B",
+      "explicacion": "Entregas dentro del plazo acordado dividido entre entregas totales. Las redes logísticas se diseñan para equilibrar control central, cercanía a clientes y gastos de servicio. No debe confundirse con «Importe de devoluciones menos ingresos». Referencia: manual, pág. 120."
+    },
+    {
+      "id": "GLC-T5-D-14",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 134,
+      "pregunta": "¿Qué coste puede vincularse a roturas de stock?",
+      "opciones": {
+        "A": "Exclusivamente el descuento comercial",
+        "B": "Un ingreso financiero garantizado",
+        "C": "Solo la inversión en publicidad",
+        "D": "Pérdida de ventas, clientes o interrupciones por falta de existencias"
+      },
+      "correcta": "D",
+      "explicacion": "Pérdida de ventas, clientes o interrupciones por falta de existencias. La logística inversa gestiona flujos de retorno y decisiones sobre reparación, reutilización, reciclaje o eliminación. No debe confundirse con «Solo la inversión en publicidad». Referencia: manual, pág. 134."
+    },
+    {
+      "id": "GLC-T5-D-15",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 134,
+      "pregunta": "¿Qué distingue las operaciones logísticas directas de las inversas?",
+      "opciones": {
+        "A": "Ambas excluyen el registro de movimientos",
+        "B": "Las directas llevan mercancía hacia el cliente; las inversas gestionan retornos",
+        "C": "Las inversas prohíben los residuos",
+        "D": "Las directas no utilizan transporte"
+      },
+      "correcta": "B",
+      "explicacion": "Las directas llevan mercancía hacia el cliente; las inversas gestionan retornos. La logística inversa gestiona flujos de retorno y decisiones sobre reparación, reutilización, reciclaje o eliminación. No debe confundirse con «Las inversas prohíben los residuos». Referencia: manual, pág. 134."
+    },
+    {
+      "id": "GLC-T5-D-16",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 142,
+      "pregunta": "¿Qué medida favorece la responsabilidad social en el almacenamiento?",
+      "opciones": {
+        "A": "Ignorar los residuos de embalajes",
+        "B": "Reducir desperdicios y proteger condiciones laborales y ambientales",
+        "C": "Aumentar el consumo energético sin control",
+        "D": "Evitar auditorías de seguridad"
+      },
+      "correcta": "B",
+      "explicacion": "Reducir desperdicios y proteger condiciones laborales y ambientales. El servicio logístico debe atender las fases de preventa, venta y posventa, integrando compromisos sociales y ambientales. No debe confundirse con «Ignorar los residuos de embalajes». Referencia: manual, pág. 142."
+    },
+    {
+      "id": "GLC-T5-D-17",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 141,
+      "pregunta": "¿Qué dificultad específica añade la logística inversa a la previsión?",
+      "opciones": {
+        "A": "El coste de transporte pasa a ser necesariamente cero",
+        "B": "Los productos devueltos llegan siempre con fecha exacta",
+        "C": "Los volúmenes, orígenes y destinos de retornos son menos predecibles",
+        "D": "Desaparece la necesidad de clasificar"
+      },
+      "correcta": "C",
+      "explicacion": "Los volúmenes, orígenes y destinos de retornos son menos predecibles. El servicio logístico debe atender las fases de preventa, venta y posventa, integrando compromisos sociales y ambientales. No debe confundirse con «Los productos devueltos llegan siempre con fecha exacta». Referencia: manual, pág. 141."
+    },
+    {
+      "id": "GLC-T5-D-18",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 129,
+      "pregunta": "¿Por qué es importante calcular el coste logístico unitario?",
+      "opciones": {
+        "A": "Permite comparar eficiencia y fundamentar precios y decisiones",
+        "B": "Anula la importancia del nivel de servicio",
+        "C": "Evita medir costes indirectos",
+        "D": "Garantiza que cualquier venta será rentable"
+      },
+      "correcta": "A",
+      "explicacion": "Permite comparar eficiencia y fundamentar precios y decisiones. Los costes de almacén comprenden espacio, instalaciones, manipulación, conservación y capital inmovilizado. No debe confundirse con «Garantiza que cualquier venta será rentable». Referencia: manual, pág. 129."
+    },
+    {
+      "id": "GLC-T5-D-19",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 120,
+      "pregunta": "¿Qué busca la mejora continua en la cadena logística?",
+      "opciones": {
+        "A": "Eliminar las reclamaciones de los informes",
+        "B": "Modificar objetivos sin conservar históricos",
+        "C": "Declarar perfecto todo proceso sin medir",
+        "D": "Identificar desviaciones, introducir cambios y comprobar indicadores posteriores"
+      },
+      "correcta": "D",
+      "explicacion": "Identificar desviaciones, introducir cambios y comprobar indicadores posteriores. Las redes logísticas se diseñan para equilibrar control central, cercanía a clientes y gastos de servicio. No debe confundirse con «Declarar perfecto todo proceso sin medir». Referencia: manual, pág. 120."
+    },
+    {
+      "id": "GLC-T5-D-20",
+      "tema": 5,
+      "nivel": "dificil",
+      "apartado": "5. Temario",
+      "pagina_manual": 139,
+      "pregunta": "¿Qué principio es esencial para la fidelización del cliente?",
+      "opciones": {
+        "A": "Ofrecer información inexacta sobre entregas",
+        "B": "Impedir la comunicación posventa",
+        "C": "Un servicio consistente y respuesta eficaz ante incidencias",
+        "D": "Ignorar devoluciones"
+      },
+      "correcta": "C",
+      "explicacion": "Un servicio consistente y respuesta eficaz ante incidencias. El servicio logístico debe atender las fases de preventa, venta y posventa, integrando compromisos sociales y ambientales. No debe confundirse con «Ofrecer información inexacta sobre entregas». Referencia: manual, pág. 139."
+    }
+  ]
+}

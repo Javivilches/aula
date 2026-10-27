@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 1,
+  "test": "Tema 1 · Test normal",
+  "preguntas": [
+    {
+      "id": "GLC-T1-N-01",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 11,
+      "pregunta": "¿Cuál es la finalidad central del aprovisionamiento?",
+      "opciones": {
+        "A": "Comprar exclusivamente al proveedor más barato",
+        "B": "Suprimir la planificación de las compras",
+        "C": "Disponer de bienes y servicios necesarios en cantidad, calidad, plazo y coste adecuados",
+        "D": "Mantener el almacén siempre lleno"
+      },
+      "correcta": "C",
+      "explicacion": "Disponer de bienes y servicios necesarios en cantidad, calidad, plazo y coste adecuados. La previsión de demanda, la capacidad física y financiera, el ritmo productivo y los acuerdos con proveedores condicionan cuándo y cuánto comprar. No debe confundirse con «Mantener el almacén siempre lleno». Referencia: manual, pág. 11."
+    },
+    {
+      "id": "GLC-T1-N-02",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 11,
+      "pregunta": "¿Qué departamento identifica inicialmente sus necesidades de material en el proceso de aprovisionamiento?",
+      "opciones": {
+        "A": "Cada departamento usuario comunica las necesidades al área de compras",
+        "B": "El proveedor impone unilateralmente el pedido",
+        "C": "La empresa transportista decide el consumo",
+        "D": "Solo la dirección financiera define todas las cantidades"
+      },
+      "correcta": "A",
+      "explicacion": "Cada departamento usuario comunica las necesidades al área de compras. La previsión de demanda, la capacidad física y financiera, el ritmo productivo y los acuerdos con proveedores condicionan cuándo y cuánto comprar. No debe confundirse con «Solo la dirección financiera define todas las cantidades». Referencia: manual, pág. 11."
+    },
+    {
+      "id": "GLC-T1-N-03",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 9,
+      "pregunta": "¿Qué distingue la gestión de compras del aprovisionamiento?",
+      "opciones": {
+        "A": "El aprovisionamiento solo interviene tras la venta",
+        "B": "Las compras incluyen toda la logística inversa y nada más",
+        "C": "El aprovisionamiento también comprende recepción, mantenimiento y gestión de existencias",
+        "D": "Son términos incompatibles"
+      },
+      "correcta": "C",
+      "explicacion": "El aprovisionamiento también comprende recepción, mantenimiento y gestión de existencias. Aprovisionar significa garantizar recursos necesarios para operar, en cantidad, calidad, lugar y plazo adecuados, equilibrando servicio y coste. No debe confundirse con «Las compras incluyen toda la logística inversa y nada más». Referencia: manual, pág. 9."
+    },
+    {
+      "id": "GLC-T1-N-04",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 10,
+      "pregunta": "¿Qué caracteriza una gestión centralizada de compras?",
+      "opciones": {
+        "A": "Cada sucursal compra de modo independiente",
+        "B": "Un único departamento gestiona las adquisiciones de la empresa",
+        "C": "Todo proveedor compra materiales por cuenta de la empresa",
+        "D": "Solo se compran materiales de un país"
+      },
+      "correcta": "B",
+      "explicacion": "Un único departamento gestiona las adquisiciones de la empresa. Aprovisionar significa garantizar recursos necesarios para operar, en cantidad, calidad, lugar y plazo adecuados, equilibrando servicio y coste. No debe confundirse con «Cada sucursal compra de modo independiente». Referencia: manual, pág. 10."
+    },
+    {
+      "id": "GLC-T1-N-05",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 7,
+      "pregunta": "¿Qué persigue el plan de aprovisionamiento?",
+      "opciones": {
+        "A": "Analizar necesidades, redactar un plan, ejecutarlo y controlar los resultados",
+        "B": "Comprar sin objetivos previos",
+        "C": "Reducir siempre a cero el inventario",
+        "D": "Evitar cualquier relación con otros departamentos"
+      },
+      "correcta": "A",
+      "explicacion": "Analizar necesidades, redactar un plan, ejecutarlo y controlar los resultados. Aprovisionar significa garantizar recursos necesarios para operar, en cantidad, calidad, lugar y plazo adecuados, equilibrando servicio y coste. No debe confundirse con «Comprar sin objetivos previos». Referencia: manual, pág. 7."
+    },
+    {
+      "id": "GLC-T1-N-06",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 10,
+      "pregunta": "En un sistema sincronizado con la producción, ¿cuándo se aprovisionan los materiales?",
+      "opciones": {
+        "A": "Siempre al llegar al stock máximo",
+        "B": "Solo una vez al año",
+        "C": "Cuando termina el ejercicio contable",
+        "D": "En función de los pedidos y del ritmo de producción"
+      },
+      "correcta": "D",
+      "explicacion": "En función de los pedidos y del ritmo de producción. Aprovisionar significa garantizar recursos necesarios para operar, en cantidad, calidad, lugar y plazo adecuados, equilibrando servicio y coste. No debe confundirse con «Solo una vez al año». Referencia: manual, pág. 10."
+    },
+    {
+      "id": "GLC-T1-N-07",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 17,
+      "pregunta": "¿Para qué sirve el stock de seguridad?",
+      "opciones": {
+        "A": "Calcular directamente el beneficio comercial",
+        "B": "Cubrir desviaciones inesperadas de demanda o plazo de entrega",
+        "C": "Representar el total de ventas del periodo",
+        "D": "Sustituir a todas las órdenes de compra"
+      },
+      "correcta": "B",
+      "explicacion": "Cubrir desviaciones inesperadas de demanda o plazo de entrega. El stock de seguridad protege frente a oscilaciones imprevistas de demanda y demoras de proveedores. No debe confundirse con «Representar el total de ventas del periodo». Referencia: manual, pág. 17."
+    },
+    {
+      "id": "GLC-T1-N-08",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 15,
+      "pregunta": "¿Con qué finalidad se utiliza un sistema de gestión de almacenes (SGA)?",
+      "opciones": {
+        "A": "Calcular únicamente nóminas",
+        "B": "Negociar tipos de interés hipotecarios",
+        "C": "Impedir los recuentos de existencias",
+        "D": "Controlar ubicaciones, movimientos, inventario y trazabilidad con menos errores"
+      },
+      "correcta": "D",
+      "explicacion": "Controlar ubicaciones, movimientos, inventario y trazabilidad con menos errores. La previsión de demanda, la capacidad física y financiera, el ritmo productivo y los acuerdos con proveedores condicionan cuándo y cuánto comprar. No debe confundirse con «Calcular únicamente nóminas». Referencia: manual, pág. 15."
+    },
+    {
+      "id": "GLC-T1-N-09",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 15,
+      "pregunta": "¿Qué describe el e-procurement?",
+      "opciones": {
+        "A": "Integrar y realizar procesos de aprovisionamiento por medios electrónicos entre empresas",
+        "B": "Un sistema de venta exclusivamente presencial",
+        "C": "El reparto físico mediante vehículos eléctricos",
+        "D": "La obligación de mantener inventarios ilimitados"
+      },
+      "correcta": "A",
+      "explicacion": "Integrar y realizar procesos de aprovisionamiento por medios electrónicos entre empresas. La previsión de demanda, la capacidad física y financiera, el ritmo productivo y los acuerdos con proveedores condicionan cuándo y cuánto comprar. No debe confundirse con «El reparto físico mediante vehículos eléctricos». Referencia: manual, pág. 15."
+    },
+    {
+      "id": "GLC-T1-N-10",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 28,
+      "pregunta": "¿Qué significa una rotura de stock?",
+      "opciones": {
+        "A": "Que el stock medio coincide con el stock máximo",
+        "B": "Que el proveedor entrega anticipadamente",
+        "C": "No poder satisfacer la demanda por ausencia o insuficiencia de existencias",
+        "D": "Que todos los productos se han vendido con beneficio"
+      },
+      "correcta": "C",
+      "explicacion": "No poder satisfacer la demanda por ausencia o insuficiencia de existencias. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «Que todos los productos se han vendido con beneficio». Referencia: manual, pág. 28."
+    },
+    {
+      "id": "GLC-T1-N-11",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 17,
+      "pregunta": "¿Qué implica un stock de seguridad mayor si aumenta el tiempo de aprovisionamiento?",
+      "opciones": {
+        "A": "Desaparece el coste financiero",
+        "B": "La empresa puede eliminar toda previsión",
+        "C": "Disminuye automáticamente el volumen de demanda",
+        "D": "Se necesita mayor cobertura frente a demoras y variaciones"
+      },
+      "correcta": "D",
+      "explicacion": "Se necesita mayor cobertura frente a demoras y variaciones. El stock de seguridad protege frente a oscilaciones imprevistas de demanda y demoras de proveedores. No debe confundirse con «La empresa puede eliminar toda previsión». Referencia: manual, pág. 17."
+    },
+    {
+      "id": "GLC-T1-N-12",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 27,
+      "pregunta": "¿Qué es el punto de pedido?",
+      "opciones": {
+        "A": "El espacio libre de almacén",
+        "B": "El precio más alto permitido al proveedor",
+        "C": "La cantidad total vendida en el año",
+        "D": "El nivel de existencias que desencadena un nuevo pedido"
+      },
+      "correcta": "D",
+      "explicacion": "El nivel de existencias que desencadena un nuevo pedido. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «El precio más alto permitido al proveedor». Referencia: manual, pág. 27."
+    },
+    {
+      "id": "GLC-T1-N-13",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 27,
+      "pregunta": "¿Qué es el lote económico de pedido?",
+      "opciones": {
+        "A": "El stock defectuoso destinado a devolución",
+        "B": "El volumen que siempre coincide con la demanda mensual",
+        "C": "La cantidad por pedido que optimiza el equilibrio entre costes de emisión y almacenamiento",
+        "D": "La cantidad máxima admitida legalmente"
+      },
+      "correcta": "C",
+      "explicacion": "La cantidad por pedido que optimiza el equilibrio entre costes de emisión y almacenamiento. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «La cantidad máxima admitida legalmente». Referencia: manual, pág. 27."
+    },
+    {
+      "id": "GLC-T1-N-14",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 22,
+      "pregunta": "¿Qué caracteriza un método cualitativo de previsión?",
+      "opciones": {
+        "A": "Calcula la rotación de stocks con facturas",
+        "B": "Emplea opiniones y juicios expertos cuando los datos históricos son insuficientes",
+        "C": "Siempre ofrece predicciones exactas",
+        "D": "Solo emplea medias móviles"
+      },
+      "correcta": "B",
+      "explicacion": "Emplea opiniones y juicios expertos cuando los datos históricos son insuficientes. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «Solo emplea medias móviles». Referencia: manual, pág. 22."
+    },
+    {
+      "id": "GLC-T1-N-15",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 22,
+      "pregunta": "¿Qué caracteriza la previsión cuantitativa?",
+      "opciones": {
+        "A": "Emplea series de datos y métodos numéricos",
+        "B": "Se utiliza solo con productos nuevos sin históricos",
+        "C": "Prohíbe considerar estacionalidad",
+        "D": "Se basa exclusivamente en intuiciones sin datos"
+      },
+      "correcta": "A",
+      "explicacion": "Emplea series de datos y métodos numéricos. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «Se basa exclusivamente en intuiciones sin datos». Referencia: manual, pág. 22."
+    },
+    {
+      "id": "GLC-T1-N-16",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 43,
+      "pregunta": "En el análisis ABC, ¿qué artículos merecen el control más estricto?",
+      "opciones": {
+        "A": "Solo los artículos con menor precio",
+        "B": "Los artículos C, por representar siempre el valor más alto",
+        "C": "Los artículos A, por concentrar gran parte del valor del inventario",
+        "D": "Todos por igual con independencia de su valor"
+      },
+      "correcta": "C",
+      "explicacion": "Los artículos A, por concentrar gran parte del valor del inventario. El análisis ABC centra el control intensivo en las referencias que concentran mayor valor de inventario. No debe confundirse con «Los artículos C, por representar siempre el valor más alto». Referencia: manual, pág. 43."
+    },
+    {
+      "id": "GLC-T1-N-17",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 44,
+      "pregunta": "¿Cuál es el objetivo de Just in Time?",
+      "opciones": {
+        "A": "Eliminar los controles de calidad",
+        "B": "Recibir y producir lo necesario, cuando se necesita, minimizando inventarios y desperdicios",
+        "C": "Evitar la coordinación con proveedores",
+        "D": "Aumentar indefinidamente el stock inmovilizado"
+      },
+      "correcta": "B",
+      "explicacion": "Recibir y producir lo necesario, cuando se necesita, minimizando inventarios y desperdicios. Just in Time (JIT) intenta producir y abastecer solo lo necesario en el momento adecuado, reduciendo stock y desperdicios. No debe confundirse con «Aumentar indefinidamente el stock inmovilizado». Referencia: manual, pág. 44."
+    },
+    {
+      "id": "GLC-T1-N-18",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 46,
+      "pregunta": "¿Para qué se usan las tarjetas Kanban?",
+      "opciones": {
+        "A": "Fijar impuestos sobre mercancías",
+        "B": "Comunicar y controlar necesidades y órdenes en el flujo productivo",
+        "C": "Registrar únicamente ventas de mostrador",
+        "D": "Sustituir todos los contratos laborales"
+      },
+      "correcta": "B",
+      "explicacion": "Comunicar y controlar necesidades y órdenes en el flujo productivo. Just in Time (JIT) intenta producir y abastecer solo lo necesario en el momento adecuado, reduciendo stock y desperdicios. No debe confundirse con «Sustituir todos los contratos laborales». Referencia: manual, pág. 46."
+    },
+    {
+      "id": "GLC-T1-N-19",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 36,
+      "pregunta": "¿Qué recoge un albarán en la recepción de mercancías?",
+      "opciones": {
+        "A": "La previsión de demanda del próximo año",
+        "B": "La cuenta de resultados anual del proveedor",
+        "C": "Una garantía de que el pedido no tendrá IVA",
+        "D": "Información de los productos entregados para comprobar la recepción"
+      },
+      "correcta": "D",
+      "explicacion": "Información de los productos entregados para comprobar la recepción. La gestión de stocks busca satisfacer las necesidades comerciales y productivas con la menor inversión y coste viables. No debe confundirse con «La cuenta de resultados anual del proveedor». Referencia: manual, pág. 36."
+    },
+    {
+      "id": "GLC-T1-N-20",
+      "tema": 1,
+      "nivel": "normal",
+      "apartado": "1. Temario",
+      "pagina_manual": 38,
+      "pregunta": "¿Qué operación forma parte de la salida de mercancías o picking?",
+      "opciones": {
+        "A": "Extracción, preparación, embalaje, pesaje y etiquetado del pedido",
+        "B": "Selección de un nuevo equipo directivo",
+        "C": "Valoración de acciones bursátiles",
+        "D": "Elaboración de la nómina"
+      },
+      "correcta": "A",
+      "explicacion": "Extracción, preparación, embalaje, pesaje y etiquetado del pedido. La gestión de stocks busca satisfacer las necesidades comerciales y productivas con la menor inversión y coste viables. No debe confundirse con «Elaboración de la nómina». Referencia: manual, pág. 38."
+    }
+  ]
+}

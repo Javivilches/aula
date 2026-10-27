@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 4,
+  "test": "Tema 4 · Test difícil",
+  "preguntas": [
+    {
+      "id": "GLC-T4-D-01",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 102,
+      "pregunta": "¿Qué práctica mejora la trazabilidad documental de cada pedido?",
+      "opciones": {
+        "A": "Repetir números de pedido para varios clientes",
+        "B": "Usar identificadores y relacionar orden, aviso, albarán y factura",
+        "C": "Eliminar los archivos de incidencias",
+        "D": "Registrar solo el total mensual sin desglose"
+      },
+      "correcta": "B",
+      "explicacion": "Usar identificadores y relacionar orden, aviso, albarán y factura. El diagrama de flujo representa los documentos que conectan compras, proveedor, transporte, recepción y contabilidad. No debe confundirse con «Repetir números de pedido para varios clientes». Referencia: manual, pág. 102."
+    },
+    {
+      "id": "GLC-T4-D-02",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 113,
+      "pregunta": "¿Qué ocurre si se incumple una obligación relevante de etiquetado?",
+      "opciones": {
+        "A": "Puede generar riesgos de seguridad e incumplimientos normativos",
+        "B": "Queda garantizada una venta más rápida",
+        "C": "No afecta nunca al transporte",
+        "D": "La mercancía queda automáticamente asegurada"
+      },
+      "correcta": "A",
+      "explicacion": "Puede generar riesgos de seguridad e incumplimientos normativos. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Queda garantizada una venta más rápida». Referencia: manual, pág. 113."
+    },
+    {
+      "id": "GLC-T4-D-03",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 109,
+      "pregunta": "¿Por qué deben controlarse las especificaciones de producto en recepción?",
+      "opciones": {
+        "A": "Para verificar que la calidad y características corresponden a lo contratado",
+        "B": "Para aumentar inventario sin registrar",
+        "C": "Para calcular vacaciones del proveedor",
+        "D": "Para fijar unilateralmente nuevos precios"
+      },
+      "correcta": "A",
+      "explicacion": "Para verificar que la calidad y características corresponden a lo contratado. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Para fijar unilateralmente nuevos precios». Referencia: manual, pág. 109."
+    },
+    {
+      "id": "GLC-T4-D-04",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 104,
+      "pregunta": "¿Qué diferencia un ratio absoluto de su expresión porcentual?",
+      "opciones": {
+        "A": "El porcentaje siempre se obtiene restando cien",
+        "B": "Ambos usan unidades monetarias necesariamente",
+        "C": "Un cociente nunca puede compararse entre periodos",
+        "D": "El porcentaje multiplica por cien el cociente para mostrarlo en tanto por ciento"
+      },
+      "correcta": "D",
+      "explicacion": "El porcentaje multiplica por cien el cociente para mostrarlo en tanto por ciento. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «El porcentaje siempre se obtiene restando cien». Referencia: manual, pág. 104."
+    },
+    {
+      "id": "GLC-T4-D-05",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 105,
+      "pregunta": "¿Qué ventaja tiene comparar KPI de periodos consecutivos?",
+      "opciones": {
+        "A": "Evitar que las incidencias se documenten",
+        "B": "Demostrar que las compras deben aumentar siempre",
+        "C": "Detectar tendencias, deterioros y mejoras en el suministro",
+        "D": "Desconocer los objetivos de servicio"
+      },
+      "correcta": "C",
+      "explicacion": "Detectar tendencias, deterioros y mejoras en el suministro. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «Evitar que las incidencias se documenten». Referencia: manual, pág. 105."
+    },
+    {
+      "id": "GLC-T4-D-06",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 107,
+      "pregunta": "¿Qué conviene incorporar al informe tras detectar incidencias reiteradas?",
+      "opciones": {
+        "A": "Solo elogios al proveedor sin evidencias",
+        "B": "Un aumento automático del precio contratado",
+        "C": "La eliminación de los registros previos",
+        "D": "Causas, medidas correctoras, responsables y seguimiento"
+      },
+      "correcta": "D",
+      "explicacion": "Causas, medidas correctoras, responsables y seguimiento. La evaluación periódica recopila cifras, identifica fallos relevantes y establece medidas comprobables. No debe confundirse con «Solo elogios al proveedor sin evidencias». Referencia: manual, pág. 107."
+    },
+    {
+      "id": "GLC-T4-D-07",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 109,
+      "pregunta": "¿Qué controla un registro de avisos de recepción?",
+      "opciones": {
+        "A": "La rentabilidad de un producto no recibido",
+        "B": "Cuándo y qué mercancías se han recibido y comunicado al proveedor",
+        "C": "La publicidad emitida durante el transporte",
+        "D": "Los salarios del personal de ventas"
+      },
+      "correcta": "B",
+      "explicacion": "Cuándo y qué mercancías se han recibido y comunicado al proveedor. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «La publicidad emitida durante el transporte». Referencia: manual, pág. 109."
+    },
+    {
+      "id": "GLC-T4-D-08",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 109,
+      "pregunta": "¿Por qué es importante conservar documentos del aprovisionamiento?",
+      "opciones": {
+        "A": "Permiten aclarar responsabilidades, condiciones e incidencias y verificar operaciones",
+        "B": "Hacen innecesario comprobar pedidos",
+        "C": "Sustituyen automáticamente todas las obligaciones tributarias",
+        "D": "Impiden cualquier auditoría"
+      },
+      "correcta": "A",
+      "explicacion": "Permiten aclarar responsabilidades, condiciones e incidencias y verificar operaciones. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Impiden cualquier auditoría». Referencia: manual, pág. 109."
+    },
+    {
+      "id": "GLC-T4-D-09",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 101,
+      "pregunta": "¿Qué dato es indispensable para analizar una entrega incompleta?",
+      "opciones": {
+        "A": "Cantidad de promociones lanzadas",
+        "B": "Unidades solicitadas, unidades recibidas e incidencias identificadas",
+        "C": "Número de visitas a la web del cliente",
+        "D": "Relación de competidores indirectos"
+      },
+      "correcta": "B",
+      "explicacion": "Unidades solicitadas, unidades recibidas e incidencias identificadas. Tras realizar el pedido hay que seguir su expedición, confirmar llegada y verificar que coincide con las condiciones pactadas. No debe confundirse con «Número de visitas a la web del cliente». Referencia: manual, pág. 101."
+    },
+    {
+      "id": "GLC-T4-D-10",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 110,
+      "pregunta": "¿Qué criterio debe guiar la elección de un envase?",
+      "opciones": {
+        "A": "Minimizar cualquier control legal",
+        "B": "Eliminar toda información obligatoria",
+        "C": "Naturaleza y protección del contenido y requisitos de uso o comercialización",
+        "D": "Únicamente la preferencia estética del transportista"
+      },
+      "correcta": "C",
+      "explicacion": "Naturaleza y protección del contenido y requisitos de uso o comercialización. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Únicamente la preferencia estética del transportista». Referencia: manual, pág. 110."
+    },
+    {
+      "id": "GLC-T4-D-11",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 112,
+      "pregunta": "¿Qué distingue el embalaje terciario en la distribución?",
+      "opciones": {
+        "A": "El producto contenido en el envase primario",
+        "B": "El documento de compra del proveedor",
+        "C": "La liquidación del IVA trimestral",
+        "D": "Agrupación logística para manipulación y transporte de varias unidades"
+      },
+      "correcta": "D",
+      "explicacion": "Agrupación logística para manipulación y transporte de varias unidades. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «El producto contenido en el envase primario». Referencia: manual, pág. 112."
+    },
+    {
+      "id": "GLC-T4-D-12",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 105,
+      "pregunta": "¿Por qué conviene diferenciar defectos de producto y retrasos de entrega?",
+      "opciones": {
+        "A": "Porque siempre tienen exactamente la misma causa",
+        "B": "Porque los defectos solo afectan a publicidad",
+        "C": "Porque requieren indicadores y acciones correctivas diferentes",
+        "D": "Porque los retrasos anulan automáticamente las facturas"
+      },
+      "correcta": "C",
+      "explicacion": "Porque requieren indicadores y acciones correctivas diferentes. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «Porque siempre tienen exactamente la misma causa». Referencia: manual, pág. 105."
+    },
+    {
+      "id": "GLC-T4-D-13",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 101,
+      "pregunta": "¿Qué acción corresponde si el proveedor anuncia un retraso relevante?",
+      "opciones": {
+        "A": "Mantener plazos ficticios en el sistema",
+        "B": "Actualizar seguimiento, evaluar impacto y coordinar medidas de contingencia",
+        "C": "Eliminar los registros de comunicación",
+        "D": "Cancelar todos los pedidos futuros sin evaluación"
+      },
+      "correcta": "B",
+      "explicacion": "Actualizar seguimiento, evaluar impacto y coordinar medidas de contingencia. Tras realizar el pedido hay que seguir su expedición, confirmar llegada y verificar que coincide con las condiciones pactadas. No debe confundirse con «Cancelar todos los pedidos futuros sin evaluación». Referencia: manual, pág. 101."
+    },
+    {
+      "id": "GLC-T4-D-14",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 107,
+      "pregunta": "¿Qué sentido tiene la evaluación periódica de proveedores?",
+      "opciones": {
+        "A": "Garantiza resultados iguales cada año",
+        "B": "Supone una prohibición de relaciones duraderas",
+        "C": "Ayuda a corregir problemas y fundamentar continuidad o cambio del suministrador",
+        "D": "Sustituye todos los contratos firmados"
+      },
+      "correcta": "C",
+      "explicacion": "Ayuda a corregir problemas y fundamentar continuidad o cambio del suministrador. La evaluación periódica recopila cifras, identifica fallos relevantes y establece medidas comprobables. No debe confundirse con «Supone una prohibición de relaciones duraderas». Referencia: manual, pág. 107."
+    },
+    {
+      "id": "GLC-T4-D-15",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 105,
+      "pregunta": "¿Qué relación existe entre KPI y objetivos de compras?",
+      "opciones": {
+        "A": "Los indicadores permiten comprobar si se cumplen las metas de plazo, calidad y servicio",
+        "B": "Solo son útiles tras cerrar la empresa",
+        "C": "Miden únicamente el tamaño físico de los productos",
+        "D": "No deben relacionarse con objetivos establecidos"
+      },
+      "correcta": "A",
+      "explicacion": "Los indicadores permiten comprobar si se cumplen las metas de plazo, calidad y servicio. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «No deben relacionarse con objetivos establecidos». Referencia: manual, pág. 105."
+    },
+    {
+      "id": "GLC-T4-D-16",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 101,
+      "pregunta": "¿Cuándo se considera finalizada correctamente una recepción?",
+      "opciones": {
+        "A": "Cuando mercancías, cantidades, estado y documentos han sido verificados y registrados",
+        "B": "Antes de realizar cualquier descarga",
+        "C": "Al conocer únicamente el vehículo",
+        "D": "En el momento de enviar la solicitud de oferta"
+      },
+      "correcta": "A",
+      "explicacion": "Cuando mercancías, cantidades, estado y documentos han sido verificados y registrados. Tras realizar el pedido hay que seguir su expedición, confirmar llegada y verificar que coincide con las condiciones pactadas. No debe confundirse con «En el momento de enviar la solicitud de oferta». Referencia: manual, pág. 101."
+    },
+    {
+      "id": "GLC-T4-D-17",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 103,
+      "pregunta": "¿Cómo contribuye un SGA a gestionar incidencias de recepción?",
+      "opciones": {
+        "A": "Reemplaza a la normativa de etiquetado",
+        "B": "Registra entradas, ubicaciones y diferencias para su seguimiento",
+        "C": "Suprime el control de calidad",
+        "D": "Evita la necesidad de identificar bultos"
+      },
+      "correcta": "B",
+      "explicacion": "Registra entradas, ubicaciones y diferencias para su seguimiento. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «Evita la necesidad de identificar bultos». Referencia: manual, pág. 103."
+    },
+    {
+      "id": "GLC-T4-D-18",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 113,
+      "pregunta": "¿Qué información debe acompañar a mercancía frágil o peligrosa cuando proceda?",
+      "opciones": {
+        "A": "Únicamente un código interno incomprensible",
+        "B": "Solo el nombre del vendedor",
+        "C": "Identificación y advertencias de manipulación y seguridad adecuadas",
+        "D": "Un mensaje publicitario sin advertencias"
+      },
+      "correcta": "C",
+      "explicacion": "Identificación y advertencias de manipulación y seguridad adecuadas. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Solo el nombre del vendedor». Referencia: manual, pág. 113."
+    },
+    {
+      "id": "GLC-T4-D-19",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 107,
+      "pregunta": "¿Qué medida sirve para mejorar errores recurrentes de expedición?",
+      "opciones": {
+        "A": "Cambiar el nombre de los albaranes",
+        "B": "Aceptar siempre entregas incompletas",
+        "C": "Dejar de contabilizar los errores",
+        "D": "Analizar incidencias, rediseñar controles y medir si disminuyen"
+      },
+      "correcta": "D",
+      "explicacion": "Analizar incidencias, rediseñar controles y medir si disminuyen. La evaluación periódica recopila cifras, identifica fallos relevantes y establece medidas comprobables. No debe confundirse con «Dejar de contabilizar los errores». Referencia: manual, pág. 107."
+    },
+    {
+      "id": "GLC-T4-D-20",
+      "tema": 4,
+      "nivel": "dificil",
+      "apartado": "4. Temario",
+      "pagina_manual": 107,
+      "pregunta": "¿Qué enfoque es más adecuado ante un KPI negativo de forma sostenida?",
+      "opciones": {
+        "A": "Aumentar pedidos sin revisar problemas",
+        "B": "Prescindir de la base de comparación",
+        "C": "Modificar el indicador para ocultar fallos",
+        "D": "Investigar causas y establecer una mejora verificable en siguientes mediciones"
+      },
+      "correcta": "D",
+      "explicacion": "Investigar causas y establecer una mejora verificable en siguientes mediciones. La evaluación periódica recopila cifras, identifica fallos relevantes y establece medidas comprobables. No debe confundirse con «Modificar el indicador para ocultar fallos». Referencia: manual, pág. 107."
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 1,
+  "test": "Tema 1 · Test difícil",
+  "preguntas": [
+    {
+      "id": "GLC-T1-D-01",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 26,
+      "pregunta": "Si la demanda prevista es estable y conocida, ¿qué tipo de modelo se ajusta mejor al supuesto de Wilson?",
+      "opciones": {
+        "A": "Una previsión exclusivamente subjetiva",
+        "B": "Un modelo totalmente aleatorio sin parámetros",
+        "C": "Un muestreo de satisfacción de clientes",
+        "D": "Un modelo determinista o de previsión perfecta"
+      },
+      "correcta": "D",
+      "explicacion": "Un modelo determinista o de previsión perfecta. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «Un modelo totalmente aleatorio sin parámetros». Referencia: manual, pág. 26."
+    },
+    {
+      "id": "GLC-T1-D-02",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 19,
+      "pregunta": "¿Cuál es el efecto habitual de aumentar mucho el tamaño de cada pedido?",
+      "opciones": {
+        "A": "Se elimina el riesgo de obsolescencia",
+        "B": "Bajan las emisiones de pedidos, pero aumenta el coste de posesión",
+        "C": "La demanda anual pasa necesariamente a cero",
+        "D": "Disminuyen a la vez todos los costes sin excepción"
+      },
+      "correcta": "B",
+      "explicacion": "Bajan las emisiones de pedidos, pero aumenta el coste de posesión. Comprar lotes grandes reduce el número de pedidos, pero suele elevar inventario medio y costes de posesión. No debe confundirse con «Disminuyen a la vez todos los costes sin excepción». Referencia: manual, pág. 19."
+    },
+    {
+      "id": "GLC-T1-D-03",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 27,
+      "pregunta": "En la fórmula PP = demanda diaria × plazo de entrega + stock de seguridad, ¿qué añade el último término?",
+      "opciones": {
+        "A": "La demanda anual total por duplicado",
+        "B": "Un colchón para cubrir la incertidumbre mientras llega el suministro",
+        "C": "Una penalización al cliente por demora",
+        "D": "El coste fiscal del inventario"
+      },
+      "correcta": "B",
+      "explicacion": "Un colchón para cubrir la incertidumbre mientras llega el suministro. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «Una penalización al cliente por demora». Referencia: manual, pág. 27."
+    },
+    {
+      "id": "GLC-T1-D-04",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 26,
+      "pregunta": "¿Qué diferencia al coste de adquisición del coste de emisión de pedido?",
+      "opciones": {
+        "A": "El coste de adquisición solo afecta al transporte",
+        "B": "El primero remunera las unidades compradas y el segundo la tramitación de las órdenes",
+        "C": "Ambos son siempre idénticos",
+        "D": "El coste de pedido representa el deterioro de productos"
+      },
+      "correcta": "B",
+      "explicacion": "El primero remunera las unidades compradas y el segundo la tramitación de las órdenes. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «Ambos son siempre idénticos». Referencia: manual, pág. 26."
+    },
+    {
+      "id": "GLC-T1-D-05",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 34,
+      "pregunta": "Si una previsión usa la media aritmética de todos los periodos históricos, ¿qué método aplica?",
+      "opciones": {
+        "A": "Método de medias simples",
+        "B": "Punto de pedido",
+        "C": "Método Kanban",
+        "D": "Método ABC"
+      },
+      "correcta": "A",
+      "explicacion": "Método de medias simples. La gestión de stocks busca satisfacer las necesidades comerciales y productivas con la menor inversión y coste viables. No debe confundirse con «Método ABC». Referencia: manual, pág. 34."
+    },
+    {
+      "id": "GLC-T1-D-06",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 34,
+      "pregunta": "¿Qué principal limitación tiene el método ingenuo de previsión descrito en el manual?",
+      "opciones": {
+        "A": "Necesita cientos de proveedores homologados",
+        "B": "Extrapola la variación del último periodo y puede ignorar cambios de tendencia",
+        "C": "No se basa en ningún periodo de ventas",
+        "D": "Solo es aplicable a costes de transporte"
+      },
+      "correcta": "B",
+      "explicacion": "Extrapola la variación del último periodo y puede ignorar cambios de tendencia. La gestión de stocks busca satisfacer las necesidades comerciales y productivas con la menor inversión y coste viables. No debe confundirse con «Necesita cientos de proveedores homologados». Referencia: manual, pág. 34."
+    },
+    {
+      "id": "GLC-T1-D-07",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 30,
+      "pregunta": "¿Cuál es la diferencia entre demanda insatisfecha diferida y perdida?",
+      "opciones": {
+        "A": "La primera siempre implica beneficio extraordinario",
+        "B": "Ambas expresiones indican exactamente lo mismo",
+        "C": "La primera puede recuperarse más adelante; la segunda se pierde definitivamente",
+        "D": "La segunda se recupera siempre sin coste"
+      },
+      "correcta": "C",
+      "explicacion": "La primera puede recuperarse más adelante; la segunda se pierde definitivamente. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «La primera siempre implica beneficio extraordinario». Referencia: manual, pág. 30."
+    },
+    {
+      "id": "GLC-T1-D-08",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 32,
+      "pregunta": "¿Qué se entiende por índice de rotación de stocks?",
+      "opciones": {
+        "A": "Porcentaje de devoluciones de los clientes",
+        "B": "Máximo de unidades físicamente almacenables",
+        "C": "Número de veces que se renueva el inventario medio durante el periodo",
+        "D": "Número de trabajadores por sección"
+      },
+      "correcta": "C",
+      "explicacion": "Número de veces que se renueva el inventario medio durante el periodo. La gestión de stocks busca satisfacer las necesidades comerciales y productivas con la menor inversión y coste viables. No debe confundirse con «Porcentaje de devoluciones de los clientes». Referencia: manual, pág. 32."
+    },
+    {
+      "id": "GLC-T1-D-09",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 18,
+      "pregunta": "¿Cómo se calcula el stock medio según la fórmula del manual para un lote Q y stock de seguridad ss?",
+      "opciones": {
+        "A": "Q dividido entre dos, más ss",
+        "B": "Demanda anual dividida entre precio",
+        "C": "Q multiplicado por ss",
+        "D": "Q más dos veces ss"
+      },
+      "correcta": "A",
+      "explicacion": "Q dividido entre dos, más ss. Comprar lotes grandes reduce el número de pedidos, pero suele elevar inventario medio y costes de posesión. No debe confundirse con «Q multiplicado por ss». Referencia: manual, pág. 18."
+    },
+    {
+      "id": "GLC-T1-D-10",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 10,
+      "pregunta": "¿Qué ventaja principal busca la gestión centralizada frente a la descentralizada?",
+      "opciones": {
+        "A": "Mayor control global de información y materiales",
+        "B": "Acercar necesariamente cada stock al cliente",
+        "C": "Eliminar todas las necesidades de transporte",
+        "D": "Permitir que cada unidad decida precios sin coordinación"
+      },
+      "correcta": "A",
+      "explicacion": "Mayor control global de información y materiales. Aprovisionar significa garantizar recursos necesarios para operar, en cantidad, calidad, lugar y plazo adecuados, equilibrando servicio y coste. No debe confundirse con «Acercar necesariamente cada stock al cliente». Referencia: manual, pág. 10."
+    },
+    {
+      "id": "GLC-T1-D-11",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 46,
+      "pregunta": "¿Qué riesgo específico presenta JIT si falla la coordinación con suministradores?",
+      "opciones": {
+        "A": "Eliminación de los costes de oportunidad",
+        "B": "Acumulación inevitable de inventario ilimitado",
+        "C": "Roturas de stock y paradas o retrasos en producción",
+        "D": "Ausencia de necesidad de planificación"
+      },
+      "correcta": "C",
+      "explicacion": "Roturas de stock y paradas o retrasos en producción. Just in Time (JIT) intenta producir y abastecer solo lo necesario en el momento adecuado, reduciendo stock y desperdicios. No debe confundirse con «Acumulación inevitable de inventario ilimitado». Referencia: manual, pág. 46."
+    },
+    {
+      "id": "GLC-T1-D-12",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 36,
+      "pregunta": "¿Qué dato debe comprobarse antes de firmar un albarán de entrega?",
+      "opciones": {
+        "A": "La estrategia de publicidad de la competencia",
+        "B": "El número de seguidores del proveedor",
+        "C": "Las reservas de efectivo de todos los clientes",
+        "D": "Concordancia de cantidades, características y estado con la mercancía recibida"
+      },
+      "correcta": "D",
+      "explicacion": "Concordancia de cantidades, características y estado con la mercancía recibida. La gestión de stocks busca satisfacer las necesidades comerciales y productivas con la menor inversión y coste viables. No debe confundirse con «El número de seguidores del proveedor». Referencia: manual, pág. 36."
+    },
+    {
+      "id": "GLC-T1-D-13",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 17,
+      "pregunta": "¿Qué prioridad refleja un nivel de servicio más elevado?",
+      "opciones": {
+        "A": "Sustituir los costes por objetivos publicitarios",
+        "B": "Garantizar una reducción automática del stock de seguridad",
+        "C": "Prescindir del pronóstico de demanda",
+        "D": "Mayor capacidad de satisfacer pedidos, normalmente con más cobertura de stock"
+      },
+      "correcta": "D",
+      "explicacion": "Mayor capacidad de satisfacer pedidos, normalmente con más cobertura de stock. El stock de seguridad protege frente a oscilaciones imprevistas de demanda y demoras de proveedores. No debe confundirse con «Garantizar una reducción automática del stock de seguridad». Referencia: manual, pág. 17."
+    },
+    {
+      "id": "GLC-T1-D-14",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 31,
+      "pregunta": "¿Cómo se distingue una gestión de stocks eficiente?",
+      "opciones": {
+        "A": "Desconoce los plazos de entrega",
+        "B": "Compra siempre el máximo posible",
+        "C": "Retrasa todos los pedidos hasta provocar faltantes",
+        "D": "Equilibra disponibilidad y necesidades con el mínimo coste factible"
+      },
+      "correcta": "D",
+      "explicacion": "Equilibra disponibilidad y necesidades con el mínimo coste factible. La gestión de stocks busca satisfacer las necesidades comerciales y productivas con la menor inversión y coste viables. No debe confundirse con «Compra siempre el máximo posible». Referencia: manual, pág. 31."
+    },
+    {
+      "id": "GLC-T1-D-15",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 30,
+      "pregunta": "¿Qué significa que la demanda sea estacional?",
+      "opciones": {
+        "A": "El volumen de pedido resulta independiente del calendario",
+        "B": "No pueden realizarse previsiones",
+        "C": "Las ventas se concentran en determinadas épocas",
+        "D": "La demanda diaria es siempre idéntica"
+      },
+      "correcta": "C",
+      "explicacion": "Las ventas se concentran en determinadas épocas. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «La demanda diaria es siempre idéntica». Referencia: manual, pág. 30."
+    },
+    {
+      "id": "GLC-T1-D-16",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 43,
+      "pregunta": "¿Cuál es el objetivo fundamental del análisis ABC?",
+      "opciones": {
+        "A": "Destinar más esfuerzo de control a los artículos que concentran mayor valor",
+        "B": "Determinar las vacaciones del personal de almacén",
+        "C": "Ordenar por nombre comercial exclusivamente",
+        "D": "Dar la misma prioridad económica a todos los artículos"
+      },
+      "correcta": "A",
+      "explicacion": "Destinar más esfuerzo de control a los artículos que concentran mayor valor. El análisis ABC centra el control intensivo en las referencias que concentran mayor valor de inventario. No debe confundirse con «Dar la misma prioridad económica a todos los artículos». Referencia: manual, pág. 43."
+    },
+    {
+      "id": "GLC-T1-D-17",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 27,
+      "pregunta": "En el coste financiero del stock, ¿qué representa el tipo de interés?",
+      "opciones": {
+        "A": "Una multa por exceso de pedidos",
+        "B": "El descuento comercial ofrecido al comprador",
+        "C": "Un impuesto fijo sobre el beneficio de cada venta",
+        "D": "El coste de oportunidad del capital inmovilizado en existencias"
+      },
+      "correcta": "D",
+      "explicacion": "El coste de oportunidad del capital inmovilizado en existencias. Pronosticar la demanda permite ajustar las existencias, aunque ninguna predicción elimina toda incertidumbre. No debe confundirse con «Un impuesto fijo sobre el beneficio de cada venta». Referencia: manual, pág. 27."
+    },
+    {
+      "id": "GLC-T1-D-18",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 46,
+      "pregunta": "¿Qué distingue al sistema Kanban del objetivo general de JIT?",
+      "opciones": {
+        "A": "JIT solo se utiliza en publicidad",
+        "B": "Kanban es una herramienta de coordinación de flujos que ayuda a aplicar JIT",
+        "C": "Kanban obliga a almacenar toda la producción anual",
+        "D": "Son procedimientos de cobro de facturas"
+      },
+      "correcta": "B",
+      "explicacion": "Kanban es una herramienta de coordinación de flujos que ayuda a aplicar JIT. Just in Time (JIT) intenta producir y abastecer solo lo necesario en el momento adecuado, reduciendo stock y desperdicios. No debe confundirse con «Kanban obliga a almacenar toda la producción anual». Referencia: manual, pág. 46."
+    },
+    {
+      "id": "GLC-T1-D-19",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 36,
+      "pregunta": "¿Qué ventaja reporta registrar las entradas de mercancía al almacén?",
+      "opciones": {
+        "A": "Impide detectar diferencias con el pedido",
+        "B": "Sustituye la factura por un recibo salarial",
+        "C": "Permite trazabilidad, control de cantidades y actualización del inventario",
+        "D": "Elimina cualquier coste de transporte"
+      },
+      "correcta": "C",
+      "explicacion": "Permite trazabilidad, control de cantidades y actualización del inventario. La gestión de stocks busca satisfacer las necesidades comerciales y productivas con la menor inversión y coste viables. No debe confundirse con «Elimina cualquier coste de transporte». Referencia: manual, pág. 36."
+    },
+    {
+      "id": "GLC-T1-D-20",
+      "tema": 1,
+      "nivel": "dificil",
+      "apartado": "1. Temario",
+      "pagina_manual": 8,
+      "pregunta": "Al revisar un proceso de aprovisionamiento, ¿qué exige la fase de valoración y control?",
+      "opciones": {
+        "A": "Comprobar cumplimiento de objetivos y uso de recursos, no solo realizar pedidos",
+        "B": "Cerrar siempre el almacén después de cada compra",
+        "C": "Valorar únicamente la publicidad del proveedor",
+        "D": "Considerar suficiente haber solicitado una oferta"
+      },
+      "correcta": "A",
+      "explicacion": "Comprobar cumplimiento de objetivos y uso de recursos, no solo realizar pedidos. Aprovisionar significa garantizar recursos necesarios para operar, en cantidad, calidad, lugar y plazo adecuados, equilibrando servicio y coste. No debe confundirse con «Cerrar siempre el almacén después de cada compra». Referencia: manual, pág. 8."
+    }
+  ]
+}

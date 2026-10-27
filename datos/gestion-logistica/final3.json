@@ -1,0 +1,487 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": "Todos los temas",
+  "test": "Simulacro final 3 · Difícil",
+  "preguntas": [
+    {
+      "id": "GLC-F3-01",
+      "tema": 2,
+      "nivel": "final3",
+      "apartado": "2.3",
+      "pagina_manual": 56,
+      "pregunta": "Una tienda de repuestos pide 16 cambios de fecha o cantidad y el proveedor acepta 6. ¿Cuál es la flexibilidad en envíos expresada como porcentaje?",
+      "opciones": {
+        "A": "266,67 %",
+        "B": "37,50 %",
+        "C": "62,50 %",
+        "D": "0,38 %"
+      },
+      "correcta": "B",
+      "explicacion": "Flexibilidad = modificaciones realizadas / solicitadas = 6/16 × 100 = 37,50 %."
+    },
+    {
+      "id": "GLC-F3-02",
+      "tema": 5,
+      "nivel": "final3",
+      "apartado": "5.7.2",
+      "pagina_manual": 130,
+      "pregunta": "Un almacén de una empresa de suministros industriales cuesta 66000 € anuales por sus 4000 m² y un producto ocupa 200 m². ¿Qué coste anual de espacio corresponde imputarle?",
+      "opciones": {
+        "A": "16,50 €",
+        "B": "330 €",
+        "C": "0,05 €",
+        "D": "3.300 €"
+      },
+      "correcta": "D",
+      "explicacion": "Coste/m² = 66000/4000; coste de esta ocupación = ese cociente × 200 = 3.300 €."
+    },
+    {
+      "id": "GLC-F3-03",
+      "tema": 3,
+      "nivel": "final3",
+      "apartado": "3.2",
+      "pagina_manual": 74,
+      "pregunta": "Un operador de alimentación gestiona sus compras. El transportista entrega mercancía para conformidad del destinatario. ¿Qué documento corresponde emitir o consultar?",
+      "opciones": {
+        "A": "Orden de compra",
+        "B": "Factura",
+        "C": "Albarán",
+        "D": "Aviso de envío"
+      },
+      "correcta": "C",
+      "explicacion": "Albarán: es el documento relacionado con la operación descrita, a diferencia de los demás que cumplen funciones distintas."
+    },
+    {
+      "id": "GLC-F3-04",
+      "tema": 1,
+      "nivel": "final3",
+      "apartado": "1.8",
+      "pagina_manual": 27,
+      "pregunta": "Un almacén farmacéutico estima 12000 unidades anuales, un coste fijo de 20 € por pedido y 8 € anuales por unidad almacenada. Con Wilson simplificado (Q = raíz de 2DE/A), ¿qué lote económico aproximado resulta?",
+      "opciones": {
+        "A": "173 unidades",
+        "B": "60.000 unidades",
+        "C": "245 unidades",
+        "D": "1.960 unidades"
+      },
+      "correcta": "C",
+      "explicacion": "Q = √(2 × 12000 × 20/8) = 244.95; se redondea a 245 unidades. Supuestos: demanda y plazo conocidos y constantes."
+    },
+    {
+      "id": "GLC-F3-05",
+      "tema": 5,
+      "nivel": "final3",
+      "apartado": "5.7.3",
+      "pagina_manual": 132,
+      "pregunta": "El transporte propio de un almacén farmacéutico cuesta al año 15000 € de personal y 14000 € en combustible y otros conceptos; recorre 15000 km. ¿Cuál es su coste por kilómetro?",
+      "opciones": {
+        "A": "1,93 €/km",
+        "B": "1 €/km",
+        "C": "29 €/km",
+        "D": "0,52 €/km"
+      },
+      "correcta": "A",
+      "explicacion": "Coste unitario por km = (15000 + 14000)/15000 = 1,93 €/km."
+    },
+    {
+      "id": "GLC-F3-06",
+      "tema": 5,
+      "nivel": "final3",
+      "apartado": "5.8",
+      "pagina_manual": 136,
+      "pregunta": "Un almacén farmacéutico recibe material por logística inversa: un aparato dañado no puede recuperarse de forma segura. ¿Cuál es el paso adecuado?",
+      "opciones": {
+        "A": "Inspeccionar, reparar o reacondicionar y reincorporar",
+        "B": "Canalizar a tratamiento o eliminación autorizado",
+        "C": "Derivar a canal de recuperación o reciclaje",
+        "D": "Registrar el retorno y verificar antes de decidir su destino"
+      },
+      "correcta": "B",
+      "explicacion": "El circuito inverso comienza con registro, clasificación y decisión sobre recuperación o eliminación; en este caso, canalizar a tratamiento o eliminación autorizado."
+    },
+    {
+      "id": "GLC-F3-07",
+      "tema": 4,
+      "nivel": "final3",
+      "apartado": "4.5",
+      "pagina_manual": 105,
+      "pregunta": "Un almacén farmacéutico comprueba 120 recepciones y detecta que 4 tienen faltas de cantidad o daños. ¿Qué porcentaje de recepciones sin incidencias ha obtenido?",
+      "opciones": {
+        "A": "96,67 %",
+        "B": "3,33 %",
+        "C": "0,97 %",
+        "D": "103,45 %"
+      },
+      "correcta": "A",
+      "explicacion": "Recepciones conformes = 120 − 4 = 116; indicador = 116/120 × 100 = 96,67 %."
+    },
+    {
+      "id": "GLC-F3-08",
+      "tema": 1,
+      "nivel": "final3",
+      "apartado": "1.6",
+      "pagina_manual": 18,
+      "pregunta": "Una empresa de suministros industriales vende 85 unidades diarias. El plazo habitual es de 8 días y el peor plazo previsto, de 13. Según la fórmula del manual, ¿cuál es su stock de seguridad?",
+      "opciones": {
+        "A": "425 unidades",
+        "B": "680 unidades",
+        "C": "510 unidades",
+        "D": "1.105 unidades"
+      },
+      "correcta": "A",
+      "explicacion": "ss = demanda diaria × (plazo real máximo − plazo habitual) = 85 × (13 − 8) = 425 unidades."
+    },
+    {
+      "id": "GLC-F3-09",
+      "tema": 3,
+      "nivel": "final3",
+      "apartado": "3.4-3.7",
+      "pagina_manual": 92,
+      "pregunta": "En una reunión comercial de una distribuidora de papelería, se produce esta situación: las partes alcanzan una solución y formalizan sus compromisos. ¿Qué respuesta o fase encaja mejor?",
+      "opciones": {
+        "A": "Desarrollo y tratamiento de objeciones",
+        "B": "Cierre de la negociación",
+        "C": "Preparación e inicio de negociación",
+        "D": "Análisis de objeción real"
+      },
+      "correcta": "B",
+      "explicacion": "La actuación apropiada es cierre de la negociación, conforme a las etapas de negociación y la estrategia ante proveedores dominantes del manual."
+    },
+    {
+      "id": "GLC-F3-10",
+      "tema": 5,
+      "nivel": "final3",
+      "apartado": "5.6",
+      "pagina_manual": 126,
+      "pregunta": "Un operador de alimentación imputa 1100 € de aprovisionamiento, 900 € de almacén, 500 € de transporte y 800 € de administración. ¿Cuál es el coste logístico total de estas partidas?",
+      "opciones": {
+        "A": "4.100 €",
+        "B": "2.500 €",
+        "C": "3.300 €",
+        "D": "825 €"
+      },
+      "correcta": "C",
+      "explicacion": "Coste total = 1100 + 900 + 500 + 800 = 3.300 €."
+    },
+    {
+      "id": "GLC-F3-11",
+      "tema": 5,
+      "nivel": "final3",
+      "apartado": "5.8.3",
+      "pagina_manual": 137,
+      "pregunta": "Una devolución gestionada por una distribuidora de papelería exige 120 € de recogida, 60 € de almacenaje y 40 € de tratamiento. ¿Cuánto cuesta el circuito inverso completo?",
+      "opciones": {
+        "A": "100 €",
+        "B": "180 €",
+        "C": "220 €",
+        "D": "160 €"
+      },
+      "correcta": "C",
+      "explicacion": "Coste de devolución = transporte/recogida + almacenaje + tratamiento = 120 + 60 + 40 = 220 €."
+    },
+    {
+      "id": "GLC-F3-12",
+      "tema": 5,
+      "nivel": "final3",
+      "apartado": "5.4",
+      "pagina_manual": 120,
+      "pregunta": "La plataforma logística de una empresa de suministros industriales sirve 120 entregas y 58 cumplen los estándares de plazo y calidad establecidos. ¿Qué porcentaje de servicio conforme ofrece?",
+      "opciones": {
+        "A": "0,48 %",
+        "B": "206,90 %",
+        "C": "51,67 %",
+        "D": "48,33 %"
+      },
+      "correcta": "D",
+      "explicacion": "Nivel de servicio observado = entregas conformes/total × 100 = 58/120 × 100 = 48,33 %."
+    },
+    {
+      "id": "GLC-F3-13",
+      "tema": 2,
+      "nivel": "final3",
+      "apartado": "2.4",
+      "pagina_manual": 58,
+      "pregunta": "Una comisión puntúa a un proveedor para un almacén farmacéutico: precio 9/10 con peso 30% y calidad 6/10 con peso 70%. ¿Qué nota ponderada recibe?",
+      "opciones": {
+        "A": "5,40 puntos",
+        "B": "8,10 puntos",
+        "C": "7,50 puntos",
+        "D": "6,90 puntos"
+      },
+      "correcta": "D",
+      "explicacion": "Nota = (30 × 9 + 70 × 6) / 100 = 6,90 puntos."
+    },
+    {
+      "id": "GLC-F3-14",
+      "tema": 2,
+      "nivel": "final3",
+      "apartado": "2.3",
+      "pagina_manual": 56,
+      "pregunta": "De 130 entregas de un suministrador de una distribuidora de papelería, 81 llegan en plazo. ¿Cuál es el porcentaje de entregas puntuales?",
+      "opciones": {
+        "A": "62,31 %",
+        "B": "37,69 %",
+        "C": "160,49 %",
+        "D": "0,62 %"
+      },
+      "correcta": "A",
+      "explicacion": "Puntualidad = 81/130 × 100 = 62,31 %."
+    },
+    {
+      "id": "GLC-F3-15",
+      "tema": 4,
+      "nivel": "final3",
+      "apartado": "4.8",
+      "pagina_manual": 113,
+      "pregunta": "En la operación de un operador de alimentación, se debe señalar que el contenido es frágil. ¿Qué solución corresponde?",
+      "opciones": {
+        "A": "Embalaje logístico resistente a la manipulación",
+        "B": "Etiquetado de manipulación identificable",
+        "C": "Envase primario apropiado al producto",
+        "D": "Etiqueta identificativa vinculada al registro de entrada"
+      },
+      "correcta": "B",
+      "explicacion": "El manual diferencia las funciones de envasado, embalaje y etiquetado; aquí corresponde etiquetado de manipulación identificable."
+    },
+    {
+      "id": "GLC-F3-16",
+      "tema": 3,
+      "nivel": "final3",
+      "apartado": "3.5.1",
+      "pagina_manual": 93,
+      "pregunta": "Un almacén farmacéutico negocia una mercancía de 2250 € con dos descuentos sucesivos, 10% comercial y 4% por pronto pago. Suponiendo descuentos sucesivos y sin otros gastos, ¿cuánto paga?",
+      "opciones": {
+        "A": "1.935 €",
+        "B": "2.574 €",
+        "C": "2.025 €",
+        "D": "1.944 €"
+      },
+      "correcta": "D",
+      "explicacion": "Importe = 2250 × (1 − 10/100) × (1 − 4/100) = 1.944 €. No se suman porcentajes cuando las bases son sucesivas."
+    },
+    {
+      "id": "GLC-F3-17",
+      "tema": 1,
+      "nivel": "final3",
+      "apartado": "1.8",
+      "pagina_manual": 26,
+      "pregunta": "Una empresa de suministros industriales necesita 13000 unidades anuales, realiza pedidos de 200 unidades y cada pedido cuesta 8 €. ¿Cuál será su coste anual de emisión de pedidos?",
+      "opciones": {
+        "A": "0,12 €",
+        "B": "520 €",
+        "C": "1.600 €",
+        "D": "65 €"
+      },
+      "correcta": "B",
+      "explicacion": "Coste de pedidos Cp = E × (D/Q) = 8 × (13000/200) = 520 €."
+    },
+    {
+      "id": "GLC-F3-18",
+      "tema": 1,
+      "nivel": "final3",
+      "apartado": "1.8",
+      "pagina_manual": 27,
+      "pregunta": "Un operador de alimentación consume 36 unidades al día, recibe los pedidos en 7 días y mantiene 180 unidades de seguridad. ¿En qué nivel de existencias debe lanzar el pedido?",
+      "opciones": {
+        "A": "1.512 unidades",
+        "B": "252 unidades",
+        "C": "432 unidades",
+        "D": "72 unidades"
+      },
+      "correcta": "C",
+      "explicacion": "PP = demanda diaria × plazo de entrega + ss = 36 × 7 + 180 = 432."
+    },
+    {
+      "id": "GLC-F3-19",
+      "tema": 3,
+      "nivel": "final3",
+      "apartado": "3.2.5",
+      "pagina_manual": 78,
+      "pregunta": "La base imponible de una factura de una tienda de repuestos es 1600 € y se aplica un IVA del 21%. ¿Qué importe total resulta?",
+      "opciones": {
+        "A": "1.936 €",
+        "B": "336 €",
+        "C": "1.600 €",
+        "D": "1.264 €"
+      },
+      "correcta": "A",
+      "explicacion": "Total = base + base × IVA = 1600 × (1 + 21/100) = 1.936 €."
+    },
+    {
+      "id": "GLC-F3-20",
+      "tema": 3,
+      "nivel": "final3",
+      "apartado": "3.5.2",
+      "pagina_manual": 94,
+      "pregunta": "En un contrato de suministro de una empresa de suministros industriales: el comprador paga antes de recibir los artículos. ¿Qué interpretación es correcta?",
+      "opciones": {
+        "A": "El cómputo comienza cuando se recibe el producto",
+        "B": "Se trata de pago con término postdata",
+        "C": "El plazo se cuenta desde el cierre del mes de adquisición",
+        "D": "Se trata de un pago anticipado"
+      },
+      "correcta": "D",
+      "explicacion": "El manual distingue las condiciones temporales por el hecho que inicia el plazo de pago: se trata de un pago anticipado."
+    },
+    {
+      "id": "GLC-F3-21",
+      "tema": 4,
+      "nivel": "final3",
+      "apartado": "4.1-4.7",
+      "pagina_manual": 107,
+      "pregunta": "Una empresa de suministros industriales detecta esta situación de control: los mismos errores se repiten cada mes. ¿Qué actuación procede?",
+      "opciones": {
+        "A": "Conciliar pedido, albarán y factura antes de autorizar pago",
+        "B": "Registrar y contrastar el aviso de envío con la orden",
+        "C": "Abrir análisis de causas y plan corrector medible",
+        "D": "Corregir etiquetado y verificar cumplimiento de seguridad"
+      },
+      "correcta": "C",
+      "explicacion": "La respuesta prioriza trazabilidad y control documental: abrir análisis de causas y plan corrector medible."
+    },
+    {
+      "id": "GLC-F3-22",
+      "tema": 1,
+      "nivel": "final3",
+      "apartado": "1.12",
+      "pagina_manual": 34,
+      "pregunta": "Las ventas de cuatro periodos de un operador de alimentación fueron 380, 430, 450 y 430 unidades. Si se usa la media simple de todos los periodos, ¿qué demanda se pronostica?",
+      "opciones": {
+        "A": "422,50 unidades",
+        "B": "440 unidades",
+        "C": "405 unidades",
+        "D": "430 unidades"
+      },
+      "correcta": "A",
+      "explicacion": "Media simple = (380 + 430 + 450 + 430) / 4 = 422,50 unidades."
+    },
+    {
+      "id": "GLC-F3-23",
+      "tema": 4,
+      "nivel": "final3",
+      "apartado": "4.5",
+      "pagina_manual": 105,
+      "pregunta": "En el seguimiento mensual de una tienda de repuestos, de 110 pedidos recibidos 76 llegan puntuales. ¿Qué KPI porcentual de puntualidad se obtiene?",
+      "opciones": {
+        "A": "144,74 %",
+        "B": "30,91 %",
+        "C": "69,09 %",
+        "D": "0,69 %"
+      },
+      "correcta": "C",
+      "explicacion": "Puntualidad = entregas a tiempo / total × 100 = 76/110 × 100 = 69,09 %."
+    },
+    {
+      "id": "GLC-F3-24",
+      "tema": 2,
+      "nivel": "final3",
+      "apartado": "2.3",
+      "pagina_manual": 55,
+      "pregunta": "Un operador de alimentación envía 90 pedidos a un proveedor y este rechaza 9. ¿Qué porcentaje de aceptación de pedidos presenta el proveedor?",
+      "opciones": {
+        "A": "10 %",
+        "B": "111,11 %",
+        "C": "0,90 %",
+        "D": "90 %"
+      },
+      "correcta": "D",
+      "explicacion": "Aceptación = (90 − 9) / 90 × 100 = 90 %."
+    },
+    {
+      "id": "GLC-F3-25",
+      "tema": 2,
+      "nivel": "final3",
+      "apartado": "2.4",
+      "pagina_manual": 59,
+      "pregunta": "Una oferta para una empresa de suministros industriales incluye 80 unidades a 30 € cada una, descuento comercial del 10% y portes de 20 €. Sin impuestos, ¿cuál es el coste total comparable?",
+      "opciones": {
+        "A": "2.160 €",
+        "B": "2.180 €",
+        "C": "2.420 €",
+        "D": "2.660 €"
+      },
+      "correcta": "B",
+      "explicacion": "Coste neto = 80 × 30 × (1 − 10/100) + 20 = 2.180 €."
+    },
+    {
+      "id": "GLC-F3-26",
+      "tema": 1,
+      "nivel": "final3",
+      "apartado": "1.12.2",
+      "pagina_manual": 43,
+      "pregunta": "En el análisis ABC de una distribuidora de papelería, un conjunto se clasifica como grupo A (alto valor y pocas referencias). ¿Qué política resulta coherente con el manual?",
+      "opciones": {
+        "A": "Control más estricto y recuento frecuente",
+        "B": "Control selectivo menos intensivo para artículos de bajo valor",
+        "C": "No realizar inventarios nunca",
+        "D": "Control intermedio adaptado al valor"
+      },
+      "correcta": "A",
+      "explicacion": "El grupo A tiene una relevancia económica muy elevada; el control debe adaptarse a su importancia."
+    },
+    {
+      "id": "GLC-F3-27",
+      "tema": 1,
+      "nivel": "final3",
+      "apartado": "1.6",
+      "pagina_manual": 18,
+      "pregunta": "Una distribuidora de papelería pide lotes constantes de 600 unidades y mantiene 130 de stock de seguridad. ¿Cuál es el stock medio según la expresión utilizada en el manual?",
+      "opciones": {
+        "A": "730 unidades",
+        "B": "430 unidades",
+        "C": "470 unidades",
+        "D": "300 unidades"
+      },
+      "correcta": "B",
+      "explicacion": "Stock medio = Q/2 + ss = 600/2 + 130 = 430."
+    },
+    {
+      "id": "GLC-F3-28",
+      "tema": 3,
+      "nivel": "final3",
+      "apartado": "3.2.5",
+      "pagina_manual": 78,
+      "pregunta": "Una distribuidora de papelería recibe una factura con importe bruto de 1800 €, descuento del 5% y gastos facturables de 90 €. ¿Cuál es la base imponible?",
+      "opciones": {
+        "A": "1.710 €",
+        "B": "1.800 €",
+        "C": "1.890 €",
+        "D": "1.980 €"
+      },
+      "correcta": "B",
+      "explicacion": "Base = bruto − descuento + gastos = 1800 × (1 − 5/100) + 90 = 1.800 €."
+    },
+    {
+      "id": "GLC-F3-29",
+      "tema": 1,
+      "nivel": "final3",
+      "apartado": "1.11",
+      "pagina_manual": 32,
+      "pregunta": "Durante un ejercicio, una tienda de repuestos expide 2400 unidades con unas existencias medias de 100. ¿Cuál es su índice de rotación física?",
+      "opciones": {
+        "A": "4,17 veces",
+        "B": "2.400 veces",
+        "C": "26 veces",
+        "D": "24 veces"
+      },
+      "correcta": "D",
+      "explicacion": "Índice de rotación = unidades salidas / stock medio = 2400/100 = 24 veces."
+    },
+    {
+      "id": "GLC-F3-30",
+      "tema": 5,
+      "nivel": "final3",
+      "apartado": "5.6-5.7",
+      "pagina_manual": 127,
+      "pregunta": "Una tienda de repuestos analiza costes: hay que repartir el seguro general entre varios artículos. ¿Cómo se clasifica mejor este concepto?",
+      "opciones": {
+        "A": "Coste indirecto sujeto a criterio de reparto",
+        "B": "Coste directo de expedición",
+        "C": "Coste financiero o de oportunidad del stock",
+        "D": "Coste variable de transporte"
+      },
+      "correcta": "A",
+      "explicacion": "Corresponde a coste indirecto sujeto a criterio de reparto de acuerdo con el origen y el comportamiento del coste."
+    }
+  ]
+}

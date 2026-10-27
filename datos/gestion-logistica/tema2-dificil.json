@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 2,
+  "test": "Tema 2 · Test difícil",
+  "preguntas": [
+    {
+      "id": "GLC-T2-D-01",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 51,
+      "pregunta": "¿Qué fuente externa proporciona listados de empresas por sectores y territorios?",
+      "opciones": {
+        "A": "El inventario físico de devoluciones",
+        "B": "Las cámaras de comercio e industria",
+        "C": "El calendario laboral de la empresa",
+        "D": "Los tickets de caja de consumidores"
+      },
+      "correcta": "B",
+      "explicacion": "Las cámaras de comercio e industria. El proveedor aporta bienes, servicios o financiación; seleccionarlo exige identificar qué necesita realmente la empresa. No debe confundirse con «Los tickets de caja de consumidores». Referencia: manual, pág. 51."
+    },
+    {
+      "id": "GLC-T2-D-02",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 50,
+      "pregunta": "¿Qué opción corresponde a un proveedor grado IV según el manual?",
+      "opciones": {
+        "A": "Solo se considera en casos extremos por su baja fiabilidad y calidad",
+        "B": "Es el proveedor ideal con máxima certificación",
+        "C": "Está obligado a ser el distribuidor más grande",
+        "D": "Dispone siempre de la mejor solvencia"
+      },
+      "correcta": "A",
+      "explicacion": "Solo se considera en casos extremos por su baja fiabilidad y calidad. El proveedor aporta bienes, servicios o financiación; seleccionarlo exige identificar qué necesita realmente la empresa. No debe confundirse con «Es el proveedor ideal con máxima certificación». Referencia: manual, pág. 50."
+    },
+    {
+      "id": "GLC-T2-D-03",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 60,
+      "pregunta": "¿Qué efecto tiene un requisito indispensable no cumplido en el análisis de ventajas?",
+      "opciones": {
+        "A": "Se le asigna la máxima puntuación",
+        "B": "Se concede automáticamente una ventaja",
+        "C": "Se elimina al proveedor del proceso de selección",
+        "D": "Se ignora por tener menor precio"
+      },
+      "correcta": "C",
+      "explicacion": "Se elimina al proveedor del proceso de selección. Una tabla de baremación permite asignar peso a cada criterio y comparar ofertas de manera transparente. No debe confundirse con «Se concede automáticamente una ventaja». Referencia: manual, pág. 60."
+    },
+    {
+      "id": "GLC-T2-D-04",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 58,
+      "pregunta": "Al ponderar criterios de proveedores, ¿por qué es necesario fijar pesos antes de puntuar?",
+      "opciones": {
+        "A": "Para anular el efecto de los plazos de entrega",
+        "B": "Para favorecer siempre al proveedor habitual",
+        "C": "Porque todas las ofertas tienen la misma calidad",
+        "D": "Porque cada característica tiene distinta relevancia para la compra"
+      },
+      "correcta": "D",
+      "explicacion": "Porque cada característica tiene distinta relevancia para la compra. Una tabla de baremación permite asignar peso a cada criterio y comparar ofertas de manera transparente. No debe confundirse con «Porque todas las ofertas tienen la misma calidad». Referencia: manual, pág. 58."
+    },
+    {
+      "id": "GLC-T2-D-05",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 56,
+      "pregunta": "En una evaluación, ¿qué significa un ratio alto de incidencias?",
+      "opciones": {
+        "A": "Cumplimiento perfecto de pedidos",
+        "B": "Mayor calidad sin necesidad de revisar",
+        "C": "Un comportamiento desfavorable del suministro",
+        "D": "Un aumento forzoso de certificaciones"
+      },
+      "correcta": "C",
+      "explicacion": "Un comportamiento desfavorable del suministro. Los KPI cuantifican la calidad y eficiencia del suministro y permiten comparar proveedores y periodos. No debe confundirse con «Mayor calidad sin necesidad de revisar». Referencia: manual, pág. 56."
+    },
+    {
+      "id": "GLC-T2-D-06",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 56,
+      "pregunta": "¿Qué compara la relación de precios del manual?",
+      "opciones": {
+        "A": "El importe de nóminas sobre ventas",
+        "B": "El precio mínimo de mercado respecto al precio ofrecido por el proveedor",
+        "C": "La rotación de inventario entre dos almacenes",
+        "D": "Los costes fijos respecto a los variables"
+      },
+      "correcta": "B",
+      "explicacion": "El precio mínimo de mercado respecto al precio ofrecido por el proveedor. Los KPI cuantifican la calidad y eficiencia del suministro y permiten comparar proveedores y periodos. No debe confundirse con «El importe de nóminas sobre ventas». Referencia: manual, pág. 56."
+    },
+    {
+      "id": "GLC-T2-D-07",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 63,
+      "pregunta": "¿Qué beneficio aporta una base de datos de proveedores actualizada?",
+      "opciones": {
+        "A": "Garantizar precios idénticos para todos",
+        "B": "Que los proveedores no deban entregar albaranes",
+        "C": "Decisiones mejor informadas y comparación de condiciones verificables",
+        "D": "Que no sea necesario verificar ofertas"
+      },
+      "correcta": "C",
+      "explicacion": "Decisiones mejor informadas y comparación de condiciones verificables. Los sistemas SRM y los ficheros actualizados ayudan a mejorar las relaciones de suministro. No debe confundirse con «Que no sea necesario verificar ofertas». Referencia: manual, pág. 63."
+    },
+    {
+      "id": "GLC-T2-D-08",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 64,
+      "pregunta": "¿Qué información reúne una ficha individual de proveedor?",
+      "opciones": {
+        "A": "Solo las fechas de vacaciones del comprador",
+        "B": "Identidad, catálogo, precios, descuentos, condiciones y observaciones",
+        "C": "Una lista de competidores sin identificación",
+        "D": "Las instrucciones de embalaje del cliente sin proveedor"
+      },
+      "correcta": "B",
+      "explicacion": "Identidad, catálogo, precios, descuentos, condiciones y observaciones. Los sistemas SRM y los ficheros actualizados ayudan a mejorar las relaciones de suministro. No debe confundirse con «Solo las fechas de vacaciones del comprador». Referencia: manual, pág. 64."
+    },
+    {
+      "id": "GLC-T2-D-09",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 65,
+      "pregunta": "¿Qué variable es empresarial en una matriz comparativa?",
+      "opciones": {
+        "A": "Estabilidad y reputación del suministrador",
+        "B": "Precio unitario del artículo únicamente",
+        "C": "Ensayo técnico de resistencia del producto",
+        "D": "Tipo impositivo de la nómina"
+      },
+      "correcta": "A",
+      "explicacion": "Estabilidad y reputación del suministrador. La relación con el proveedor persigue valor, servicio y continuidad, no solo una operación aislada. No debe confundirse con «Precio unitario del artículo únicamente». Referencia: manual, pág. 65."
+    },
+    {
+      "id": "GLC-T2-D-10",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 56,
+      "pregunta": "¿Qué mide la flexibilidad en envíos según los indicadores descritos?",
+      "opciones": {
+        "A": "Valor contable de productos defectuosos",
+        "B": "Volumen de ventas al público",
+        "C": "Modificaciones atendidas respecto de las solicitadas",
+        "D": "Número de almacenes de la empresa cliente"
+      },
+      "correcta": "C",
+      "explicacion": "Modificaciones atendidas respecto de las solicitadas. Los KPI cuantifican la calidad y eficiencia del suministro y permiten comparar proveedores y periodos. No debe confundirse con «Número de almacenes de la empresa cliente». Referencia: manual, pág. 56."
+    },
+    {
+      "id": "GLC-T2-D-11",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 55,
+      "pregunta": "¿Qué significa que un proveedor esté certificado en calidad?",
+      "opciones": {
+        "A": "Que siempre fabrica los bienes vendidos",
+        "B": "Que nunca tendrá ninguna incidencia",
+        "C": "Que necesariamente ofrece el precio mínimo",
+        "D": "Que dispone de acreditación conforme a los estándares evaluados"
+      },
+      "correcta": "D",
+      "explicacion": "Que dispone de acreditación conforme a los estándares evaluados. Los KPI cuantifican la calidad y eficiencia del suministro y permiten comparar proveedores y periodos. No debe confundirse con «Que necesariamente ofrece el precio mínimo». Referencia: manual, pág. 55."
+    },
+    {
+      "id": "GLC-T2-D-12",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 54,
+      "pregunta": "¿Qué dato sería prioritario para seleccionar un suministro urgente?",
+      "opciones": {
+        "A": "Fiabilidad y plazo de entrega compatibles con la necesidad",
+        "B": "Color del vehículo de reparto",
+        "C": "Únicamente el tamaño de la web comercial",
+        "D": "Cantidad de publicidad emitida"
+      },
+      "correcta": "A",
+      "explicacion": "Fiabilidad y plazo de entrega compatibles con la necesidad. El mejor proveedor no tiene por qué ser el de menor precio nominal. No debe confundirse con «Únicamente el tamaño de la web comercial». Referencia: manual, pág. 54."
+    },
+    {
+      "id": "GLC-T2-D-13",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 66,
+      "pregunta": "¿Qué ventaja estratégica persigue la planificación de relaciones con proveedores?",
+      "opciones": {
+        "A": "Impedir el intercambio de información",
+        "B": "Sustituir contratos por promesas orales siempre",
+        "C": "Limitar la evaluación a la primera compra",
+        "D": "Mejorar servicio al cliente y reducir incidencias mediante colaboración"
+      },
+      "correcta": "D",
+      "explicacion": "Mejorar servicio al cliente y reducir incidencias mediante colaboración. La relación con el proveedor persigue valor, servicio y continuidad, no solo una operación aislada. No debe confundirse con «Impedir el intercambio de información». Referencia: manual, pág. 66."
+    },
+    {
+      "id": "GLC-T2-D-14",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 62,
+      "pregunta": "¿Qué resultado puede aportar la integración SRM con otros sistemas empresariales?",
+      "opciones": {
+        "A": "Información y decisiones coordinadas de compras, inventarios y otros procesos",
+        "B": "Eliminación automática de todos los riesgos",
+        "C": "Supresión de controles sobre entregas",
+        "D": "Desconexión obligatoria de la contabilidad"
+      },
+      "correcta": "A",
+      "explicacion": "Información y decisiones coordinadas de compras, inventarios y otros procesos. Los sistemas SRM y los ficheros actualizados ayudan a mejorar las relaciones de suministro. No debe confundirse con «Desconexión obligatoria de la contabilidad». Referencia: manual, pág. 62."
+    },
+    {
+      "id": "GLC-T2-D-15",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 55,
+      "pregunta": "¿Qué paso sigue a recibir ofertas de los proveedores en un proceso ordenado?",
+      "opciones": {
+        "A": "Aceptar todas sin filtrar",
+        "B": "Valorar y comparar las ofertas frente a los criterios establecidos",
+        "C": "Cambiar siempre de producto sin avisar",
+        "D": "Destruir las fichas de proveedores"
+      },
+      "correcta": "B",
+      "explicacion": "Valorar y comparar las ofertas frente a los criterios establecidos. Los KPI cuantifican la calidad y eficiencia del suministro y permiten comparar proveedores y periodos. No debe confundirse con «Aceptar todas sin filtrar». Referencia: manual, pág. 55."
+    },
+    {
+      "id": "GLC-T2-D-16",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 59,
+      "pregunta": "En un cuadro de baremación, ¿qué problema genera confundir precio con coste total?",
+      "opciones": {
+        "A": "Ignorar transporte, embalaje y otras condiciones que alteran la oferta efectiva",
+        "B": "Que todas las ofertas acaben teniendo el mismo valor",
+        "C": "Que el pago aplazado esté prohibido",
+        "D": "Que el servicio posventa deje de existir"
+      },
+      "correcta": "A",
+      "explicacion": "Ignorar transporte, embalaje y otras condiciones que alteran la oferta efectiva. Una tabla de baremación permite asignar peso a cada criterio y comparar ofertas de manera transparente. No debe confundirse con «Que el servicio posventa deje de existir». Referencia: manual, pág. 59."
+    },
+    {
+      "id": "GLC-T2-D-17",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 55,
+      "pregunta": "¿Cuál es la utilidad de una evaluación posterior del proveedor tras comprar?",
+      "opciones": {
+        "A": "Evitar futuras negociaciones por norma",
+        "B": "Eliminar la documentación de entregas",
+        "C": "Comprobar el servicio real recibido y actualizar su valoración",
+        "D": "Considerar la oferta inicial como garantía absoluta"
+      },
+      "correcta": "C",
+      "explicacion": "Comprobar el servicio real recibido y actualizar su valoración. Los KPI cuantifican la calidad y eficiencia del suministro y permiten comparar proveedores y periodos. No debe confundirse con «Eliminar la documentación de entregas». Referencia: manual, pág. 55."
+    },
+    {
+      "id": "GLC-T2-D-18",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 51,
+      "pregunta": "¿Cuándo puede resultar conveniente recurrir a una fuente externa de proveedores?",
+      "opciones": {
+        "A": "Solo cuando ya hay un único proveedor homologado",
+        "B": "Únicamente cuando no se necesita suministro",
+        "C": "Cuando el almacén está cerrado por inventario",
+        "D": "Cuando hay una compra nueva o recompra modificada y faltan datos internos suficientes"
+      },
+      "correcta": "D",
+      "explicacion": "Cuando hay una compra nueva o recompra modificada y faltan datos internos suficientes. El proveedor aporta bienes, servicios o financiación; seleccionarlo exige identificar qué necesita realmente la empresa. No debe confundirse con «Solo cuando ya hay un único proveedor homologado». Referencia: manual, pág. 51."
+    },
+    {
+      "id": "GLC-T2-D-19",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 54,
+      "pregunta": "¿Qué objetivo cumple la homologación o selección previa de proveedores?",
+      "opciones": {
+        "A": "Obligar a fabricar siempre en la empresa compradora",
+        "B": "Garantizar una subida de precios",
+        "C": "Evitar cualquier evaluación de rendimiento",
+        "D": "Reducir riesgos de suministro comprobando requisitos y capacidades"
+      },
+      "correcta": "D",
+      "explicacion": "Reducir riesgos de suministro comprobando requisitos y capacidades. El mejor proveedor no tiene por qué ser el de menor precio nominal. No debe confundirse con «Garantizar una subida de precios». Referencia: manual, pág. 54."
+    },
+    {
+      "id": "GLC-T2-D-20",
+      "tema": 2,
+      "nivel": "dificil",
+      "apartado": "2. Temario",
+      "pagina_manual": 59,
+      "pregunta": "Ante dos proveedores con igual calidad, ¿qué criterio recomienda comparar el manual?",
+      "opciones": {
+        "A": "El que tenga un nombre más corto",
+        "B": "La alternativa económicamente más ventajosa considerando las condiciones",
+        "C": "El que envíe menos información",
+        "D": "Seleccionarlos al azar sin examen de ofertas"
+      },
+      "correcta": "B",
+      "explicacion": "La alternativa económicamente más ventajosa considerando las condiciones. Una tabla de baremación permite asignar peso a cada criterio y comparar ofertas de manera transparente. No debe confundirse con «El que tenga un nombre más corto». Referencia: manual, pág. 59."
+    }
+  ]
+}

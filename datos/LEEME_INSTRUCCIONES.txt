@@ -1,0 +1,19 @@
+MI AULA · GESTIÓN LOGÍSTICA Y COMERCIAL
+
+PAQUETE DE MATERIALES BASADO EN EL MANUAL APORTADO (ILERNA, 3.ª EDICIÓN, MARZO 2022)
+
+CONTENIDO: 10 PDF + 10 TEST POR TEMAS (20 PREGUNTAS C/U) + 5 SIMULACROS FINALES (30 PREGUNTAS C/U) = 350 PREGUNTAS.
+
+RUTAS: resumenes/gestion-logistica/temaN-basico.pdf, temaN-ampliado.pdf; datos/gestion-logistica/temaN-normal.json, temaN-dificil.json y final1.json...final5.json.
+
+DISTRIBUCIÓN POR SIMULACRO: tema 1: 8 preguntas; tema 2: 5; tema 3: 6; tema 4: 4; tema 5: 7. Orden aleatorizado en los JSON y nuevamente en la web.
+
+CALIDAD: cada ítem presenta 4 opciones, 1 correcta, solución explicada, identificación de tema y referencia de página. Se ha validado estructura, IDs, opciones, respuestas, fórmulas y enunciados únicos.
+
+AVISO DE CONTENIDO: Las fichas y preguntas se han redactado como material de repaso original basado en el manual. No se garantiza que reproduzcan el examen real o sus criterios oficiales.
+
+NOTA DE REVISIÓN SOBRE EL MANUAL: en página 35, el ejemplo de media móvil muestra 623,33 y 625,33 para el promedio de 640, 624 y 615. La operación correcta con esos tres sumandos es 626,33. Además en p. 27 la definición al pie de la fórmula PP confunde d y ss; el ejemplo p. 28 trata d como plazo habitual de entrega. Se han utilizado los conceptos interpretados conforme a las explicaciones del mismo manual, y las observaciones se señalan en el resumen ampliado del tema 1.
+
+USO EN GITHUB: subir contenido descomprimido, mantener index.html en la raíz y conservar carpetas css/, js/, datos/ y resumenes/. GitHub Pages: main / (root).
+
+El archivo original de ILERNA no se incluye en este paquete.

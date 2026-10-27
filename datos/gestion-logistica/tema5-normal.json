@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 5,
+  "test": "Tema 5 · Test normal",
+  "preguntas": [
+    {
+      "id": "GLC-T5-N-01",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 115,
+      "pregunta": "¿Qué función integra la logística empresarial?",
+      "opciones": {
+        "A": "Solo calcular retribuciones laborales",
+        "B": "Fabricar siempre todos los componentes internamente",
+        "C": "Únicamente contratar campañas publicitarias",
+        "D": "Planificar y gestionar flujos de materiales, información y servicios entre origen y cliente"
+      },
+      "correcta": "D",
+      "explicacion": "Planificar y gestionar flujos de materiales, información y servicios entre origen y cliente. La logística coordina materiales, productos, servicios e información desde el origen hasta el consumidor. No debe confundirse con «Únicamente contratar campañas publicitarias». Referencia: manual, pág. 115."
+    },
+    {
+      "id": "GLC-T5-N-02",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 116,
+      "pregunta": "¿Qué caracteriza una cadena logística?",
+      "opciones": {
+        "A": "Funciona sin agentes intermedios en todos los casos",
+        "B": "No incluye información de pedidos",
+        "C": "Intervienen proveedores, producción, almacenes, transporte, distribución y cliente",
+        "D": "Solo existe el vendedor final"
+      },
+      "correcta": "C",
+      "explicacion": "Intervienen proveedores, producción, almacenes, transporte, distribución y cliente. La logística coordina materiales, productos, servicios e información desde el origen hasta el consumidor. No debe confundirse con «Solo existe el vendedor final». Referencia: manual, pág. 116."
+    },
+    {
+      "id": "GLC-T5-N-03",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 118,
+      "pregunta": "¿Qué significa trazabilidad logística?",
+      "opciones": {
+        "A": "Conocer exclusivamente su precio de venta",
+        "B": "Eliminar las etiquetas de expedición",
+        "C": "Registrar solo la última factura",
+        "D": "Poder seguir y reconstruir recorrido, estados y movimientos de una mercancía"
+      },
+      "correcta": "D",
+      "explicacion": "Poder seguir y reconstruir recorrido, estados y movimientos de una mercancía. La trazabilidad permite conocer origen, ubicación, movimientos y destino de los artículos o lotes. No debe confundirse con «Conocer exclusivamente su precio de venta». Referencia: manual, pág. 118."
+    },
+    {
+      "id": "GLC-T5-N-04",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 119,
+      "pregunta": "¿Qué sistema ayuda a registrar movimientos y ubicaciones en almacén?",
+      "opciones": {
+        "A": "Un calendario de vacaciones",
+        "B": "Un SGA integrado con identificación de artículos",
+        "C": "Una calculadora sin datos de existencias",
+        "D": "Un procesador de textos sin registros"
+      },
+      "correcta": "B",
+      "explicacion": "Un SGA integrado con identificación de artículos. La trazabilidad permite conocer origen, ubicación, movimientos y destino de los artículos o lotes. No debe confundirse con «Un procesador de textos sin registros». Referencia: manual, pág. 119."
+    },
+    {
+      "id": "GLC-T5-N-05",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 120,
+      "pregunta": "¿Cuál es el objetivo de los indicadores de calidad logística?",
+      "opciones": {
+        "A": "Ocultar retrasos de entrega",
+        "B": "Medir el servicio y promover mejora continua",
+        "C": "Evitar comparar periodos",
+        "D": "Calcular impuestos personales"
+      },
+      "correcta": "B",
+      "explicacion": "Medir el servicio y promover mejora continua. Las redes logísticas se diseñan para equilibrar control central, cercanía a clientes y gastos de servicio. No debe confundirse con «Ocultar retrasos de entrega». Referencia: manual, pág. 120."
+    },
+    {
+      "id": "GLC-T5-N-06",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 125,
+      "pregunta": "¿Qué aporta una red logística centralizada?",
+      "opciones": {
+        "A": "Coordinación y control global de flujos, con potencial optimización de transporte",
+        "B": "Eliminar las necesidades de distribución",
+        "C": "Garantizar que no habrá devoluciones",
+        "D": "Situar siempre inventarios en todos los barrios"
+      },
+      "correcta": "A",
+      "explicacion": "Coordinación y control global de flujos, con potencial optimización de transporte. Clasificar bien los costes permite compararlos, asignarlos y optimizar el servicio. No debe confundirse con «Situar siempre inventarios en todos los barrios». Referencia: manual, pág. 125."
+    },
+    {
+      "id": "GLC-T5-N-07",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 125,
+      "pregunta": "¿Qué aporta una red logística descentralizada?",
+      "opciones": {
+        "A": "Acercar existencias a los clientes y reducir riesgo de desabastecimiento",
+        "B": "Hacer innecesario registrar movimientos",
+        "C": "Reducir necesariamente a cero la superficie total",
+        "D": "Impedir cualquier almacén regional"
+      },
+      "correcta": "A",
+      "explicacion": "Acercar existencias a los clientes y reducir riesgo de desabastecimiento. Clasificar bien los costes permite compararlos, asignarlos y optimizar el servicio. No debe confundirse con «Impedir cualquier almacén regional». Referencia: manual, pág. 125."
+    },
+    {
+      "id": "GLC-T5-N-08",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 134,
+      "pregunta": "¿A qué se llama logística inversa?",
+      "opciones": {
+        "A": "La facturación de ventas a crédito",
+        "B": "Gestión del retorno de productos, envases y materiales hacia recuperación o eliminación",
+        "C": "Únicamente recepción de materias primas nuevas",
+        "D": "Transporte de origen a cliente sin devoluciones"
+      },
+      "correcta": "B",
+      "explicacion": "Gestión del retorno de productos, envases y materiales hacia recuperación o eliminación. La logística inversa gestiona flujos de retorno y decisiones sobre reparación, reutilización, reciclaje o eliminación. No debe confundirse con «Transporte de origen a cliente sin devoluciones». Referencia: manual, pág. 134."
+    },
+    {
+      "id": "GLC-T5-N-09",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 126,
+      "pregunta": "¿Qué caracteriza un coste logístico directo?",
+      "opciones": {
+        "A": "No puede asociarse de ningún modo a un producto",
+        "B": "Puede asignarse de forma específica al producto o servicio considerado",
+        "C": "Solo existe en empresas públicas",
+        "D": "Es siempre un impuesto sobre beneficios"
+      },
+      "correcta": "B",
+      "explicacion": "Puede asignarse de forma específica al producto o servicio considerado. Clasificar bien los costes permite compararlos, asignarlos y optimizar el servicio. No debe confundirse con «No puede asociarse de ningún modo a un producto». Referencia: manual, pág. 126."
+    },
+    {
+      "id": "GLC-T5-N-10",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 127,
+      "pregunta": "¿Qué caracteriza un coste indirecto?",
+      "opciones": {
+        "A": "No aparece en ningún proceso de distribución",
+        "B": "Es necesariamente cero en un almacén",
+        "C": "Se identifica íntegramente con una sola unidad siempre",
+        "D": "Necesita criterio de reparto al afectar a varios productos o actividades"
+      },
+      "correcta": "D",
+      "explicacion": "Necesita criterio de reparto al afectar a varios productos o actividades. Clasificar bien los costes permite compararlos, asignarlos y optimizar el servicio. No debe confundirse con «Se identifica íntegramente con una sola unidad siempre». Referencia: manual, pág. 127."
+    },
+    {
+      "id": "GLC-T5-N-11",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 127,
+      "pregunta": "¿Qué define un coste logístico fijo?",
+      "opciones": {
+        "A": "Siempre coincide con los ingresos de venta",
+        "B": "Aumenta exactamente con cada unidad sin excepción",
+        "C": "Desaparece al calcular el coste total",
+        "D": "Permanece relativamente estable dentro de un rango de actividad y periodo"
+      },
+      "correcta": "D",
+      "explicacion": "Permanece relativamente estable dentro de un rango de actividad y periodo. Clasificar bien los costes permite compararlos, asignarlos y optimizar el servicio. No debe confundirse con «Aumenta exactamente con cada unidad sin excepción». Referencia: manual, pág. 127."
+    },
+    {
+      "id": "GLC-T5-N-12",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 127,
+      "pregunta": "¿Qué define un coste variable?",
+      "opciones": {
+        "A": "Cambia con el nivel de actividad logística",
+        "B": "Solo depende del capital social",
+        "C": "Es idéntico aunque se multipliquen expediciones",
+        "D": "Nunca puede incluir combustible"
+      },
+      "correcta": "A",
+      "explicacion": "Cambia con el nivel de actividad logística. Clasificar bien los costes permite compararlos, asignarlos y optimizar el servicio. No debe confundirse con «Es idéntico aunque se multipliquen expediciones». Referencia: manual, pág. 127."
+    },
+    {
+      "id": "GLC-T5-N-13",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 128,
+      "pregunta": "¿Qué partidas pueden integrar costes de aprovisionamiento?",
+      "opciones": {
+        "A": "Únicamente devoluciones de clientes",
+        "B": "Personal, comunicaciones, medios y gestión de emisión de pedidos",
+        "C": "El IVA repercutido en la venta al público",
+        "D": "Solo los salarios del departamento comercial"
+      },
+      "correcta": "B",
+      "explicacion": "Personal, comunicaciones, medios y gestión de emisión de pedidos. Los costes de almacén comprenden espacio, instalaciones, manipulación, conservación y capital inmovilizado. No debe confundirse con «Únicamente devoluciones de clientes». Referencia: manual, pág. 128."
+    },
+    {
+      "id": "GLC-T5-N-14",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 129,
+      "pregunta": "¿Qué son los costes de espacio de almacén?",
+      "opciones": {
+        "A": "Gastos vinculados a superficie, alquiler, amortización y ocupación",
+        "B": "Descuentos concedidos al cliente",
+        "C": "Solo el precio de adquisición de mercancías",
+        "D": "Intereses de préstamos personales"
+      },
+      "correcta": "A",
+      "explicacion": "Gastos vinculados a superficie, alquiler, amortización y ocupación. Los costes de almacén comprenden espacio, instalaciones, manipulación, conservación y capital inmovilizado. No debe confundirse con «Solo el precio de adquisición de mercancías». Referencia: manual, pág. 129."
+    },
+    {
+      "id": "GLC-T5-N-15",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 131,
+      "pregunta": "¿Qué engloba el coste de manipulación?",
+      "opciones": {
+        "A": "La compra de acciones financieras",
+        "B": "Únicamente la publicidad del proveedor",
+        "C": "Recursos empleados en carga, descarga, movimientos y preparación de mercancías",
+        "D": "Solo el beneficio por venta"
+      },
+      "correcta": "C",
+      "explicacion": "Recursos empleados en carga, descarga, movimientos y preparación de mercancías. Los costes de almacén comprenden espacio, instalaciones, manipulación, conservación y capital inmovilizado. No debe confundirse con «Únicamente la publicidad del proveedor». Referencia: manual, pág. 131."
+    },
+    {
+      "id": "GLC-T5-N-16",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 132,
+      "pregunta": "¿Qué incluye el coste de transporte propio?",
+      "opciones": {
+        "A": "Solo el margen comercial del cliente",
+        "B": "Únicamente la factura de compra del producto",
+        "C": "Solo el volumen del embalaje",
+        "D": "Personal, vehículos, combustible, seguros, mantenimiento, impuestos y otros gastos"
+      },
+      "correcta": "D",
+      "explicacion": "Personal, vehículos, combustible, seguros, mantenimiento, impuestos y otros gastos. El transporte supone coste de personal y vehículos o tarifas externas, y debe analizarse junto con el servicio de entrega. No debe confundirse con «Solo el volumen del embalaje». Referencia: manual, pág. 132."
+    },
+    {
+      "id": "GLC-T5-N-17",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 131,
+      "pregunta": "¿Qué supone el coste de oportunidad de mantener existencias?",
+      "opciones": {
+        "A": "Coste que solo aparece tras una rotura de stock",
+        "B": "El ahorro automático de todas las existencias",
+        "C": "Capital inmovilizado que no puede rentabilizarse en otra alternativa",
+        "D": "Dinero recibido por cada devolución"
+      },
+      "correcta": "C",
+      "explicacion": "Capital inmovilizado que no puede rentabilizarse en otra alternativa. Los costes de almacén comprenden espacio, instalaciones, manipulación, conservación y capital inmovilizado. No debe confundirse con «Dinero recibido por cada devolución». Referencia: manual, pág. 131."
+    },
+    {
+      "id": "GLC-T5-N-18",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 135,
+      "pregunta": "¿Qué caracteriza la logística de devolución de productos no deseados?",
+      "opciones": {
+        "A": "Es idéntica a una compra nueva",
+        "B": "No necesita transporte ni registros",
+        "C": "Su retorno puede ser imprevisto y exige revisar el destino de los artículos",
+        "D": "Siempre aumenta el stock comercializable"
+      },
+      "correcta": "C",
+      "explicacion": "Su retorno puede ser imprevisto y exige revisar el destino de los artículos. La logística inversa gestiona flujos de retorno y decisiones sobre reparación, reutilización, reciclaje o eliminación. No debe confundirse con «Es idéntica a una compra nueva». Referencia: manual, pág. 135."
+    },
+    {
+      "id": "GLC-T5-N-19",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 136,
+      "pregunta": "¿Qué opciones pueden seguirse tras clasificar un producto devuelto recuperable?",
+      "opciones": {
+        "A": "Venta inmediata sin control",
+        "B": "Destrucción obligatoria sin examen",
+        "C": "Reparación, reacondicionamiento, reutilización o reciclaje",
+        "D": "Almacenamiento indefinido sin clasificación"
+      },
+      "correcta": "C",
+      "explicacion": "Reparación, reacondicionamiento, reutilización o reciclaje. La logística inversa gestiona flujos de retorno y decisiones sobre reparación, reutilización, reciclaje o eliminación. No debe confundirse con «Destrucción obligatoria sin examen». Referencia: manual, pág. 136."
+    },
+    {
+      "id": "GLC-T5-N-20",
+      "tema": 5,
+      "nivel": "normal",
+      "apartado": "5. Temario",
+      "pagina_manual": 137,
+      "pregunta": "¿Qué costes genera normalmente una devolución?",
+      "opciones": {
+        "A": "Transporte inverso, almacenamiento y tratamiento o recuperación",
+        "B": "Únicamente el precio de venta original",
+        "C": "Solo los intereses del comprador",
+        "D": "Solo los gastos de publicidad de lanzamiento"
+      },
+      "correcta": "A",
+      "explicacion": "Transporte inverso, almacenamiento y tratamiento o recuperación. La logística inversa gestiona flujos de retorno y decisiones sobre reparación, reutilización, reciclaje o eliminación. No debe confundirse con «Solo los gastos de publicidad de lanzamiento». Referencia: manual, pág. 137."
+    }
+  ]
+}

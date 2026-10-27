@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 3,
+  "test": "Tema 3 · Test difícil",
+  "preguntas": [
+    {
+      "id": "GLC-T3-D-01",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 96,
+      "pregunta": "¿Qué capacidad es especialmente útil para detectar necesidades de la otra parte?",
+      "opciones": {
+        "A": "Hablar ininterrumpidamente",
+        "B": "Ocultar todas las condiciones de la oferta",
+        "C": "Rechazar cualquier dato del interlocutor",
+        "D": "Observación y escucha activa"
+      },
+      "correcta": "D",
+      "explicacion": "Observación y escucha activa. Un negociador eficaz combina observación, comunicación, honestidad, creatividad y capacidad de adaptación. No debe confundirse con «Hablar ininterrumpidamente». Referencia: manual, pág. 96."
+    },
+    {
+      "id": "GLC-T3-D-02",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 96,
+      "pregunta": "¿Qué significa actuar con asertividad al negociar?",
+      "opciones": {
+        "A": "Defender una posición con firmeza y respeto, sabiendo decir no",
+        "B": "Presionar mediante amenazas personales",
+        "C": "Evitar formular objetivos",
+        "D": "Aceptar todas las condiciones sin analizarlas"
+      },
+      "correcta": "A",
+      "explicacion": "Defender una posición con firmeza y respeto, sabiendo decir no. Un negociador eficaz combina observación, comunicación, honestidad, creatividad y capacidad de adaptación. No debe confundirse con «Aceptar todas las condiciones sin analizarlas». Referencia: manual, pág. 96."
+    },
+    {
+      "id": "GLC-T3-D-03",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 96,
+      "pregunta": "¿Qué es la buena fe en una relación con proveedores?",
+      "opciones": {
+        "A": "Prometer prestaciones imposibles",
+        "B": "Alterar facturas tras entregar mercancía",
+        "C": "Ocultar condiciones esenciales al firmar",
+        "D": "Actuar honestamente y cumplir los pactos sin engaños"
+      },
+      "correcta": "D",
+      "explicacion": "Actuar honestamente y cumplir los pactos sin engaños. Un negociador eficaz combina observación, comunicación, honestidad, creatividad y capacidad de adaptación. No debe confundirse con «Ocultar condiciones esenciales al firmar». Referencia: manual, pág. 96."
+    },
+    {
+      "id": "GLC-T3-D-04",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 88,
+      "pregunta": "¿Qué finalidad tienen las aplicaciones TIC de comunicación con proveedores?",
+      "opciones": {
+        "A": "Sustituir la entrega de mercancías por un anuncio",
+        "B": "Evitar el registro de acuerdos",
+        "C": "Hacer innecesarios los compromisos comerciales",
+        "D": "Facilitar diálogo, coordinación, intercambio seguro y decisiones conjuntas"
+      },
+      "correcta": "D",
+      "explicacion": "Facilitar diálogo, coordinación, intercambio seguro y decisiones conjuntas. La relación comercial mejora cuando la elección inicial se complementa con evaluación del desempeño histórico. No debe confundirse con «Sustituir la entrega de mercancías por un anuncio». Referencia: manual, pág. 88."
+    },
+    {
+      "id": "GLC-T3-D-05",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 92,
+      "pregunta": "¿Qué significa bloquearse una negociación?",
+      "opciones": {
+        "A": "Que surge un obstáculo que impide avanzar hacia el acuerdo",
+        "B": "Que las condiciones están completamente firmadas",
+        "C": "Que ya se han emitido todos los albaranes",
+        "D": "Que necesariamente existe fraude probado"
+      },
+      "correcta": "A",
+      "explicacion": "Que surge un obstáculo que impide avanzar hacia el acuerdo. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «Que ya se han emitido todos los albaranes». Referencia: manual, pág. 92."
+    },
+    {
+      "id": "GLC-T3-D-06",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 92,
+      "pregunta": "¿Qué puede ayudar a desbloquear una negociación complicada?",
+      "opciones": {
+        "A": "Romper automáticamente cualquier relación comercial",
+        "B": "Hacer una pausa, revisar intereses y explorar alternativas aceptables",
+        "C": "Incrementar las amenazas sin analizar causas",
+        "D": "Suprimir toda escucha"
+      },
+      "correcta": "B",
+      "explicacion": "Hacer una pausa, revisar intereses y explorar alternativas aceptables. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «Incrementar las amenazas sin analizar causas». Referencia: manual, pág. 92."
+    },
+    {
+      "id": "GLC-T3-D-07",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 90,
+      "pregunta": "¿Por qué conviene estudiar el poder relativo de las partes antes de negociar?",
+      "opciones": {
+        "A": "Porque la fuerza es siempre idéntica",
+        "B": "Porque permite prescindir del contrato",
+        "C": "Porque afecta al margen para acordar precios, entregas y condiciones",
+        "D": "Porque evita calcular costes del suministro"
+      },
+      "correcta": "C",
+      "explicacion": "Porque afecta al margen para acordar precios, entregas y condiciones. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «Porque permite prescindir del contrato». Referencia: manual, pág. 90."
+    },
+    {
+      "id": "GLC-T3-D-08",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 97,
+      "pregunta": "¿En qué consiste la situación de proveedor exclusivo?",
+      "opciones": {
+        "A": "Todos los proveedores venden siempre al mismo precio",
+        "B": "Los materiales se obtienen únicamente del propio almacén",
+        "C": "Hay un número ilimitado de vendedores intercambiables",
+        "D": "Solo un proveedor suministra un bien o alternativa concreta en las condiciones consideradas"
+      },
+      "correcta": "D",
+      "explicacion": "Solo un proveedor suministra un bien o alternativa concreta en las condiciones consideradas. Un negociador eficaz combina observación, comunicación, honestidad, creatividad y capacidad de adaptación. No debe confundirse con «Hay un número ilimitado de vendedores intercambiables». Referencia: manual, pág. 97."
+    },
+    {
+      "id": "GLC-T3-D-09",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 98,
+      "pregunta": "¿Qué respuesta reduce la dependencia de un proveedor monopolista cuando es viable?",
+      "opciones": {
+        "A": "Aumentar compras sin evaluar riesgo",
+        "B": "Eliminar información de mercado",
+        "C": "Buscar productos sustitutivos y alternativas de suministro",
+        "D": "Aceptar cualquier condición sin negociación"
+      },
+      "correcta": "C",
+      "explicacion": "Buscar productos sustitutivos y alternativas de suministro. Un negociador eficaz combina observación, comunicación, honestidad, creatividad y capacidad de adaptación. No debe confundirse con «Aumentar compras sin evaluar riesgo». Referencia: manual, pág. 98."
+    },
+    {
+      "id": "GLC-T3-D-10",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 94,
+      "pregunta": "¿Qué condición es relevante al negociar portes?",
+      "opciones": {
+        "A": "Quién asume gastos y riesgos del traslado de mercancías",
+        "B": "El número de clientes ajenos a la compra",
+        "C": "El diseño del uniforme del negociador",
+        "D": "La edad media de la plantilla"
+      },
+      "correcta": "A",
+      "explicacion": "Quién asume gastos y riesgos del traslado de mercancías. Precio efectivo, descuentos y financiación forman parte de la negociación de aprovisionamiento. No debe confundirse con «El diseño del uniforme del negociador». Referencia: manual, pág. 94."
+    },
+    {
+      "id": "GLC-T3-D-11",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 94,
+      "pregunta": "¿Por qué debe quedar clara la forma y el plazo de pago en el acuerdo?",
+      "opciones": {
+        "A": "Porque sustituyen siempre el precio unitario",
+        "B": "Porque afectan al coste efectivo y a la liquidez de comprador y vendedor",
+        "C": "Porque los pagos no generan documentos",
+        "D": "Porque no tienen ninguna implicación económica"
+      },
+      "correcta": "B",
+      "explicacion": "Porque afectan al coste efectivo y a la liquidez de comprador y vendedor. Precio efectivo, descuentos y financiación forman parte de la negociación de aprovisionamiento. No debe confundirse con «Porque no tienen ninguna implicación económica». Referencia: manual, pág. 94."
+    },
+    {
+      "id": "GLC-T3-D-12",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 77,
+      "pregunta": "¿Qué dato resulta esencial en una factura comercial?",
+      "opciones": {
+        "A": "Únicamente la matrícula del camión",
+        "B": "Identificación de vendedor y comprador, descripción, cantidades y precios",
+        "C": "Solo un mensaje publicitario del emisor",
+        "D": "La valoración psicológica del cliente"
+      },
+      "correcta": "B",
+      "explicacion": "Identificación de vendedor y comprador, descripción, cantidades y precios. La factura expresa y documenta importes, descuentos, gastos y tributos asociados a una operación. No debe confundirse con «Solo un mensaje publicitario del emisor». Referencia: manual, pág. 77."
+    },
+    {
+      "id": "GLC-T3-D-13",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 79,
+      "pregunta": "¿Qué principio diferencia un contrato consensual de compraventa de la entrega material?",
+      "opciones": {
+        "A": "El precio no es necesario para contratar",
+        "B": "Solo existe contrato después de consumir el producto",
+        "C": "El contrato puede perfeccionarse por acuerdo sobre cosa y precio antes de la entrega",
+        "D": "La factura constituye siempre el único acuerdo"
+      },
+      "correcta": "C",
+      "explicacion": "El contrato puede perfeccionarse por acuerdo sobre cosa y precio antes de la entrega. Los medios documentales de pago cumplen funciones diferentes y requieren identificar quién ordena, promete o garantiza pagar. No debe confundirse con «Solo existe contrato después de consumir el producto». Referencia: manual, pág. 79."
+    },
+    {
+      "id": "GLC-T3-D-14",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 87,
+      "pregunta": "¿Qué función cumplen las especificaciones de producto intercambiadas con proveedor?",
+      "opciones": {
+        "A": "Sustituir toda verificación de recepción",
+        "B": "Estimar nóminas del próximo ejercicio",
+        "C": "Registrar exclusivamente las ventas al público",
+        "D": "Definir características técnicas y criterios que debe reunir el suministro"
+      },
+      "correcta": "D",
+      "explicacion": "Definir características técnicas y criterios que debe reunir el suministro. Los medios documentales de pago cumplen funciones diferentes y requieren identificar quién ordena, promete o garantiza pagar. No debe confundirse con «Estimar nóminas del próximo ejercicio». Referencia: manual, pág. 87."
+    },
+    {
+      "id": "GLC-T3-D-15",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 72,
+      "pregunta": "¿Por qué conviene concretar una orden de compra abierta?",
+      "opciones": {
+        "A": "Permite variar precios sin comunicarlo",
+        "B": "Impide toda planificación de entregas",
+        "C": "Facilita condiciones y suministros repetidos con mayor previsibilidad",
+        "D": "Exime de registrar las facturas posteriores"
+      },
+      "correcta": "C",
+      "explicacion": "Facilita condiciones y suministros repetidos con mayor previsibilidad. La documentación de aprovisionamiento describe qué se solicita, qué se envía y qué se recibe. No debe confundirse con «Impide toda planificación de entregas». Referencia: manual, pág. 72."
+    },
+    {
+      "id": "GLC-T3-D-16",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 94,
+      "pregunta": "¿Cómo se distingue un plazo de pago desde final de mes del pago desde recepción?",
+      "opciones": {
+        "A": "El primero inicia el cómputo al cierre del mes; el segundo desde que se recibe el producto",
+        "B": "El segundo solo procede en ventas al consumidor final",
+        "C": "El primero es necesariamente al contado",
+        "D": "Ambos se calculan siempre desde la firma laboral"
+      },
+      "correcta": "A",
+      "explicacion": "El primero inicia el cómputo al cierre del mes; el segundo desde que se recibe el producto. Precio efectivo, descuentos y financiación forman parte de la negociación de aprovisionamiento. No debe confundirse con «Ambos se calculan siempre desde la firma laboral». Referencia: manual, pág. 94."
+    },
+    {
+      "id": "GLC-T3-D-17",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 95,
+      "pregunta": "¿Qué comportamiento evidencia una negociación orientada a relaciones duraderas?",
+      "opciones": {
+        "A": "Maximizar una concesión inmediata sin considerar consecuencias",
+        "B": "Explorar intereses, buscar acuerdos sostenibles y mantener la confianza",
+        "C": "Ocultar incidencias de forma deliberada",
+        "D": "Cancelar toda comunicación tras firmar"
+      },
+      "correcta": "B",
+      "explicacion": "Explorar intereses, buscar acuerdos sostenibles y mantener la confianza. Un negociador eficaz combina observación, comunicación, honestidad, creatividad y capacidad de adaptación. No debe confundirse con «Maximizar una concesión inmediata sin considerar consecuencias». Referencia: manual, pág. 95."
+    },
+    {
+      "id": "GLC-T3-D-18",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 71,
+      "pregunta": "¿Qué riesgo comercial conlleva no dejar constancia de modificaciones pactadas?",
+      "opciones": {
+        "A": "Eliminación legal del albarán",
+        "B": "Supresión automática del IVA",
+        "C": "Discrepancias posteriores sobre cantidades, precios y condiciones",
+        "D": "Mayor stock de seguridad por fórmula matemática"
+      },
+      "correcta": "C",
+      "explicacion": "Discrepancias posteriores sobre cantidades, precios y condiciones. La documentación de aprovisionamiento describe qué se solicita, qué se envía y qué se recibe. No debe confundirse con «Supresión automática del IVA». Referencia: manual, pág. 71."
+    },
+    {
+      "id": "GLC-T3-D-19",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 75,
+      "pregunta": "¿Qué utilidad tiene el registro de documentos de pedido, albarán y factura?",
+      "opciones": {
+        "A": "Sustituir la evaluación de proveedores de por vida",
+        "B": "Permite seguir y contrastar la secuencia comercial y resolver incidencias",
+        "C": "Impedir la trazabilidad de la compra",
+        "D": "Evitar conocer qué llegó realmente"
+      },
+      "correcta": "B",
+      "explicacion": "Permite seguir y contrastar la secuencia comercial y resolver incidencias. La documentación de aprovisionamiento describe qué se solicita, qué se envía y qué se recibe. No debe confundirse con «Evitar conocer qué llegó realmente». Referencia: manual, pág. 75."
+    },
+    {
+      "id": "GLC-T3-D-20",
+      "tema": 3,
+      "nivel": "dificil",
+      "apartado": "3. Temario",
+      "pagina_manual": 90,
+      "pregunta": "En un conflicto por un suministro, ¿qué actitud favorece la resolución?",
+      "opciones": {
+        "A": "Usar evidencias documentales y negociar con argumentos verificables",
+        "B": "Negar cualquier registro previo",
+        "C": "Prescindir de las condiciones de compra",
+        "D": "Modificar unilateralmente el albarán firmado"
+      },
+      "correcta": "A",
+      "explicacion": "Usar evidencias documentales y negociar con argumentos verificables. Negociar implica prepararse, presentar argumentos, tratar objeciones, buscar alternativas y cerrar acuerdos. No debe confundirse con «Negar cualquier registro previo». Referencia: manual, pág. 90."
+    }
+  ]
+}

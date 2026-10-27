@@ -1,0 +1,327 @@
+{
+  "asignatura": "Gestión Logística y Comercial",
+  "tema": 4,
+  "test": "Tema 4 · Test normal",
+  "preguntas": [
+    {
+      "id": "GLC-T4-N-01",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 101,
+      "pregunta": "¿Cuál es la primera fase del seguimiento de un pedido después de adquirir mercancías?",
+      "opciones": {
+        "A": "Calcular nóminas del transportista",
+        "B": "Emitir automáticamente una devolución",
+        "C": "Comprobar el envío y dar seguimiento a la expedición",
+        "D": "Registrar mercancía que todavía no ha llegado"
+      },
+      "correcta": "C",
+      "explicacion": "Comprobar el envío y dar seguimiento a la expedición. Tras realizar el pedido hay que seguir su expedición, confirmar llegada y verificar que coincide con las condiciones pactadas. No debe confundirse con «Emitir automáticamente una devolución». Referencia: manual, pág. 101."
+    },
+    {
+      "id": "GLC-T4-N-02",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 101,
+      "pregunta": "¿Qué documento comunica al comprador que los artículos ya han sido expedidos?",
+      "opciones": {
+        "A": "Aviso de envío",
+        "B": "Balance de situación",
+        "C": "Contrato laboral",
+        "D": "Presupuesto de marketing"
+      },
+      "correcta": "A",
+      "explicacion": "Aviso de envío. Tras realizar el pedido hay que seguir su expedición, confirmar llegada y verificar que coincide con las condiciones pactadas. No debe confundirse con «Balance de situación». Referencia: manual, pág. 101."
+    },
+    {
+      "id": "GLC-T4-N-03",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 101,
+      "pregunta": "¿Qué debe hacerse al recibir físicamente un pedido?",
+      "opciones": {
+        "A": "Firmar siempre sin comprobar",
+        "B": "Registrar únicamente el nombre del chófer",
+        "C": "Identificar, verificar cantidades, estado y concordancia con documentos",
+        "D": "Destruir el aviso de envío"
+      },
+      "correcta": "C",
+      "explicacion": "Identificar, verificar cantidades, estado y concordancia con documentos. Tras realizar el pedido hay que seguir su expedición, confirmar llegada y verificar que coincide con las condiciones pactadas. No debe confundirse con «Firmar siempre sin comprobar». Referencia: manual, pág. 101."
+    },
+    {
+      "id": "GLC-T4-N-04",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 102,
+      "pregunta": "¿Para qué sirve un diagrama de flujo documental?",
+      "opciones": {
+        "A": "Medir la satisfacción sin datos",
+        "B": "Sustituir todos los controles de calidad",
+        "C": "Representar la secuencia y circulación de documentos del aprovisionamiento",
+        "D": "Calcular por sí solo el IVA"
+      },
+      "correcta": "C",
+      "explicacion": "Representar la secuencia y circulación de documentos del aprovisionamiento. El diagrama de flujo representa los documentos que conectan compras, proveedor, transporte, recepción y contabilidad. No debe confundirse con «Calcular por sí solo el IVA». Referencia: manual, pág. 102."
+    },
+    {
+      "id": "GLC-T4-N-05",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 103,
+      "pregunta": "¿Qué aporta un sistema informático al seguimiento de proveedores?",
+      "opciones": {
+        "A": "Suprimir toda validación física",
+        "B": "Garantizar cero errores sin supervisión",
+        "C": "Evitar conservar referencias de pedidos",
+        "D": "Centralizar estados, incidencias y documentación de las operaciones"
+      },
+      "correcta": "D",
+      "explicacion": "Centralizar estados, incidencias y documentación de las operaciones. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «Suprimir toda validación física». Referencia: manual, pág. 103."
+    },
+    {
+      "id": "GLC-T4-N-06",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 103,
+      "pregunta": "¿Qué mide un ratio de control del aprovisionamiento?",
+      "opciones": {
+        "A": "Únicamente la antigüedad del personal",
+        "B": "Una relación entre magnitudes para evaluar la eficacia del proceso",
+        "C": "El número de empleados del cliente final",
+        "D": "Solo el importe del capital social"
+      },
+      "correcta": "B",
+      "explicacion": "Una relación entre magnitudes para evaluar la eficacia del proceso. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «Solo el importe del capital social». Referencia: manual, pág. 103."
+    },
+    {
+      "id": "GLC-T4-N-07",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 105,
+      "pregunta": "¿Qué caracteriza a un indicador KPI útil?",
+      "opciones": {
+        "A": "Es medible, relevante y permite comparar resultados con objetivos",
+        "B": "No admite interpretación",
+        "C": "No necesita datos de referencia",
+        "D": "Cambia sin registrar su definición"
+      },
+      "correcta": "A",
+      "explicacion": "Es medible, relevante y permite comparar resultados con objetivos. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «Cambia sin registrar su definición». Referencia: manual, pág. 105."
+    },
+    {
+      "id": "GLC-T4-N-08",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 105,
+      "pregunta": "¿Qué indica una proporción elevada de devoluciones por defectos?",
+      "opciones": {
+        "A": "Que no existen diferencias con las órdenes",
+        "B": "Posibles problemas de calidad que requieren análisis y acciones correctoras",
+        "C": "Que los plazos de pago se han reducido",
+        "D": "Eficiencia perfecta en recepción"
+      },
+      "correcta": "B",
+      "explicacion": "Posibles problemas de calidad que requieren análisis y acciones correctoras. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «Eficiencia perfecta en recepción». Referencia: manual, pág. 105."
+    },
+    {
+      "id": "GLC-T4-N-09",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 107,
+      "pregunta": "¿Para qué se elabora un informe de evaluación de proveedores?",
+      "opciones": {
+        "A": "Sintetizar indicadores, incidencias, puntos críticos y propuestas de mejora",
+        "B": "Asignar vacaciones de la plantilla",
+        "C": "Sustituir todas las facturas legales",
+        "D": "Evitar la revisión de problemas repetidos"
+      },
+      "correcta": "A",
+      "explicacion": "Sintetizar indicadores, incidencias, puntos críticos y propuestas de mejora. La evaluación periódica recopila cifras, identifica fallos relevantes y establece medidas comprobables. No debe confundirse con «Sustituir todas las facturas legales». Referencia: manual, pág. 107."
+    },
+    {
+      "id": "GLC-T4-N-10",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 107,
+      "pregunta": "¿Qué significa detectar un punto crítico del aprovisionamiento?",
+      "opciones": {
+        "A": "Duplicar deliberadamente las órdenes",
+        "B": "Suprimir la inspección de calidad",
+        "C": "Elegir un color de etiqueta más visible",
+        "D": "Identificar una etapa cuyo fallo puede comprometer costes, servicio o calidad"
+      },
+      "correcta": "D",
+      "explicacion": "Identificar una etapa cuyo fallo puede comprometer costes, servicio o calidad. La evaluación periódica recopila cifras, identifica fallos relevantes y establece medidas comprobables. No debe confundirse con «Elegir un color de etiqueta más visible». Referencia: manual, pág. 107."
+    },
+    {
+      "id": "GLC-T4-N-11",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 109,
+      "pregunta": "¿Cuál es la diferencia documental entre orden de compra y factura?",
+      "opciones": {
+        "A": "La factura se emite antes de cualquier negociación por obligación general",
+        "B": "Son documentos idénticos con distinta tipografía",
+        "C": "La orden acredita que se pagó el impuesto",
+        "D": "La orden solicita y fija condiciones; la factura acredita y cuantifica la operación realizada"
+      },
+      "correcta": "D",
+      "explicacion": "La orden solicita y fija condiciones; la factura acredita y cuantifica la operación realizada. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Son documentos idénticos con distinta tipografía». Referencia: manual, pág. 109."
+    },
+    {
+      "id": "GLC-T4-N-12",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 109,
+      "pregunta": "¿Qué papel cumple el albarán de entrega?",
+      "opciones": {
+        "A": "Comunicar exclusivamente una oferta futura",
+        "B": "Acreditar y facilitar el control de la recepción de mercancía",
+        "C": "Sustituir el etiquetado de seguridad",
+        "D": "Registrar nóminas de transportistas"
+      },
+      "correcta": "B",
+      "explicacion": "Acreditar y facilitar el control de la recepción de mercancía. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Comunicar exclusivamente una oferta futura». Referencia: manual, pág. 109."
+    },
+    {
+      "id": "GLC-T4-N-13",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 109,
+      "pregunta": "¿Para qué sirve una entrega programada frente a una entrega en firme?",
+      "opciones": {
+        "A": "La firme significa mercancía ya devuelta",
+        "B": "Permite planificar suministros previstos, mientras la firme concreta compromisos de suministro",
+        "C": "La programada elimina siempre los plazos",
+        "D": "Ambas impiden cualquier previsión"
+      },
+      "correcta": "B",
+      "explicacion": "Permite planificar suministros previstos, mientras la firme concreta compromisos de suministro. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «La programada elimina siempre los plazos». Referencia: manual, pág. 109."
+    },
+    {
+      "id": "GLC-T4-N-14",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 110,
+      "pregunta": "¿Cuál es la función principal del envase?",
+      "opciones": {
+        "A": "Ser siempre desechable y opaco",
+        "B": "Reunir exclusivamente muchos palés para transporte",
+        "C": "Sustituir los documentos de expedición",
+        "D": "Contener y proteger el producto de forma individual y facilitar su uso o presentación"
+      },
+      "correcta": "D",
+      "explicacion": "Contener y proteger el producto de forma individual y facilitar su uso o presentación. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Reunir exclusivamente muchos palés para transporte». Referencia: manual, pág. 110."
+    },
+    {
+      "id": "GLC-T4-N-15",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 112,
+      "pregunta": "¿Cuál es la función principal del embalaje?",
+      "opciones": {
+        "A": "Agrupar y proteger mercancías durante almacenamiento, manipulación y transporte",
+        "B": "Registrar el pago aplazado",
+        "C": "Constituir el contrato comercial",
+        "D": "Sustituir el control de pesos"
+      },
+      "correcta": "A",
+      "explicacion": "Agrupar y proteger mercancías durante almacenamiento, manipulación y transporte. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Constituir el contrato comercial». Referencia: manual, pág. 112."
+    },
+    {
+      "id": "GLC-T4-N-16",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 113,
+      "pregunta": "¿Qué persigue el etiquetado de mercancías?",
+      "opciones": {
+        "A": "Evitar la trazabilidad del envío",
+        "B": "Ocultar la naturaleza del producto",
+        "C": "Sustituir toda documentación de transporte",
+        "D": "Informar e identificar producto, destinatario y características relevantes de manipulación"
+      },
+      "correcta": "D",
+      "explicacion": "Informar e identificar producto, destinatario y características relevantes de manipulación. Envase, embalaje y etiqueta cumplen funciones diferentes de protección, agrupación e información del producto. No debe confundirse con «Ocultar la naturaleza del producto». Referencia: manual, pág. 113."
+    },
+    {
+      "id": "GLC-T4-N-17",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 101,
+      "pregunta": "¿Qué debe hacerse ante diferencias entre unidades pedidas y recibidas?",
+      "opciones": {
+        "A": "Ignorar el hecho si el proveedor es habitual",
+        "B": "Firmar siempre conformidad total",
+        "C": "Registrar la incidencia y verificarla antes de aceptar la operación sin reservas",
+        "D": "Alterar automáticamente la factura sin avisar"
+      },
+      "correcta": "C",
+      "explicacion": "Registrar la incidencia y verificarla antes de aceptar la operación sin reservas. Tras realizar el pedido hay que seguir su expedición, confirmar llegada y verificar que coincide con las condiciones pactadas. No debe confundirse con «Alterar automáticamente la factura sin avisar». Referencia: manual, pág. 101."
+    },
+    {
+      "id": "GLC-T4-N-18",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 105,
+      "pregunta": "¿Qué refleja un ratio de cumplimiento de plazo?",
+      "opciones": {
+        "A": "La superficie libre del almacén",
+        "B": "La proporción de entregas recibidas dentro del tiempo acordado",
+        "C": "La cantidad de ofertas comerciales recibidas",
+        "D": "El importe de IVA pagado"
+      },
+      "correcta": "B",
+      "explicacion": "La proporción de entregas recibidas dentro del tiempo acordado. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «El importe de IVA pagado». Referencia: manual, pág. 105."
+    },
+    {
+      "id": "GLC-T4-N-19",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 105,
+      "pregunta": "¿Qué refleja un indicador de calidad en recepción?",
+      "opciones": {
+        "A": "La antigüedad de la marca",
+        "B": "Únicamente el número de vendedores",
+        "C": "El porcentaje de artículos o pedidos que cumplen especificaciones",
+        "D": "El beneficio financiero futuro"
+      },
+      "correcta": "C",
+      "explicacion": "El porcentaje de artículos o pedidos que cumplen especificaciones. Los indicadores cuantifican tiempos, calidad, cumplimiento e incidencias y ofrecen señales para mejorar decisiones. No debe confundirse con «Únicamente el número de vendedores». Referencia: manual, pág. 105."
+    },
+    {
+      "id": "GLC-T4-N-20",
+      "tema": 4,
+      "nivel": "normal",
+      "apartado": "4. Temario",
+      "pagina_manual": 101,
+      "pregunta": "¿Qué fundamento tienen los controles de recepción?",
+      "opciones": {
+        "A": "Comparar requisitos pactados, mercancía observada y documentos que acompañan el envío",
+        "B": "Suponer que todos los proveedores son infalibles",
+        "C": "Revisar solo el precio promocional",
+        "D": "Evitar registrar el estado físico de los bultos"
+      },
+      "correcta": "A",
+      "explicacion": "Comparar requisitos pactados, mercancía observada y documentos que acompañan el envío. Tras realizar el pedido hay que seguir su expedición, confirmar llegada y verificar que coincide con las condiciones pactadas. No debe confundirse con «Suponer que todos los proveedores son infalibles». Referencia: manual, pág. 101."
+    }
+  ]
+}
